@@ -1,0 +1,66 @@
+---
+Titel: ''
+ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
+ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "29733737"
+---
+# <a name="meeting-at-the-office"></a><span data-ttu-id="08440-102">Besprechung im Büro</span><span class="sxs-lookup"><span data-stu-id="08440-102">Meeting at the Office</span></span>
+
+![Visual Zug](media/ditl_meeting.png)
+
+<span data-ttu-id="08440-p101">Es ist 10:00 Uhr und die Uhrzeit für die Besprechung. In diesem Abschnitt zeigen wir Ihnen wie Ihre Besprechungen steigern können.  Dieser Schritt umfasst das bewährte Methoden für die Besprechung zur Vorbereitung und Office 365-Tools.</span><span class="sxs-lookup"><span data-stu-id="08440-p101">It's 10:00 AM and time for your meeting. In this section, we'll show you how to make your meetings more productive.  This involves best practices for meeting preparation and Office 365 tools.</span></span>  
+
+## <a name="tools"></a><span data-ttu-id="08440-107">Tools</span><span class="sxs-lookup"><span data-stu-id="08440-107">Tools</span></span>
+- <span data-ttu-id="08440-108">Outlook</span><span class="sxs-lookup"><span data-stu-id="08440-108">Outlook</span></span>
+- <span data-ttu-id="08440-109">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="08440-109">Microsoft Teams</span></span>
+- <span data-ttu-id="08440-110">Skype for Business</span><span class="sxs-lookup"><span data-stu-id="08440-110">Skype for Business</span></span>
+- <span data-ttu-id="08440-111">OneNote</span><span class="sxs-lookup"><span data-stu-id="08440-111">OneNote</span></span>
+
+## <a name="checklist-for-your-meeting"></a><span data-ttu-id="08440-112">Prüfliste für die Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-112">Checklist for your meeting</span></span>
+- <span data-ttu-id="08440-113">Planen und Ihrer Besprechung buchen</span><span class="sxs-lookup"><span data-stu-id="08440-113">Plan and book your meeting</span></span>
+- <span data-ttu-id="08440-114">Teilnehmen an einer Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-114">Join a meeting</span></span>
+- <span data-ttu-id="08440-115">Stellen Sie Informationen in einer Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-115">Present information in a meeting</span></span>
+- <span data-ttu-id="08440-116">Verwenden von OneNote in einer Besprechung für die gemeinsame Erstellung und Notizen</span><span class="sxs-lookup"><span data-stu-id="08440-116">Use OneNote in a meeting for co-creation and notes</span></span>
+- <span data-ttu-id="08440-117">Verwenden Sie zum Nachverfolgen von Aufgaben für dieses Projekt Planner in einer Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-117">Use Planner in a meeting to track action items for that project</span></span>
+- <span data-ttu-id="08440-118">Beenden Sie eine Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-118">End a meeting</span></span>
+ 
+## <a name="plan-and-book-your-meeting"></a><span data-ttu-id="08440-119">Planen und Ihrer Besprechung buchen</span><span class="sxs-lookup"><span data-stu-id="08440-119">Plan and book your meeting</span></span>
+<span data-ttu-id="08440-120">Es gibt einige Dinge, die Sie tun können, um sicherzustellen, dass Ihre Besprechung produktiv ist wie möglich:</span><span class="sxs-lookup"><span data-stu-id="08440-120">There are a few things you can do to ensure your meeting is as productive as possible:</span></span>
+
+1. <span data-ttu-id="08440-p102">**Benötigen Sie eine Besprechung?** Berücksichtigen Sie zuerst eine Datei im Chat mit der erforderlichen genehmigende Personen nutzt.</span><span class="sxs-lookup"><span data-stu-id="08440-p102">**Do you need a meeting?** Consider sharing a file in chat with the necessary approvers first.</span></span>  
+1. <span data-ttu-id="08440-p103">**Haben eine klare Agenda.**  Einschließen der Tagesordnung in den Notizenbereich von Ihre Einladung zur onlinebesprechung, damit Teilnehmer vorbereitet werden können.</span><span class="sxs-lookup"><span data-stu-id="08440-p103">**Have a clear agenda.**  Include your meeting agenda in the notes section of your online meeting invitation so attendees can be prepared.</span></span>
+1. <span data-ttu-id="08440-125">**Datensatz Ihrer Besprechung**  Verwenden von besprechungsaufzeichnung-Funktionen in Microsoft-Teams, die Besprechung mit Personen gemeinsam verwenden, die nicht teilnehmen konnten oder zu einem späteren Zeitpunkt Notizen aufzuzeichnen.</span><span class="sxs-lookup"><span data-stu-id="08440-125">**Record your meeting**  Use meeting recording functions in Microsoft Teams to share the meeting with people who could not attend or to transcribe notes later.</span></span>  
+
+<span data-ttu-id="08440-p104">Nachdem Sie diese Besprechung buchen möchten: Buch der Besprechung mithilfe von Microsoft-Teams oder Skype für Unternehmen details in Outlook. Dadurch kann also, Teammitglieder aus unterschiedlichen Standorten enthalten, wie Video (sofern verfügbar) zur Verbesserung der Kommunikation und Aufzeichnen der Besprechung.</span><span class="sxs-lookup"><span data-stu-id="08440-p104">Now you're ready to book that meeting:  Book the meeting with Microsoft Teams or Skype for Business details in Outlook. Doing so enables you to include team members from different locations, record the meeting and utilize video (when available) to enhance communication.</span></span> 
+
+![<span data-ttu-id="08440-128">Teams in Outlook</span><span class="sxs-lookup"><span data-stu-id="08440-128">Teams in Outlook</span></span> ](media/ditl_teamsoutlook.png)
+
+## <a name="join-a-meeting"></a><span data-ttu-id="08440-129">Teilnehmen an einer Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-129">Join a meeting</span></span>
+<span data-ttu-id="08440-p105">Teilnehmen an, unabhängig vom Standort. Es ist möglich, einen Microsoft-Teams oder Skype für Business Besprechung aus an einer beliebigen Stelle mit einem mobilen Gerät einwählen, die Details der Besprechung die Einwahlnummer oder mit der mobilen apps verbinden. Wenn Sie die mobilen apps verwenden, werden Sie verantwortungsbewusste für mobile Daten Einschränkungen, die für Sie oder Ihr Land gelten.</span><span class="sxs-lookup"><span data-stu-id="08440-p105">Join from anywhere. It is possible to join a Microsoft Teams or Skype for Business meeting from anywhere using a mobile device, either by calling the dial-in number in the meeting details or using the mobile apps. When using the mobile apps, be conscious of mobile data usage limits that apply to you or your country.</span></span>
+
+![Teams meeting Join-Benachrichtigung](media/ditl_teamsjoin.png)
+
+> [!TIP]
+> <span data-ttu-id="08440-p106">**Verwenden eine Kopfhörer.** Wenn Sie von Ihrem Computer am Schreibtisch herstellen, verwenden Sie eine Kopfhörer statt Ihres Computers integrierten Mikrofon und Lautsprecher, um eine bessere Anrufqualität sicherzustellen.</span><span class="sxs-lookup"><span data-stu-id="08440-p106">**Use a headset.** If you are connecting from your computer at your desk, use a headset rather than your computer's built-in microphone and speakers to ensure a better call quality.</span></span>
+
+> [!TIP]
+> <span data-ttu-id="08440-p107">Aktivieren Sie das Video! Wenn Kameras verfügbar sind, lohnt verwenden können, wie persönliche Kommunikation nichtverbale Cues, die ausgelassen werden können bereitstellt, wenn Sie nur VoIP verwenden. Keine Sorge, Ihre haarstrich hervorragend aussieht.</span><span class="sxs-lookup"><span data-stu-id="08440-p107">Turn on your video! When cameras are available, it's worth using them, as face-to-face communication provides non-verbal cues that can be missed when just using voice. Don't worry, your hair looks great.</span></span> 
+
+## <a name="present-information-in-a-meeting"></a><span data-ttu-id="08440-139">Stellen Sie Informationen in einer Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-139">Present information in a meeting</span></span>
+<span data-ttu-id="08440-p108">Freigeben von Inhalten vom Gerät ist eine hervorragende Möglichkeit zum konzentrieren Ihrer Besprechung, und geben Sie im Rahmen dieser Diskussion Kontext. Der gesamte Bildschirmfreigabe kann im Allgemeinen eine gute Idee sein. Dies bedeutet, dass alle Elemente, die auf dem Bildschirm angezeigt wird auf den Bildschirmen der Personen, die an der Besprechung angezeigt wird. Vermeiden Sie dies können Sie, indem Sie einfach den Inhalt, den Sie in der Microsoft-Teams, freigeben möchten.</span><span class="sxs-lookup"><span data-stu-id="08440-p108">Sharing content from your device is a great way to focus your meeting and provide context to the discussion. In general, sharing your entire screen can be a bad idea. It means that everything that comes up on your screen will appear on the screens of everyone attending the meeting. Avoid this by simply selecting the content you want to share in Microsoft Teams.</span></span> 
+
+## <a name="use-onenote-in-a-meeting"></a><span data-ttu-id="08440-144">Verwenden von OneNote in einer Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-144">Use OneNote in a meeting</span></span>
+<span data-ttu-id="08440-p109">OneNote kann zulassen für die Zusammenarbeit in Echtzeit und gemeinsame Erstellung eine idealen für Brainstorming leicht und nutzen in Besprechungen beachten. Solange jeder Zugriff auf den Pfad hat, in dem die OneNote gemeinsam genutzt wird, können Sie eine Verknüpfung mit dem Notizbuch buchen und brainstorming sofort zu starten.</span><span class="sxs-lookup"><span data-stu-id="08440-p109">OneNote can allow for real-time collaboration and co-creation, making it an ideal tool for brainstorming and note taking in meetings. As long as everyone has access to the location where the OneNote is shared, you can post a link to the notebook and start brainstorming right away.</span></span>
+
+<span data-ttu-id="08440-p110">Sie können einen bestimmten Abschnitt für Besprechungsnotizen im Team Notizbuch erstellen. Sie können auch die Funktionalität "Besprechungsdetails" in OneNote verwenden, zum Erstellen von Seiten mit einer Zusammenfassung die Details der Besprechung.</span><span class="sxs-lookup"><span data-stu-id="08440-p110">You can create a specific section for meeting notes in the team notebook. You can also use the "meeting details" functionality in OneNote to create pages with a summary of the details of the meeting.</span></span>
+
+## <a name="use-planner-in-a-meeting"></a><span data-ttu-id="08440-149">Verwenden von Planner in einer Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-149">Use Planner in a meeting</span></span>
+<span data-ttu-id="08440-p111">Aktionselemente direkt in einen Plan für Ihr Projekt hinzufügen speichert von ihnen nach dem Vorfall abschreiben. Es ist eine bewährte Methode in großen Projekts Besprechungen jemanden & Notizen nachverfolgen Aktion zugewiesen. Normalerweise ist dies eine andere Person als der betroffenen mit der Besprechung. Erinnerungen für Terminelemente Aktion werden direkt an die Person gesendet, die sie Erinnerungen sind, wenn das Element des fällig am passiert zugewiesen ist.</span><span class="sxs-lookup"><span data-stu-id="08440-p111">Directly adding action items into a plan for your project saves you from transcribing them after the fact. It's a best practice in large project meetings to assign someone to action tracking & note taking. This is normally a different person than the individual running the meeting. Action item reminders are sent directly to the individual to whom it is assigned as are reminders if the item passes it's due date.</span></span> 
+
+![Planner-Aufgabe](media/ditl_task.png)
+
+## <a name="end-a-meeting"></a><span data-ttu-id="08440-155">Beenden Sie eine Besprechung</span><span class="sxs-lookup"><span data-stu-id="08440-155">End a meeting</span></span>
+<span data-ttu-id="08440-p112">Wenn alles in der Agenda beschrieben wurden hat, beenden Sie die Besprechung, unabhängig von der Zeit. Weisen Sie und senden Sie Aktionselemente an alle Teilnehmer. Wenn Sie in der Microsoft-Teams zusammenarbeiten, können Sie problemlos Aktionselemente in den entsprechenden Kanal freigeben. Aufgaben können auch eingegeben und in Planner zugewiesen werden, während der Besprechung, bietet eine schnelle Möglichkeit zum Nachverfolgen für den Abschluss der auch [in Microsoft-Teams, zugegriffen](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)werden kann.</span><span class="sxs-lookup"><span data-stu-id="08440-p112">When everything on the agenda has been discussed, end the meeting, regardless of the time. Assign and send action items to all participants. If you are collaborating in Microsoft Teams, you can easily share action items in the appropriate channel. Action items can also be entered and assigned in Planner during the meeting, providing a fast way to track for completion which can also be [accessed in Microsoft Teams](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0).</span></span> 
