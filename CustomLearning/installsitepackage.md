@@ -1,16 +1,25 @@
-# <a name="install-the-custom-learning-site-package"></a>Installieren Sie die benutzerdefinierten erlernen Site-Pakets
+---
+author: karuanag
+ms.author: karuanag
+title: Die Website-Erfahrung bereitstellen
+ms.date: 02/10/2019
+description: Bereitstellen der benutzerdefinierten Learning für Office 365-Website
+ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951199"
+---
+# <a name="provision-the-custom-learning-site"></a>Bereitstellen der benutzerdefiniertes Erlernen der Website
 
-## <a name="prerequisite-for-installation"></a>Voraussetzung für die installation
-
-- Um das benutzerdefinierte Learning-Website-Paket für Ihre Mandanten zu installieren, müssen Sie Office 365-Administratorberechtigungen verfügen.  Wenn Sie nicht über diese Berechtigungen verfügen, die können Sie gemeinsam mit dem Office 365-Administrator oder das Webpart für eine einzelne Websitesammlung allein installieren.
-- Sie möchten möglicherweise sollten die Installation des Pakets an einem Speicherort testen, mit dem Inhalt vertraut.  Wenn Sie so vorgehen müssen Sie das Paket in Ihre produktionsmandanten neu installieren und neu erstellen Anpassungen, die Sie während der Tests abgeschlossen. 
-- Updates für die Schulungsinhalte Webpart werden keinen Einfluss auf die seitenanpassungen.
-- Wir unterstützen nur SharePoint Online. Das Webpart wird nicht unterstützt für die Installation auf eine beliebige Version von SharePoint lokal.
-
-## <a name="add-the-custom-learning-site-to-your-tenant"></a>Hinzufügen der benutzerdefinierten Learning-Site zu Ihrem Mandanten 
-
-**1. hier Paket Anweisungen hinzufügen**
-
+1. Wechseln Sie zu http://provisioning.sharepointpnp.com und Anmeldung mit Ihren Anmeldeinformationen für die gezielte Mandanten für die Installation verwenden möchten. ![pnphome.png](media/pnphome.png)
+1. Haken Sie Zustimmung im Namen Ihrer Organisation, und wählen Sie annehmen.
+1. Wählen Sie benutzerdefinierte Learning für Office 365 aus dem Lösungskatalog. 
+1. Wählen Sie Ihrem Mandanten hinzufügen 
+1. Passen Sie die Standardauswahl auf der Seite "Bereitstellung" als erforderlich, und wählen Sie bereitstellen, wenn Sie bereit sind, zum Installieren von CLO365 in Ihrer Umgebung Mandanten.  
+1. Der Bereitstellungsprozess wird bis zu 15 Minuten dauern. Sie werden benachrichtigt per e-Mail (an die Benachrichtigung e-Mail-Adresse auf der Seite Bereitstellung eingegebene) Wenn die Website für den Zugriff bereit ist. 
+1. Einmal angemeldet CLO365 in Ihrem Mandanten, bevorzugten die Website und kopieren Sie die Url für die zukünftige.  
 
 
 ## <a name="next-steps"></a>Weitere Schritte

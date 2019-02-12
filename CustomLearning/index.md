@@ -1,15 +1,15 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title: Übersicht über benutzerdefinierte Learning für Office 365 Open-Source-Lösung
 ms.date: 02/10/2019
 description: Hier erfahren Sie, wie benutzerdefinierte Learning für Office 365 Nutzung und Annahme von Office 365 in Ihrer Organisation zu beschleunigen können. Unsere Lösungen einschließen eines benutzerdefinierten Webparts für SharePoint Online und einer modernen SharePoint Online Communications Schulung-Website, die auf Ihrem Office 365-Mandanten auf einfache Weise bereitgestellt wird.
-ms.openlocfilehash: 987e780cdfc86d60ddce4aede5919719127dc177
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886108"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951229"
 ---
 # <a name="custom-learning-for-office-365"></a>Benutzerdefinierte Schulung für Office 365
 
@@ -35,9 +35,9 @@ Wählen Sie aus, installieren und Konfigurieren von in SharePoint Online-Kommuni
 
 ![Schulung für Office 365-Webpart benutzerdefinierte](media/clo365customplaylist.png)
 
-## <a name="4-easy-steps"></a>4 Schritten
+## <a name="3-easy-steps"></a>3 einfachen Schritten
 
-Können [die ersten Schritte beim](getstarted.md) Erstellen einer einfachen Schulung Lösungen mit Microsoft auf dem aktuellen Stand von Inhalten.
+Können [die ersten Schritte beim](prereqs.md) Erstellen einer einfachen Schulung Lösungen mit Microsoft auf dem aktuellen Stand von Inhalten.
 
 1. Wählen Sie rechts neben Lösung für Sie
 2. Vollständige Ihrer Installation & Anpassen Ihrer Inhalte

@@ -1,8 +1,25 @@
+---
+author: karuanag
+ms.author: karuanag
+title: Feedback und Support
+ms.date: 02/10/2019
+description: Feedback und Support-Informationen für benutzerdefinierte Informationen für Office 365
+ms.openlocfilehash: 3a403b986b127fb5ea84dc43d5d91d62079803ce
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951189"
+---
 # <a name="feedback-and-support"></a>Feedback und Support
 
-## <a name="get-support"></a>Erhalten von Support
+Dieses open-Source-Projekt wird über unsere [online Problemliste](https://aka.ms/CustomLearningHelp) auf GitHub unterstützt. Diese Lösungen werden durch eine vorhandene Microsoft-Support-Vertrag nicht behandelt.  
 
-Wenn Sie Probleme mit der open-Source-Websitevorlage oder Webpart haben bietet, die auf die benutzerdefinierte Learning Geben Sie Erfahrung Ihres Problems in unseren GitHub Problemliste.  Sie finden diese Liste beim https://aka.ms/CustomLearningHelp als standard mit der open-Source-Lösungen ist entgegen der Community für Lösung dieser Probleme.  Featureanfragen werden in unserer Benutzer VoIP-Instanz, die unten aufgeführten übertragen.  Code Bugs werden an die Community und -Dienst-Manager Ursachenanalyse und Auflösung weitergegeben.  
+## <a name="report-issues"></a>Probleme mit Berichten
+
+Wenn Sie Probleme mit der open-Source-Websitevorlage oder Webpart haben bietet, die auf die benutzerdefinierte Learning Geben Sie Erfahrung Ihres Problems in unseren GitHub Problemliste.  Sie können diese Liste beim finden.https://aka.ms/CustomLearningHelp  
+
+Als standard mit der open-Source-Lösungen ist entgegen der Community für Lösung dieser Probleme.  Featureanfragen werden in unserer Benutzer VoIP-Instanz, die unten aufgeführten übertragen.  Code Bugs werden an die Community und -Dienst-Manager Ursachenanalyse und Auflösung weitergegeben.  
 
 ## <a name="provide-us-feedback"></a>Geben Sie uns feedback
 
