@@ -2,51 +2,50 @@
 author: pkrebs
 ms.author: pkrebs
 title: Übersicht
-ms.date: 02/15/2019
+ms.date: 02/18/2019
 description: Übersicht über benutzerdefiniertes lernen für Office 365 für Administratoren
-ms.openlocfilehash: c4b9679ae5a7158306bfd53e345f8e892ab206bc
-ms.sourcegitcommit: afb5502604d271f49f6d1133db9dfc499f710eec
+ms.openlocfilehash: 98187038b66252523c74d88dd9bfd0f217591bc5
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30064985"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30087534"
 ---
-# <a name="overview-of-custom-learning"></a>Übersicht über benutzerdefiniertes lernen
+# <a name="customize-the-learning-experience"></a>Anpassen der Lernumgebung
+
 Einführung in benutzerdefiniertes lernen für Office 365, eine neue Lösung von Microsoft entwickelt, um die Verwendung und Akzeptanz von Office 365 in einer Organisation zu beschleunigen. Mit benutzerdefiniertem lernen haben Sie folgende Möglichkeiten:
+- Anpassen von Office 365 Lern-und Adoptions Inhalten für Ihre Umgebung 
+- Ein-oder Ausblenden von Inhalten, um die in Ihrer Organisation unterstützten Dienste oder Features widerzuspiegeln 
+- Halten Sie Ihre Inhalte und Benutzer mit einem aktuellen Feed für das Erlernen von Inhalten von Microsoft auf dem neuesten Stand. 
+- Erstellen von benutzerdefinierten Wiedergabelisten und Kategorien, die speziell für die Anforderungen Ihrer Benutzer erstellt wurden
 
-- Passen Sie benutzerdefiniertes lernen für Office 365 an Ihre Umgebung an. Ändern Sie Website Seiten mit Ihrer Marke und Ihrem Logo, Schulungsveranstaltungen und Supportinformationen. Ausblenden und Anzeigen von Inhalten für Dienste oder Features, die in Ihrer Organisation nicht unterstützt werden. 
-- Lassen Sie Microsoft Ihre Inhalte und Benutzer auf dem neuesten Stand halten – benutzerdefiniertes Lernen bietet einen dynamischen Feed von Lerninhalten, die von Microsoft auf dem neuesten Stand sind. 
-- Erstellen von Kategorien und benutzerdefinierten Wiedergabelisten, die die Richtlinien, Verfahren und Kulturen Ihrer Organisation widerspiegeln, ermöglichen Benutzern das Erstellen von Fertigkeiten mit Lerninhalten, die speziell auf Ihre Anforderungen zugeschnitten sind.
+![CG-Introducing. png](media/cg-introducing.png)
 
-![cg_introducing. png](media/cg_introducing.png)
+## <a name="how-does-custom-learning-work"></a>Wie funktioniert das benutzerdefinierte lernen?
 
-## <a name="how-does-custom-learning-word"></a>Wie funktioniert benutzerdefiniertes lernwort?
 Benutzerdefiniertes lernen für Office 365 (benutzerdefiniertes lernen für kurze Zeit) besteht aus drei Teilen: 
-- eine SharePoint-Kommunikationswebsite
-- ein SharePoint-Webpart
-- Live-Feeds von Inhalten aus einem Microsoft Online-Katalog
+1. Live-Feeds von Inhalten aus einem Microsoft Online-Katalog
+2. eine SharePoint-Kommunikationswebsite
+3. ein SharePoint-Webpart 
 
-![cg_howitworks. png](media/cg_howitworks.png)
+![CG-howitworks. png](media/cg-howitworks.png)
 
 ## <a name="requirements-and-permissions"></a>Anforderungen und Berechtigungen
-Benutzerdefiniertes lernen für Office 365 muss vom mandantenadministrator Ihrer Organisation installiert werden – jemand, der über die Berechtigung MandantenAdministrator verfügt. Bevor Sie mit diesen Anpassungsverfahren in diesem Handbuch beginnen, sollten Sie sicherstellen, dass benutzerdefiniertes lernen von einem SharePoint-mandantenadministrator eingerichtet wurde. Wenn Sie sich nicht sicher sind, wenden Sie sich an Ihren SharePoint-mandantenadministrator, um zu überprüfen, ob benutzerdefiniertes lernen installiert wurde. Stellen Sie außerdem sicher, dass Sie die URL der benutzerdefinierten Learning SharePoint-Website abrufen. Wenn Sie der Mandanten Administrator sind und benutzerdefiniertes lernen nicht installiert wurde, finden Sie weitere Informationen unter Custom Learning for Office 365 Installation Guide. 
 
-### <a name="permissions-required-for-custom-learning"></a>Erforderliche Berechtigungen für benutzerdefiniertes lernen 
-Nachfolgend finden Sie eine Aufstellung der erforderlichen Berechtigungen für die Installation, Anpassung und Verwendung von benutzerdefiniertem lernen. 
+Bevor Sie mit diesem Handbuch beginnen, sollten Sie sicherstellen, dass benutzerdefiniertes lernen von Ihrem SharePoint-mandantenadministrator eingerichtet wurde. Wenn Sie nicht sicher sind, ob es eingerichtet wurde, wenden Sie sich an Ihren SharePoint-mandantenadministrator, um zu überprüfen, ob benutzerdefiniertes lernen installiert wurde. Stellen Sie außerdem sicher, dass Sie die URL der benutzerdefinierten Learning SharePoint-Website abrufen. Wenn Sie der Mandanten Administrator sind und benutzerdefiniertes lernen nicht installiert wurde, finden Sie weitere Informationen unter Custom Learning for Office 365 Installation Guide. 
 
-**Berechtigungen zum Installieren von benutzerdefiniertem lernen**
+### <a name="permissions-to-install-custom-learning"></a>Berechtigungen zum Installieren von benutzerdefiniertem lernen
+
 - Office 365 globaler Administrator
 - SharePoint-Administrator
 
-**Berechtigungen für die Verwendung von benutzerdefinierten Lern Verwaltungsfeatures**
+### <a name="permissions-to-use-custom-learning-administration-features"></a>Berechtigungen für die Verwendung von benutzerdefinierten Lern Verwaltungsfeatures
+
 - Office 365 SharePoint-Administrator/SharePoint-Websitebesitzer Berechtigungen
 - Berechtigungen für SharePoint-Website Sammlungs Administrator/SharePoint-Websitebesitzer
 
-**So verwenden Sie die benutzerdefinierte Lernsite als Benutzer**
+### <a name="permissions-to-use-the-custom-learning-site-as-a-user"></a>Berechtigungen zum Verwenden der benutzerdefinierten Lernsite als Benutzer
+
 - Office 365-Benutzerberechtigungen/SharePoint-Websitebesucher Berechtigungen oder höher
-- Wenn Sie nicht sicher sind, ob Ihnen die erforderlichen Berechtigungen erteilt wurden, wenden Sie sich an Ihren SharePoint-Mandanten Administrator.
 
-### <a name="next-steps"></a>Weitere Schritte
 
-- [Anpassen und Freigeben von Wiedergabelisten](customplaylist.md)
-- [Laufwerk Einführung](driveadoption.md) 

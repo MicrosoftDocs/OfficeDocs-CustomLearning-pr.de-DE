@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Anpassen der Schulungsumgebung
 ms.date: 02/10/2019
 description: Informationen zu den verschiedenen verfügbaren Anpassungen mit benutzerdefiniertem Learning für Office 365
-ms.openlocfilehash: 035b6734665da59ed912d9ebd6a3923d1b0b9108
-ms.sourcegitcommit: 0cd0c3e230e0217dfd5d050b20050ce781b5a7c6
+ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "30050626"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30059686"
 ---
 # <a name="customize-the-training-experience"></a>Anpassen der Schulungsumgebung
 
-Dies ist ein Test 3. Standardmäßig umfasst die Websiteumgebung und das Webpart Inhalte für alle Office 365-und Windows 10-Dienste.  Wenn in Ihrem Unternehmen nur alle oder einige dieser Dienste verfügbar sind, können Sie festlegen, welche Inhalte für Ihre Benutzer verfügbar sind.  
+Dies ist ein Test vier. Standardmäßig umfasst die Websiteumgebung und das Webpart Inhalte für alle Office 365-und Windows 10-Dienste.  Wenn in Ihrem Unternehmen nur alle oder einige dieser Dienste verfügbar sind, können Sie festlegen, welche Inhalte für Ihre Benutzer verfügbar sind.  
 
 Es gibt verschiedene Arten von Anpassungen, die den Besitzern dieser Website zur Verfügung stehen. 
 

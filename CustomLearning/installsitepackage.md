@@ -1,29 +1,48 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Die Website-Erfahrung bereitstellen
+title: Einrichten der benutzerdefinierten Lernsite
 ms.date: 02/10/2019
-description: Bereitstellen der benutzerdefinierten Learning für Office 365-Website
-ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: Stellen Sie die benutzerdefinierte Learning for Office 365-Website über das SharePoint-bereitstellungsModul zur Verfügung.
+ms.openlocfilehash: e87fdcbc5bbe9b23937403d8c49a7446b7159dff
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951199"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989666"
 ---
-# <a name="provision-the-custom-learning-site"></a>Bereitstellen der benutzerdefiniertes Erlernen der Website
+# <a name="provision-the-custom-learning-site"></a>Einrichten der benutzerdefinierten lernSite
 
-1. Wechseln Sie zu http://provisioning.sharepointpnp.com und Anmeldung mit Ihren Anmeldeinformationen für die gezielte Mandanten für die Installation verwenden möchten. ![pnphome.png](media/pnphome.png)
-1. Haken Sie Zustimmung im Namen Ihrer Organisation, und wählen Sie annehmen.
-1. Wählen Sie benutzerdefinierte Learning für Office 365 aus dem Lösungskatalog. 
-1. Wählen Sie Ihrem Mandanten hinzufügen 
-1. Passen Sie die Standardauswahl auf der Seite "Bereitstellung" als erforderlich, und wählen Sie bereitstellen, wenn Sie bereit sind, zum Installieren von CLO365 in Ihrer Umgebung Mandanten.  
-1. Der Bereitstellungsprozess wird bis zu 15 Minuten dauern. Sie werden benachrichtigt per e-Mail (an die Benachrichtigung e-Mail-Adresse auf der Seite Bereitstellung eingegebene) Wenn die Website für den Zugriff bereit ist. 
-1. Einmal angemeldet CLO365 in Ihrem Mandanten, bevorzugten die Website und kopieren Sie die Url für die zukünftige.  
+1. Wechseln Sie http://provisioning.sharepointpnp.com zu und melden Sie sich **in** der oberen rechten Ecke der Startseite an.  Melden Sie sich mit den Anmeldeinformationen für den Zielmandanten an, in dem Sie die Websitevorlage installieren möchten.
 
+![pnphome. png](media/inst_signin.png)
 
-## <a name="next-steps"></a>Weitere Schritte
-- Verwenden Sie das [Standardkonto](sitecontent.md) in das Webpart aus.
-- [Anpassen](customization.md) der Schulung Erfahrung für Ihre Organisation.
-- [Bessere Akzeptanz](driveadoption.md) der Schulung Lösung ist.
+2. Löschen Sie die **Einwilligung im Namen Ihrer Organisation** , und wählen Sie **akzeptieren**aus.
 
+![in](media/inst_perms.png)
+
+3. Wählen Sie **BenutzerdefiniertEs lernen für Office 365** aus dem Lösungskatalog aus.
+
+![in](media/inst_select.png)
+
+4. Wählen Sie auf der Startseite der Lösung **Ihrem mandantEn hinzufügen** aus.
+
+![inst_select. png](media/inst_add.png)
+
+5. Füllen Sie die Felder auf der Seite proinformations Informationen entsprechend Ihrer Installation aus. Geben Sie mindestens die e-Mail-Adresse ein, unter der Sie Benachrichtigungen über den proplanungs Prozess und die Ziel-URL für Ihre Website erhalten möchten.  
+
+> [!NOTE]
+> Stellen Sie die Ziel-URL Ihrer Website für Ihre Mitarbeiter wie "/sites/MyTraining" oder "/teams/LearnOffice365" bereit.
+
+![inst_options. png](media/inst_options.png)
+
+6. Wählen Sie **bereit** stellen, wenn Sie bereit sind, CLO365 in Ihre Mandanten Umgebung zu installieren.  Das Bereitstellen dauert bis zu 15 Minuten. Sie werden per e-Mail (an die Benachrichtigungs-e-Mail-Adresse, die Sie auf der Seite Bereitstellung eingegeben haben) benachrichtigt, wenn die Website auf den Zugriff zugreifen kann.
+
+7. Wenn Sie benachrichtigt wurden, dass die Bereitstellung abgeschlossen ist, navigieren Sie zu der Ziel-URL, die Sie auf der Seite Bereitstellung eingegeben haben.
+
+8. Favorit die Website in der oberen rechten Ecke und bookmarken Sie die URL zur späteren Bezugnahme.  
+
+### <a name="next-steps"></a>Weitere Schritte
+- Erkunden Sie die im Webpart enthaltenen [Standardinhalte](sitecontent.md) .
+- [Passen](customization.md) Sie die Schulungsumgebung für Ihre Organisation an.
+- Führen Sie die [Einführung](driveadoption.md) ihrer Schulungslösung aus.

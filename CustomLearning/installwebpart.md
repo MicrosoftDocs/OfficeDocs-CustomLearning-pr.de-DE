@@ -1,42 +1,58 @@
-# <a name="installing-the-custom-learning-solution-webpart"></a>Installieren der benutzerdefiniertes Lösung Webpart lernen
+---
+author: karuanag
+ms.author: karuanag
+title: Installieren der benutzerdefinierten Learning Solution-Webpart
+ms.date: 02/10/2019
+description: Installationsanweisungen für die benutzerdefinierte Lernlösung Webpart
+ms.openlocfilehash: 53229e5b1b8175b06d888091963d1a9f2f0bd361
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989686"
+---
+# <a name="installing-the-custom-learning-solution-webpart"></a>Installieren der benutzerdefinierten Learning Solution-Webpart
 
-## <a name="prerequisites-for-a-tenant-wide-installation"></a>Erforderliche Komponenten für eine gesamte Mandanten-installation
+## <a name="prerequisites-for-a-tenant-wide-installation"></a>VoraussetZungen für eine Mandantenweite Installation
 
-- Um die benutzerdefinierte Learning-Webpart für Ihre gesamte Mandanten zu installieren, müssen Sie Office 365-Administratorberechtigungen verfügen.  Wenn Sie nicht über diese Berechtigungen verfügen, die können Sie gemeinsam mit dem Office 365-Administrator oder installieren das Webpart für eine einzelne Websitesammlung.
-- Sie oder Ihr Office 365-Administrator muss Setup und konfiguriert einen Mandanten geltende [App-Katalog](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant) oder [Site Collection App-Katalog](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog), um das Webpart empfangen.]
-- Wir unterstützen nur SharePoint Online. Das Webpart wird nicht unterstützt für die Installation auf eine beliebige Version von SharePoint lokal.
+- Um das benutzerdefinierte Lern Webpart für Ihren gesamten Mandanten zu installieren, benötigen Sie Office 365-Administratorberechtigungen.  Wenn Sie nicht über diese Berechtigungen verfügen, können Sie entweder mit Ihrem Office 365-Administrator zusammenarbeiten oder das Webpart für eine einzelne Websitesammlung installieren.
+- Sie oder Ihr Office 365-Administrator müssen einen Mandanten weiten [App-Katalog](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant) oder einen [Website Sammlungs-App-Katalog](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/site-collection-app-catalog)einrichten und konfigurieren, um den Webpart zu empfangen.]
+- Wir unterstützen nur SharePoint Online. Das Webpart ist nicht für die Installation in einer beliebigen Version von SharePoint unterstützt.
 
-## <a name="add-the-custom-learning-webpart-to-your-tenant"></a>Hinzufügen des benutzerdefinierte Learning-Webparts zu Ihrem Mandanten 
+## <a name="add-the-custom-learning-webpart-to-your-tenant"></a>Hinzufügen des benutzerdefinierten Learning-Webpart zu Ihrem Mandanten 
 
-1. Laden Sie das benutzerdefinierte Learning-Webpart, und speichern Sie sie auf Ihrem lokalen Laufwerk.  Dieser Datei lautet "ms-benutzerdefinierte-learning.sppkg".  Ändern Sie den Namen oder die Suffix der Datei nicht. 
-2. Navigieren Sie zu der [Office 365-Verwaltungsportal](https://admin.microsoft.com/AdminPortal/Home#/homepage) für Ihre Mandanten
-3. Wählen Sie im linken Navigationsbereich Admin Center, SharePoint aus. Dadurch wird eine neue Registerkarte, und wählen Sie Apps In the SharePoint Admin Center, App-Katalog, Apps für SharePoint geöffnet. 
-4. Aktivieren Sie das Webpart hochladen und wählen Sie die heruntergeladene Datei "ms-benutzerdefinierte-learning.sppkg"
-5. Für diese Mandanten geltende Installation das Kontrollkästchen Sie neben "Diese Lösung für alle befindet sich in der Organisation verfügbar machen."  
+1. Laden Sie das benutzerdefinierte Lern Webpart herunter, und speichern Sie es auf Ihrem lokalen Laufwerk.  Diese Datei heißt "MS-Custom-Learning. sppkg".  Ändern Sie nicht den Namen oder das Suffix der Datei. 
+2. Navigieren Sie zum [Office 365-Verwaltungsportal](https://admin.microsoft.com/AdminPortal/Home#/homepage) für Ihren Mandanten.
+3. Wählen Sie im linken Navigationsbereich Admin Center, SharePoint aus. Sie wird in einer neuen Registerkarte geöffnet. Wählen Sie im SharePoint Admin Center apps, App-Katalog, Apps für SharePoint 
+4. Wählen Sie Webpart Hochladen aus, und wählen Sie die Datei "MS-Custom-Learning. sppkg" aus, die Sie heruntergeladen haben.
+5. Bei dieser Mandanten weiten Installation aktivieren Sie das Kontrollkästchen neben "Diese Lösung für alle verfügbar machen in der Organisation".  
+ 
+> [!NOTE]
+> Sobald das Webpart installiert ist, finden Sie es in Ihrem Webpart-Katalog in SharePoint Online.  **In der Galerie heißt das Webpart "Microsoft Learning"** .
 
-![Bereitstellen der Lösung](media/trustapp_sm.png)
+![Bereitstelleneiner Lösung](media/trustapp_sm.png)
 
 
-## <a name="add-the-customer-learning-webpart-to-a-sharepoint-online-page"></a>Hinzufügen des Kunden Learning-Webparts zu einer SharePoint Online-Seite
+## <a name="add-the-microsoft-learning-webpart-to-a-sharepoint-online-page"></a>Hinzufügen des Microsoft Learning-Webpart zu einer SharePoint Online-Seite
 
-Nach der Installation benutzerdefinierte Learning in Ihrem Mandanten können Sie das Webpart zu einer SharePoint-Seite hinzufügen. Wenn Sie dies tun, ist plötzlich Office 365-Schulung für Sie verfügbar. 
+Nachdem benutzerdefiniertes lernen in Ihrem Mandanten installiert wurde, können Sie das Webpart einer SharePoint-Seite hinzufügen. Wenn Sie Office 365 und Windows 10 trainieren, steht Ihre Website zur Verfügung.
 
-1. Fügen Sie die benutzerdefinierte Learning-Webpart in ein Layout mit voller Breite Spalten hinzu:
+1. Hinzufügen des benutzerdefinierten Learning-Webpart in einem Spaltenlayout mit voller Breite:
 
-![SharePoint-Seitenlayout](media/clo365fullcolumnwidth.png)
+![SharePoint-Seiten Layout](media/clo365fullcolumnwidth.png)
 
-2. Wählen Sie im Abschnitt hinzufügen, und wählen Sie dann volle Breitenspalte, in der SharePoint-Seite.  Sehen Sie die folgende Meldung angezeigt:
+2. Wählen Sie auf der Seite SharePoint die Option Abschnitt hinzufügen aus, und wählen Sie dann Spalte vollständiger Breite aus.  Die folgende Meldung wird angezeigt:
 
 ![AddWebpart](media/clo365addfullwidthwebpart.png)
 
-3. Wählen Sie Microsoft Learning.  Sie sollten nun Folgendes angezeigt: 
+3. Wählen Sie Microsoft Learning aus.  Es sollte jetzt Folgendes angezeigt werden: 
 
-![Benutzerdefinierte Webpart lernen](media/clo365addwebpart.png)
+![Benutzerdefiniertes Learning-Webpart](media/clo365addwebpart.png)
 
- Sie können nun auf die Kacheln zum Untersuchen des Standardinhalts in der Projektmappe enthaltenen klicken.  
+ Sie können nun auf die Kacheln klicken, um die in der Lösung enthaltenen Standardinhalte zu erkunden.  
 
-## <a name="next-steps"></a>Weitere Schritte
-- Verwenden Sie das [Standardkonto](webpartcontent.md) in das Webpart aus.
-- [Anpassen](customization.md) der Schulung Erfahrung für Ihre Organisation.
-- [Bessere Akzeptanz](driveadoption.md) der Schulung Lösung ist.
+### <a name="next-steps"></a>Weitere Schritte
+- Erkunden Sie die im Webpart enthaltenen [Standardinhalte](webpartcontent.md) .
+- [Passen](customization.md) Sie die Schulungsumgebung für Ihre Organisation an.
+- Führen Sie die [Einführung](driveadoption.md) ihrer Schulungslösung aus.
 
