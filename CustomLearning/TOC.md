@@ -1,5 +1,6 @@
 # [Erste Schritte](index.md)
-## [Benutzerdefiniertes lernen einrichten](installsitepackage.md)
+## [Benutzerdefinierte Lern Setup Optionen](custom_setupoptions.md)
+## [Benutzerdefiniertes lernen einrichten](custom_provision.md)
 ## [Erkunden der benutzerdefinierten Lernsite](sitecontent.md)
 ## [Eigenständiges Webpart-Setup](custom_manualsetup.md)
 # [Anpassen der Lernumgebung](custom_overview.md)
