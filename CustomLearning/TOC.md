@@ -1,7 +1,7 @@
 # [Erste Schritte](index.md)
 ## [Benutzerdefinierte Lern Setup Optionen](custom_setupoptions.md)
 ## [Benutzerdefiniertes lernen einrichten](custom_provision.md)
-## [Erkunden der benutzerdefinierten Lernsite](sitecontent.md)
+## [Erkunden der benutzerdefinierten Lernsite](custom_exploresite.md)
 ## [Eigenständiges Webpart-Setup](custom_manualsetup.md)
 # [Anpassen der Lernumgebung](custom_overview.md)
 ## [Wechseln Sie zur benutzerdefinierten Lernsite.](custom_goto.md)
@@ -22,5 +22,6 @@
 # [Laufwerk Einführung](driveadoption.md)
 # [Feedback und Support](feedback.md)
 # [Häufig gestellte Fragen](faq.md)
+# [Häufig gestellte Fragen zu Partnern](custom_partner.md)
 # [Manuelles Upgrade für benutzerdefiniertes lernen](custom_upgrade.md)
 
