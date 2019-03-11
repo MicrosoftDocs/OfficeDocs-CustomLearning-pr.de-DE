@@ -1,39 +1,39 @@
 ---
-Titel: ''
-ms.openlocfilehash: 9334a7aa5221f9c3321fe7c33038f1e096b1503e
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+Title: ''
+ms.openlocfilehash: eb54031872eb5dcf0c405385c1abd84b2b4bdf50
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886098"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30522969"
 ---
-# <a name="drive-adoption-of-your-learning-portal"></a>Akzeptanz Learning-Schulungsportal
+# <a name="drive-adoption-of-your-learning-portal"></a>Einführung des Lernportals
 
-Bessere Akzeptanz von Ihren benutzerdefinierten Learning Erfahrungen mit diesen Schritten und Tools. 
+Führen Sie die Einführung Ihrer benutzerdefinierten Lernerfahrungen mit diesen einfachen Schritten und Tools aus. 
 
-Wir wissen, dass die Schulung Lösungen nur so gut wie die Verwendung sind in Ihrer Organisation empfangenen.  Deshalb haben wir diese einfachen Schritten und Vorlagen zur Bekanntheitsgrad und Akzeptanz unsere Tools erstellt. Starten Sie mit der folgenden Schritte aus, nachdem Sie die Websitevorlage in Ihrer SharePoint Online-Umgebung konfiguriert haben.
+Wir wissen, dass Schulungslösungen nur so gut sind, wie Sie in Ihrer Organisation verwendet werden.  Daher haben wir diese einfachen Schritte und Vorlagen erstellt, die Ihnen bei der Sensibilisierung und der Einführung unserer Tools helfen. Beginnen Sie mit diesen Schritten, nachdem Sie die Websitevorlage in Ihrer SharePoint Online-Umgebung konfiguriert haben.
 
-Herunterladen Sie unsere [Starten Kit](/embeds/custom_learning_launch_kit.zip) zum Drucken und veröffentlichen Sie unsere Handzettel und Poster  Bearbeiten Sie, und senden Sie unsere Einführung e-Mail an Ihre Mitarbeiter ihnen 3 einfache Schritte zum Einstieg in das Portal zur Verfügung.  
+Laden Sie unser Launch Kit herunter, um unsere Flyer und Poster zu drucken und zu veröffentlichen.  Bearbeiten Sie unsere Start-e-Mail an Ihre Mitarbeiter, und senden Sie Ihnen drei einfache Schritte zum Einstieg in das Portal.  
 
 > [!NOTE]
-> Sie müssen die Einführung e-Mail, um die richtige Webadresse (URL) umfassen für Ihre spezielle Installation von der benutzerdefinierten Learning-Schulungsportal bearbeiten.
+> Sie müssen die Start-e-Mail bearbeiten, um die richtige Webadresse (URL) für Ihre spezielle Installation des benutzerdefinierten Lernportals einzuschließen.
 
-Die folgenden bewährten Methoden helfen Ihnen die Verwendung der Website in Ihrer Organisation zu erhöhen.  
+Die folgenden bewährten Methoden helfen Ihnen dabei, die Nutzung der Website in Ihrer Organisation zu verbessern.  
 
-## <a name="connect-learning-to-other-business-outcomes"></a>Verbinden Sie lernen mit anderen Geschäftsergebnisse
+## <a name="connect-learning-to-other-business-outcomes"></a>Verbinden von Lernen mit anderen geschäftlichen Ergebnissen
 
-Sie müssen die besten Ergebnisse, wenn die Einführung der benutzerdefinierte Learning Erfahrung in andere Bereitstellung oder Upgrade-Projekte integriert ist.  Dadurch erhalten Ihre Mitarbeiter einen eindeutigen Grund auf die Website zugreifen.  Beispiele für möglicherweise ein Upgrade von SharePoint Online oder Bereitstellung von Microsoft-Teams.  Sie können Ausdrücke wie umfassen:
+Sie haben die besten Ergebnisse, wenn der Start der benutzerdefinierten Lernumgebung in andere Dienst Bereitstellungs-oder Upgrade-Projekte integriert wird.  Dadurch erhalten Ihre Mitarbeiter einen klaren Grund, die Website zu besuchen.  Beispiele hierfür sind ein Upgrade von SharePoint Online oder die Bereitstellung von Microsoft Teams.  Sie können Ausdrücke wie:
 
-"Um kennen zu lernen Weitere Tipps <Insert service name here> besuchen Sie unsere benutzerdefinierte Learning-Schulungsportal für Office 365." 
+"Weitere Tipps zu diesem Thema <Insert service name here> finden Sie im benutzerdefinierten Lernportal für Office 365." 
 
-## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Ausrichten der Trainings-Website für Investitionen in Ihrer Mitarbeiter lernen 
+## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Richten Sie die Schulungswebsite an Investitionen in Ihre Mitarbeiterschulung aus. 
 
-Arbeiten Sie mit Ihrer Personalabteilung die Einführung von Ihrer Schulungsportal mit anderen Mitarbeitern Schulungen Initiativen ausgerichtet, die in Ihrem Unternehmen implementiert werden. 
+Arbeiten Sie mit Ihrem Personalteam zusammen, um den Start Ihres Schulungs Portals mit allen anderen Mitarbeitern zu trainieren, die in Ihrem Unternehmen implementiert werden. 
 
-## <a name="join-the-driving-adoption-community"></a>Teilnehmen an der Community Akzeptanz fördern
+## <a name="join-the-driving-adoption-community"></a>Teilnahme an der Driving Adoption-Community
 
-Freigeben Sie Ihre Erfahrung Learning-Schulungsportal in unserer gesteuerter Annahme Community online.  Besuchen Sie uns unter https://aka.ms/DriveAdoption.
+Teilen Sie Ihre Erfahrungen mit dem Lernportal in unserer Driving Adoption-Community online.  Finden Sie uns https://aka.ms/DriveAdoptionunter.
 
 ## <a name="give-us-feedback"></a>Geben Sie uns Feedback
 
-Haben Sie in der benutzerdefinierte Learning-Schulungsportal Anforderungen für neue Features und Inhalte?  Besuchen Sie unsere online UserVoice, in dem Sie über vorhandene Vorschläge abstimmen oder eigene hinzufügen können.  Hier finden Sie unsere UserVoice-Instanz unter https://aka.ms/AdoptionTools.
+Haben Sie Anforderungen für neue Features oder Inhalte im benutzerdefinierten Lernportal?  Besuchen Sie unsere Online-UserVoice, in der Sie vorhandene Vorschläge abstimmen oder eigene hinzufügen können.  Finden Sie unsere UserVoice- https://aka.ms/AdoptionToolsInstanz unter.

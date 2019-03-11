@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Erkunden der Website und der Standardinhalte
 ms.date: 02/10/2019
 description: Erkunden der benutzerdefinierten Lernsite und der Standardinhalte
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518167"
+ms.locfileid: "30523039"
 ---
 # <a name="explore-the-custom-learning-site"></a>Erkunden der benutzerdefinierten Lernsite
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518167"
 
 1.  Öffnen Sie den Webbrowser, und navigieren Sie zu office.com oder zum Anmelde Speicherort Ihrer Organisation. 
 2.  Melden Sie sich mit Ihrem Benutzernamen und Kennwort an.
-3.  Navigieren Sie mithilfe der von Ihrem mandantenadministrator angegebenen URL zum Speicherort der Website, oder wählen Sie SharePoint auf der Office 365-Startseite aus. 
+3.  Navigieren Sie mithilfe der von Ihrem mandantenadministrator angegebenen URL zum Speicherort der Website, oder wählen Sie auf der Office 365-Startseite SharePoint aus, und wählen Sie dann die Website aus. 
 
 ![CG-Introducing. png](media/cg-introducing.png)
 

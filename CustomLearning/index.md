@@ -1,6 +1,6 @@
 ---
-author: karuanag
-ms.author: karuanag
+author: pkrebs
+ms.author: pkrebs
 title: Übersicht über die benutzerdefinierte Lernlösung für Office 365 Open Source
 ms.date: 02/10/2019
 description: 'Erfahren Sie, wie benutzerdefiniertes lernen für Office 365 die Nutzung und Einführung von Office 365 in Ihrer Organisation beschleunigen kann. Unsere Lösungen enthalten ein benutzerdefiniertes SharePoint Online-Webpart und eine moderne SharePoint Online Communications-Schulungswebsite, die problemlos für Ihren Office 365-Mandanten bereitgestellt werden kann.'
@@ -8,32 +8,43 @@ description: 'Erfahren Sie, wie benutzerdefiniertes lernen für Office 365 die N
 
 # <a name="custom-learning-for-office-365"></a>Benutzerdefiniertes lernen für Office 365
 
-## <a name="self-service-customizable-training-solutions-from-microsoft"></a>Self-Service, anpassbare Schulungslösungen von Microsoft
+> [!NOTE]
+> Benutzerdefiniertes lernen ist derzeit in internen Tests und noch nicht öffentlich verfügbar. 
 
-Benutzerdefiniertes lernen für Office 365 ist eine Sammlung von Open Source-Tools für Schulung und Einführung, die die Nutzung von Office 365 in Ihrer Organisation verbessern sollen. Erstellt in Partnerschaft mit Microsoft Teams und SharePoint Product Engineering Groups und dem Team für moderne Unterstützung und Erfahrung, können diese einfach zu verwendenden Lösungen in Ihrem SharePoint Online-Mandanten installiert und angepasst werden. 
+## <a name="on-demand-custom-training-from-microsoft"></a>Bedarfsorientierte Schulung von Microsoft
+Custom Learning für Office 365 (Custom Learning) ist eine anpassbare, bedarfsorientierte Schulungslösung, die die Nutzung und Akzeptanz von Office 365 in einer Organisation erhöht. 
 
-Diese Lösungen bieten Ihren Endbenutzern alle Schulungsinhalte, die Microsoft anbieten muss, und hält diese Inhalte bei Bedarf auf dem neuesten Stand.  Die Website kann problemlos in Ihre Installation von Microsoft Teams oder anderen vorhandenen SharePoint Online-Websites in Ihrem Unternehmen integriert werden.
+![CG-Introducing. png](media/cg-introducing.png)
 
-Unsere benutzerdefinierten Lerninhalte sind derzeit auf den Beginn von Inhalten für Office 365-und Windows 10-Produkte ausgelegt.  Wenn Sie mehr Inhalte sehen möchten, geben Sie uns [Anregungen und Feedback](feedback.md) in unserem Online-Forum.  
+Benutzerdefiniertes lernen für Office 365 bietet:
+- **Eine vollständig anpassbare SharePoint Online-Kommunikationswebsite** , die formell als Toolkit für Teamwork bezeichnet wird, kann das benutzerdefinierte Lern Trainingsportal angepasst werden, um Hilfe, Support und Community-Inhalte Ihrer Organisation hinzuzufügen.
+- **Einfache** Provisioning – stellen Sie benutzerdefiniertes lernen aus dem SharePoint Online-Bereitstellungsdienst mit wenigen einfachen Schritten zur Verfügung.
+- **Die Möglichkeit, eigene Schulungs** -Playlists zu erstellen – mit benutzerdefiniertem lernen können Sie zielgerichtete Schulungs Listen erstellen, um die individuellen Anforderungen Ihrer Umgebung zu erfüllen.
+- **Aktuelle Inhalte** – benutzerdefiniertes Lernen bietet Inhalte über einen Microsoft Online-inhaltskatalog, sodass der Inhalt auf Ihrer Websiteregel mäßig aktualisiert wird.
 
-## <a name="custom-learning-open-source-components"></a>Benutzerdefinierte Lern-Open-Source-Komponenten
+## <a name="custom-learning-components"></a>Benutzerdefinierte Lernkomponenten
+Benutzerdefiniertes lernen für Office 365 besteht aus drei Teilen: 
 
-Benutzerdefiniertes lernen für Office 365 bietet zwei Möglichkeiten: 
+![CG-howitworks. png](media/cg-howitworks.png)
 
-**Option 1**: [das benutzerdefinierte Learning SharePoint Online-Website Paket](installsitepackage.md)
+- **Ein Online Katalog mit Microsoft-Inhalten** – benutzerdefiniertes lernen ist mit einem Online Katalog von Microsoft-Schulungsinhalten verbunden.
+- **Eine SharePoint Online-Kommunikationswebsite** – Custom Learning bietet ein einfach zu bereitzustellenden Schulungsportal, das an die Anforderungen Ihrer Organisation angepasst werden kann.
+- **ein SharePoint-Webpart** -benutzerdefiniertes lernen stellt ein SharePoint-Webpart bereit, das gefiltert werden kann, um zielgerichtete Schulungsinhalte darzustellen. Organisationen können auch das Webpart verwenden, um eigene benutzerdefinierte Wiedergabelisten zu erstellen.
 
-Wählen Sie dieses SharePoint Online Communication-Website Paket aus, installieren und konfigurieren Sie es, um ein Schulungsportal für Ihr Unternehmen zu erstellen. Früher als Toolkit für Teamwork bezeichnet, kann dieses Schulungsportal angepasst werden, um Hilfe, Support und Community-Inhalte Ihrer Organisation hinzuzufügen. Sie können auch Inhalte zu Diensten entfernen, die in Ihrer Organisation nicht unterstützt werden. Das benutzerdefinierte Learning Site-Paket enthält auch das benutzerdefinierte Lern Webpart, das einen aktuellen Feed von Office 365-Schulungsinhalten für Ihre Organisation bereitstellt. 
+## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online-proSupportdienst 
+Benutzerdefiniertes lernen kann über den SharePoint Online-proarbeits Dienst eingerichtet werden. Bei der Einrichtung von benutzerdefiniertem Lernen erhalten Organisationen eine SharePoint Online-Kommunikationswebsite, die als out-of-the-Box-Schulungsportal sowie ein benutzerdefiniertes Lern Webpart mit einem Online Katalog von Schulungsinhalten verbunden ist. 
 
-![Benutzerdefinierte Learning for Office 365 Site Experience](media/clo365homepage.png)
-
-**Option 2**: [das benutzerdefinierte learning for Office 365-Webpart](installwebpart.md) die benutzerdefinierte Lern Webpart-Option wurde für Organisationen entwickelt, die Office 365-Schulungen in eine vorhandene SharePoint Online-Kommunikationswebsite integrieren möchten. Das benutzerdefinierte Lern Webpart kann auf jeder SharePoint Online-Seite installiert werden und bietet einen aktuellen Feed der vollständigen Suite von Office 365-Schulungsinhalten der Support.Office.com-Website von Microsoft. Schulungsinhalte, die über das Webpart bereitgestellt werden, sind in einfach zu verwendende Wiedergabelisten gegliedert. Administratoren können auch das Webpart verwenden, um benutzerdefinierte Schulungs-Playlists zu erstellen, die Inhalte von YouTube, lokal gehosteten Inhalten wie. PDFs und Office 365-Schulungsinhalte für Schulungen, die auf die individuellen Anforderungen der Organisation zugeschnitten sind.
-
-![Benutzerdefiniertes lernen für Office 365 Webpart](media/clo365customplaylist.png)
+![CG-Provision. png](media/cg-provision.png)
 
 ## <a name="3-easy-steps"></a>3 einfache Schritte
+Beginnen wir mit der Erstellung einer benutzerdefinierten Lernumgebung für Ihre Umgebungen.
+1. Wählen Sie eine [Setup Option](custom_setupoptions.md) aus, und stellen Sie benutzerDefiniertes lernen sicher.  
+2. Maßgeschneidertes lernen für Ihre Umgebung.
+3. Verwenden Sie unsere [Adoptions Tools](driveadoption.md), um benutzerdefiniertes lernen mit ihren Benutzern zu teilen.
 
-Lets [Get Started](prereqs.md) Creating a Simple Training Solutions mit aktuellen Microsoft-Inhalten.
+## <a name="feedback-and-support"></a>Feedback und Support
 
-1. Wählen Sie die richtige Lösung für Sie aus.
-2. Abschließen der Installation & Anpassen von Inhalten
-3. Freigeben Ihrer Website für Ihre Benutzer mithilfe unserer [Adoptions Tools](driveadoption.md)
+Das benutzerdefinierte Learning for Office 365 ist ein Open Source-Projekt, das über unsere [Online-Problemliste](https://aka.ms/CustomLearningHelp) auf GitHub unterstützt wird. Die benutzerdefinierte Learning for Office 365-Lösung und ihre Komponenten werden nicht von einem vorhandenen Microsoft-Supportvertrag abgedeckt.  
+
+## <a name="additional-resources"></a>Zusätzliche Ressourcen
+Sie können die benutzerdefinierte Lernwebsite verwenden, um Links zu neuen oder vorhandenen Benutzercommunity-Foren bereitzustellen. Erwägen Sie, eine interne Benutzergruppe zu starten, falls Sie noch keine haben, damit Personen Ihren Erfolg teilen und voneinander lernen können.  Wenn Sie keine Zeit haben, eine interne Benutzergruppe zu pflegen, können Sie und Ihre Mitarbeiter der [Microsoft office 365 Champion-Community](https://aka.ms/O365Champions) für monatliche Schulungen, Mitgliedschaft in der Online Community und frühzeitigen Zugriff auf Tools und Ressourcen für Office 365 beitreten.

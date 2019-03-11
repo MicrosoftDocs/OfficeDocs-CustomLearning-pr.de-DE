@@ -4,23 +4,23 @@ ms.author: pkrebs
 title: Anpassen der benutzerdefinierten Lernsite
 ms.date: 02/15/2019
 description: Informationen zu den verschiedenen verfügbaren Anpassungen mit benutzerdefiniertem Learning für Office 365
-ms.openlocfilehash: 998c99a9154440872b40acb8c894862ca6e0e2c6
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: e6f8ad87fcdb6cf50df2de2487d5eda6c689fd03
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103810"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30522979"
 ---
 # <a name="customize-the-site"></a>Anpassen der Website
 
 Die benutzerdefinierte Lernsite basiert auf einer SharePoint-Kommunikations Vorlage, daher ist es einfach, die Website entsprechend den Anforderungen Ihrer Organisation zu ändern. Sie können den Websitenamen, das Logo, die Menüelemente und den Inhalt auf den Seiten ändern. 
 
 > [!TIP]
-> Sammeln Sie Feedback von ihren Mitarbeitern, und führen Sie in regelmäßigen Abständen zusätzliche Anpassungen aus.  Sie können Wiedergabelisten hinzufügen, Webseiten auf bestimmte Rollen ausrichten oder neue Schulungsinhalte aktivieren, wenn Sie neue Dienste starten. 
+> Sammeln Sie Feedback von ihren Mitarbeitern, und aktualisieren Sie die Websiteregel mäßig. Sie können beispielsweise den Kalender für Schulungs Ereignisse aktualisieren, wenn neue Ereignisse verfügbar werden. Beim Starten neuer Dienste können Sie Inhalte einblenden und zielgerichtete Schulungs Listen erstellen, die für den Start der neuen Dienste entwickelt wurden. 
 
-## <a name="customize-web-pages"></a>Anpassen von Webseiten
+## <a name="customize-the-site-and-web-pages"></a>Anpassen der Website und der Webseiten
 
-Die benutzerdefinierte Lernsite ist vollständig anpassbar. Wenn Sie mit der Erstellung von Seiten in modernen SharePoint Online-Websites nicht vertraut sind, empfehlen wir Ihnen, den Artikel [Anpassen Ihrer SharePoint-Website](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) auf Support.Office.com zu lesen. 
+Die benutzerdefinierte Lernsite ist vollständig anpassbar. Wenn Sie nicht mit dem Anpassen Ihrer SharePoint-Website oder Webseiten vertraut sind, empfehlen wir Ihnen, den Artikel zum [Anpassen Ihrer SharePoint-Website](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) auf Support.Office.com zu lesen. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>Anpassen von Fragen und Abrufen von Hilfe
 

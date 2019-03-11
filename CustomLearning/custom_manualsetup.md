@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Eigenständiges Webpart-Setup
 ms.date: 02/10/2019
 description: Benutzerdefiniertes Learning for Office 365 Manual-Webpart-Setup
-ms.openlocfilehash: 650e6c12ebe8ca7fedc6edc107b5822c48ead99a
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411875"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523059"
 ---
 # <a name="stand-alone-web-part-setup"></a>Eigenständiges Webpart-Setup
 
@@ -58,10 +58,22 @@ Ein Teil dieser Lösung umfasst die anonymisierte Telemetrie-Verfolgung, die sta
 
 Wenn Sie keine manuelle Installation durchführen und die Telemetrie-Verfolgung deaktivieren möchten, wurde ein separates `TelemetryOptOut.ps1` Skript hinzugefügt, das beim Ausführen die Telemetrie-Nachverfolgung deaktiviert.
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>Schritt 6-Initialisieren der Webpart-benutzerdefinierten Konfiguration
-Nachdem das PowerShell-Skript erfolgreich ausgeführt wurde, navigieren `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`Sie zu. Dadurch wird das **CustomConfig** -Listenelement initialisiert, das benutzerdefiniertes lernen für die erste Verwendung festlegt.
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>ÜberPrüfen der erfolgreichen Ausführung und Initialisieren der CustomConfig-Liste
 
-Die Konfiguration ist nun abgeschlossen. Weitere Informationen zum Anpassen der benutzerdefinierten Lernsite und des Webparts für Ihre Umgebung finden Sie unter [Anpassen der Schulung](custom_overview.md).
+Nachdem das PowerShell-Skript erfolgreich ausgeführt wurde, navigieren Sie zur Website, initialisieren das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt, und überprüfen, ob die Website funktioniert.
+
+1. Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Öffnen von **CustomLearningAdmin. aspx** initialisiert das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Es sollte eine Seite angezeigt werden, die wie folgt aussieht:
+
+![CG-adminapppage. png](media/cg-adminapppage.png)
+
+## <a name="add-owners-to-site"></a>Hinzufügen von Besitzern zur Website
+Als MandantenAdministrator ist es unwahrscheinlich, dass Sie die Website anpassen, daher müssen Sie der Website einige Besitzer zuweisen. Besitzer verfügen über Administratorrechte für die Website, damit Sie Website Seiten ändern und die Website neu bebranden können. Außerdem können Sie Inhalte, die über das benutzerdefinierte Lern Webpart übermittelt werden, ausblenden und anzeigen. Darüber hinaus haben Sie die Möglichkeit, benutzerdefinierte Wiedergabelisten zu erstellen und Sie benutzerdefinierten Unterkategorien zuzuweisen.  
+
+1. Klicken Sie im Menü SharePoint- **Einstellungen** auf **Websiteberechtigungen**.
+2. Klicken Sie auf **Erweiterte Berechtigungseinstellungen**.
+3. Klicken Sie auf **benutzerdefiniertes lernen für Office 365-Besitzer**.
+4. Klicken Sie auf **neue** > **Benutzer zu dieser Gruppe hinzufügen**, und fügen Sie dann die Personen hinzu, die Besitzer sein sollen. 
+5. Fügen Sie einen Link hinzu, um die Website in der Freigabenachricht zu [Durchsuchen](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) , und klicken Sie dann auf **Freigeben**.
 
 ### <a name="next-steps"></a>Weitere Schritte
 - [Passen](custom_overview.md) Sie die Schulungsumgebung für Ihre Organisation an.

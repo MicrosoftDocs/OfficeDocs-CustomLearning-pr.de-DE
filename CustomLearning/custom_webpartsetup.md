@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: Einrichten der benutzerdefinierten Lernsite
 ms.date: 02/10/2019
 description: Stellen Sie die benutzerdefinierte Learning for Office 365-Website über das SharePoint-bereitstellungsModul zur Verfügung.
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
+ms.openlocfilehash: 83d76d2d12e9dfc0f39ef55c58443cb3fda2a2d9
 ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523049"
+ms.locfileid: "30523594"
 ---
-# <a name="provision-custom-learning"></a>Benutzerdefiniertes lernen einrichten 
+# <a name="provision-custom-learning"></a>Benutzerdefiniertes lernen einrichten
 
 Mit dem SharePoint Online-proplanungs Dienst kann ein Office 365-Mandanten Administrator den proplanungs Prozess mit ein paar einfachen Klicks starten. Der bereitstellungsDienst ist die empfohlene Methode zum Einrichten von benutzerdefiniertem lernen. Es ist schnell, einfach und dauert nur ein paar Minuten, um den Prozess zu starten. Bevor Sie mit dem proSupporting-Dienst beginnen, sollten Sie sich jedoch vergewissern, dass Sie die Voraussetzungen für die bereit legung erfüllt haben.
 
@@ -47,27 +47,24 @@ Um benutzerdefiniertes lernen erfolgreich mit dem [SharePoint Online-](https://p
 
 ![inst_options. png](media/inst_options.png)
 
-6. Wählen Sie **bereit** stellen, wenn Sie bereit sind, benutzerdefiniertes lernen in Ihre Mandanten Umgebung zu installieren.  Das Bereitstellen dauert bis zu 15 Minuten. Sie werden per e-Mail (an die Benachrichtigungs-e-Mail-Adresse, die Sie auf der Seite Bereitstellung eingegeben haben) benachrichtigt, wenn die Website auf den Zugriff zugreifen kann. 
+6. Wählen Sie **bereit** stellen, wenn Sie bereit sind, benutzerdefiniertes lernen in Ihre Mandanten Umgebung zu installieren.  Das Bereitstellen dauert bis zu 15 Minuten. Sie werden per e-Mail (an die Benachrichtigungs-e-Mail-Adresse, die Sie auf der Seite Bereitstellung eingegeben haben) benachrichtigt, wenn die Website auf den Zugriff zugreifen kann.
 
 > [!IMPORTANT]
 > Der MandantenAdministrator, der die benutzerdefinierte Lernsite bereitstellt, muss zur Website wechseln und dann CustomLearningAdmin. aspx öffnen, um benutzerdefinierte Learning admin-Eigenschaften zu initialisieren. Zu diesem Zeitpunkt sollte der MandantenAdministrator auch Besitzer der Website zuweisen. 
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>ÜberPrüfen der erfolgreichen Ausführung und Initialisieren der CustomConfig-Liste
+## <a name="validate-provisioning-success"></a>ÜberPrüfen des Erfolgs der überPrüfung
 
-Wenn die Einrichtung abgeschlossen ist, erhält der MandantenAdministrator, der die Website zur Verfügung gestellt hat, eine e-Mail vom PnP-proarbeits Dienst. Die e-Mail enthält einen Link zur Website. An diesem Punkt sollte der MandantenAdministrator über den in der e-Mail angegebenen Link zu der Website wechseln und die Website für die erste Verwendung einrichten:
-
-1. Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Öffnen von **CustomLearningAdmin. aspx** initialisiert das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Es sollte eine Seite angezeigt werden, die wie folgt aussieht:
-
-![CG-adminapppage. png](media/cg-adminapppage.png)
+Wenn die Einrichtung abgeschlossen ist, erhält der MandantenAdministrator eine e-Mail vom PnP-proarbeits Dienst. Der Administrator kann den Link zu der in der e-Mail bereitgestellten Website kopieren und dann den Anweisungen folgen, um zur Website zu wechseln. Alternativ kann der mandantenadministrator zu <YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin. aspx navigieren. Dadurch wird das CustomConfig-Listenelement initialisiert, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Die Person, die diese Seite zum ersten Mal öffnet, muss ein MandantenAdministrator, ein WebsitesammlungsAdministrator oder ein Besitzer der Website sein. Es sollte eine Seite angezeigt werden, die wie folgt aussieht: 
 
 ## <a name="add-owners-to-site"></a>Hinzufügen von Besitzern zur Website
-Als MandantenAdministrator ist es unwahrscheinlich, dass Sie die Website anpassen, daher müssen Sie der Website einige Besitzer zuweisen. Besitzer verfügen über Administratorrechte für die Website, damit Sie Website Seiten ändern und die Website neu bebranden können. Außerdem können Sie Inhalte, die über das benutzerdefinierte Lern Webpart übermittelt werden, ausblenden und anzeigen. Darüber hinaus haben Sie die Möglichkeit, benutzerdefinierte Wiedergabelisten zu erstellen und Sie benutzerdefinierten Unterkategorien zuzuweisen.  
+Als MandantenAdministrator ist es unwahrscheinlich, dass Sie die Website anpassen, daher müssen Sie der Websitebesitzer zuweisen. Besitzer verfügen über Administratorrechte für die Website, damit Sie Website Seiten ändern und die Website neu bebranden können. Außerdem können Sie Inhalte, die über das benutzerdefinierte Lern Webpart übermittelt werden, ausblenden und anzeigen. Sie haben auch die Möglichkeit, benutzerdefinierte Wiedergabelisten zu erstellen und Sie benutzerdefinierten Unterkategorien zuzuweisen.  
 
 1. Klicken Sie im Menü SharePoint- **Einstellungen** auf **Websiteberechtigungen**.
 2. Klicken Sie auf **Erweiterte Berechtigungseinstellungen**.
 3. Klicken Sie auf **benutzerdefiniertes lernen für Office 365-Besitzer**.
-4. Klicken Sie auf **neue** > **Benutzer zu dieser Gruppe hinzufügen**, und fügen Sie dann die Personen hinzu, die Besitzer sein sollen. 
-5. Fügen Sie einen Link hinzu, um die Website in der Freigabenachricht zu [Durchsuchen](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) , und klicken Sie dann auf **Freigeben**.
+4. Klicken Sie auf **neue** > **Benutzer zu dieser Gruppe hinzufügen**, fügen Sie die Personen hinzu, die Besitzer sein sollen, und klicken Sie dann auf **Freigeben**.
+
+8. Klicken Sie in der oberen rechten Ecke der Seite auf die **folgende** Option, um der Website zu folgen.  
 
 ### <a name="next-steps"></a>Weitere Schritte
-- Erkunden Sie die [Standardinhalte](custom_exploresite.md) , die in der Website und im Webpart bereitgestellt werden.
+- Erkunden Sie die im Webpart enthaltenen [Standardinhalte](sitecontent.md) .

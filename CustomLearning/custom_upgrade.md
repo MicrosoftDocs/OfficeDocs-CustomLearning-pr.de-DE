@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Benutzerdefiniertes Lern Upgrade
 ms.date: 02/10/2019
 description: Benutzerdefiniertes Learning for Office 365 Manual-Webpart-Setup
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411895"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523069"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Manuelles Upgrade für benutzerdefiniertes lernen
 
@@ -102,12 +102,11 @@ Durch die Verbesserungen am neuen Webpart wurde die Verknüpfung mit einer Wiede
 Um sicherzustellen, dass Wiedergabelisten ordnungsgemäß ausgeführt werden, müssen alle Wiedergabelisten, die mit der früheren Version des Webparts erstellt wurden, wiederhergestellt werden. Erstellen Sie vor dem Löschen der Wiedergabelisten eine Liste der benutzerdefinierten Wiedergabelisten und der dazugehörigen Objekte, damit Sie Sie problemlos mit dem neuen benutzerdefinierten Lern Webpart wiederherstellen können. Erstellen Sie eine Kopie einer Wiedergabeliste, und löschen Sie Sie. Sie können das Feld JSONData verwenden, um eine Kopie des Inhalts einer Wiedergabeliste zu erstellen, bevor Sie Sie löschen. Dies erleichtert das Erstellen später.
 
 
-• Klicken Sie auf der benutzerdefinierten Lernsite auf Einstellungen > Websiteinhalt. • Wählen Sie eine Wiedergabeliste aus, wählen Sie die Ellipsen aus, wählen Sie bearbeiten aus, kopieren Sie dann den Inhalt des Felds JSONData, und speichern Sie ihn im Editor oder in einem separaten Dokument zu einem späteren Zeitpunkt. Wählen Sie Abbrechen aus.
-• Wählen Sie die Wiedergabeliste aus, wählen Sie die Ellipse aus, und wählen Sie dann löschen aus.
-• Sie können nun die Wiedergabeliste mit dem neuen Webpart neu erstellen.
-Anweisungen zur Verwendung des neuen benutzerdefinierten Learning for Office 365-Webparts https://docs.microsoft.com/en-us/office365/customlearning/custom_overviewfinden Sie unter.
-
-## <a name="step-8---chan"></a>Schritt 8-Chan
+1. Klicken Sie auf der benutzerdefinierten Lernsite auf **Einstellungen** > **Websiteinhalt**. 
+2. Wählen Sie eine Wiedergabeliste aus, wählen Sie die Ellipsen aus, wählen Sie **Bearbeiten**aus, kopieren Sie dann den Inhalt des Felds **JSONData** , und speichern Sie ihn im Editor oder in einem separaten Dokument zu einem späteren Zeitpunkt. Wählen Sie **Abbrechen**aus.
+3. Wählen Sie die Wiedergabeliste aus, wählen Sie die Ellipse aus, und wählen Sie dann **Löschen**aus.
+4. Sie können nun die Wiedergabeliste mit dem neuen Webpart neu erstellen.
+Anweisungen zur Verwendung des benutzerdefinierten Learning for Office 365-Webparts finden Sie unter [Customize the Learning Experience (custom_overview. MD).
 
 ### <a name="next-steps"></a>Weitere Schritte
 - [Passen](custom_overview.md) Sie die Schulungsumgebung für Ihre Organisation an.
