@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Benutzerdefiniertes Lern Upgrade
 ms.date: 02/10/2019
 description: Benutzerdefiniertes Learning for Office 365 Manual-Webpart-Setup
-ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523069"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543775"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Manuelles Upgrade für benutzerdefiniertes lernen
 
@@ -45,7 +45,12 @@ Zum Einrichten von benutzerdefiniertem lernen für Office 365 laden Sie die Date
 5. Wählen Sie in dem Ordner, in dem Sie die ZIP-Datei gespeichert haben, den **Webpart** -Ordner aus, und wählen Sie dann **customlearning. sppkg aus.**
 6. Klicken Sie auf **Bereitstellen**.
 
-## <a name="step-5--execute-powershell-configuration-script"></a>Schritt 5 – Ausführen des PowerShell-Konfigurationsskripts
+## <a name="step-3---add-the-custom-learning-for-office-365-app-to-the-site"></a>Schritt 3: Hinzufügen der benutzerdefinierten Learning for Office 365-App zur Website
+
+1. Klicken Sie auf der SharePoint-Website auf das Menü System, und klicken Sie dann auf **app hinzufügen**. 
+2. Klicken Sie unter **Ihre apps**auf **aus Ihrer Organisation**, und klicken Sie dann auf **benutzerdefiniertes lernen für Office 365**. 
+
+## <a name="step-4---execute-powershell-configuration-script"></a>Schritt 4: PowerShell-Konfigurationsskript ausführen
 Ein PowerShell- `CustomLearningConfiguration.ps1` Skript ist im ZIP-Download von GitHub enthalten. Sie müssen das Skript ausführen, um drei [Mandanten Eigenschaften](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) zu erstellen, die die Lösung verwendet. Darüber hinaus erstellt das Skript zwei [einzelne Teile-App-Seiten](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) in der Bibliothek für Website Seiten, um die Webparts für Administratoren und Benutzer an einem bekannten Speicherort zu hosten. Diese APP-Seiten sind:
 
 - CustomAdministration. aspx
@@ -57,18 +62,10 @@ Ein PowerShell- `CustomLearningConfiguration.ps1` Skript ist im ZIP-Download von
 ### <a name="disabling-telemetry-collection"></a>Deaktivieren der teleMetrie-Sammlung
 Benutzerdefiniertes lernen umfasst die anonymisierte Telemetrie-Verfolgung, die standardmäßig auf ein festgelegt ist. Wenn Sie die Telemetrie-Nachverfolgung deaktivieren möchten, ändern `CustomlearningConfiguration.ps1` Sie das Skript, `$optInTelemetry` um die `$false`Variable auf festzulegen.
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>Schritt 6-Initialisieren der Webpart-benutzerdefinierten Konfiguration
+## <a name="step-5---initialize-web-part-custom-configuration"></a>Schritt 5-Initialisieren der benutzerdefinierten WebPart-Konfiguration
 Nachdem das PowerShell-Skript erfolgreich ausgeführt wurde, navigieren `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`Sie zu. Öffnen von **CustomLearningAdmin. aspx** initialisiert das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Es sollte eine Seite angezeigt werden, die wie folgt aussieht:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
-
-## <a name="add-owners-to-site"></a>Hinzufügen von Besitzern zur Website
-Als MandantenAdministrator ist es unwahrscheinlich, dass Sie die Website anpassen, daher müssen Sie der Website einige Besitzer zuweisen. Besitzer verfügen über Administratorrechte für die Website, damit Sie Website Seiten ändern und die Website neu bebranden können. Außerdem können Sie Inhalte, die über das benutzerdefinierte Lern Webpart übermittelt werden, ausblenden und anzeigen. Sie haben auch die Möglichkeit, benutzerdefinierte Wiedergabelisten zu erstellen und Sie benutzerdefinierten Unterkategorien zuzuweisen.  
-
-1. Klicken Sie im Menü SharePoint- **Einstellungen** auf **Websiteberechtigungen**.
-2. Klicken Sie auf **Erweiterte Berechtigungseinstellungen**.
-3. Klicken Sie auf **benutzerdefiniertes lernen für Office 365-Besitzer**.
-4. Klicken Sie auf **neue** > **Benutzer zu dieser Gruppe hinzufügen**, fügen Sie die Personen hinzu, die Besitzer sein sollen, und klicken Sie dann auf **Freigeben**.
 
 Das Upgrade ist jetzt abgeschlossen. Weitere Informationen zum Anpassen der benutzerdefinierten Lernsite und des Webparts für Ihre Umgebung finden Sie unter [Anpassen der Schulung](custom_overview.md).
 

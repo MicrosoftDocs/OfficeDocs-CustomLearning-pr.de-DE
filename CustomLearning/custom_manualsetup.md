@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Eigenständiges Webpart-Setup
 ms.date: 02/10/2019
 description: Benutzerdefiniertes Learning for Office 365 Manual-Webpart-Setup
-ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523059"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543745"
 ---
 # <a name="stand-alone-web-part-setup"></a>Eigenständiges Webpart-Setup
 
@@ -22,7 +22,7 @@ Custom Learning bietet ein manuelles, eigenständiges Webpart-Setup für Organis
 - Navigieren Sie zur Seite CustomLearningAdmin. aspx, um das Admin-Webpart zu laden, um die benutzerdefinierte Inhalts Konfiguration zu initialisieren.
 
 > [!NOTE]
-> Wenn Sie nach einer schnellen, einfachen Methode zum Einrichten von benutzerdefiniertem lernen suchen, finden Sie weitere Informationen unter " [BenutzerdefiniertEs lernen](installsitepackage.md)".
+> Wenn Sie nach einer schnellen, einfachen Methode zum Einrichten von benutzerdefiniertem lernen suchen, finden Sie weitere Informationen unter " [BenutzerdefiniertEs lernen](custom_provision.md)".
 
 ## <a name="prerequisites"></a>Voraussetzungen
 Um eine erfolgreiche manuelle Einrichtung des benutzerdefinierten Lern Webparts sicherzustellen, müssen die folgenden Voraussetzungen erfüllt sein. 
@@ -44,13 +44,18 @@ Zum Einrichten von benutzerdefiniertem lernen für Office 365 laden Sie die Date
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>Schritt 3-Bestimmung/Identifizierung einer modernen Kommunikationswebsite
 Identifizieren Sie eine vorhandene SharePoint-Kommunikationswebsite, oder stellen Sie eine neue in Ihrem SharePoint Online-Mandanten ein. Weitere Informationen zum Einrichten einer Kommunikationswebsite finden Sie unter [Erstellen einer Kommunikationswebsite in SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) und führen Sie die Schritte zum Erstellen einer Kommunikationswebsite aus.
 
-## <a name="step-4---set-permissions-for-the-site"></a>Schritt 4-Festlegen von Berechtigungen für die Website
+## <a name="step-4---add-the-custom-learning-for-office-365-app-to-the-site"></a>Schritt 4: Hinzufügen der benutzerdefinierten Learning for Office 365-App zur Website
+
+1. Klicken Sie auf der SharePoint-Website auf das Menü System, und klicken Sie dann auf **app hinzufügen**. 
+2. Klicken Sie unter **Ihre apps**auf **aus Ihrer Organisation**, und klicken Sie dann auf **benutzerdefiniertes lernen für Office 365**. 
+
+## <a name="step-5---set-permissions-for-the-site"></a>Schritt 5-Festlegen von Berechtigungen für die Website
 Stellen Sie sicher, dass die folgenden Berechtigungen für die Website festgelegt sind:
 - **Website Sammlungs Administrator oder Teil der Gruppe der Besitzer** – Berechtigungen, die zum Initialisieren des CustomConfig-Listenelements erforderlich sind, das benutzerdefiniertes lernen für die erste Verwendung festlegt. 
 - **Mitgliedergruppe** – PERMISSONS erforderlich, um benutzerdefiniertes lernen zu verwalten, einschließlich des Ausblendens und Anzeigens von Inhalten und Verwalten von benutzerdefinierten Wiedergabelisten
 - **Besuchergruppe** – Berechtigungen, die zum Anzeigen von Websiteinhalten erforderlich sind. 
 
-## <a name="step-5--execute-powershell-configuration-script"></a>Schritt 5 – Ausführen des PowerShell-Konfigurationsskripts
+## <a name="step-6--execute-powershell-configuration-script"></a>Schritt 6: PowerShell-Konfigurationsskript ausführen
 Ein PowerShell- `CustomLearningConfiguration.ps1` Skript ist enthalten, das Sie ausführen müssen, um drei [Mandanten Eigenschaften](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) zu erstellen, die die Lösung verwendet. Darüber hinaus erstellt das Skript zwei [einzelne Teile-App-Seiten](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) in der Bibliothek für Website Seiten, um die Webparts für Administratoren und Benutzer an einem bekannten Speicherort zu hosten.
 
 ### <a name="disabling-telemetry-collection"></a>Deaktivieren der teleMetrie-Sammlung
@@ -62,7 +67,7 @@ Wenn Sie keine manuelle Installation durchführen und die Telemetrie-Verfolgung 
 
 Nachdem das PowerShell-Skript erfolgreich ausgeführt wurde, navigieren Sie zur Website, initialisieren das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt, und überprüfen, ob die Website funktioniert.
 
-1. Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Öffnen von **CustomLearningAdmin. aspx** initialisiert das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Es sollte eine Seite angezeigt werden, die wie folgt aussieht:
+- Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Öffnen von **CustomLearningAdmin. aspx** initialisiert das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Es sollte eine Seite angezeigt werden, die wie folgt aussieht:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 

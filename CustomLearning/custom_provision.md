@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Einrichten der benutzerdefinierten Lernsite
 ms.date: 02/10/2019
 description: Stellen Sie die benutzerdefinierte Learning for Office 365-Website über das SharePoint-bereitstellungsModul zur Verfügung.
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523049"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543755"
 ---
 # <a name="provision-custom-learning"></a>Benutzerdefiniertes lernen einrichten 
 
@@ -17,9 +17,9 @@ Mit dem SharePoint Online-proplanungs Dienst kann ein Office 365-Mandanten Admin
 
 ## <a name="prerequisites"></a>Voraussetzungen
  
-Um benutzerdefiniertes lernen erfolgreich mit dem [SharePoint Online-](https://provisioning.sharepointpnp.com)proArbeits Dienst für die Einrichtung einrichten zu können, muss die Person, die die proversionierung durchführen soll, die folgenden Voraussetzungen erfüllen: 
+Um benutzerdefiniertes lernen mit dem proSupportdienst erfolgreich einzurichten, muss die Person, die die Einrichtung durchführen soll, die folgenden Voraussetzungen erfüllen: 
  
-- Die benutzerdefinierte Lernumgebung muss ein Mandant Administratorof dem Mandanten sein, in dem benutzerdefiniertes lernen eingerichtet wird.  
+- Die benutzerDefinierte Lernumgebung muss ein Mandanten Administrator des Mandanten sein, in dem benutzerdefiniertes lernen eingerichtet wird.  
 - Ein Mandanten-App-Katalog muss in der apps-Option im SharePoint Admin Center verfügbar sein. Wenn Ihre Organisation keinen SharePoint-Mandanten-App-Katalog hat, lesen Sie die [SharePoint Online-Dokumentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) , um eine zu erstellen.  
 - Die benutzerdefinierte Schulung für Personen muss ein WebsitesammlungsBesitzer des Mandanten-App-Katalogs sein. Wenn die Person, die benutzerdefiniertes lernen anbietet, kein WebsitesammlungsBesitzer des App-Katalogs ist, führen Sie die [folgenden Anweisungen](addappadmin.md) aus, und fahren Sie fort. 
 
@@ -33,11 +33,11 @@ Um benutzerdefiniertes lernen erfolgreich mit dem [SharePoint Online-](https://p
 
 ![in](media/inst_perms.png)
 
-3. Wählen Sie **BenutzerdefiniertEs lernen für Office 365** aus dem Lösungskatalog aus.
+3. Scrollen Sie nach unten auf der Seite, wählen Sie die Registerkarte **Lösungen** , und wählen Sie dann **Benutzerdefiniert lernen für Office 365**. 
 
 ![in](media/inst_select.png)
 
-4. Wählen Sie auf der Startseite der Lösung **Ihrem mandantEn hinzufügen** aus.
+4. Wählen Sie **Ihrem mandantEn hinzufügen** aus.
 
 ![inst_select. png](media/inst_add.png)
 
@@ -50,7 +50,7 @@ Um benutzerdefiniertes lernen erfolgreich mit dem [SharePoint Online-](https://p
 6. Wählen Sie **bereit** stellen, wenn Sie bereit sind, benutzerdefiniertes lernen in Ihre Mandanten Umgebung zu installieren.  Das Bereitstellen dauert bis zu 15 Minuten. Sie werden per e-Mail (an die Benachrichtigungs-e-Mail-Adresse, die Sie auf der Seite Bereitstellung eingegeben haben) benachrichtigt, wenn die Website auf den Zugriff zugreifen kann. 
 
 > [!IMPORTANT]
-> Der MandantenAdministrator, der die benutzerdefinierte Lernsite bereitstellt, muss zur Website wechseln und dann CustomLearningAdmin. aspx öffnen, um benutzerdefinierte Learning admin-Eigenschaften zu initialisieren. Zu diesem Zeitpunkt sollte der MandantenAdministrator auch Besitzer der Website zuweisen. 
+> Der MandantenAdministrator, der die benutzerdefinierte Lernsite bereitstellt, muss zur Website wechseln und dann **CustomLearningAdmin. aspx** öffnen, um benutzerdefinierte Learning admin-Eigenschaften zu initialisieren. Zu diesem Zeitpunkt sollte der MandantenAdministrator auch Besitzer der Website zuweisen. 
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>ÜberPrüfen der erfolgreichen Ausführung und Initialisieren der CustomConfig-Liste
 
