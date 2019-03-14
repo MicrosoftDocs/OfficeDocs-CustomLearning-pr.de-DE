@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Einrichten der benutzerdefinierten Lernsite
 ms.date: 02/10/2019
 description: Stellen Sie die benutzerdefinierte Learning for Office 365-Website über das SharePoint-bereitstellungsModul zur Verfügung.
-ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543755"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577861"
 ---
 # <a name="provision-custom-learning"></a>Benutzerdefiniertes lernen einrichten 
 
@@ -56,7 +56,7 @@ Um benutzerdefiniertes lernen mit dem proSupportdienst erfolgreich einzurichten,
 
 Wenn die Einrichtung abgeschlossen ist, erhält der MandantenAdministrator, der die Website zur Verfügung gestellt hat, eine e-Mail vom PnP-proarbeits Dienst. Die e-Mail enthält einen Link zur Website. An diesem Punkt sollte der MandantenAdministrator über den in der e-Mail angegebenen Link zu der Website wechseln und die Website für die erste Verwendung einrichten:
 
-1. Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Öffnen von **CustomLearningAdmin. aspx** initialisiert das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Es sollte eine Seite angezeigt werden, die wie folgt aussieht:
+- Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Öffnen von **CustomLearningAdmin. aspx** initialisiert das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Es sollte eine Seite angezeigt werden, die wie folgt aussieht:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 
@@ -67,7 +67,7 @@ Als MandantenAdministrator ist es unwahrscheinlich, dass Sie die Website anpasse
 2. Klicken Sie auf **Erweiterte Berechtigungseinstellungen**.
 3. Klicken Sie auf **benutzerdefiniertes lernen für Office 365-Besitzer**.
 4. Klicken Sie auf **neue** > **Benutzer zu dieser Gruppe hinzufügen**, und fügen Sie dann die Personen hinzu, die Besitzer sein sollen. 
-5. Fügen Sie einen Link hinzu, um die Website in der Freigabenachricht zu [Durchsuchen](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) , und klicken Sie dann auf **Freigeben**.
+5. Fügen Sie einen Link hinzu, um die Website in der Freigabenachricht zu [Durchsuchen](custom_exploresite.md) , und klicken Sie dann auf **Freigeben**.
 
 ### <a name="next-steps"></a>Weitere Schritte
 - Erkunden Sie die [Standardinhalte](custom_exploresite.md) , die in der Website und im Webpart bereitgestellt werden.
