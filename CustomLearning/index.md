@@ -7,20 +7,18 @@ description: 'Erfahren Sie, wie benutzerdefiniertes lernen für Office 365 die N
 ---
 
 # <a name="custom-learning-for-office-365"></a>Benutzerdefiniertes lernen für Office 365
-
-> [!NOTE]
-> Benutzerdefiniertes lernen ist derzeit in internen Tests und noch nicht öffentlich verfügbar. 
-
-## <a name="on-demand-custom-training-from-microsoft"></a>Bedarfsorientierte Schulung von Microsoft
 Custom Learning für Office 365 (Custom Learning) ist eine anpassbare, bedarfsorientierte Schulungslösung, die die Nutzung und Akzeptanz von Office 365 in einer Organisation erhöht. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+## <a name="on-demand-custom-training-from-microsoft"></a>Bedarfsorientierte Schulung von Microsoft
 
 Benutzerdefiniertes lernen für Office 365 bietet:
+
 - **Eine vollständig anpassbare SharePoint Online-Kommunikationswebsite** , die formell als Toolkit für Teamwork bezeichnet wird, kann das benutzerdefinierte Lern Trainingsportal angepasst werden, um Hilfe, Support und Community-Inhalte Ihrer Organisation hinzuzufügen.
 - **Einfache** Provisioning – stellen Sie benutzerdefiniertes lernen aus dem SharePoint Online-Bereitstellungsdienst mit wenigen einfachen Schritten zur Verfügung.
 - **Die Möglichkeit, eigene Schulungs** -Playlists zu erstellen – mit benutzerdefiniertem lernen können Sie zielgerichtete Schulungs Listen erstellen, um die individuellen Anforderungen Ihrer Umgebung zu erfüllen.
 - **Aktuelle Inhalte** – benutzerdefiniertes Lernen bietet Inhalte über einen Microsoft Online-inhaltskatalog, sodass der Inhalt auf Ihrer Websiteregel mäßig aktualisiert wird.
+
+![CG-Introducing. png](media/cg-introducing.png)
 
 ## <a name="custom-learning-components"></a>Benutzerdefinierte Lernkomponenten
 Benutzerdefiniertes lernen für Office 365 besteht aus drei Teilen: 

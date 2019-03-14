@@ -24,4 +24,3 @@
 # [Häufig gestellte Fragen](faq.md)
 # [Häufig gestellte Fragen zu Partnern](custom_partner.md)
 # [Manuelles Upgrade für benutzerdefiniertes lernen](custom_upgrade.md)
-
