@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Voraussetzungen und Entscheidungen
 ms.date: 02/10/2019
 description: Entscheidungen und Voraussetzungen für benutzerdefinierte Lern Installation und-Einrichtung
-ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
+ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989706"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30408836"
 ---
 ## <a name="service-decisions"></a>Dienst Entscheidungen
 
-Sobald Ihre Voraussetzungen erfüllt sind und vor der Installation sollten Sie die folgenden Entscheidungen über Ihre Implementierung von CLO365 treffen:
+Nachdem Sie sichergestellt haben, dass die Voraussetzungen für benutzerdefiniertes lernen erfüllt sind, müssen Sie die folgenden Entscheidungen über Ihre Implementierung von benutzerdefiniertem lernen treffen:
 
 1. **Verfügen Sie bereits über ein Schulungsportal in Ihrem Unternehmen mit einer modernen Benutzeroberfläche?**
 
