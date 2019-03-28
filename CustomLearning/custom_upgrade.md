@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Benutzerdefiniertes Lern Upgrade
 ms.date: 02/10/2019
 description: Benutzerdefiniertes Learning for Office 365 Manual-Webpart-Setup
-ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
+ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543775"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936395"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Manuelles Upgrade für benutzerdefiniertes lernen
 
@@ -80,7 +80,7 @@ Bei der benutzerdefinierten Schulung für Office 365 wurden verschiedene Verbess
 1.  Klicken Sie auf der benutzerdefinierten Lernsite auf **Einstellungen**, und klicken Sie dann auf**Seite hinzufügen**.
 2.  Klicken Sie **+** auf das Symbol auf der Seite, um ein Webpart hinzuzufügen, und wählen Sie dann das Webpart **für die benutzerdefinierte schulung für Office 365** aus. Die Seite sollte jetzt ähnlich wie die folgende Grafik aussehen:
 
-[CG-adminapppage. png](media/cg-adminapppage.png)
+![CG-adminapppage. png](media/cg-adminapppage.png)
  
 ### <a name="replace-the-old-web-part-with-the-new-web-part"></a>Ersetzen des alten Webparts durch das neue Webpart
 Bevor Sie das benutzerdefinierte Lern Webpart ersetzen oder Änderungen an der Website vornehmen, empfehlen wir, dass Sie die Dokumentation zur [Lernumgebung anpassen](custom_overview.md) , wie Sie die Verwendung des neuen Webparts erläutert, lesen. 
