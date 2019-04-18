@@ -3,11 +3,16 @@ author: pkrebs
 ms.author: pkrebs
 title: Übersicht über die benutzerdefinierte Lernlösung für Office 365 Open Source
 ms.date: 02/10/2019
-description: 'Erfahren Sie, wie benutzerdefiniertes lernen für Office 365 die Nutzung und Einführung von Office 365 in Ihrer Organisation beschleunigen kann. Unsere Lösungen enthalten ein benutzerdefiniertes SharePoint Online-Webpart und eine moderne SharePoint Online Communications-Schulungswebsite, die problemlos für Ihren Office 365-Mandanten bereitgestellt werden kann.'
+description: Erfahren Sie, wie benutzerdefiniertes lernen für Office 365 die Nutzung und Einführung von Office 365 in Ihrer Organisation beschleunigen kann. Unsere Lösungen enthalten ein benutzerdefiniertes SharePoint Online-Webpart und eine moderne SharePoint Online Communications-Schulungswebsite, die problemlos für Ihren Office 365-Mandanten bereitgestellt werden kann.
+ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31922509"
 ---
-
-# <a name="custom-learning-for-office-365"></a>Benutzerdefiniertes lernen für Office 365
-Custom Learning für Office 365 (Custom Learning) ist eine anpassbare, bedarfsorientierte Schulungslösung, die die Nutzung und Akzeptanz von Office 365 in einer Organisation erhöht. 
+# <a name="custom-learning-for-office-365-beta-preview"></a>Benutzerdefiniertes Learning für Office 365 Beta Preview
+Custom Learning for Office 365 Beta Preview ist eine anpassbare, bedarfsorientierte Schulungslösung, die die Nutzung und Akzeptanz von Office 365 in einer Organisation erhöht.  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Bedarfsorientierte Schulung von Microsoft
 
