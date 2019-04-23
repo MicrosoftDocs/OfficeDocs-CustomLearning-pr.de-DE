@@ -5,11 +5,11 @@ title: Wo ist das benutzerdefinierte Lern Webpart?
 ms.date: 02/15/2019
 description: Erfahren Sie, wo das benutzerdefinierte Lern Webpart auf der benutzerdefinierten Lernsite angezeigt wird.
 ms.openlocfilehash: e1dff0c8624a69a299f718f0ce001000d0ca8dad
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103770"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056251"
 ---
 # <a name="wheres-the-custom-learning-web-part"></a>Wo ist das benutzerdefinierte Lern Webpart?
 

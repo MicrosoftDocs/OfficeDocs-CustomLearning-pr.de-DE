@@ -5,11 +5,11 @@ title: Hinzufügen von Objekten zu einer Wiedergabeliste
 ms.date: 02/17/2019
 description: Hinzufügen neuer und vorhandener Objekte zu einer benutzerdefinierten lernliste
 ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103510"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055963"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Hinzufügen von Objekten zu einer benutzerdefinierten Wiedergabeliste
 
@@ -44,7 +44,7 @@ Mit der Option **Asset Page erstellen** geben Sie einen Titel für das Objekt an
 
 ![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
 
-7. Klicken Sie auf **veröffentlichen**.
+7. Klicken Sie auf **Veröffentlichen**.
 8. Kehren Sie zur **benutzerdefinierten Learning Administration** -Seite zurück. 
 9. Füllen Sie die restlichen Eigenschaften für das Objekt aus, und klicken Sie dann auf **Ressource speichern.**
 
@@ -67,7 +67,7 @@ Geben Sie mit der Option **URL eingeben** einen Titel für das Objekt ein, und k
 
 Vorhandene Objekte bestehen aus von Microsoft bereitgestellten benutzerdefinierten Lernressourcen oder Ressourcen, die bereits zum benutzerdefinierten lernen durch Ihre Organisation hinzugefügt wurden. 
 
-- Geben Sie **** in das Suchfeld einen Suchbegriff ein, und wählen Sie dann ein Objekt aus den Suchergebnissen aus. Geben Sie in diesem Beispiel "Was ist Excel?" ein, um der Wiedergabeliste ein Excel-Einführungsthema hinzuzufügen.
+- Geben Sie **** in das Suchfeld einen Suchbegriff ein, und wählen Sie dann ein Objekt aus den Suchergebnissen aus. Geben Sie in diesem Beispiel "Was ist Excel?" ein. , um der Wiedergabeliste ein Excel-Einführungsthema hinzuzufügen.
 
 ![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
 

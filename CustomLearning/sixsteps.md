@@ -1,8 +1,8 @@
-# <a name="drive-adoption"></a>Bessere Akzeptanz
+# <a name="drive-adoption"></a>Laufwerk Einführung
 
-Bessere Akzeptanz von Ihren benutzerdefinierten Learning Lösung Erfahrungen mit diesen Schritten und Tools. 
+Führen Sie die Einführung Ihrer benutzerdefinierten Lern Lösungs Erfahrungen mit diesen einfachen Schritten und Tools aus. 
 
-Wir wissen, dass die Schulung Lösungen nur so gut wie die Verwendung sind in Ihrer Organisation empfangenen.  Deshalb haben wir diese einfachen Schritten und Vorlagen zur Bekanntheitsgrad und Akzeptanz unsere Tools erstellt.  
+Wir wissen, dass Schulungslösungen nur so gut sind, wie Sie in Ihrer Organisation verwendet werden.  Daher haben wir diese einfachen Schritte und Vorlagen erstellt, die Ihnen bei der Sensibilisierung und der Einführung unserer Tools helfen.  
 
 
 

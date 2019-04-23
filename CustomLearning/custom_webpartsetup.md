@@ -5,11 +5,11 @@ title: Einrichten der benutzerdefinierten Lernsite
 ms.date: 02/10/2019
 description: Stellen Sie die benutzerdefinierte Learning for Office 365-Website über das SharePoint-bereitstellungsModul zur Verfügung.
 ms.openlocfilehash: 83d76d2d12e9dfc0f39ef55c58443cb3fda2a2d9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523594"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056128"
 ---
 # <a name="provision-custom-learning"></a>Benutzerdefiniertes lernen einrichten
 

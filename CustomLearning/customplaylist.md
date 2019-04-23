@@ -5,11 +5,11 @@ title: Anpassen und Freigeben von Wiedergabelisten
 ms.date: 02/10/2019
 description: Erstellen benutzerdefinierter Wiedergabelisten aus vorhandenen Inhalten oder neuen SharePoint-Seiten
 ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989726"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056401"
 ---
 # <a name="customize-and-share-playlists"></a>Anpassen und Freigeben von Wiedergabelisten
 
@@ -22,7 +22,7 @@ Der Vorteil beim Hinzufügen von SharePoint-Seiten besteht darin, dass Sie Share
 #### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>Schritt 1: Erstellen einer SharePoint-Seite für Ihre Wiedergabeliste
 In diesem Beispiel erstellen wir zunächst eine SharePoint-Seite, die der Wiedergabeliste hinzugefügt werden soll. Wir erstellen eine Seite mit einem YouTube-Video-Webpart und einem Text WebPart.  Bei diesen Anweisungen wird davon ausgegangen, dass Sie den SharePoint Online-Dienst verwenden. 
 
-#### <a name="create-a-new-page"></a>Erstellen einer neuen Seite
+#### <a name="create-a-new-page"></a>Eine neue Seite erstellen
 1.  Wählen Sie das Menü Einstellungen > Site Contents > Site Pages > New > Site Page aus.
 2.  Geben Sie im Bereich Titel den Befehl Teams verwenden ein.
 3.  Wählen Sie den Abschnitt neuen hinzufügen aus, und wählen Sie dann zwei Spalten aus.
@@ -41,12 +41,14 @@ In diesem Beispiel erstellen wir zunächst eine SharePoint-Seite, die der Wieder
 
 #### <a name="step-2-create-the-playlist"></a>Schritt 2: Erstellen der Wiedergabeliste
 
-1. Navigieren Sie zur **benutzerdefinierten Learning Administration** -Seite in der Websiteumgebung. ![custom_admin. png](media/custom_admin.png)
+1. Navigieren Sie zur **benutzerdefinierten Learning Administration** -Seite in der Websiteumgebung.
+![custom_admin. png](media/custom_admin.png)
 1. Stellen Sie sicher, dass **Kategorie** ausgewählt ist. 
 1. Klicken Sie auf die Kategorie, in der die neue Wiedergabeliste angezeigt werden soll.
 1. Klicken Sie neben dem Namen der Kategorie auf das Pluszeichen ![custom_addplay. png.](media/custom_addplay.png)
 
-1. Geben Sie die Werte wie im folgenden Beispiel ein, und wählen Sie **Erstellen**aus. ![custom_details. png](media/custom_details.png)
+1. Geben Sie die Werte wie im folgenden Beispiel ein, und wählen Sie **Erstellen**aus. 
+![custom_details. png](media/custom_details.png)
 - **Title** – Anzeigename der Wiedergabeliste
 - **Beschreibung** – Informationen zu den erlernten
 - **Kategorie** -vorab ausgewählt basierend auf der anfänglichen Auswahl
@@ -65,7 +67,8 @@ In diesem Beispiel erstellen wir zunächst eine SharePoint-Seite, die der Wieder
 In diesem Schritt fügen Sie vorhandene Objekte aus Microsoft und die von Ihnen erstellte SharePoint-Seite der Wiedergabeliste hinzu. 
 
 1. Nachdem Sie die Details für Ihre Wiedergabeliste gespeichert haben, können Sie die Suche nach vorhandenen Objekten verwenden.
-1. **Geben Sie in einen beliebigen Suchbegriff** ein, um eine Liste der vordefinierten Objekte anzuzeigen, die von anderen Wiedergabelisten zur Verfügung stehen. **Klicken Sie auf den Namen** eines Objekts, um es in die neue Wiedergabeliste einzufügen. ![custom_slist. png](media/custom_slist.png)
+1. **Geben Sie in einen beliebigen Suchbegriff** ein, um eine Liste der vordefinierten Objekte anzuzeigen, die von anderen Wiedergabelisten zur Verfügung stehen. **Klicken Sie auf den Namen** eines Objekts, um es in die neue Wiedergabeliste einzufügen.
+![custom_slist. png](media/custom_slist.png)
 
 Sie können auch die zuvor erstellte SharePoint-Seite hinzufügen oder eine von Grund auf neu erstellen.
 

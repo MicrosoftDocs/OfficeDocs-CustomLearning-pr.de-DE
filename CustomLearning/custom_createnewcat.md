@@ -5,11 +5,11 @@ title: Erstellen einer neuen Unterkategorie
 ms.date: 02/17/2019
 description: Erstellen einer neuen Unterkategorie mit benutzerdefiniertem Lernprozess
 ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103740"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055450"
 ---
 # <a name="create-a-subcategory"></a>Erstellen einer Unterkategorie 
 In einigen Fällen möchten Sie eine neue Unterkategorie erstellen. Wenn die Unterkategorie erste Tage beispielsweise für Ihre Organisation nicht funktioniert, können Sie eine neue SubCategory erstellen und ihr dann Wiedergabelisten hinzufügen, um die Anforderungen Ihrer Organisation zu erfüllen. 

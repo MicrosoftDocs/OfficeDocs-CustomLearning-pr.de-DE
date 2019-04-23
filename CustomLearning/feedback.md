@@ -3,29 +3,29 @@ author: karuanag
 ms.author: karuanag
 title: Feedback und Support
 ms.date: 02/10/2019
-description: Feedback und Support-Informationen für benutzerdefinierte Informationen für Office 365
+description: Feedback-und Supportinformationen für benutzerdefiniertes lernen für Office 365
 ms.openlocfilehash: 3a403b986b127fb5ea84dc43d5d91d62079803ce
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951189"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055323"
 ---
 # <a name="feedback-and-support"></a>Feedback und Support
 
-Dieses open-Source-Projekt wird über unsere [online Problemliste](https://aka.ms/CustomLearningHelp) auf GitHub unterstützt. Diese Lösungen werden durch eine vorhandene Microsoft-Support-Vertrag nicht behandelt.  
+Dieses Open Source-Projekt wird über unsere [Online-Problemliste](https://aka.ms/CustomLearningHelp) auf GitHub unterstützt. Diese Lösungen werden nicht von einem vorhandenen Microsoft-Supportvertrag abgedeckt.  
 
-## <a name="report-issues"></a>Probleme mit Berichten
+## <a name="report-issues"></a>Probleme melden
 
-Wenn Sie Probleme mit der open-Source-Websitevorlage oder Webpart haben bietet, die auf die benutzerdefinierte Learning Geben Sie Erfahrung Ihres Problems in unseren GitHub Problemliste.  Sie können diese Liste beim finden.https://aka.ms/CustomLearningHelp  
+Wenn Sie Probleme mit der Vorlage Open Source-Website oder Webpart haben, die die benutzerdefinierte Lernumgebung bereitstellt, geben Sie Ihr Problem in der Liste GitHub-Probleme ein.  Diese Liste finden Sie unterhttps://aka.ms/CustomLearningHelp  
 
-Als standard mit der open-Source-Lösungen ist entgegen der Community für Lösung dieser Probleme.  Featureanfragen werden in unserer Benutzer VoIP-Instanz, die unten aufgeführten übertragen.  Code Bugs werden an die Community und -Dienst-Manager Ursachenanalyse und Auflösung weitergegeben.  
+Wie es bei Open Source-Lösungen der Fall ist, gibt die Community diese Probleme zur Lösung.  Feature-Anfragen werden in unsere Benutzer-VoIP-Instanz übertragen, die unten beschrieben wird.  Code Fehler werden an die Community und Dienst Manager für die Triage und die Lösung eskaliert.  
 
-## <a name="provide-us-feedback"></a>Geben Sie uns feedback
+## <a name="provide-us-feedback"></a>Geben Sie uns Feedback
 
-Unsere Lösung ist nur erfolgreich, wenn sie Ihre Geschäftsergebnisse aktivieren ist!  Bitte helfen Sie uns sie durch das Erteilen von uns regulären Feedback über [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)verbessern können.  Wir überprüfen Sie regelmäßig alle Kommentare und Fragen.
+Unsere Lösung ist nur ein Erfolg, wenn Sie Ihre geschäftlichen Ergebnisse ermöglicht!  Bitte helfen Sie uns, es besser zu machen, indem Sie uns regelmäßig über [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)Feedback geben.  Wir überdenken regelmäßig alle Ihre Kommentare und Fragen.
 
-## <a name="usage-questions"></a>Fragen zur Verwendung
+## <a name="usage-questions"></a>Verwendungs Fragen
 
-Für Fragen zu bewährten Methoden bei der Verwendung der Learning-Schulungsportal und seinen Inhalt in den Foren [Gesteuerter Annahme](https://aka.ms/DriveAdoption) in der technischen Microsoft-Community unter uns teilnehmen https://aka.ms/DriveAdoption. 
+Fragen zu bewährten Vorgehensweisen bei der Verwendung des Lernportals und seiner Inhalte finden Sie unter " [Driving Adoption](https://aka.ms/DriveAdoption) Forums https://aka.ms/DriveAdoptionon the Microsoft Technical Community at". 
 

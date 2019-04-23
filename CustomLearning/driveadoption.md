@@ -6,11 +6,11 @@ ms.author: karuanag
 ms.date: 3/13/19
 ms.topic: getting-started
 ms.openlocfilehash: a6e1f7dc24ac98def19300ccc38f775e5750da7c
-ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30577841"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056018"
 ---
 # <a name="drive-adoption-of-your-learning-portal"></a>Einführung des Lernportals
 

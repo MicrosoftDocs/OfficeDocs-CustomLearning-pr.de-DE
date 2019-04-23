@@ -1,6 +1,6 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source-Verhaltensregeln
 
-### <a name="contributing"></a>Beisteuern
+### <a name="contributing"></a>Mitwirkung
 
 Dieses Projekt begrüßt Beiträge und Anregungen.  Bei den meisten Beiträgen müssen Sie einem mitWirkenden Lizenzvertrag (CLA) zustimmen, der erklärt, dass Sie das Recht haben, uns die Rechte zur Nutzung Ihres Beitrags zu übertragen. Weitere Informationen finden Sie https://cla.microsoft.comunter.
 
@@ -12,7 +12,9 @@ In diesem Projekt wurden die [Microsoft Open Source-Verhaltensregeln](https://op
 
 Microsoft und alle Mitwirkenden gewähren Ihnen eine Lizenz für die Microsoft-Dokumentation und andere Inhalte in diesem Repository unter der [Creative Commons attribution 4,0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), finden Sie in der [Lizenz](LICENSE) Datei, und gewähren Sie eine Lizenz für alle Code im Repository unter der [mit-Lizenz](https://opensource.org/licenses/MIT)finden Sie in der [Lizenzcode](LICENSE-CODE) Datei.
 
-Microsoft, Windows, Microsoft Azure und/oder andere Microsoft-Produkte und-Dienste, auf die in der Dokumentation verwiesen wird, sind möglicherweise Marken oder eingetragene Marken von Microsoft in den USA und/oder anderen Ländern. Die Lizenzen für dieses Projekt gewähren Ihnen keine Rechte zur Verwendung von Microsoft-Namen,-Logos oder-Marken. Die allgemeinen Markenrichtlinien von Microsoft finden Sie unter http://go.microsoft.com/fwlink/?LinkID=254653.
+Microsoft, Windows, Microsoft Azure und/oder andere Microsoft-Produkte und-Dienste, auf die in der Dokumentation verwiesen wird, sind möglicherweise Marken oder eingetragene Marken von Microsoft in den USA und/oder anderen Ländern.
+Die Lizenzen für dieses Projekt gewähren Ihnen keine Rechte zur Verwendung von Microsoft-Namen,-Logos oder-Marken.
+Die allgemeinen Markenrichtlinien von Microsoft finden Sie unter http://go.microsoft.com/fwlink/?LinkID=254653.
 
 Datenschutzinformationen finden Sie unter https://privacy.microsoft.com/en-us/.
 

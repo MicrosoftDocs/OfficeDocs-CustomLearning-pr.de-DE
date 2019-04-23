@@ -5,11 +5,11 @@ title: Hinzufügen und Bearbeiten des benutzerdefinierten Lern Webparts
 ms.date: 02/17/2019
 description: Hinzufügen des benutzerdefinierten Lern Webparts zu einer SharePoint-Seite
 ms.openlocfilehash: bfe74baadfc05b698f87865f9a628116d7b07e65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103850"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055700"
 ---
 # <a name="add-and-edit-the-custom-learning-web-part"></a>Hinzufügen und Bearbeiten des benutzerdefinierten Lern Webparts
 
@@ -41,4 +41,4 @@ Sie können das benutzerdefinierte Lern Webpart bearbeiten, um alle verfügbaren
 ## <a name="add-a-title-and-publish-the-page"></a>Hinzufügen eines Titels und Veröffentlichen der Seite
 1. Geben Sie im Titelbereich der Seite "eigene Erfahrung erstellen" ein.
 2. Klicken Sie im Titelbereich auf das Symbol " **Webpart bearbeiten** ", wählen Sie unter **Layout**die Option **Plain** aus, und schließen Sie dann den Bereich **Eigenschaften** .
-3. Klicken Sie auf **veröffentlichen**.
+3. Klicken Sie auf **Veröffentlichen**.

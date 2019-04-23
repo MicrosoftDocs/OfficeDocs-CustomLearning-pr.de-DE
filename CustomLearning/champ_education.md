@@ -1,22 +1,22 @@
 ---
 Titel: ''
 ms.openlocfilehash: 80f12da704ef2ea8304c49a7ede3d36e33375ae1
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733736"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055410"
 ---
-# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Überprüfen Sie Ihre Kenntnisse - ein Dienst Akzeptanz Spezialisten werden
+# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>ÜberPrüfen ihrer Kenntnisse – zum Spezialisten für die Dienst Einführung werden
 
-![Dienst Annahme Specialist-Kurs](media/champs_sascourse.png)
+![Specialist Course für die Dienst Einführung](media/champs_sascourse.png)
 
-Wenn Dienst Annahme ein Teil Ihrer Rolle ist oder mit formelle Schulung tiefer zu diesem Thema finden Sie wechseln möchten, können Sie in der online-Kurs auf unsere Partner-Website EdX.org von Microsoft bereitgestellt registrieren. 
+Wenn die Dienst Einführung Teil ihrer Rolle ist oder Sie sich mit der formellen Schulung zu diesem Thema vertiefen möchten, können Sie sich am Online Kurs von Microsoft auf unserer Partnerwebsite EdX.org. 
 
-Dieser [Dienst Annahme Specialist-Online-Kurs](https://aka.ms/AdoptionCert) kann **seine überwachen**.  Wenn Sie Ihr Zertifikat EdX für eine Gebühr durchgearbeitet $99,00 erhalten möchten, ist erforderlich.  In diesem Kurs wurde von [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) von Microsoft-Teams Engineering mit Eingaben von mehreren Microsoft-MVP und Microsoft IT-Experten verfasst.  Die bewährten Methoden enthaltenen haben aus der Branche als Ganzes erfasst wurden, und um eine formelle organisatorische Änderung Management Education kostenlosen sind.  
+Dieser [Spezialist für die Dienst Einführung](https://aka.ms/AdoptionCert) ist **kostenlos zu**überwachen.  Wenn Sie Ihr EdX-Zertifikat zum Abschluss erhalten möchten, ist eine Gebühr von $99,00 erforderlich.  Dieser Kurs wurde von [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) von Microsoft Teams Engineering mit Eingaben von mehreren Microsoft MVP-und Microsoft-IT-Experten erstellt.  Die bewährten Vorgehensweisen in wurden aus der Beobachtung der Branche als Ganzes und sind kostenlos für eine formelle organisatorische Change Management Education.  
 
-Ihnen praktische Leitfäden, Tools und weitere Inhalte sind in diesem Kurs enthalten, die Sie Ihrer Skils in diese Funktion wichtige geschäftliche überprüfen können.  
+In diesem Kurs sind praktische Hinweise, Tools und zusätzliche Inhalte enthalten, mit denen Sie Ihre skils in dieser wichtigen Geschäftsfunktion validieren können.  
 
-Erfahren Sie mehr in unseren [Ankündigung](https://aka.ms/AdoptionCertAnnouncement) über die Veröffentlichung von diesem Kurs. 
+Weitere Informationen finden Sie in unserer [Ankündigung](https://aka.ms/AdoptionCertAnnouncement) zur Veröffentlichung dieses Kurses. 
 
-Teilnehmen an unsere online-Community Geschäftsbenutzer und IT-Experten Informationen zur Annahme unter https://aka.ms/DriveAdoption. 
+Besuchen Sie unsere Online-Community von Business-Benutzern und IT-Experten https://aka.ms/DriveAdoptionund erfahren Sie mehr über die Einführung unter. 

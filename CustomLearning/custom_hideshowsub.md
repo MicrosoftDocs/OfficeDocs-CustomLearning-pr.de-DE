@@ -5,11 +5,11 @@ title: Ausblenden und Anzeigen von Unterkategorien
 ms.date: 02/18/2019
 description: Ausblenden, anzeigen, bearbeiten und Löschen von Unterkategorien
 ms.openlocfilehash: a1177f769bf2734926e5ae76e71a14fe60cf2c1a
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103750"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055555"
 ---
 # <a name="hide-and-show-subcategories"></a>Ausblenden und Anzeigen von Unterkategorien
 

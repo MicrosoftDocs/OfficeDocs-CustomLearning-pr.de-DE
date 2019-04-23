@@ -5,11 +5,11 @@ title: Benutzerdefinierte Lern Setup Optionen
 ms.date: 02/11/2019
 description: Setup Option für benutzerdefiniertes Lern Setup
 ms.openlocfilehash: d2bb1d98d7eceb63e0cf2bdbf9eead1289641a20
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523009"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056038"
 ---
 # <a name="custom-learning-setup-options"></a>Benutzerdefinierte Lern Setup Optionen
 Benutzerdefiniertes lernen für Office 365 bietet die Flexibilität, die Lösung auf verschiedene Weisen einzurichten. In den folgenden Abschnitten werden die verfügbaren Optionen erläutert.

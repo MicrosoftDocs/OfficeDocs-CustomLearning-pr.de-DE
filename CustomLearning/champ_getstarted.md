@@ -1,45 +1,45 @@
 ---
-Titel: ''
+Title: ''
 ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733732"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055390"
 ---
-# <a name="establish-champions-for-user-adoption"></a>Einrichten von Champions für Benutzerakzeptanz 
+# <a name="establish-champions-for-user-adoption"></a>Festlegen von Champions für die Benutzerakzeptanz 
 
-Organisatorische Änderungsmanagement ist die Kunst Ändern des Verhaltens einer gezielten Gruppe von Personen. Es ist ein hohes Maß an Science und dem Recherchedienst in dieser Methode wird unterstützt. In den folgenden Artikeln werden wir Ihnen dabei helfen Laufwerk die Annahme wichtige Dienstleistungen, die zu Geschäftsergebnisse in Ihrem Unternehmen führt.  Unsere best Practices nach verkürzt Ihrer Termine, messbaren Wert von Office 365 einrichten.  
+Organizational Change Management ist die Kunst, das Verhalten einer Zielgruppe von Personen zu ändern. Diese Vorgehensweise wird durch Wissenschaft und Forschung unterstützt. In diesen Artikeln werden wir Ihnen helfen, die Einführung wichtiger Dienste voranzutreiben, die zu geschäftlichen Ergebnissen in Ihrem Unternehmen führen.  Nach unseren Best Practices verkürzen Sie Ihre Zeit, um messbaren Nutzen aus Office 365 zu gewinnen.  
 
-Ein Champions-Programm ist ein wesentlicher Bestandteil treibende Annahme. Diese Einflussnehmer in Ihrem Unternehmen bieten viele benötigt Unterstützung und Förderung Mitarbeiter, die die neue Technologie einführen. Lesen Sie diese Seiten, damit Sie informiert zum Erstellen Ihrer Anpassungsplan und ein eigenes belohnungen Programm ausführen möchten. 
+Ein Champions-Programm ist ein wesentlicher Bestandteil der Einführung. Diese Einflussnehmer in Ihrem Unternehmen bieten dringend erforderliche Unterstützung und Ermutigung für Mitarbeiter, die die neue Technologie einführen. Lesen Sie diese Seiten, um sich über die Erstellung Ihres Adoptions Plans zu informieren und Ihr eigenes championprogramm auszuführen. 
 
 > [!NOTE]
-> Sie können aktualisieren oder ersetzen diese Wiedergabeliste mit Informationen über ein eigenes Programm als Referenz in Ihrer Organisation.
+> Sie können diese Wiedergabeliste mit Informationen zu Ihrem eigenen Programm als Referenz für Ihre Organisation aktualisieren oder ersetzen.
 
-## <a name="who-are-champions-and-what-makes-them-tick"></a>Wer sind Champions und was sie macht Teilstrich?
+## <a name="who-are-champions-and-what-makes-them-tick"></a>Wer sind Champions und was macht Sie Ticken?
 
-Champions sind nicht nur was sie tun, aber freuen uns auch ihr Wissen austauschen und Hilfe von Kollegen effektivere Lösungen erfahren Sie, persönlich. Champions sind Begeisterte und häufig frustriert mit den vorhandenen Tools. Sie helfen Ihnen bei die Watercooler beständiges Herausforderung gewinnen!  
+Champions sind nicht nur leidenschaftlich über das, was Sie tun, sondern freuen sich auch, Ihr Wissen zu teilen und ihren Mitarbeitern zu helfen, effizientere Lösungen zu erlernen. Champions sind begeistert und oft mit vorhandenen Tools frustriert. Sie helfen Ihnen dabei, die Watercooler Buzz Challenge zu gewinnen.  
 
-Wir glauben, dass es auf sinnvolle Weise Belohnung von Champions wichtig ist. Einige Vorschläge lauten:
+Wir halten es für wichtig, Champions auf sinnvolle Weise zu belohnen. Einige Vorschläge sind:
 
-- Ermöglicht es erfolgreich Mitgliedschaft in das Belohnungen Programm zur Teilnahme an der Mitarbeiter Leistung überprüfen
-- Bestätigen Sie Ihr die meisten erfolgreichen Champions mit Chancen Office Swag und Mitarbeiter Sozialleistungen  
-- Beteiligen Sie Ihre Champions mit fortlaufenden Schulungen und Inhalt, den sie entlang an andere Mitarbeiter weitergeben können 
+- Ermöglichen der erfolgreichen Mitgliedschaft im Championprogramm, zur Leistungsüberprüfung der Mitarbeiter beizutragen
+- Bestätigen Sie Ihre erfolgreichsten Champions mit Prämien für Office-Beute-und Mitarbeiter-Perks.  
+- Engagieren Sie Ihre Champions mit fortlaufendem Training und Inhalten, die Sie an andere Mitarbeiter weiterleiten können. 
 
-Die belohnungen Persönlichkeit nicht in der Regel aufgrund dieser für Champions, sondern ein, da es eine sinnvolle und messbare Erfahrung für diese erstellt, die Mitarbeiterzufriedenheit unterstützt. 
+Die Persönlichkeit des Meisters hat sich in der Regel nicht aufgrund dieser Belohnungen engagiert, sondern vielmehr deshalb, weil Sie für Sie eine sinnvollere und messbarere Erfahrung schafft, die zur Mitarbeiterzufriedenheit beiträgt. 
 
 ## <a name="why-are-champions-important"></a>Warum sind Champions wichtig? 
 
-Lernen über Mitarbeiter ist zwischen die effektivste Learning in einer Umgebung mit professional. Champions bietet auch Ihre Annahme Programm wertvolle Erkenntnisse zu den ist und funktioniert nicht zu Ihrer Bereitstellung, Schulungsprogramm und allgemeine Stimmung bezüglich der Änderungen, die Sie implementieren.  
+Das Lernen über Kollegen gehört zu den effektivsten Lernmethoden in einem professionellen Umfeld. Champions bieten Ihrem Adoptionsprogramm auch wertvolle Einblicke darüber, was über Ihre Dienstbereitstellung, Ihr Schulungsprogramm und ihre allgemeine Stimmung hinsichtlich der von Ihnen implementierten Änderungen funktioniert und was nicht.  
 
-![Prozent mit Methode Vs Nützlichkeit lernen](media/champstats.png)
+![Prozent mit Lernmethode und Hilfsbereitschaft](media/champstats.png)
 
-## <a name="how-will-champions-support-you"></a>Wie werden Champions unterstützt?
+## <a name="how-will-champions-support-you"></a>Wie werden Sie von Champions unterstützt?
 
-Reduzieren die Belastung der Ressourcen des Projektteams Core-Kachel und Hilfe Laufwerk Engagements in der gesamten Gemeinschaft ist Champions helfen. Sie werden auch:
+Champions werden dazu beitragen, die Ressourcen des Kern Projekts zu reduzieren und das Engagement in der gesamten Community zu fördern. Sie können auch Folgendes tun:
 
-1. Erstellen der Groundswell ein, die Akzeptanz verbesserte Methoden zum Arbeiten wächst Begeisterungsfähigkeit
-1. Erstellen Sie einen Kreis Einfluss angemessen ihre teams
-1. Schalten Sie die neue Methoden zum Arbeiten mit verschiedenen Teams bezeichnet Lebensdauer
-1. Identifizieren von Problemen konfrontiert und mögliche Lösungen
-1. Geben Sie Feedback an das Projektteam und Sponsor
+1. Erstellen der Welle eine Begeisterung, die die Einführung verbesserter Arbeitsweisen vergrößert
+1. Einen Einflusskreis in ihren Teams aufbauen
+1. Holen Sie sich die neuen Arbeitszeiten in Teams
+1. Identifizieren geschäftlicher Herausforderungen und möglicher Lösungen
+1. Geben Sie dem Projektteam und den Sponsoren Feedback.

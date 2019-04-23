@@ -1,18 +1,18 @@
 ---
-Titel: ''
+Title: ''
 ms.openlocfilehash: 52e14df0552c7809f0abb856f8d0a4dd9f80ae75
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733726"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055470"
 ---
 # <a name="office-365-champions-program"></a>Office 365 Champions-Programm 
 
-![Stellen Sie einen "Champion" werden Differenz](media/makeadifference.png)
+![machen Sie einen Unterschied zu einem Champion](media/makeadifference.png)
 
-Microsoft bietet ein kostenlose Office 365 Champions Programm zur Unterstützung der weltweit Belohnungen Rolle.  Dieses Programm bietet einer Onlinecommunity, monatliche Community-Anrufe und Inhalte gesteuerter Annahme für eine Vielzahl von Diensten in Office 365.
+Microsoft stellt ein kostenloses Office 365 Champions-Programm zur Unterstützung der Weltmeister-Rolle bereit.  Dieses Programm bietet eine Online Community, monatliche Community Calls und Inhalte, die für eine Vielzahl von Diensten in Office 365.
 
-Dieses Programm ist für alle Benutzer geöffnet.  Es wird empfohlen, dass mindestens werden alle Benutzer in ihrer Organisation ein Belohnungen Programm ausführen, erhalten Sie Zugriff auf Champion Mitglied Schulungsunterlagen, die in ihrer eigenen Programm genutzt werden können. 
+Dieses Programm ist für alle Benutzer geöffnet.  Es wird empfohlen, dass mindestens jeder, der ein Championprogramm in seiner Organisation ausführt, Mitglied ist, um Zugang zu Champion-Schulungsmaterialien zu erhalten, die in Ihrem eigenen Programm verwendet werden können. 
 
-Registrieren Sie sich heute sich ein Teil der weltweit Community anhttps://aka.ms/O365Champions  
+Registrieren Sie sich noch heute, um ein Teil der weltweiten Community zu werden.https://aka.ms/O365Champions  

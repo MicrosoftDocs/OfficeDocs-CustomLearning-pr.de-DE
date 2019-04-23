@@ -5,11 +5,11 @@ title: Verknüpfen mit benutzerdefinierten Lernobjekten
 ms.date: 02/15/2019
 description: Verknüpfen von benutzerdefinierten Lernobjekten
 ms.openlocfilehash: cdde37f370663ca50241833a15e8411921b45a1b
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103730"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056153"
 ---
 # <a name="link-to-custom-learning-content"></a>Link zu benutzerdefinierten Lerninhalten
 
@@ -32,7 +32,7 @@ Wenn Sie neue Seiten und Lernerfahrungen mit dem benutzerdefinierten Lern Webpar
 5. Schließen Sie den Bereich Hero-Eigenschaften, klicken Sie auf **veröffentlichen**, und testen Sie dann den Link. 
 
 ## <a name="link-to-the-custom-learning-web-part"></a>Link zum benutzerdefinierten Lern Webpart
-Benutzerdefiniertes Lernen bietet Ihnen, dem Administrator oder einem Endbenutzer die Möglichkeit, eine Verknüpfung zu einer Instanz des Webparts zu erstellen, die unabhängig von der Seite ist, die das Webpart enthält. Sie können den kopierten Link von anderen Seiten aus freigeben. Beim Klicken auf die kopierte Verknüpfung wird die benutzerdefinierte Lern Webpart-Instanz auf der Seite CustomLLearningViewer. aspx angezeigt. Sehen wir uns ein Beispiel an. 
+Benutzerdefiniertes Lernen bietet Ihnen, dem Administrator oder einem Endbenutzer die Möglichkeit, eine Verknüpfung zu einer Instanz des Webparts zu erstellen, die unabhängig von der Seite ist, die das Webpart enthält. Sie können den kopierten Link von anderen Seiten aus freigeben. Beim Klicken auf die kopierte Verknüpfung wird die benutzerdefinierte Lern Webpart-Instanz auf der Seite CustomLLearningViewer. aspx angezeigt. Hier ist ein Beispiel. 
 
 1. Klicken Sie auf der Startseite auf **Office 365 Training**.
 2. Klicken Sie auf **Microsoft Teams**, und klicken Sie dann auf **Einführung in Microsoft Teams**.

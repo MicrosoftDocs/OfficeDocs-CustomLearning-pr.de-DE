@@ -5,11 +5,11 @@ title: Ausblenden und Anzeigen von Wiedergabelisten
 ms.date: 02/15/2019
 description: Ausblenden und Anzeigen von Wiedergabelisten
 ms.openlocfilehash: b0c3c2cc9c5803b6e4149ad914d22281691638ca
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103820"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055605"
 ---
 # <a name="hide-and-show-playlists"></a>Ausblenden und Anzeigen von Wiedergabelisten
 

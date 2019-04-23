@@ -1,20 +1,20 @@
 ---
 Titel: ''
 ms.openlocfilehash: d306c62b264a0198967fedb259db06cf8fe472e9
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733724"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055255"
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a>In der Praxis Anleitungen für Ihr Programm Champions
+# <a name="real-world-guidance-for-your-champions-program"></a>Real World Guidance für Ihr Champions-Programm
 
-Zeigen Sie die Videos in der Praxis Anleitung zum Erstellen von Ihr Programm Champions.  
+Sehen Sie sich diese Videos mit der realen Welt an, um Ihr Champions-Programm zu erstellen.  
 
-Simon Denton, Business-Architekt bei Mott MacDonald
+Simon Denton, Business Architect bei Mott MacDonald
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Pouneh Kaufman & Sara Bush von Microsoft IT besprechen Erstellen eines Programms Champions bei Microsoft
+Pouneh Kaufman & Sara Bush von Microsoft IT discuss Building a Champions program at Microsoft
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]

@@ -5,11 +5,11 @@ title: Voraussetzungen und Entscheidungen
 ms.date: 02/10/2019
 description: Entscheidungen und Voraussetzungen für benutzerdefinierte Lern Installation und-Einrichtung
 ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30408836"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055265"
 ---
 ## <a name="service-decisions"></a>Dienst Entscheidungen
 

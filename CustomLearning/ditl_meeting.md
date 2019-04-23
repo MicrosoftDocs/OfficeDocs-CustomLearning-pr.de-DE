@@ -1,17 +1,17 @@
 ---
-Titel: ''
+Title: ''
 ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733737"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056098"
 ---
 # <a name="meeting-at-the-office"></a>Besprechung im Büro
 
-![Visual Zug](media/ditl_meeting.png)
+![Pendeln visuell](media/ditl_meeting.png)
 
-Es ist 10:00 Uhr und die Uhrzeit für die Besprechung. In diesem Abschnitt zeigen wir Ihnen wie Ihre Besprechungen steigern können.  Dieser Schritt umfasst das bewährte Methoden für die Besprechung zur Vorbereitung und Office 365-Tools.  
+Es ist 10:00 Uhr und Zeit für Ihre Besprechung. In diesem Abschnitt erfahren Sie, wie Sie Ihre Besprechungen produktiver gestalten können.  Dies umfasst bewährte Methoden für Besprechungsvorbereitung und Office 365-Tools.  
 
 ## <a name="tools"></a>Tools
 - Outlook
@@ -19,48 +19,48 @@ Es ist 10:00 Uhr und die Uhrzeit für die Besprechung. In diesem Abschnitt zeige
 - Skype for Business
 - OneNote
 
-## <a name="checklist-for-your-meeting"></a>Prüfliste für die Besprechung
-- Planen und Ihrer Besprechung buchen
+## <a name="checklist-for-your-meeting"></a>PrüfListe für Ihre Besprechung
+- Planen und Buchen einer Besprechung
 - Teilnehmen an einer Besprechung
-- Stellen Sie Informationen in einer Besprechung
+- Darstellen von Informationen in einer Besprechung
 - Verwenden von OneNote in einer Besprechung für die gemeinsame Erstellung und Notizen
-- Verwenden Sie zum Nachverfolgen von Aufgaben für dieses Projekt Planner in einer Besprechung
-- Beenden Sie eine Besprechung
+- Verwenden von Planner in einer Besprechung zum Nachverfolgen von Aktionselementen für dieses Projekt
+- Beenden einer Besprechung
  
-## <a name="plan-and-book-your-meeting"></a>Planen und Ihrer Besprechung buchen
-Es gibt einige Dinge, die Sie tun können, um sicherzustellen, dass Ihre Besprechung produktiv ist wie möglich:
+## <a name="plan-and-book-your-meeting"></a>Planen und Buchen einer Besprechung
+Es gibt ein paar Dinge, die Sie tun können, um sicherzustellen, dass Ihre Besprechung so produktiv wie möglich ist:
 
-1. **Benötigen Sie eine Besprechung?** Berücksichtigen Sie zuerst eine Datei im Chat mit der erforderlichen genehmigende Personen nutzt.  
-1. **Haben eine klare Agenda.**  Einschließen der Tagesordnung in den Notizenbereich von Ihre Einladung zur onlinebesprechung, damit Teilnehmer vorbereitet werden können.
-1. **Datensatz Ihrer Besprechung**  Verwenden von besprechungsaufzeichnung-Funktionen in Microsoft-Teams, die Besprechung mit Personen gemeinsam verwenden, die nicht teilnehmen konnten oder zu einem späteren Zeitpunkt Notizen aufzuzeichnen.  
+1. **Benötigen Sie eine Besprechung?** Erwägen Sie zunächst die Freigabe einer Datei im Chat mit den erforderlichen genehmigenden Personen.  
+1. **Eine klare Agenda haben.**  Schließen Sie Ihre Besprechungsagenda in den Abschnitt "Notizen" Ihrer Online-Besprechungseinladung ein, damit Teilnehmer vorbereitet werden können.
+1. **Aufzeichnen der Besprechung**  Verwenden Sie Besprechungs Aufzeichnungsfunktionen in Microsoft Teams, um die Besprechung mit Personen zu teilen, die später nicht teilnehmen oder Notizen übertragen können.  
 
-Nachdem Sie diese Besprechung buchen möchten: Buch der Besprechung mithilfe von Microsoft-Teams oder Skype für Unternehmen details in Outlook. Dadurch kann also, Teammitglieder aus unterschiedlichen Standorten enthalten, wie Video (sofern verfügbar) zur Verbesserung der Kommunikation und Aufzeichnen der Besprechung. 
+Jetzt können Sie diese Besprechung buchen: buchen Sie die Besprechung mit Microsoft Teams oder Skype for Business-Details in Outlook. Auf diese Weise können Sie Teammitglieder von unterschiedlichen Standorten aufnehmen, die Besprechung aufzeichnen und Video (sofern verfügbar) zur Verbesserung der Kommunikation verwenden. 
 
 ![Teams in Outlook ](media/ditl_teamsoutlook.png)
 
 ## <a name="join-a-meeting"></a>Teilnehmen an einer Besprechung
-Teilnehmen an, unabhängig vom Standort. Es ist möglich, einen Microsoft-Teams oder Skype für Business Besprechung aus an einer beliebigen Stelle mit einem mobilen Gerät einwählen, die Details der Besprechung die Einwahlnummer oder mit der mobilen apps verbinden. Wenn Sie die mobilen apps verwenden, werden Sie verantwortungsbewusste für mobile Daten Einschränkungen, die für Sie oder Ihr Land gelten.
+Von überall aus beitreten. Ein mobiles Gerät kann an einer Microsoft Teams-oder Skype for Business-Besprechung teilnehmen, indem Sie die Einwahlnummer in den Besprechungsdetails oder über die mobilen apps anrufen. Achten Sie bei der Verwendung der mobilen apps auf die Grenzwerte für die mobile Datennutzung, die für Sie oder Ihr Land gelten.
 
-![Teams meeting Join-Benachrichtigung](media/ditl_teamsjoin.png)
-
-> [!TIP]
-> **Verwenden eine Kopfhörer.** Wenn Sie von Ihrem Computer am Schreibtisch herstellen, verwenden Sie eine Kopfhörer statt Ihres Computers integrierten Mikrofon und Lautsprecher, um eine bessere Anrufqualität sicherzustellen.
+![Teilnahme Benachrichtigung für Teams-Besprechung](media/ditl_teamsjoin.png)
 
 > [!TIP]
-> Aktivieren Sie das Video! Wenn Kameras verfügbar sind, lohnt verwenden können, wie persönliche Kommunikation nichtverbale Cues, die ausgelassen werden können bereitstellt, wenn Sie nur VoIP verwenden. Keine Sorge, Ihre haarstrich hervorragend aussieht. 
+> **Verwenden Sie ein Headset.** Wenn Sie eine Verbindung von Ihrem Computer an Ihrem Schreibtisch herstellen, verwenden Sie anstelle des integrierten Mikrofons und der Lautsprecher ein Headset, um eine bessere Anrufqualität sicherzustellen.
 
-## <a name="present-information-in-a-meeting"></a>Stellen Sie Informationen in einer Besprechung
-Freigeben von Inhalten vom Gerät ist eine hervorragende Möglichkeit zum konzentrieren Ihrer Besprechung, und geben Sie im Rahmen dieser Diskussion Kontext. Der gesamte Bildschirmfreigabe kann im Allgemeinen eine gute Idee sein. Dies bedeutet, dass alle Elemente, die auf dem Bildschirm angezeigt wird auf den Bildschirmen der Personen, die an der Besprechung angezeigt wird. Vermeiden Sie dies können Sie, indem Sie einfach den Inhalt, den Sie in der Microsoft-Teams, freigeben möchten. 
+> [!TIP]
+> Schalten Sie Ihr Video ein! Wenn Kameras zur Verfügung stehen, lohnt es sich, Sie zu verwenden, da Face-to-Face-Kommunikation nicht verbale Hinweise liefert, die bei der Verwendung von Voice ausgelassen werden können. Keine Sorge, Ihr Haar sieht gut aus. 
+
+## <a name="present-information-in-a-meeting"></a>Darstellen von Informationen in einer Besprechung
+Das Freigeben von Inhalten auf Ihrem Gerät ist eine hervorragende Möglichkeit, um Ihre Besprechung zu fokussieren und den Kontext für die Diskussion bereitzustellen. Im Allgemeinen kann das Freigeben des gesamten Bildschirms eine schlechte Idee sein. Dies führt dazu, dass alle Elemente, die auf dem Bildschirm angezeigt werden, auf den Bildschirmen aller Teilnehmer der Besprechung erscheinen. Vermeiden Sie dies, indem Sie einfach den Inhalt auswählen, den Sie in Microsoft Teams freigeben möchten. 
 
 ## <a name="use-onenote-in-a-meeting"></a>Verwenden von OneNote in einer Besprechung
-OneNote kann zulassen für die Zusammenarbeit in Echtzeit und gemeinsame Erstellung eine idealen für Brainstorming leicht und nutzen in Besprechungen beachten. Solange jeder Zugriff auf den Pfad hat, in dem die OneNote gemeinsam genutzt wird, können Sie eine Verknüpfung mit dem Notizbuch buchen und brainstorming sofort zu starten.
+OneNote ermöglicht die Zusammenarbeit in Echtzeit und die gemeinsame Erstellung, sodass es ein ideales Tool für Brainstorming und Notizen in Besprechungen ist. Solange jeder Zugriff auf den Speicherort hat, an dem OneNote freigegeben wird, können Sie einen Link zum Notizbuch veröffentlichen und sofort Brainstorming starten.
 
-Sie können einen bestimmten Abschnitt für Besprechungsnotizen im Team Notizbuch erstellen. Sie können auch die Funktionalität "Besprechungsdetails" in OneNote verwenden, zum Erstellen von Seiten mit einer Zusammenfassung die Details der Besprechung.
+Sie können einen bestimmten Abschnitt für Besprechungsnotizen im Team Notizbuch erstellen. Sie können auch die Funktion "Besprechungsdetails" in OneNote verwenden, um Seiten mit einer Zusammenfassung der Details der Besprechung zu erstellen.
 
-## <a name="use-planner-in-a-meeting"></a>Verwenden von Planner in einer Besprechung
-Aktionselemente direkt in einen Plan für Ihr Projekt hinzufügen speichert von ihnen nach dem Vorfall abschreiben. Es ist eine bewährte Methode in großen Projekts Besprechungen jemanden & Notizen nachverfolgen Aktion zugewiesen. Normalerweise ist dies eine andere Person als der betroffenen mit der Besprechung. Erinnerungen für Terminelemente Aktion werden direkt an die Person gesendet, die sie Erinnerungen sind, wenn das Element des fällig am passiert zugewiesen ist. 
+## <a name="use-planner-in-a-meeting"></a>Verwenden des Planers in einer Besprechung
+Durch das direkte Hinzufügen von Aktionselementen zu einem Plan für Ihr Projekt können Sie diese nach der Tatsache nicht mehr transkribieren. Es ist eine bewährte Vorgehensweise bei umfangreichen Projektbesprechungen zum Zuweisen einer & zur Aktivitätsverfolgung. Dabei handelt es sich normalerweise um eine andere Person als bei der Besprechung. Erinnerungen an Aktionselemente werden direkt an die Person gesendet, der Sie zugewiesen wurde, ebenso wie Erinnerungen, wenn das Element das Fälligkeitsdatum übergibt. 
 
 ![Planner-Aufgabe](media/ditl_task.png)
 
-## <a name="end-a-meeting"></a>Beenden Sie eine Besprechung
-Wenn alles in der Agenda beschrieben wurden hat, beenden Sie die Besprechung, unabhängig von der Zeit. Weisen Sie und senden Sie Aktionselemente an alle Teilnehmer. Wenn Sie in der Microsoft-Teams zusammenarbeiten, können Sie problemlos Aktionselemente in den entsprechenden Kanal freigeben. Aufgaben können auch eingegeben und in Planner zugewiesen werden, während der Besprechung, bietet eine schnelle Möglichkeit zum Nachverfolgen für den Abschluss der auch [in Microsoft-Teams, zugegriffen](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)werden kann. 
+## <a name="end-a-meeting"></a>Beenden einer Besprechung
+Wenn alles auf der Tagesordnung besprochen wurde, beenden Sie die Besprechung unabhängig von der Uhrzeit. Zuweisen und Senden von Aktionselementen an alle Teilnehmer. Wenn Sie in Microsoft Teams zusammenarbeiten, können Sie auf einfache Weise Aktionselemente im entsprechenden Kanal freigeben. Aktionselemente können auch während der Besprechung im Planer eingegeben und zugewiesen werden, sodass eine schnelle Möglichkeit zum Nachverfolgen der Fertigstellung bereitgestellt wird, auf die auch [in Microsoft Teams zugegriffen](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)werden kann. 
