@@ -5,11 +5,11 @@ title: Eigenständiges Webpart-Setup
 ms.date: 02/10/2019
 description: Benutzerdefiniertes Learning for Office 365 Manual-Webpart-Setup
 ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
-ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30577851"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055060"
 ---
 # <a name="stand-alone-web-part-setup"></a>Eigenständiges Webpart-Setup
 
