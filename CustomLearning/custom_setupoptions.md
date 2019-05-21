@@ -1,30 +1,30 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Benutzerdefinierte Lern Setup Optionen
+title: Setupoptionen für Microsoft 365-Lern Pfade
 ms.date: 02/11/2019
-description: Setup Option für benutzerdefiniertes Lern Setup
-ms.openlocfilehash: d2bb1d98d7eceb63e0cf2bdbf9eead1289641a20
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Setup-Option für benutzerdefiniertes Lern Setup
+ms.openlocfilehash: bef8e513d9126defc4b4f73acc6e07fc060044aa
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056038"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247690"
 ---
-# <a name="custom-learning-setup-options"></a>Benutzerdefinierte Lern Setup Optionen
-Benutzerdefiniertes lernen für Office 365 bietet die Flexibilität, die Lösung auf verschiedene Weisen einzurichten. In den folgenden Abschnitten werden die verfügbaren Optionen erläutert.
+# <a name="learning-pathways-setup-options"></a>Setupoptionen für Lern Pfade
+Lern Pfade bieten die Flexibilität, die Lösung auf verschiedene Weise einzurichten. In den folgenden Abschnitten werden die verfügbaren Optionen skizziert.
 
-## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Empfohlen – Setup für den SharePoint Online-proInstallations Dienst 
-Die SharePoint Online-Bereitstellung bietet die schnellste, einfachste und empfohlene Methode zum Einrichten von benutzerdefiniertem lernen. Mit dem SharePoint Online-bereitstellungsDienst meldet sich ein Office 365-mandantenadministrator an dem Dienst an, macht einige Auswahlmöglichkeiten und klickt **auf zum mandantEn hinzufügen** , um die benutzerDefinierte Lernsite und das benutzerdefinierte Lern Webpart festzustellen. Wenn die Bereitstellung abgeschlossen ist, erhält der MandantenAdministrator eine e-Mail, dass die Website zur Verfügung steht. 
+## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Empfohlener SharePoint Online-Setup für den Konfigurationsdienst 
+Der SharePoint Online Bereitstellung-Dienst bietet die schnellste, einfachste und empfohlene Methode zum Einrichten von benutzerdefiniertem lernen. Mit dem SharePoint Online Bereitstellungsdienst meldet sich ein Office 365-mandantenadministrator beim Dienst an, nimmt einige Auswahlmöglichkeiten vor und klickt **auf zum Mandanten hinzufügen** , um die benutzerdefinierte Lernwebsite und das benutzerdefinierte Lern Webpart zu stellen. Wenn die Bereitstellung abgeschlossen ist, erhält der mandantenadministrator eine e-Mail-Nachricht, dass die Website bereit ist zu wechseln. 
 
-- Die ersten Schritte mit dem SharePoint-bereitstellungsDienst finden Sie unter [Provision mit dem PNP](custom_provision.md) -Bereitstellungsdienst.   
+- Wenn Sie mit dem SharePoint-Bereitstellungsdienst beginnen möchten, gehen Sie zu [Provision mit dem PNP](custom_provision.md) -Bereitstellungsdienst.   
 
-## <a name="stand-alone-custom-learning-web-part-setup"></a>Einrichten des eigenständigen benutzerdefinierten Lern Webparts
-Für Organisationen, die bereits über ein etabliertes SharePoint Online-Schulungsportal für moderne Kommunikation verfügen, bietet benutzerdefiniertes lernen die Möglichkeit, das benutzerdefinierte Lern Webpart manuell in einer vorhandenen SharePoint Online-Website zu installieren. Beachten Sie, dass es sich bei der Website um eine moderne SharePoint Online-Website handeln muss. Diese Methode erfordert MandantenAdministrator Berechtigungen und Erfahrung mit Windows PowerShell oder der SharePoint Online-Verwaltungsshell. Beachten Sie, dass diese Methode mehr technisches Expertenwissen erfordert, als das Setup des SharePoint Online-bereitstellen Diensts.
+## <a name="stand-alone-learning-pathways-web-part-setup"></a>Setup des Webparts für den Stand-Alone-Lern Pfad
+Für Organisationen, die bereits über ein etabliertes SharePoint Online modernes Kommunikations Schulungsportal verfügen, bietet Lernpfade die Möglichkeit, das Microsoft 365 Learning Bahnen-Webpart manuell in einer vorhandenen SharePoint Online Website zu installieren. Beachten Sie, dass es sich bei der Website um eine moderne SharePoint Online Website handeln muss. Diese Methode erfordert mandantenadministrator Berechtigungen und Erfahrung mit Windows PowerShell oder der SharePoint Online-Verwaltungsshell. Beachten Sie, dass diese Methode mehr technisches Know-how als die SharePoint Online Bereitstellung von Dienst Setup erfordert.
 
-- Anleitungen für manuelle Webparts finden Sie unter [Manuelles Installieren des](custom_manualsetup.md)Webparts. 
+- Anleitungen zur manuellen Installation von Webparts finden Sie unter [Manuelles Installieren des](custom_manualsetup.md)Webparts. 
 
-## <a name="upgrade-custom-learning"></a>Upgrade von benutzerdefiniertem lernen
-Organisationen, die an einem benutzerdefinierten Lern Pilot Programm teilgenommen haben oder bereits benutzerdefinierte Lern Bereitstellungen ausgeführt haben, können der Anweisung folgen, die das [Manuelle Upgrade für benutzerdefinierte Lernprozesse](custom_upgrade.md) bereitgestellt hat.    
+## <a name="update-learning-pathways"></a>Aktualisieren von Lernpfaden
+Organisationen, die den SharePoint Online-Bereitstellung-Dienst zum Installieren früherer Versionen von Microsoft 365-Lernpfaden verwendet haben, die zuvor als benutzerdefiniertes lernen für Office 365 bezeichnet wurden, können die Lösung auf die neueste Version aktualisieren. Anweisungen zum Überprüfen der Version, die für die neueste Version der Lösung bereitgestellt wurde, sowie Anweisungen zum Aktualisieren der Lösung finden Sie im Abschnitt "Aktualisieren der Lösung" der [Readme-Datei](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
 
-### <a name="next-steps---provision-custom-learningcustomprovisionmd"></a>Nächste Schritte – [BenutzerdefiniertEs lernen](custom_provision.md) einrichten
+### <a name="next-steps---provision-microsoft-365-learning-pathwayscustomprovisionmd"></a>Nächste Schritte – [Microsoft 365-Lern Pfade](custom_provision.md)
