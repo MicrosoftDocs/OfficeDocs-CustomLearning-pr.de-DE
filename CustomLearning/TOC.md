@@ -24,5 +24,5 @@
 # [Feedback und Support](feedback.md)
 # [Häufig gestellte Fragen](faq.md)
 # [Häufig gestellte Fragen zu Partnern](custom_partner.md)
-# [Aktualisieren von Microsoft 365-Lernpfaden](custom_upgrade.md)
+# [Aktualisieren von Microsoft 365-Lernpfaden](custom_update.md)
 # [Problembehandlung bei Microsoft 365-Lernpfaden](custom_troubleshooting.md)
