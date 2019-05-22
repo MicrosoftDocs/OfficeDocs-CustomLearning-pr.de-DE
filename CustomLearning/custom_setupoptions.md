@@ -4,15 +4,19 @@ ms.author: pkrebs
 title: Setupoptionen für Microsoft 365-Lern Pfade
 ms.date: 02/11/2019
 description: Setup-Option für benutzerdefiniertes Lern Setup
-ms.openlocfilehash: bef8e513d9126defc4b4f73acc6e07fc060044aa
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
+ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247690"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34334700"
 ---
 # <a name="learning-pathways-setup-options"></a>Setupoptionen für Lern Pfade
 Lern Pfade bieten die Flexibilität, die Lösung auf verschiedene Weise einzurichten. In den folgenden Abschnitten werden die verfügbaren Optionen skizziert.
+
+> [!IMPORTANT]
+> Ab 5/21/2019 sind Microsoft 365-Lern Pfade der neue Name für die Lösung, die früher als benutzerdefiniertes lernen für Office 365 bezeichnet wurde. Wenn Sie bereits benutzerdefiniertes lernen für Office 365 in Ihrer Organisation eingerichtet haben und die Lösung aktualisieren möchten, befolgen Sie die Anweisungen "Aktualisieren der Lösung" in der [Readme-Datei zu Microsoft 365 Learning](https://github.com/pnp/custom-learning-office-365)-Pfaden. Wenn Sie Microsoft 365-Lern Pfade erstmalig zur Verfügung stellen, finden Sie weitere Informationen in der Microsoft 365-Lern Pfad Dokumentation unter [Provision Microsoft 365 Learning]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) Pfads.  
+
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Empfohlener SharePoint Online-Setup für den Konfigurationsdienst 
 Der SharePoint Online Bereitstellung-Dienst bietet die schnellste, einfachste und empfohlene Methode zum Einrichten von benutzerdefiniertem lernen. Mit dem SharePoint Online Bereitstellungsdienst meldet sich ein Office 365-mandantenadministrator beim Dienst an, nimmt einige Auswahlmöglichkeiten vor und klickt **auf zum Mandanten hinzufügen** , um die benutzerdefinierte Lernwebsite und das benutzerdefinierte Lern Webpart zu stellen. Wenn die Bereitstellung abgeschlossen ist, erhält der mandantenadministrator eine e-Mail-Nachricht, dass die Website bereit ist zu wechseln. 

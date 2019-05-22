@@ -1,73 +1,78 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Einrichten der benutzerdefinierten Lernsite
+title: Bereitstellungswebsite für Microsoft 365-Lern Pfade
 ms.date: 02/10/2019
-description: Stellen Sie die benutzerdefinierte Learning for Office 365-Website über das SharePoint-bereitstellungsModul zur Verfügung.
-ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Stellen der Website "Microsoft 365 Learning Pfads" über den SharePoint-Bereitstellungsdienst
+ms.openlocfilehash: e48052a395a8669ef684110a1c93409f5859a1d2
+ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055893"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34334743"
 ---
-# <a name="provision-custom-learning"></a>Benutzerdefiniertes lernen einrichten 
+# <a name="provision-microsoft-365-learning-pathways"></a>Stellen von Microsoft 365-Lernpfaden
 
-Mit dem SharePoint Online-proplanungs Dienst kann ein Office 365-Mandanten Administrator den proplanungs Prozess mit ein paar einfachen Klicks starten. Der bereitstellungsDienst ist die empfohlene Methode zum Einrichten von benutzerdefiniertem lernen. Es ist schnell, einfach und dauert nur ein paar Minuten, um den Prozess zu starten. Bevor Sie mit dem proSupporting-Dienst beginnen, sollten Sie sich jedoch vergewissern, dass Sie die Voraussetzungen für die bereit legung erfüllt haben.
+Mit dem SharePoint Online-Bereitstellung-Dienst kann ein Office 365-Mandanten Administrator den Bereitstellung-Prozess mit wenigen einfachen Klicks starten. Der Bereitstellungsdienst ist die empfohlene Vorgehensweise für Lern Pfade. Es ist schnell, einfach und dauert nur ein paar Minuten, um den Prozess zu starten. Stellen Sie jedoch sicher, dass Sie die Voraussetzungen für die Bereitstellung erfüllt haben, bevor Sie mit dem Bereitstellung-Dienst beginnen.
+
+> [!IMPORTANT]
+> Ab 5/21/2019 sind Microsoft 365-Lern Pfade der neue Name für die Lösung, die früher als benutzerdefiniertes lernen für Office 365 bezeichnet wurde. Wenn Sie bereits benutzerdefiniertes lernen für Office 365 in Ihrer Organisation eingerichtet haben und die Lösung aktualisieren möchten, befolgen Sie die Anweisungen "Aktualisieren der Lösung" in der [Readme-Datei zu Microsoft 365 Learning](https://github.com/pnp/custom-learning-office-365)-Pfaden. Wenn Sie Microsoft 365-Lern Pfade erstmalig zur Verfügung stellen, finden Sie weitere Informationen in der Microsoft 365-Lern Pfad Dokumentation unter [Provision Microsoft 365 Learning]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) Pfads.  
 
 ## <a name="prerequisites"></a>Voraussetzungen
  
-Um benutzerdefiniertes lernen mit dem proSupportdienst erfolgreich einzurichten, muss die Person, die die Einrichtung durchführen soll, die folgenden Voraussetzungen erfüllen: 
+Um Microsoft 365-Lernpfade mit dem Dienst für die Einrichtung erfolgreich einzurichten, muss die Person, die die Provision ausführt, die folgenden Voraussetzungen erfüllen: 
  
-- Die benutzerDefinierte Lernumgebung muss ein Mandanten Administrator des Mandanten sein, in dem benutzerdefiniertes lernen eingerichtet wird.  
-- Ein Mandanten-App-Katalog muss in der apps-Option im SharePoint Admin Center verfügbar sein. Wenn Ihre Organisation keinen SharePoint-Mandanten-App-Katalog hat, lesen Sie die [SharePoint Online-Dokumentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) , um eine zu erstellen.  
-- Die benutzerdefinierte Schulung für Personen muss ein WebsitesammlungsBesitzer des Mandanten-App-Katalogs sein. Wenn die Person, die benutzerdefiniertes lernen anbietet, kein WebsitesammlungsBesitzer des App-Katalogs ist, führen Sie die [folgenden Anweisungen](addappadmin.md) aus, und fahren Sie fort. 
+- Die Person, die Lernpfade ausstellt, muss ein Mandanten Administrator des Mandanten sein, in dem Lern Pfade eingerichtet werden.  
+- Ein Mandanten-App-Katalog muss in der apps-Option des SharePoint Admin Center verfügbar sein. Wenn Ihre Organisation nicht über einen SharePoint-Mandanten-App-Katalog verfügt, lesen Sie in der [SharePoint Online Dokumentation](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) nach, um eine zu erstellen.  
+- Die Person, die Lern Pfade anstellt, muss ein Websitesammlungsbesitzer des Mandanten-App-Katalogs sein. Wenn die Person, die Lern Pfade anbietet, kein Websitesammlungsbesitzer des App-Katalogs ist, [führen Sie diese Anweisungen](addappadmin.md) aus, und fahren Sie fort. 
 
-### <a name="to-provision-custom-learning"></a>So können Sie benutzerdefiniertes lernen einrichten
+### <a name="to-provision-learning-pathways"></a>So stellen Sie Lern Pfade zur Verfügung
 
-1. Wechseln Sie http://provisioning.sharepointpnp.com zu und melden Sie sich **in** der oberen rechten Ecke der Startseite an.  Melden Sie sich mit den Anmeldeinformationen für den Zielmandanten an, in dem Sie die Websitevorlage installieren möchten.
+1. Wechseln Sie http://provisioning.sharepointpnp.com zu, und **melden** Sie sich von der oberen rechten Ecke der Startseite aus an.  Melden Sie sich mit den Anmeldeinformationen für den Zielmandanten an, in dem Sie die Websitevorlage installieren möchten.
 
 ![pnphome. png](media/inst_signin.png)
 
-2. Löschen Sie die **Einwilligung im Namen Ihrer Organisation** , und wählen Sie **akzeptieren**aus.
+2. Löschen Sie die **Zustimmung im Namen Ihrer Organisation** , und wählen Sie **annehmen**aus.
 
 ![in](media/inst_perms.png)
 
-3. Scrollen Sie nach unten auf der Seite, wählen Sie die Registerkarte **Lösungen** , und wählen Sie dann **Benutzerdefiniert lernen für Office 365**. 
+Für den Bereitstellungsdienst sind diese Berechtigungen erforderlich, um den Mandanten-App-Katalog zu erstellen, die Anwendung in den Mandanten-App-Katalog zu installieren und die Websitevorlage zur Verfügung zu stellen. Es gibt keine allgemeinen Auswirkungen auf ihren Mandanten, und diese Berechtigungen werden explizit für den Zweck der Lösungsinstallation verwendet. Sie müssen diese Berechtigungen akzeptieren, um mit der Installation fortzufahren.
+
+3. Scrollen Sie auf der Seite nach unten, wählen Sie die Registerkarte **Lösungen** aus, und wählen Sie dann **Lern Pfade für Office 365**aus. 
 
 ![in](media/inst_select.png)
 
-4. Wählen Sie **Ihrem mandantEn hinzufügen** aus.
+4. Wählen Sie **zu Ihrem Mandanten hinzufügen**
 
 ![inst_select. png](media/inst_add.png)
 
-5. Füllen Sie die Felder auf der Seite proinformations Informationen entsprechend Ihrer Installation aus. Geben Sie mindestens die e-Mail-Adresse ein, unter der Sie Benachrichtigungen über den proplanungs Prozess und die Ziel-URL für Ihre Website erhalten möchten.  
+5. Füllen Sie die Felder auf der Seite Informationen zur Datenverarbeitung entsprechend für Ihre Installation aus. Geben Sie mindestens die e-Mail-Adresse ein, unter der Sie Benachrichtigungen über den Bereitstellung-Prozess und die Ziel-URL für die Bereitstellung Ihrer Website erhalten möchten.  
 > [!NOTE]
-> Stellen Sie die Ziel-URL Ihrer Website für Ihre Mitarbeiter wie "/sites/MyTraining" oder "/teams/LearnOffice365" bereit.
+> Stellen Sie die Ziel-URL für Ihre Website so freundlich wie "/Sites/MyTraining" oder "/Teams/LearnMicrosoft365" für Ihre Mitarbeiter dar.
 
 ![inst_options. png](media/inst_options.png)
 
-6. Wählen Sie **bereit** stellen, wenn Sie bereit sind, benutzerdefiniertes lernen in Ihre Mandanten Umgebung zu installieren.  Das Bereitstellen dauert bis zu 15 Minuten. Sie werden per e-Mail (an die Benachrichtigungs-e-Mail-Adresse, die Sie auf der Seite Bereitstellung eingegeben haben) benachrichtigt, wenn die Website auf den Zugriff zugreifen kann. 
+6. Wählen Sie **bereit** stellen aus, wenn Lern Pfade in Ihrer Mandanten Umgebung installiert werden sollen.  Der bereit stellungsprozess dauert bis zu 15 Minuten. Wenn die Website für den Zugriff verfügbar ist, werden Sie per e-Mail benachrichtigt (an die e-Mail-Adresse der Benachrichtigung, die Sie auf der Seite für die Einrichtung eingegeben haben). 
 
 > [!IMPORTANT]
-> Der MandantenAdministrator, der die benutzerdefinierte Lernsite bereitstellt, muss zur Website wechseln und dann **CustomLearningAdmin. aspx** öffnen, um benutzerdefinierte Learning admin-Eigenschaften zu initialisieren. Zu diesem Zeitpunkt sollte der MandantenAdministrator auch Besitzer der Website zuweisen. 
+> Der mandantenadministrator, der die Website für Lern Pfade bereitstellt, muss zur Website wechseln und dann **CustomLearningAdmin. aspx** öffnen, um die Administrator Eigenschaften für Lern Pfade zu initialisieren. Zu diesem Zeitpunkt sollte der mandantenadministrator dem Standort auch Besitzer zuweisen. 
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>ÜberPrüfen der erfolgreichen Ausführung und Initialisieren der CustomConfig-Liste
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Überprüfen des Erfolgs der Vorstellung und Initialisieren der CustomConfig-Liste
 
-Wenn die Einrichtung abgeschlossen ist, erhält der MandantenAdministrator, der die Website zur Verfügung gestellt hat, eine e-Mail vom PnP-proarbeits Dienst. Die e-Mail enthält einen Link zur Website. An diesem Punkt sollte der MandantenAdministrator über den in der e-Mail angegebenen Link zu der Website wechseln und die Website für die erste Verwendung einrichten:
+Wenn die proprovisionierung abgeschlossen ist, erhält der mandantenadministrator, der die Website vorsieht, eine e-Mail vom PnP-Dienst für die Zustellung. Die e-Mail enthält einen Link zu der Website. An dieser Stelle sollte der mandantenadministrator die Website über den in der e-Mail angegebenen Link aufrufen und die Website für die erste Verwendung einrichten:
 
-- Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Öffnen von **CustomLearningAdmin. aspx** initialisiert das **CustomConfig** -Listenelement, das benutzerdefiniertes lernen für die erste Verwendung festlegt. Es sollte eine Seite angezeigt werden, die wie folgt aussieht:
+- Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Beim Öffnen von **CustomLearningAdmin. aspx** wird das **CustomConfig** -Listenelement initialisiert, das Lern Pfade für die erste Verwendung einrichtet. Sie sollten eine Seite sehen, die wie folgt aussieht:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Hinzufügen von Besitzern zur Website
-Als MandantenAdministrator ist es unwahrscheinlich, dass Sie die Website anpassen, daher müssen Sie der Website einige Besitzer zuweisen. Besitzer verfügen über Administratorrechte für die Website, damit Sie Website Seiten ändern und die Website neu bebranden können. Außerdem können Sie Inhalte, die über das benutzerdefinierte Lern Webpart übermittelt werden, ausblenden und anzeigen. Darüber hinaus haben Sie die Möglichkeit, benutzerdefinierte Wiedergabelisten zu erstellen und Sie benutzerdefinierten Unterkategorien zuzuweisen.  
+Als mandantenadministrator ist es unwahrscheinlich, dass Sie die Person anpassen, die die Website anpasst, sodass Sie der Website einige Besitzer zuweisen müssen. Besitzer verfügen über Administratorrechte für die Website, damit Sie Website Seiten ändern und die Website neu Branding können. Außerdem können Sie Inhalte, die über das Lern Pfade-Webpart übermittelt werden, ausblenden und anzeigen. Darüber hinaus haben Sie die Möglichkeit, benutzerdefinierte Wiedergabelisten zu erstellen und Sie benutzerdefinierten Unterkategorien zuzuweisen.  
 
 1. Klicken Sie im Menü SharePoint- **Einstellungen** auf **Websiteberechtigungen**.
 2. Klicken Sie auf **Erweiterte Berechtigungseinstellungen**.
-3. Klicken Sie auf **benutzerdefiniertes lernen für Office 365-Besitzer**.
-4. Klicken Sie auf **neue** > **Benutzer zu dieser Gruppe hinzufügen**, und fügen Sie dann die Personen hinzu, die Besitzer sein sollen. 
-5. Fügen Sie einen Link hinzu, um die Website in der Freigabenachricht zu [Durchsuchen](custom_exploresite.md) , und klicken Sie dann auf **Freigeben**.
+3. Klicken Sie auf **Microsoft 365 Lern Pfad Besitzer**.
+4. Klicken Sie auf **neu** > **Hinzufügen von Benutzern zu dieser Gruppe**, und fügen Sie dann die Personen hinzu, die Besitzer sein sollen. 
+5. Fügen Sie einen Link zum [Durchsuchen der Website](custom_exploresite.md) in der Freigabenachricht hinzu, und klicken Sie dann auf **Freigeben**.
 
-### <a name="next-steps"></a>Weitere Schritte
-- Erkunden Sie die [Standardinhalte](custom_exploresite.md) , die in der Website und im Webpart bereitgestellt werden.
+### <a name="next-steps"></a>Nächste Schritte
+- Erkunden Sie die in der Website und im Webpart bereitgestellten [Standardinhalte](custom_exploresite.md) .
