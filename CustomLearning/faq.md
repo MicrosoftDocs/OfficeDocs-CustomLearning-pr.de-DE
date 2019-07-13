@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Häufig gestellte Fragen zu Microsoft 365-Lernpfaden
 ms.date: 02/10/2019
 description: Informationen zu häufig gestellten Fragen für Microsoft 365-Lern Pfade
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334719"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636109"
 ---
 # <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Ich habe vor kurzem einen Blogbeitrag gesehen, bei dem benutzerdefiniertes lernen für Office 365 in Microsoft 365-Lern Pfade umbenannt wird. Werden der Lösung im Rahmen der Umbenennung weitere Änderungen hinzugefügt? Sollte ich die Lösung in meiner Organisation aktualisieren?
+
+Die Microsoft 365-Lern Pfad Version ist eine neuausrichtungs Maßnahme, die dem Ändern des Namens der Lösung für das Microsoft 365-Branding gewidmet ist. Wenn Sie benutzerdefinierte Lernprogramm für Office 365 derzeit erfolgreich in Ihrer Organisation ausgeführt haben, ist es nicht erforderlich, die Lösung zu diesem Zeitpunkt zu aktualisieren.  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Was sind die Voraussetzungen für die Installation von Microsoft 365-Lernpfaden in meiner Mandanten Umgebung?
 
@@ -34,7 +38,7 @@ Microsoft 365 Lern Pfade befinden sich derzeit in der Beta Vorschau. Berücksich
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>In welchen Sprachen sind Microsoft 365-Lern Pfade verfügbar?
 
-Microsoft 365-Lern Pfade sind derzeit nur in englischer Sprache verfügbar. Die automatische End-to-End-proprovisionierung funktioniert nur mit englischen Mandanten. Wir planen die Einführung einer mehrsprachigen Unterstützung für diese neun Sprachen in CY19 Q3: 
+Microsoft 365-Lern Pfade sind derzeit nur in englischer Sprache verfügbar. Die automatische End-to-End-proprovisionierung funktioniert nur mit englischen Mandanten. Wir planen die Einführung einer mehrsprachigen Unterstützung für diese neun Sprachen in CY19 Q4: 
 
 - Chinesisch (vereinfacht) 
 - Niederländisch (Niederlande) 
