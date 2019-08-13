@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Wo befindet sich das Microsoft 365-Lern Webpart
 ms.date: 02/15/2019
 description: Hier erfahren Sie, wo das Lern Pfad-Webpart auf der Website für Lern Pfade angezeigt wird.
-ms.openlocfilehash: 27793606ee425f8ca77a66898bb0c23aee5e3f2b
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: bc0a24f3f4fa9f2067f52a787da8fc25592fd151
+ms.sourcegitcommit: 076ad8f4dd99da270d34c01b03428a24632916e5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247610"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34327290"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Wo ist das Microsoft 365 Learning-Wege-Webpart?
 
@@ -44,11 +44,11 @@ Das Webpart auf der Seite " **Start-with-Six-Simple-Steps. aspx** " ist so konfi
 
 ![CG-whereiswp-Six. png](media/cg-whereiswp-six.png)
 
-## <a name="view-all-office-365-training"></a>Alle Office 365 Schulung anzeigen
+## <a name="view-all-microsoft-365-training"></a>Alle Microsoft 365-Schulungen anzeigen
 
-Das Webpart auf der Seite **Office 365 Training** ist so konfiguriert, dass alle Kategorien und Unterkategorien angezeigt werden, die im Lern Pfad Katalog verfügbar sind. Dies umfasst Unterkategorien von Microsoft zusammen mit allen Unterkategorien, die Sie für Ihre Organisation erstellen.
+Das Webpart auf der **Microsoft 365-Schulungs** Seite ist so konfiguriert, dass alle Kategorien und Unterkategorien angezeigt werden, die im Lern Pfad Katalog verfügbar sind. Dies umfasst Unterkategorien von Microsoft zusammen mit allen Unterkategorien, die Sie für Ihre Organisation erstellen.
 
-- Klicken Sie auf der Homepage Lern Pfade auf **Office 365 Schulung**. Die Seite wird angezeigt, wobei das Webpart so konfiguriert ist, dass alle im benutzerdefinierten Lernkatalog verfügbaren Kategorien und Unterkategorien angezeigt werden.
+- Klicken Sie auf der Startseite für Lern Pfade auf **Microsoft 365 Training**. Die Seite wird angezeigt, wobei das Webpart so konfiguriert ist, dass alle im benutzerdefinierten Lernkatalog verfügbaren Kategorien und Unterkategorien angezeigt werden.
 
 ![CG-whereiswp-o365. png](media/cg-whereiswp-o365.png)
 
