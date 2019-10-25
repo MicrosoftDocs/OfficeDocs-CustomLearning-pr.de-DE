@@ -1,15 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Zugreifen auf die Seite "benutzerdefinierte Lern Verwaltung"
+title: Zugreifen auf die Verwaltungsseite
 ms.date: 02/15/2019
 description: Vorgehensweise zugreifen auf die benutzerdefinierte Lern Administratorseite über das Webpart oder das Menü
-ms.openlocfilehash: e08d8dfc6690d9c5d26cd03efd780bbd27d72cd6
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: f948f9c14f43f4cbb6569277a4ff27427abcbc6d
+ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327226"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726709"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>Zugreifen auf die Seite "benutzerdefinierte Lern Verwaltung"
 

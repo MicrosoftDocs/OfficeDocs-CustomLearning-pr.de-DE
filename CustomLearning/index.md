@@ -2,20 +2,17 @@
 author: pkrebs
 ms.author: pkrebs
 title: Übersicht über Microsoft 365 Lern Pfade
-ms.date: 05/20/2019
+ms.date: 10/23/2019
 description: Erfahren Sie, wie Microsoft 365-Lern Pfade die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation beschleunigen können. Zu den Lernpfaden gehören ein benutzerdefiniertes SharePoint Online Webpart und eine moderne Schulungswebsite für SharePoint Online Kommunikation, die problemlos für Ihren Microsoft 365-Mandanten bereitgestellt werden kann.
-ms.openlocfilehash: a3744807dfae6971525a14678b59cdb37ffc8ae8
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 8d98269b5d0e6af369bd476e4de3be72bab78950
+ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334729"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726719"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Beta Vorschau für Microsoft 365 Learning-Pfade
-Microsoft 365-Lern Pfade (früher als benutzerdefiniertes lernen für Office 365 bezeichnet) ist eine anpassbare, on-Demand-Schulungslösung, die die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation verbessern soll.  
-
-> [!NOTE]
-> Ab 5/21/2019 werden benutzerdefinierte Lernprozesse für Office 365 in Microsoft 365 Lernpfade umbenannt. Der Name wird so geändert, dass er mit den Bemühungen der Microsoft 365-Marke übereinstimmt und die zukünftige Richtung der Lösung besser darstellt.   
+Microsoft 365 Learning-Pfade ist eine anpassbare, bedarfsorientierte Lernlösung, die die Nutzung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation verbessern soll.  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>On-Demand, benutzerdefinierte Schulung von Microsoft
 
@@ -28,17 +25,8 @@ Microsoft 365-Lern Pfade bieten:
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-## <a name="learning-pathways-components"></a>Lern Pfade (Komponenten)
-Microsoft 365 Lern Pfade bestehen aus drei Teilen: 
-
-![CG-howitworks. png](media/cg-howitworks.png)
-
-- **Ein Online Katalog mit Microsoft-Inhalten** – Lernpfaden ist mit einem Online Katalog von Microsoft-Schulungsinhalten verbunden.
-- **Eine SharePoint Online Kommunikationswebsite** – Lern Pfade bieten ein einfach zu bereitzustellender Schulungsportal, das an die Anforderungen Ihrer Organisation angepasst werden kann.
-- **ein SharePoint-Webpart** -Lern Pfade stellt ein SharePoint-Webpart bereit, das gefiltert werden kann, um gezielte Schulungsinhalte vorzustellen. Organisationen können auch das Webpart verwenden, um Ihre eigenen benutzerdefinierten Wiedergabelisten zu erstellen.
-
 ## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online-Dienst für die Zustellung 
-Lernpfade können aus dem SharePoint Online-Dienst zur Verfügung gestellt werden. Wenn benutzerdefiniertes lernen eingerichtet wird, erhalten Organisationen eine SharePoint Online Kommunikationswebsite, die als out-of-the-Box-Schulungsportal konzipiert ist, sowie ein Lern Pfade-Webpart, das mit einem Online Katalog mit Schulungsinhalten verbunden ist. 
+Lernpfade können aus dem SharePoint Online-Dienst zur Verfügung gestellt werden. Wenn Microsoft 365 Lernpfade eingerichtet ist, erhalten Organisationen eine SharePoint Online Kommunikationswebsite, die als out-of-the-Box-Schulungsportal konzipiert ist, sowie ein Lern Pfade-Webpart, das mit einem Online Katalog mit Schulungsinhalten verbunden ist. 
 
 ![CG-Provision. png](media/cg-provision.png)
 
