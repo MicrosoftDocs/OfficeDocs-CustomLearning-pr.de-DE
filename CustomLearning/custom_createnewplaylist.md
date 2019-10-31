@@ -4,21 +4,21 @@ ms.author: pkrebs
 title: Erstellen neuer Wiedergabelisten
 ms.date: 02/18/2019
 description: Erstellen neuer Wiedergabelisten
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247590"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886818"
 ---
 # <a name="create-a-custom-playlist"></a>Erstellen einer benutzerdefinierten Wiedergabeliste
 
-Wenn Sie eine Wiedergabeliste erstellen, erstellen Sie zunächst die Wiedergabeliste mit den Details der Wiedergabeliste, und fügen Sie dann der Wiedergabeliste Objekte hinzu. Sie können einer beliebigen Unterkategorie eine Wiedergabeliste hinzufügen. Sie können beispielsweise eine Wiedergabeliste zur Unterkategorie **First Days** oder zu einer **Produkt** Unterkategorie wie **Excel**hinzufügen. In diesem Abschnitt wird erläutert, wie Sie eine Wiedergabeliste erstellen und dann das Hinzufügen von Objekten zu einer Wiedergabeliste im folgenden Abschnitt [Hinzufügen von Objekten zu einer benutzerdefinierten Wiedergabe](custom_addassets.md)Liste abdecken.
+Mit den Lernpfaden von Microsoft 365 können Sie benutzerdefinierte Wiedergabelisten erstellen, die auf die spezifischen Anforderungen Ihrer Organisation zugeschnitten sind. Erstellen Sie beispielsweise eine Wiedergabeliste für das Onboarding neuer Mitarbeiter bei Microsoft Teams. Sie können auch Wiedergabelisten für Führungskräfte mit Informationen erstellen, die für Ihre eindeutige Rolle geeignet sind. Oder erstellen Sie einen ersten Tag für die Microsoft 365-Wiedergabeliste mit drei einfachen Schritten anstelle von sechs. Sie können eine benutzerdefinierte Wiedergabeliste zu jeder Unterkategorie hinzufügen. Beispielsweise die **ersten Tage**, eine **Produkt** Unterkategorie wie **Excel**oder sogar eine Unterkategorie, die Sie erstellen. In diesem Abschnitt wird erläutert, wie Sie eine Wiedergabeliste erstellen und dann das Hinzufügen von Objekten zu einer Wiedergabeliste im folgenden Abschnitt [Hinzufügen von Objekten zu einer benutzerdefinierten Wiedergabe](custom_addassets.md)Liste abdecken.
 
 ## <a name="create-a-playlist"></a>Erstellen einer Wiedergabeliste 
 
-1. Klicken Sie auf der **Start** Seite von Microsoft 365 Learning Pfads auf **Office 365 Schulung**, wählen Sie im Webpart das Systemmenü aus, und wählen Sie dann **Wiedergabeliste verwalten**aus. 
-2. Wählen Sie eine Unterkategorie aus. Wählen Sie in diesem Beispiel die Option **erste Tage**aus.  
+1. Klicken Sie auf der **Start** Seite von Microsoft 365 Learning Pfads auf **Office 365 Schulung**, und wählen Sie dann das Symbol **Verwalten** aus dem Webpart aus. 
+2. Wählen Sie die Unterkategorie Symbol **Verwalten**aus. Wählen Sie in diesem Beispiel die Option **erste Tage**aus.  
 3. Klicken Sie auf das Symbol +.  
 
 ![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)

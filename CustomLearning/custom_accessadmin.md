@@ -1,33 +1,33 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Zugreifen auf die Verwaltungsseite
+title: Verwaltung von Lernpfaden
 ms.date: 02/15/2019
 description: Vorgehensweise zugreifen auf die benutzerdefinierte Lern Administratorseite über das Webpart oder das Menü
-ms.openlocfilehash: f948f9c14f43f4cbb6569277a4ff27427abcbc6d
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 86526f4c4b3d46360ab2c63a503bfd80e0848c13
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726709"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886936"
 ---
-# <a name="access-the-custom-learning-administration-page"></a>Zugreifen auf die Seite "benutzerdefinierte Lern Verwaltung"
+# <a name="access-the-learning-pathways-administration-page"></a>Zugreifen auf die Verwaltungsseite für Lern Pfade
 
-Die Seite benutzerdefinierte Lern Administration ist der zentrale Kontrollpunkt für die Verwaltung des Microsoft 365 Learning pathwasy-Webparts. Die Verwaltungsseite für Lern Pfade steht nur SharePoint-Administratoren zur Verfügung. Benutzern mit Mitglieds rechten, die die Website besuchen, wird die Option **Wiedergabeliste verwalten** nicht angezeigt. Darüber hinaus haben nur Administratoren die Möglichkeit, die benutzerdefinierte Lern Verwaltungsseite im SharePoint **Home** -Menüelement zu öffnen.  
+Die Verwaltung von Lernpfaden wird über die Seite CustomLearningAdmin. aspx verwaltet. Diese Verwaltungsseite steht nur SharePoint-Administratoren zur Verfügung. Benutzer mit Mitglieds rechten, die die Website besuchen, sehen das **Verwaltungs** Zahnradsymbol im Webpart nicht. Darüber hinaus haben nur Administratoren die Möglichkeit, die Verwaltungsseite im Menüelement Verwaltung der **Lernpfade** unter dem SharePoint **Home** -Menü zu öffnen. 
 
 > [!IMPORTANT]
-> Änderungen, die auf der Seite benutzerdefinierte Lern Administration vorgenommen werden, beispielsweise das Ausblenden einer Produktunterkategorie oder Wiedergabeliste, werden in allen Instanzen des Webparts wiedergegeben. Darüber hinaus wird empfohlen, dass jeweils nur ein Administrator auf der Seite benutzerdefinierte Lern Administrator Änderungen vornimmt, da benutzerdefiniertes lernen keine Kollisionserkennung bietet, wenn mehrere Personen die benutzerdefinierte Lern Verwaltung gleichzeitig verwenden.  
+> Änderungen, die auf der Seite benutzerdefinierte Lern Administration vorgenommen werden, beispielsweise das Ausblenden einer Produktunterkategorie oder Wiedergabeliste, werden in allen Instanzen des Webparts wiedergegeben. Darüber hinaus wird empfohlen, dass nur ein Administrator zum Zeitpunkt von der Verwaltungsseite Änderungen vornimmt, da benutzerdefiniertes lernen keine Kollisionserkennung bietet, wenn mehrere Personen die Seite gleichzeitig verwenden.  
 
-## <a name="access-from-the-custom-learning-web-part---preferred-method"></a>Zugriff über die bevorzugte Methode des benutzerdefinierten Lern Webparts
-Wie in diesem Beispiel gezeigt wird, ist das Öffnen der benutzerdefinierten Lern Verwaltungsseite aus dem Webpart die bevorzugte Methode, da die Verwaltungsseite in einem neuen Browserfenster geöffnet wird. Mit dieser Methode können Sie ganz einfach zwischen den Registerkarten Blättern hin-und herwechseln, um Ihre Arbeit zu überprüfen oder zu ändern.  
+## <a name="access-from-the-learning-pathways-web-part---preferred-method"></a>Zugriff über die bevorzugte Methode für das Lern Pfade-Webpart
+Das Öffnen der Verwaltungsseite über das Webpart ist die bevorzugte Methode, da die Seite auf einer neuen Browserregister Karte geöffnet wird. Mit dieser Methode können Sie ganz einfach zwischen den Registerkarten Blättern hin-und herwechseln, um Ihre Arbeit zu überprüfen oder zu ändern.  
 
-1. Klicken Sie auf der Startseite der Microsoft 365 Learning-Pfade auf die Kachel **Office 365 Schulung** .
-2. Klicken Sie auf das Menü **System** und dann auf **Wiedergabeliste verwalten**. 
+1. Klicken Sie auf der **Start** Seite der Microsoft 365 Learning-Pfade auf die Kachel **Office 365 Schulung** .
+2. Klicken Sie auf das Symbol " **Verwaltung** " im Webpart, wie im folgenden Beispiel gezeigt.  
 
 ![CG-adminaccbtn. png](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>Zugriff über das Menüelement "Start"
-Anstatt zu einer Seite mit einem Webpart zu navigieren, können Administratoren über das Menüelement SharePoint **Home** auf die Seite Microsoft Learning Administration zugreifen. 
+Anstatt zu einer Seite mit einem Webpart zu navigieren, können Administratoren über das Menüelement SharePoint **Home** auf die Seite Verwaltung zugreifen. 
 
 - Klicken Sie auf der Homepage von Microsoft 365 Learning Pfads auf das Menü **Start** und dann auf **Microsoft Learning Administration**.
 

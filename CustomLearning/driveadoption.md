@@ -1,16 +1,16 @@
 ---
-title: ''
-description: ''
+title: Verabschiedung von Lernpfaden fördern
+description: Verabschiedung von Lernpfaden fördern
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
+ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 33c327327239e156cf15235c2b180b7b37539f04
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726699"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886978"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Einführung des Portals für Lern Pfade
 Nachdem Sie Microsoft 365-Lern Pfade angepasst und Ihre anfänglichen Lern Kampagnen zusammengestellt haben, ist es an der Zeit, darüber nachzudenken, wie Sie die Benutzer zu Microsoft 365-Lernpfaden für das fortlaufende lernen und die Transformation zurückkehren lassen. Sie können den Leitfaden, das Adoptions Kit und bewährte Methoden verwenden, die Microsoft zur Verfügung gestellt hat, um Ihnen beim Ausführen erfolgreicher Microsoft 365-Einführungs Kampagnen zu helfen, wir bieten Anleitungen, bewährte Methoden und ein Adoptionspaket. 
@@ -71,7 +71,6 @@ Arbeiten Sie mit Ihrem Personalteam zusammen, um den Start ihrer Schulungswebsit
 2.  Pilotieren Sie Ihre angepasste Version von Microsoft 365 Lernpfaden mit einer repräsentativen Gruppe von Endbenutzern, und führen Sie einen Trockenlauf Ihres Adoptions Plans durch. Basierend auf dem Feedback des Piloten durchlaufen eines endgültigen Annahme Plans.
 3.  Führen Sie Ihre Adoptions Kampagne über einen längeren Zeitraum aus. 
 4.  Treten Sie der Community für treibende Akzeptanz bei. Teilen Sie Ihre Erfahrungen mit Microsoft 365 Lernpfaden in unserer Driving Adoption Community online. Finden Sie uns https://aka.ms/DriveAdoptionunter. 
-
 
 ## <a name="join-the-driving-adoption-community"></a>Teilnahme an der Driving Adoption Community
 

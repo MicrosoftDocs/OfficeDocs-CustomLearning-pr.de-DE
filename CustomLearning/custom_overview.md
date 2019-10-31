@@ -1,38 +1,29 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Übersicht
+title: Anpassen von Lernpfaden
 ms.date: 02/18/2019
-description: Übersicht über Microsoft 365 Lern Pfade
-ms.openlocfilehash: 74fac090177ad8009155e21a977b05ee2b742b3b
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+description: Anpassen von Lernpfaden
+ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247848"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886638"
 ---
-# <a name="customize-the-learning-experience"></a>Anpassen der Lernerfahrung
+# <a name="customize-learning-pathways"></a>Anpassen von Lernpfaden
 
-Einführung in Microsoft 365-Lern Pfade, eine neue Lösung von Microsoft, die die Verwendung und Übernahme von Office 365 in einer Organisation beschleunigen soll. Mit Learning pathwyas können Sie Folgendes tun:
-- Anpassen von Microsoft 365 Lern-und Adoptions Inhalten für Ihre Umgebung 
+Microsoft 365-Lern Pfade bieten eine Vielzahl von Möglichkeiten, mit denen Sie Inhalte für Ihre Organisation anpassen können. Beispielsweise können Sie folgende Aktionen ausführen:  
+- Ändern der Lernpfade SharePoint-Website – ändern Sie den Websitenamen, das Logo und diese. Ändern Sie die Seite Ask Questions und Get Help, um Ihre eigene Hilfe zu erstellen. 
 - Ausblenden oder Anzeigen von Inhalten, um die in Ihrer Organisation unterstützten Dienste oder Features widerzuspiegeln 
-- Halten Sie Ihre Inhalte und Benutzer mit einem aktuellen Feed für Lerninhalte von Microsoft auf dem neuesten Stand. 
-- Erstellen benutzerdefinierter Wiedergabelisten und Kategorien, die speziell für die Anforderungen Ihrer Benutzer erstellt wurden
+- Erstellen benutzerdefinierter Wiedergabelisten und Unterkategorien, die speziell für die Anforderungen Ihrer Benutzer erstellt wurden
+- Erstellen von Zielseiten mit gefiltertem Inhalt zur Unterstützung geschäftlicher Ergebnisse, beispielsweise das Vorantreiben der Einführung von Microsoft Teams, Outlook Mobile oder die Zusammenarbeit mit Microsoft 365.
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-## <a name="how-does-learning-pathways-work"></a>Wie funktionieren Lern Pfade?
-
-Lern Pfade für Office 365 (kurz Lernpfade) bestehen aus drei Teilen: 
-1. ein Live-Feed von Inhalten aus einem Microsoft Online-Katalog
-2. eine SharePoint-Kommunikationswebsite
-3. eines SharePoint-Webparts 
-
-![CG-howitworks. png](media/cg-howitworks.png)
-
 ## <a name="requirements-and-permissions"></a>Anforderungen und Berechtigungen
 
-Stellen Sie vor dem ersten Einstieg in dieses Handbuch sicher, dass von Ihrem SharePoint-Mandanten Administrator Lern Pfade eingerichtet wurden. Wenn Sie sich nicht sicher sind, ob Sie eingerichtet wurde, wenden Sie sich an Ihren SharePoint-mandantenadministrator, um zu überprüfen, ob Lern Pfade bereitgestellt wurden. Stellen Sie außerdem sicher, dass Sie die URL der SharePoint-Website für Lern Pfade abrufen. Wenn Sie der Mandanten Administrator sind und keine Lern Pfade eingerichtet wurden, finden Sie weitere Informationen unter [Bereitstellungspfade](custom_provision.md). 
+Bevor Sie mit dem Leitfaden zum Anpassen von Lernpfaden beginnen, stellen Sie sicher, dass von Ihrem SharePoint-Mandanten Administrator Lern Pfade eingerichtet wurden. Wenn Sie sich nicht sicher sind, ob Sie eingerichtet wurde, wenden Sie sich an Ihren SharePoint-mandantenadministrator, um zu überprüfen, ob Lern Pfade bereitgestellt wurden. Stellen Sie außerdem sicher, dass Sie die URL der SharePoint-Website für Lern Pfade abrufen. Wenn Sie der Mandanten Administrator sind und keine Lern Pfade eingerichtet wurden, finden Sie weitere Informationen unter [Bereitstellungspfade](custom_provision.md). 
 
 ### <a name="permissions-to-provision-learning-pathways"></a>Berechtigungen zur Vermittlung von Lernpfaden
 
