@@ -1,42 +1,40 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Erstellen neuer Wiedergabelisten
+title: Kopieren einer Wiedergabeliste
 ms.date: 02/18/2019
-description: Erstellen neuer Wiedergabelisten
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+description: Vorgehensweise Kopieren einer Wiedergabeliste
+ms.openlocfilehash: b8df82928f3162704f1a86675d28b810119e3980
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726782"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886868"
 ---
-# <a name="create-a-custom-playlist"></a><span data-ttu-id="dcff6-103">Erstellen einer benutzerdefinierten Wiedergabeliste</span><span class="sxs-lookup"><span data-stu-id="dcff6-103">Create a Custom Playlist</span></span>
+# <a name="copy-a-playlist"></a><span data-ttu-id="22786-103">Kopieren einer Wiedergabeliste</span><span class="sxs-lookup"><span data-stu-id="22786-103">Copy a Playlist</span></span>
+<span data-ttu-id="22786-104">Häufig müssen Organisationen eine von Microsoft bereitgestellte Wiedergabeliste ändern, indem Sie ein Objekt durch ein von der Organisation erstelltes Objekt entfernen oder ersetzen.</span><span class="sxs-lookup"><span data-stu-id="22786-104">Quite often, organizations need to modify a Microsoft-supplied playlist by removing or replacing an asset with an asset created by the organization.</span></span> <span data-ttu-id="22786-105">Sie können beispielsweise einen Schritt von der Playlist Start mit sechs einfachen Schritten entfernen.</span><span class="sxs-lookup"><span data-stu-id="22786-105">For example, you might want to remove a step from the Start with Six Simple Steps playlist.</span></span> <span data-ttu-id="22786-106">Jetzt können Sie die Funktion zum Kopieren von Wiedergabelisten für Lern Pfade verwenden, um die sechs einfache Schritte-Wiedergabeliste einfach zu kopieren und ein Objekt einfach zu entfernen, ein Objekt zu ersetzen oder neue Objekte hinzuzufügen.</span><span class="sxs-lookup"><span data-stu-id="22786-106">Now you can use the learning pathways Copy Playlist feature to easily copy the Six Simple Steps playlist and simply remove an asset, replace an asset, or add new assets.</span></span> 
 
-<span data-ttu-id="dcff6-104">Wenn Sie eine Wiedergabeliste erstellen, erstellen Sie zunächst die Wiedergabeliste mit den Details der Wiedergabeliste, und fügen Sie dann der Wiedergabeliste Objekte hinzu.</span><span class="sxs-lookup"><span data-stu-id="dcff6-104">When you create a playlist, you first create the playlist with the playlist details, and then add assets to the playlist.</span></span> <span data-ttu-id="dcff6-105">Sie können einer beliebigen Unterkategorie eine Wiedergabeliste hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="dcff6-105">You can add a playlist to any subcategory.</span></span> <span data-ttu-id="dcff6-106">Sie können beispielsweise eine Wiedergabeliste zur Unterkategorie **First Days** oder zu einer **Produkt** Unterkategorie wie **Excel**hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="dcff6-106">For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like **Excel**.</span></span> <span data-ttu-id="dcff6-107">In diesem Abschnitt wird erläutert, wie Sie eine Wiedergabeliste erstellen und dann das Hinzufügen von Objekten zu einer Wiedergabeliste im folgenden Abschnitt [Hinzufügen von Objekten zu einer benutzerdefinierten Wiedergabe](custom_addassets.md)Liste abdecken.</span><span class="sxs-lookup"><span data-stu-id="dcff6-107">In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md).</span></span>
+## <a name="to-copy-a-playlist"></a><span data-ttu-id="22786-107">So kopieren Sie eine Wiedergabeliste</span><span class="sxs-lookup"><span data-stu-id="22786-107">To copy a playlist</span></span>
 
-## <a name="create-a-playlist"></a><span data-ttu-id="dcff6-108">Erstellen einer Wiedergabeliste</span><span class="sxs-lookup"><span data-stu-id="dcff6-108">Create a playlist</span></span> 
+1. <span data-ttu-id="22786-108">Klicken Sie auf der **Homepage** von Microsoft 365 Learning-Pfade auf **Office 365 Schulung**.</span><span class="sxs-lookup"><span data-stu-id="22786-108">From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**.</span></span>
+2. <span data-ttu-id="22786-109">Klicken Sie auf das Symbol **Verwaltung** .</span><span class="sxs-lookup"><span data-stu-id="22786-109">Click the **Administration** icon.</span></span>
+3. <span data-ttu-id="22786-110">Klicken Sie unter **erste Tage**auf die **sechs einfachen Schritte – Willkommen bei Office 365-** Wiedergabeliste, und klicken Sie dann auf **Wiedergabeliste kopieren**.</span><span class="sxs-lookup"><span data-stu-id="22786-110">Under **First Days**, click the **Six Simple Steps - Welcome to Office 365** playlist, and then click **Copy Playlist**.</span></span> 
+4. <span data-ttu-id="22786-111">Klicken Sie auf **Details bearbeiten**, und füllen Sie dann die Felder **Title** und **Description** aus, wie im folgenden Beispiel gezeigt, und klicken Sie dann auf **Detail speichern**.</span><span class="sxs-lookup"><span data-stu-id="22786-111">Click **Edit Detail**, and then fill in the **Title** and **Description** fields as shown in the following example, then click **Save Detail**.</span></span>  
+ 
+4.  <span data-ttu-id="22786-112">Füllen Sie die Felder in der Wiedergabeliste aus, wie im folgenden Beispiel gezeigt.</span><span class="sxs-lookup"><span data-stu-id="22786-112">Fill out the fields in the playlist as shown in the following example.</span></span> <span data-ttu-id="22786-113">Sie können das Standardsymbol für dieses Beispiel belassen.</span><span class="sxs-lookup"><span data-stu-id="22786-113">You can leave the default icon for this example.</span></span> 
 
-1. <span data-ttu-id="dcff6-109">Klicken Sie auf der **Start** Seite von Microsoft 365 Learning Pfads auf **Office 365 Schulung**, wählen Sie im Webpart das Systemmenü aus, und wählen Sie dann **Wiedergabeliste verwalten**aus.</span><span class="sxs-lookup"><span data-stu-id="dcff6-109">From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**, select the system menu from the Web part, and then select **Administer Playlist**.</span></span> 
-2. <span data-ttu-id="dcff6-110">Wählen Sie eine Unterkategorie aus.</span><span class="sxs-lookup"><span data-stu-id="dcff6-110">Select a subcategory.</span></span> <span data-ttu-id="dcff6-111">Wählen Sie in diesem Beispiel die Option **erste Tage**aus.</span><span class="sxs-lookup"><span data-stu-id="dcff6-111">In this example, select **First Days**.</span></span>  
-3. <span data-ttu-id="dcff6-112">Klicken Sie auf das Symbol +.</span><span class="sxs-lookup"><span data-stu-id="dcff6-112">Click the + icon.</span></span>  
 
-![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
+## <a name="add-or-remove-assets-from-a-playlist"></a><span data-ttu-id="22786-114">Hinzufügen oder Entfernen von Objekten aus einer Wiedergabeliste</span><span class="sxs-lookup"><span data-stu-id="22786-114">Add or remove assets from a playlist</span></span>
+<span data-ttu-id="22786-115">Mit benutzerdefinierten Wiedergabelisten haben Sie folgende Möglichkeiten:</span><span class="sxs-lookup"><span data-stu-id="22786-115">With custom playlists, you can:</span></span>
 
-4.  <span data-ttu-id="dcff6-114">Füllen Sie die Felder in der Wiedergabeliste aus, wie im folgenden Beispiel gezeigt.</span><span class="sxs-lookup"><span data-stu-id="dcff6-114">Fill out the fields in the playlist as shown in the following example.</span></span> <span data-ttu-id="dcff6-115">Sie können das Standardsymbol für dieses Beispiel belassen.</span><span class="sxs-lookup"><span data-stu-id="dcff6-115">You can leave the default icon for this example.</span></span> 
+- <span data-ttu-id="22786-116">Hinzufügen und Entfernen von Microsoft-Objekten, aber nicht bearbeiten von Objekten von Microsoft</span><span class="sxs-lookup"><span data-stu-id="22786-116">add and remove Microsoft assets, but not edit the assets from Microsoft</span></span>
+- <span data-ttu-id="22786-117">Hinzufügen, entfernen und Bearbeiten benutzerdefinierter vorhandener SharePoint-Objekte aus Ihrer Organisation oder von Ihnen erstellten SharePoint-Objekten.</span><span class="sxs-lookup"><span data-stu-id="22786-117">add, remove, and edit custom existing SharePoint assets from your organization or SharePoint assets that you create.</span></span> 
 
-![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
+1. <span data-ttu-id="22786-118">Scrollen Sie auf der **Verwaltungs** Seite nach unten, und klicken Sie dann unter **Wiedergabelisten Objekte** auf das Symbol Löschen für **Schritt 5. Einrichten Mobile Apps**.</span><span class="sxs-lookup"><span data-stu-id="22786-118">Scroll down the **Administration** page, and then under **Playlist Assets** click the delete icon for **Step 5. Set up mobile apps**.</span></span> 
 
-5.  <span data-ttu-id="dcff6-117">Wenn Sie fertig sind, wählen Sie **Details speichern**aus.</span><span class="sxs-lookup"><span data-stu-id="dcff6-117">When you are done, select **Save Detail**.</span></span> 
+## <a name="verify-the-asset-is-removed-from-the-playlist"></a><span data-ttu-id="22786-119">Überprüfen, ob das Objekt aus der Wiedergabeliste entfernt wurde</span><span class="sxs-lookup"><span data-stu-id="22786-119">Verify the asset is removed from the playlist</span></span>
+1. <span data-ttu-id="22786-120">Kehren Sie mit der **Microsoft 365-Schulungs** Seite zur Registerkarte zurück.</span><span class="sxs-lookup"><span data-stu-id="22786-120">Return to the tab with the **Microsoft 365 training** page.</span></span>
+2. <span data-ttu-id="22786-121">Klicken Sie auf **erste Tage**, und klicken Sie dann auf die **fünf einfachen Schritte – Willkommen bei Office 365-** Wiedergabeliste.</span><span class="sxs-lookup"><span data-stu-id="22786-121">Click **First Days**, then click the **Five Simple Steps - Welcome to Office 365** playlist.</span></span> 
+3. <span data-ttu-id="22786-122">Klicken Sie durch die Wiedergabeliste, um zu überprüfen, ob das Objekt entfernt wurde.</span><span class="sxs-lookup"><span data-stu-id="22786-122">Click through the playlist to verify that the asset has been removed.</span></span>
 
-## <a name="edit-a-playlist"></a><span data-ttu-id="dcff6-118">Bearbeiten einer Wiedergabeliste</span><span class="sxs-lookup"><span data-stu-id="dcff6-118">Edit a playlist</span></span>
 
-- <span data-ttu-id="dcff6-119">Klicken Sie auf der Seite **benutzerdefinierte Lern Verwaltung** auf die Wiedergabeliste, und klicken Sie dann auf **Detail bearbeiten**.</span><span class="sxs-lookup"><span data-stu-id="dcff6-119">From the **Custom Learning Administration** page, click the playlist, and then click **Edit Detail**.</span></span>  
-
-![CG-editplaylist. png](media/cg-editplaylist.png)
-
-### <a name="delete-a-playlist"></a><span data-ttu-id="dcff6-121">Löschen einer Wiedergabeliste</span><span class="sxs-lookup"><span data-stu-id="dcff6-121">Delete a playlist</span></span>
-
-- <span data-ttu-id="dcff6-122">Klicken Sie auf der Seite benutzerdefinierte Lern Verwaltung auf das **Lösch** Symbol für die Wiedergabeliste.</span><span class="sxs-lookup"><span data-stu-id="dcff6-122">From the Custom Learning Administration page, click the **Delete** icon for the playlist.</span></span>  
-
-![CG-deleteplaylist. png](media/cg-deleteplaylist.png)
