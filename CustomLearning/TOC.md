@@ -5,7 +5,7 @@
 ## [Eigenständiges Webpart-Setup](custom_manualsetup.md)
 # [Administrator Success Center](custom_successcenter.md)
 ## [November-Inhaltsaktualisierungen](custom_contentupdates.md)
-## [Verwalten von Inhalts Updates](custom_managecontentupdates.md)
+## [Verwalten von Inhalts Updates](custom_contentupdatesmanage.md)
 ## [Updates im November-Feature](custom_featureupdates.md)
 ## [Planen Ihrer Lerninhalte](custom_plancontent.md)
 ## [Anpassen von Lernpfaden](custom_overview.md)
