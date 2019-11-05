@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Feedback und Support
 ms.date: 02/10/2019
 description: Feedback-und Supportinformationen für Microsoft 365-Lern Pfade
-ms.openlocfilehash: ed1654bfe9ff762a9f9f17e7f564e1784608bdf1
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 429275a1a6153a1434099feebee4bce703abe045
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248150"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956632"
 ---
 # <a name="feedback-and-support"></a>Feedback und Support
 
@@ -23,7 +23,7 @@ Wie bei Open-Source-Lösungen üblich, werden diese Probleme von der Community i
 
 ## <a name="provide-us-feedback"></a>Geben Sie uns Feedback
 
-Unsere Lösung ist nur dann erfolgreich, wenn Sie Ihre geschäftlichen Ergebnisse ermöglicht.  Bitte helfen Sie uns, es besser zu machen, indem Sie uns regelmäßig über [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)Feedback geben.  Wir überprüfen regelmäßig alle Ihre Kommentare und Fragen.
+Unsere Lösung ist nur dann erfolgreich, wenn Sie Ihre geschäftlichen Ergebnisse ermöglicht.  Bitte helfen Sie uns, es besser zu machen, indem Sie uns regelmäßig über [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)Feedback geben.  Wir überprüfen regelmäßig alle Ihre Kommentare und Fragen. 
 
 ## <a name="usage-questions"></a>Verwendungs Fragen
 

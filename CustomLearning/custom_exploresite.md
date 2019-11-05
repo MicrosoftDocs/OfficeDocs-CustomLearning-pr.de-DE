@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Durchsuchen der Website und Standardinhalte
 ms.date: 02/10/2019
 description: Erkunden der Website für Lern Pfade und Standardinhalte
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248074"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956542"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Erkunden der Website für Lern Pfade
 
@@ -21,37 +21,16 @@ ms.locfileid: "34248074"
 2.  Melden Sie sich mit Ihrem Benutzernamen und Ihrem Kennwort an.
 3.  Navigieren Sie mit der vom mandantenadministrator bereitgestellten URL zum Speicherort der Website, oder wählen Sie SharePoint auf der Office 365 Homepage aus, und wählen Sie dann den Standort aus. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+![CG-exploresite. png](media/cg-introducing.png)
 
-## <a name="explore-the-learning-pathways-site"></a>Erkunden der Website für Lern Pfade
+## <a name="explore-microsoft-365-learning-pathways"></a>Erkunden von Microsoft 365-Lernpfaden
 
-Die Website für Lern Pfade basiert auf einer SharePoint-Kommunikations Vorlage, sodass es einfach ist, die Website so zu ändern, dass Sie den Anforderungen Ihrer Organisation entspricht. Sie können den Websitenamen, das Logo, die Menüelemente und den Inhalt der Seiten ändern. Eine der Seiten, die Sie für Ihre Organisation ändern möchten, ist die Seite Fragen und Hilfe erhalten. Werfen wir einen Blick.
+Die Website für Lern Pfade basiert auf einer SharePoint-Kommunikations Vorlage, sodass es einfach ist, die Website so zu ändern, dass Sie den Anforderungen Ihrer Organisation entspricht. Sie können den Websitenamen, das Logo, die Menüelemente und den Inhalt der Seiten ändern. Anleitungen zum Anpassen von Lernpfaden finden Sie im Admin Success Center. 
 
-### <a name="view-the-ask-questions-and-get-help-page"></a>Anzeigen der Seite "Ask questions and Get Help"
+### <a name="get-started-with-the-admin-success-center"></a>Erste Schritte mit dem Administrator Success Center
 
-Die Website für Lern Pfade stellt Standardinhalte bereit, die Ihnen beim Einstieg in das Schulungs-und Support Portal helfen. Als Admininstrator oder Besitzer der Website sollten Sie die Links in der **Ask-Frage ändern und die Hilfeseite** auf Ressourcen in Ihrer Organisation verweisen lassen. 
+Das Administrator Success Center bietet die Anleitungen und Ressourcen, die Sie bei der Planung, Anpassung, Einführung und Messung der Auswirkungen ihrer Lern Pfadbereitstellung unterstützen. 
 
-1.  Klicken Sie auf der Homepage von Microsoft 365 Learning Pfads auf das Menüelement Fragen **stellen und Hilfe abrufen** .
-2.  Klicken Sie auf die Schaltfläche **Bearbeiten**.
-3.  Zeigen Sie mit der Maus auf ein Hilfe Optionsbild, und klicken Sie dann auf **Webpart bearbeiten**.
+- Klicken Sie auf der **Homepage** von Microsoft 365 Learning Pfads auf **Erste Schritte mit dem Administrator Success Center**.
 
-![CG-edithelp. png](media/cg-edithelp.png)
-
-Anweisungen zum Anpassen von Website Seiten finden Sie unter [Anpassen der Website](custom_edithelp.md).
-
-### <a name="view-the-learning-pathways-content-in-the-web-part"></a>Anzeigen des Inhalts von Lernpfaden im Webpart
-Auf der Microsoft 365-Schulungsseite wird das Webpart für Lern Pfade gehostet, das für die Anzeige aller für Lern Pfade verfügbaren Schulungen konfiguriert ist. 
-
-1. Scrollen Sie auf der Seite nach unten, um alle Kategorien und Unterkategorien anzuzeigen.
-2. Kick die Reifen ein wenig. Klicken Sie auf einige Unterkategorien, und klicken Sie dann auf einige Wiedergabelisten, um ein Gefühl dafür zu erhalten, wie Lern Pfade Inhalte organisiert werden. 
-
-![CG-gotoall. png](media/cg-gotoall.png)
-
-Anweisungen zum Anpassen des Webparts für Lernpfade finden Sie unter [Anpassen der Lernerfahrung](custom_overview.md).
-
-### <a name="get-a-complete-site-tour-and-customization-guidance"></a>Abrufen einer vollständigen Website Tour und Anleitungen zur Anpassung
-Eine ausführliche Übersicht über Lern Pfade, incuding der Website, des Webparts, administrative Features und Anleitungen zum Erstellen von eindeutigen Lernerfahrungen für Ihre Umgebung finden Sie unter [Anpassen der Lernerfahrung](custom_overview.md)
-
-## <a name="next-steps"></a>Nächste Schritte
-- [Anpassen der Lernerfahrung](custom_overview.md)
-- [Einführung in das Laufwerk](driveadoption.md) 
+Lern Pfade bieten Anleitungen im Admin Success Center in der Lösung. Dokumentation für das Admin Success Center steht auch in dieser Dokumentationsgruppe zur Verfügung. Siehe [Lern Pfade admin Success Center](custom_successcenter.md).

@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886978"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956642"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Einführung des Portals für Lern Pfade
 Nachdem Sie Microsoft 365-Lern Pfade angepasst und Ihre anfänglichen Lern Kampagnen zusammengestellt haben, ist es an der Zeit, darüber nachzudenken, wie Sie die Benutzer zu Microsoft 365-Lernpfaden für das fortlaufende lernen und die Transformation zurückkehren lassen. Sie können den Leitfaden, das Adoptions Kit und bewährte Methoden verwenden, die Microsoft zur Verfügung gestellt hat, um Ihnen beim Ausführen erfolgreicher Microsoft 365-Einführungs Kampagnen zu helfen, wir bieten Anleitungen, bewährte Methoden und ein Adoptionspaket. 
@@ -31,8 +31,8 @@ Wenn Sie die folgenden Szenarien in ihrer Kommunikationskampagne verwenden, kön
 - Freigabe von Websites und Inhalten
 - Verbinden Ihrer Organisation mit "jammern"
 
-## <a name="use-the-download-adoption-kit"></a>Verwenden des Download Übernahme Kits
-Verwenden Sie das herunterladbare Adoptions Kit, um Sie beim Ausführen ihrer Kommunikationskampagne für Microsoft 365-Lern Pfade zu unterstützen. Sie enthält Folgendes: 
+## <a name="use-the-downloadable-adoption-kit"></a>Verwenden des herunterladbaren Adoptions Kits
+Verwenden Sie das [herunterladbare Adoptions Kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip), um Sie beim Ausführen ihrer Kommunikationskampagne für Microsoft 365-Lern Pfade zu unterstützen. Sie enthält Folgendes: 
 
 - Microsoft 365 Lern Pfade empfohlener Kommunikationskampagnen Kalender zur Planung Ihrer Kampagne
 - Endbenutzer Start und Tipps e-Mail-Vorlagen für jedes der fünf Microsoft 365-Szenarien.    

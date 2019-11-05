@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Planen der Inhalte für Lern Pfade
 ms.date: 10/20/2019
 description: Microsoft 365 Lern Pfade-Inhaltsupdate
-ms.openlocfilehash: 90f2db3c320f23931059b12d3eb9a6a9daeada72
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886716"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956662"
 ---
 # <a name="plan-your-learning-pathways-content"></a>Planen der Inhalte für Lern Pfade
 Bevor Sie sich mit der Einführung von Microsoft 365-Lernpfaden vertraut machen, sollten Sie sich einige Zeit nehmen, um die Lerninhalte, Tools und Funktionen, die Ihnen zur Verfügung stehen, zu vermessen. Unser Ziel ist es, Ihnen dabei zu helfen, die Benutzer Ihrer Organisation so schnell und effizient wie möglich auf dem neuesten Stand zu halten und produktiv zu nutzen. Wenn es um die Planung von Lern wegen geht, empfehlen wir einen dreistufigen Prozess:
@@ -53,18 +53,21 @@ Mit den Lernpfaden von Microsoft 365 können Inhalte, die von Microsoft mit Inha
 - **Playlist** -sind Container für Objekte. Microsoft stellt Wiedergabelisten zur Verfügung, die Sie nicht ändern können, aber Sie können Ihre eigenen Wiedergabelisten erstellen.  
 - **Objekte** – sind die Lernseiten innerhalb der Wiedergabeliste. Microsoft stellt Objekte in Wiedergabelisten bereit, die Sie nicht ändern können, aber Sie können eigene Objekte erstellen und Sie zu Wiedergabelisten hinzufügen. EST
 
-### <a name="review-the-learning-pathways-inventory-and-resources"></a>Überprüfen des Inventars und der Ressourcen für Lern Pfade
-Wenn der Administrator bestand nicht hinreichend detailliert ist, sehen Sie sich das Microsoft 365 Learning Pfads Inventory Spreadsheet auf der Seite Ressourcen an. Es enthält eine vollständige Liste der Metadaten, Kategorien, Unterkategorien, Wiedergabelisten und Objekte. Die Seite Ressourcen enthält auch einen Link zu zusätzlichen Ressourcen wie anpassbare schnell Start Handbücher. Weitere Informationen finden Sie unter [Learning Pfades Resources](custom_plancontent_resources.md).
+### <a name="review-additional-resources-from-microsoft"></a>Überprüfen zusätzlicher Ressourcen von Microsoft
+Microsoft stellt Hilfe-und Schulungsressourcen bereit, die Sie bei der Planung von Inhalten für Lern Pfade nutzen können.  
+
+-  [Office-Hilfe und-Schulung](https://support.office.com)
+-  [Office 365-Schulungscenter](https://support.office.com/office-training-center)
 
 ### <a name="review-the-learning-resources-in-your-organization"></a>Überprüfen der Lernressourcen in Ihrer Organisation
 Bestandsaufnahme der Lerninhalte, die Ihnen in Ihrer Organisation bereits zur Verfügung stehen.
-Beispielsweise haben in Ihrer Organisation möglicherweise bereits benutzerdefinierte schnell Start Handbücher, Cheat Sheets oder SharePoint-Seiten bereitgestellt, die Microsoft 365-Bereitschaft, Helpdesk, Onboarding oder Schulungen gewidmet sind. Vorhandene SharePoint-Objekte können in die Microsoft 365-Portal-Wiedergabelisten integriert werden und mit Microsoft-Inhalten in einer Wiedergabeliste gemischt werden, um eine gezielte Wiedergabeliste für Ihre Organisation zu erstellen. Weitere Informationen zum Mischen der Inhalte Ihrer Organisation mit den Inhalten von Microsoft finden Sie im Abschnitt Anpassen von Lernpfaden im Admin Success Center.
+Beispielsweise haben in Ihrer Organisation möglicherweise bereits benutzerdefinierte schnell Start Handbücher, Cheat Sheets oder SharePoint-Seiten bereitgestellt, die Microsoft 365-Bereitschaft, Helpdesk, Onboarding oder Schulungen gewidmet sind. Vorhandene SharePoint-Objekte können in die Microsoft 365-Portal-Wiedergabelisten integriert werden und mit Microsoft-Inhalten in einer Wiedergabeliste gemischt werden, um eine gezielte Wiedergabeliste für Ihre Organisation zu erstellen. Weitere Informationen zum Mischen der Inhalte Ihrer Organisation mit den Inhalten von Microsoft finden Sie unter [Anpassen von Lernpfaden](custom_overview.md). Abschnitt Anpassen von Lernpfaden im Admin Success Center.
 
 ### <a name="leverage-the-adoption-resources"></a>Nutzen der Adoptions Ressourcen
 Beachten Sie, dass Sie mit der Verwendung von Lernpfaden innerhalb von Tagen beginnen können, es empfiehlt sich jedoch, vor der Ausführung einer Strategie für die Lernkampagne eine neue Technologie oder eine Reihe von Diensten zu planen. Das Entwickeln eines Inhalts Plans und das Verwenden von Lernpfaden ist wirklich Teil eines umfassenderen Bemühens bei der Planung einer allgemeinen Change Management-Strategie, daher bieten wir Einführungsmaterialien an, die Sie für die Planung Ihrer Gesamtstrategie nutzen können. Im Rahmen Ihres Planungsaufwands sollten Sie sich [Adoptions Ressourcen](https://resources.techcommunity.microsoft.com/adoption/)ansehen.
 
 ### <a name="build-a-learning-plan-and-iterate"></a>Erstellen eines Lernplans und durchlaufen des Lern Plans 
-Viele Unternehmen, die Lern Pfade erfolgreich eingeführt haben, haben Lern Kampagnen mit Schwerpunkt auf bestimmten Szenarien oder Technologien angenommen. Beispiel: "mehr Collaborative-using Teams" oder "mobil mit Outlook Mobile". Beispiele für potenzielle Lern Kampagnen finden Sie unter Verwendung des [downloadbaren Adoptions Kits](https://resources.techcommunity.microsoft.com/adoption/).
+Viele Unternehmen, die Lern Pfade erfolgreich eingeführt haben, haben Lern Kampagnen mit Schwerpunkt auf bestimmten Szenarien oder Technologien angenommen. Beispiel: "mehr Collaborative-using Teams" oder "mobil mit Outlook Mobile". Beispiele für potenzielle Lern Kampagnen finden Sie unter Verwendung des [downloadbaren Adoptions Kits](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip).
 
 
  
