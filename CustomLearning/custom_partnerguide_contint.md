@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Partner Integrationsmodelle
 ms.date: 3/9/2019
 description: Partner Integrationsmodelle
-ms.openlocfilehash: 54e41e5271c0b4c7558329e79c1dc702606f0620
-ms.sourcegitcommit: 4f4dbe69fe6405c4267c1a4abc6d37f3441d6fd2
+ms.openlocfilehash: 0d52210c600e14fc9f224fbe6f91645fe4045c45
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38014232"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076019"
 ---
 # <a name="partner-integration-models"></a>Partner Integrationsmodelle
 Es ist zwar nicht möglich, den Inhalt von Microsoft 365 Learning-Pfaden direkt aus dem SharePoint Online Bereitstellung-Dienst zu ergänzen, aber es gibt verschiedene Integrationsmodelle, die Partner zum Erstellen eines angepassten Mehrwert Diensts nutzen können. Angebote. Die oben aufgeführten Partner Integrationsmodelle werden in der Reihenfolge der aufsteigenden Komplexität und der Höhe der Investitionen vorgestellt. Daher ist es unser Leitfaden, ihr Fachwissen zu erweitern und erweiterte Stufen basierend auf ihren Geschäftsmodellen zu absolvieren.
@@ -36,7 +36,7 @@ Inhalte für Lern Pfade von Microsoft 365 werden von einer Reihe von JSON-Dateie
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Herunterladen der Microsoft 365-Lern Pfad Lösung
 Sie können die Microsoft 365-Lern Pfad Lösung zusammen mit den JSON-Dateien aus dem GitHub-Repository herunterladen https://github.com/pnp/custom-learning-office-365:. Beachten Sie, dass Microsoft zu diesem Zeitpunkt keine GitHub Pull-Anforderung für die Lösung übernimmt. Sie können die GitHub-Dateien jedoch als Ausgangspunkt für die Erstellung eines eigenen benutzerdefinierten Inhaltspakets verwenden. 
 
-## <a name="metadatajson-structure"></a>Metadata. JSON-Struktur
+### <a name="metadatajson-structure"></a>Metadata. JSON-Struktur
 Sie können sich diese Datei als das Gehirn der Menüs und der Struktur vorstellen. Sie enthält alle Navigationsstrukturen sowie Auswahllisten für Daten in den beiden anderen Dateien. 
 
 
@@ -82,7 +82,7 @@ Sie können sich diese Datei als das Gehirn der Menüs und der Struktur vorstell
 |&nbsp;&nbsp;CDNbase           |Die Basis-URL für die Manifeste für das Inhaltspaket                                       |
 |AssetOrigins                  |Ein Array von URL-Ursprung, das in der später beschriebenen Datei "Assets. JSON" verwendet wird. Wenn die Ursprungs-URL diese unterstützt, wird eine Post-Nachricht an help_getClientHeight gesendet. Eine Antwort in der Data-Eigenschaft von: "help_getClientHeight = {height of Content}" (beispielsweise "help_getClientHeight = 5769") ermöglicht, dass die Größe des iframes auf die entsprechende Höhe des Frame-Inhalts geändert wird.         |
 
-## <a name="playlistsjson-structure"></a>Playlists. JSON-Struktur
+### <a name="playlistsjson-structure"></a>Playlists. JSON-Struktur
 Playlists. JSON – das Wiedergabelisten Manifest ist ein Array von Objekten, die die Metadaten zu einer Wiedergabeliste und die Objekte beschreiben, die in der Wiedergabeliste enthalten sind.
 
 |              Name        |                     Beschreibung                                                               | 
@@ -101,7 +101,7 @@ Playlists. JSON – das Wiedergabelisten Manifest ist ein Array von Objekten, di
 |Eingestellte Abwesenheitsstatus                    |Hinweise zu Inhalten, die Administratoren angezeigt werden                                            |
 |*Objekte []*                        |Ein Array von GUIDs für die Objekte, die Teil dieser Wiedergabeliste sind, in der Anzeigereihenfolge.        |         
 
-## <a name="assetjson-structure"></a>Asset. JSON-Struktur
+### <a name="assetjson-structure"></a>Asset. JSON-Struktur
 Playlists. JSON – das Wiedergabelisten Manifest ist ein Array von Objekten, die die Metadaten zu einer Wiedergabeliste und die Objekte beschreiben, die in der Wiedergabeliste enthalten sind.
 
 |              Name        |                     Beschreibung                                                               | 
@@ -116,7 +116,7 @@ Playlists. JSON – das Wiedergabelisten Manifest ist ein Array von Objekten, di
 |StatusTagId                   |Zugeordnetes Status-Tag                                                                      |
 |Eingestellte Abwesenheitsstatus                    |Hinweise zu Inhalten, die Administratoren angezeigt werden.                                           |
 
-## <a name="caching"></a>Zwischenspeicherung
+### <a name="caching"></a>Zwischenspeicherung
 Die aktuelle Version des Viewer-Webparts verwendet eine zwischengespeicherte Version der Manifestdateien für 24 Stunden. Nach 24 Stunden wird der erste Benutzer, der das Webpart für "Hit" verwendet, den Leistungs Treffer, um den Cache zu aktualisieren, indem er die Manifeste aus dem Quell-CDN herunterlädt und diese Informationen mit ausgeblendeten Technologien und Wiedergabelisten zusammenführt sowie in benutzerdefinierten Unterkategorien zusammenführt. Wiedergabelisten und Objekte. Alternativ wird das Webpart "admin" immer den Inhalt aus den Manifesten herunterladen und in zusammenführen und den Cache aktualisieren.  Das heißt, der Administrator kann ein Cache Update jederzeit erzwingen, indem Sie das Admin-Webpart laden, auch zur Verwaltungsseite wechseln.
 
 ## <a name="content-pack-guidelines"></a>Inhaltspaket-Richtlinien
@@ -127,7 +127,7 @@ Das Inhaltspaket Feature entsperrt die folgenden Szenarien:
 
 Dieser aktuelle Dokumentationssatz ist aufgrund der Komplexität des Features absichtlich für Partner vorgesehen. Das Service Team arbeitet in Zukunft aktiv an einer besseren Unterstützung und Aktivierung von Szenario #2. 
 
-## <a name="how-content-packs-work"></a>Funktionsweise von Inhaltspaketen
+### <a name="how-content-packs-work"></a>Funktionsweise von Inhaltspaketen
 Microsoft verwendet GitHub-Seiten als CDN-Quelle (Content Delivery Network) für Ihre Manifestdateien und-Bilder. Wir haben einen docs-Ordner im Stamm unseres GitHub-Repositorys, der Unterordner für jede Version der Manifestdateien enthält. In jedem Ordner gibt es drei Manifestdateien sowie einen Bilder Ordner, in dem alle Kategorien, Unterkategorien und Wiedergabelisten Bilder gespeichert werden. 
 
 Es ist wichtig, dass Sie die gleiche Versions Verwaltungsstruktur wie bei Microsoft beibehalten, wenn Sie sich für die Erweiterung der Lern Pfad Lösung mit Ihrem eigenen Inhaltspaket entscheiden. Der CDN-Endpunkt sollte nicht den Ordner "Version" enthalten, da die manifestVersion, die das Webpart unterstützt, in dieses Element eingebrannt wird und automatisch an die CDN-URL angehängt wird. Wir werden Ihnen natürlich Zeit geben, neue Instanzen Ihrer Manifestdateien zu erstellen, sobald wir Sie überarbeitet haben.
@@ -138,7 +138,7 @@ Weitere Informationen zum Verwenden von GitHub-Seiten als CDN-Quelle finden Sie 
 
 Die Lösung von Microsoft macht die Informationen zu den Objekten für die Öffentlichkeit zugänglich, da es keine Sicherheit gibt, wer Zugriff auf diese Dateien hat. Wir glauben, dass es eine freie Inhalts Schicht für einen Verbraucher geben sollte, die besagt, dass Sie für einige oder alle Ihre Inhalte, die Sie benötigen, um diese unterschiedlich in den technischen Einschränkungen der Lösung umzusetzen und die Verwendung von GitHub-Seiten zu leisten, keineswegs bedeuten. s eine Anforderung. Jeder CDN-Anbieter, den Sie verwenden möchten, ist in Ordnung, wenn Sie die Struktur der Versionsnummerierung beibehalten, die wir skizziert haben. Wie bereits erwähnt, wird die Version der Manifeststruktur, die das Webpart unterstützt, in den Code gebacken und automatisch an die CDN-URL angehängt. 
 
-## <a name="content-pack-integration-guidance"></a>Leitfaden zur Integration der Inhaltspakete 
+### <a name="content-pack-integration-guidance"></a>Leitfaden zur Integration der Inhaltspakete 
 Die Admin-und Viewer-Webparts wurden erweitert, um dem Verbraucher die Möglichkeit zu geben, zusätzliche CDN-Endpunkte in seinem Mandanten zu konfigurieren, sodass das Viewer-Webpart auswählen kann, welches CDN für die angezeigten Daten verwendet werden soll. 
 
 Key Framing zu beachten, für dieses Feature: 
@@ -147,10 +147,10 @@ Key Framing zu beachten, für dieses Feature:
 
 > **Wichtiger Hinweis** Bevor Sie ein benutzerdefiniertes Inhaltspaket hinzufügen, müssen Sie Microsoft 365-Lern Pfade 3,0 oder höher installiert haben. Informationen zum informataion für Microsoft 365-Lern Pfade finden Sie unter [Provision Microsoft 365 Learning Pfads](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision).
 
-## <a name="content-whitelisting"></a>Inhalts-Whitelisting
+### <a name="content-whitelisting"></a>Inhalts-Whitelisting
 Als Partner ist es Ihre Aufgabe, ihren Verbrauchern dabei zu unterstützen, sicherzustellen, dass Ihre Inhalte in Ihrer Umgebung auf der weißen Liste liegen. Wir empfehlen Ihnen, ein Testszenario in Ihrer Umgebung zu erstellen, um zu überprüfen, ob Ihre Inhalte in einer SharePoint-Seite innerhalb Ihrer Firewall IFRAME 'd sein können. Befolgen Sie die Anweisungen zum [Erstellen von SharePoint-Seiten für benutzerdefinierte Wiedergabelisten](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewpage) , um zu bestätigen, dass dies der Fall ist.
 
-## <a name="add-a-content-pack-to-learning-pathways"></a>Hinzufügen eines Inhaltspakets zu Lernpfaden
+### <a name="add-a-content-pack-to-learning-pathways"></a>Hinzufügen eines Inhaltspakets zu Lernpfaden
 Nachdem Sie das JSON-Formular geändert und Ihr CDN definiert haben, können Sie das Contact Pack zu Lernpfaden hinzufügen. 
 
 1. Klicken Sie auf der **Start** Seite der Website für Lern Pfade auf **Start** , und klicken Sie dann auf **Lern Pfadverwaltung**. 
@@ -163,7 +163,7 @@ Nachdem Sie das JSON-Formular geändert und Ihr CDN definiert haben, können Sie
 
 ![CG-Part-addconpackex. png](media/cg-part-addconpackex.png)
 
-## <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtern nach dem Inhaltspaket im Webpart
+### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtern nach dem Inhaltspaket im Webpart
 Mit Lernpfaden können Sie das Webpart Lernpfade zu einer Seite hinzufügen, das Webpart filtern, um auf die benutzerdefinierte Inhaltspaket Quelle zu zeigen, und dann das Webpart auf die gewünschte Kategorie, Unterkategorie, Wiedergabeliste und Objekt filtern. 
 
 1. Klicken Sie auf der Website Lern Pfade auf **neu**und dann auf **Seite**.
