@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Übersicht über Microsoft 365 Lern Pfade
 ms.date: 10/23/2019
 description: Erfahren Sie, wie Microsoft 365-Lern Pfade die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation beschleunigen können. Zu den Lernpfaden gehören ein benutzerdefiniertes SharePoint Online Webpart und eine moderne Schulungswebsite für SharePoint Online Kommunikation, die problemlos für Ihren Microsoft 365-Mandanten bereitgestellt werden kann.
-ms.openlocfilehash: 21f85ad1434f27882ece4658dad466b55351b3a8
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
+ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956586"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38626611"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 Lern Pfade 
 Microsoft 365 Learning-Pfade ist eine anpassbare, bedarfsorientierte Lernlösung, die die Nutzung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation verbessern soll.   
@@ -23,7 +23,7 @@ Microsoft 365-Lern Pfade bieten:
 - **Die Möglichkeit, eigene Trainings Wiedergabelisten zu erstellen** – mit Lernpfaden können Sie gezielte Trainings Wiedergabelisten erstellen, um die individuellen Anforderungen Ihrer Umgebung zu erfüllen.
 - Aktuelle **Inhalts** Lern Pfade bieten Inhalte über einen Microsoft Online-inhaltskatalog, sodass der Inhalt auf Ihrer Websiteregel mäßig aktualisiert wird.
 
-![CG-Introducing. png](media/cg-introducing.png)
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
 ## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online-Dienst für die Zustellung 
 Lernpfade können aus dem SharePoint Online-Dienst zur Verfügung gestellt werden. Wenn Microsoft 365 Lernpfade eingerichtet ist, erhalten Organisationen eine SharePoint Online Kommunikationswebsite, die als out-of-the-Box-Schulungsportal konzipiert ist, sowie ein Lern Pfade-Webpart, das mit einem Online Katalog mit Schulungsinhalten verbunden ist. 
