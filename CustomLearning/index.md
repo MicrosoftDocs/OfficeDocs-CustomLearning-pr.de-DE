@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Übersicht über Microsoft 365 Lern Pfade
 ms.date: 10/23/2019
 description: Erfahren Sie, wie Microsoft 365-Lern Pfade die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation beschleunigen können. Zu den Lernpfaden gehören ein benutzerdefiniertes SharePoint Online Webpart und eine moderne Schulungswebsite für SharePoint Online Kommunikation, die problemlos für Ihren Microsoft 365-Mandanten bereitgestellt werden kann.
-ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
+ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38626611"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41831891"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 Lern Pfade 
-Microsoft 365 Learning-Pfade ist eine anpassbare, bedarfsorientierte Lernlösung, die die Nutzung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation verbessern soll.   
+Microsoft 365 Learning-Pfade ist eine anpassbare, bedarfsorientierte Lernlösung, die die Nutzung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation verbessern soll.    
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>On-Demand, benutzerdefinierte Schulung von Microsoft
 
@@ -40,5 +40,5 @@ Lassen Sie uns erste Schritte mit der Erstellung einer Lernerfahrung für Ihre U
 
 Microsoft 365 Learning Pfads ist ein Open-Source-Projekt, das in unserer [Online-Problemliste](https://aka.ms/CustomLearningHelp) auf GitHub unterstützt wird. Die Lern Pfad Lösung und ihre Komponenten werden nicht von einem vorhandenen Microsoft-Supportvertrag abgedeckt.  
 
-## <a name="additional-resources"></a>Zusätzliche Ressourcen
+## <a name="additional-resources"></a>Weitere Ressourcen
 Sie können die Website "Microsoft 365 Learning Pfads" verwenden, um Links zu neuen oder vorhandenen Benutzercommunity-Foren bereitzustellen. In diesem Fall sollten Sie eine interne Benutzergruppe starten, wenn Sie bereits über keine verfügen, damit die Personen Ihren Erfolg teilen und voneinander lernen können.  Wenn Sie keine Zeit haben, eine interne Benutzergruppe zu pflegen, können Sie und Ihre Mitarbeiter der [Microsoft Office 365 Champion-Community](https://aka.ms/O365Champions) für monatliche Schulungen, Mitgliedschaft in der Online Community und frühzeitigen Zugriff auf Tools und Ressourcen für Office 365 beitreten.
