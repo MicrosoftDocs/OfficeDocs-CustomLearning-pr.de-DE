@@ -1,6 +1,6 @@
-# <a name="day-in-the-life-with-office-365"></a>Tag im Leben mit Office 365
+# <a name="day-in-the-life-with-office-365"></a>Beispiel für Office 365
 
-Verwenden Sie Office 365 Cloud Services, um Ihre Teamarbeit auf jedem Gerät zu verbessern.  Folgen Sie uns anhand dieser allgemeinen Szenarien, um zu sehen, wie Sie Ihre Zusammenarbeit, Kommunikation und Inhaltserstellung optimieren können, während Sie Ihren Tag durchlaufen.  
+Mithilfe der Office 365-Clouddienste können Sie Ihre Teamarbeit auf jedem beliebigen Gerät verbessern.  Folgen Sie uns durch diese allgemeinen Szenarien, um zu sehen, wie Sie Ihre Zusammenarbeit, Kommunikation und Inhaltserstellung im Laufe Ihres Arbeitstags optimieren können.  
 
-![Tag im Leben visuell](media/m365day.png)
+![Beispiel – visuell](media/m365day.png)
 
