@@ -1,46 +1,46 @@
 ---
-Title: ''
+Titel: ''
 ms.openlocfilehash: 8f2351e1767de9073870e79d1111370cbe4df2cd
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: MT
+ms.sourcegitcommit: 821d6b16d8ae415ae8c55d3bf0691158e2c8e7f3
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
+ms.lasthandoff: 04/02/2020
 ms.locfileid: "32056336"
 ---
-# <a name="during-morning-coffee"></a>Während des morgendlichen Kaffees
+# <a name="during-morning-coffee"></a>Während des Morgenkaffees
 
-![Morning Coffee](media/ditl_coffee.png)
+![Visueller Morgenkaffee](media/ditl_coffee.png)
 
-Es ist 7:00 Uhr, und sogar vor dem Öffnen des Computers können Sie auf Ihrem mobilen Gerät viel erledigen, während Sie Ihren morgendlichen Kaffee trinken. In diesem Abschnitt erfahren Sie, wie Sie Ihren Tag mit Office 365-apps auf Ihrem Smartphone starten.
+Es ist 7:00 Ihr morgens, und noch bevor Sie Ihren Computer hochfahren, können Sie auf Ihrem mobilen Gerät bereits viel erledigen, während Sie Ihren Morgenkaffee trinken. In diesem Abschnitt erfahren Sie, wie Sie mit den Office 365-Apps auf Ihrem Smartphone unmittelbar in Ihren Tag starten können.
 
-Office 365 ermöglicht das Arbeiten von einem beliebigen Gerät aus. Sie entdecken die Vorteile der Verwendung Ihres mobilen Geräts, um die neuesten e-Mails zu lesen, die über Nacht übermittelt wurden, Aufgaben zu prüfen, Besprechungen zu planen, ihre PowerBI-Dashboards zu überprüfen, eine Präsentation zu korrigieren oder eine Nachricht zu senden. 
+Office 365 ermöglicht das Arbeiten von jedem beliebigen Gerät aus – egal, wo Sie sich befinden. Entdecken Sie die Vorteile, die Ihnen die Verwendung Ihres mobilen Geräts zum Lesen der neuesten E-Mails, die über Nacht eingelangt sind, zum Überprüfen von Aufgaben, zum Verschieben einer Besprechung, zur Durchsicht Ihrer PowerBI-Dashboards, zum Korrigieren einer Präsentation oder zum Senden von Nachrichten bietet. 
 
 ## <a name="tools"></a>Tools
-- Outlook (mobil)
-- Microsoft Teams (mobil)
-- SharePoint-News (mobil)
-- Office (mobil)
+- Outlook (Mobil)
+- Microsoft Teams (Mobil)
+- SharePoint News (Mobil)
+- Office (Mobil)
 
-## <a name="checklist-for-your-morning-coffee"></a>Checkliste für ihren morgendlichen Kaffee
-- Überprüfen von e-Mails in Outlook oder Outlook Mobile
-- Aktuelle Informationen zu Projekten in Microsoft Teams & SharePoint News
+## <a name="checklist-for-your-morning-coffee"></a>Checkliste für Ihren Morgenkaffee
+- Prüfen von E-Mails in Outlook oder in der mobilen Outlook-Anwendung
+- Mit Microsoft Teams & SharePoint-Nachrichten zu Projekten auf dem neuesten Stand bleiben
 - Verwalten von Kalenderelementen auf Ihrem mobilen Gerät
 - Überprüfen von Aufgaben für den Tag
-- Verwalten von Office-Dateien auf Ihrem mobilen Gerät 
+- Verwalten von Office-Dateien über Ihr mobiles Gerät 
 
-## <a name="check-mail-from-your-mobile-device"></a>Überprüfen von e-Mails von Ihrem mobilen Gerät
-Bevor Sie Ihr Telefon entsperren, werden ungelesene e-Mails angezeigt, die Ihnen über Nacht von Kollegen in unterschiedlichen Zeitzonen gesendet wurden. Sie können auch sehen, dass Sie zwei Besprechungen für 9:00 Uhr geplant haben – Sie müssen etwas dagegen tun, aber zunächst einmal: Überprüfen Sie die e-Mail, um zu sehen, ob irgendetwas wichtig ist.
+## <a name="check-mail-from-your-mobile-device"></a>Prüfen vom E-Mails auf Ihrem mobilen Gerät
+Bevor Sie Ihr Smartphone entsperren, sehen Sie bereits ungelesene E-Mails, die Ihnen über Nacht von Kollegen in anderen Zeitzonen gesendet wurden. Sie sehen außerdem, dass zwei Besprechungen für 9:00 Uhr vormittags geplant sind – diesbezüglich müssen Sie aktiv werden, doch zuerst die wichtigen Dinge: Überprüfen Sie Ihre E-Mails, um zu sehen, ob etwas Wichtiges hereingekommen ist.
 
-Unterschiedliche Mobile Plattformen haben unterschiedliche Benachrichtigungsfunktionen. Richten Sie Benachrichtigungen in den Benachrichtigungseinstellungen für mobile Geräte ein. 
+Die verschiedenen mobilen Plattformen bieten unterschiedliche Benachrichtigungsfunktionen. Richten Sie Benachrichtigungen in den Benachrichtigungseinstellungen Ihrer mobilen Geräte ein. 
 
-## <a name="get-up-to-date-on-projects-in-microsoft-teams"></a>Auf dem neuesten Stand mit Projekten in Microsoft Teams
-Microsoft Teams ist ein Chat basierter Arbeitsbereich, der sich perfekt für die Verwaltung von Projekten, Kundenengagements oder jede Art von Teamwork eignet, das durch schnelle Unterhaltungen produktiver gestaltet wird. Teams und ihre Kanäle können auf einfache Weise auf neue Aktivitäten überprüft werden. Überprüfen Sie die neuesten Aktivitäten aus ihren Teams, indem Sie zum Aktivitäts Feed in Ihrer mobilen Microsoft Teams-Anwendung navigieren. Dort finden Sie Benachrichtigungen von Kanälen, denen Sie folgen, oder wo Sie @mentioned, um Ihr Feedback zu erhalten.  
+## <a name="get-up-to-date-on-projects-in-microsoft-teams"></a>Mit Microsoft Teams zu Projekten auf dem neuesten Stand bleiben
+Microsoft Teams ist eine Chat-basierte Arbeitsumgebung, die sich perfekt für die Verwaltung von Projekten, die Interaktion mit Kunden oder jede Art von Teamarbeit eignet, die durch schnelle Unterhaltungen produktiver wird. Teams und deren Kanäle können auf einfache Weise auf neue Aktivitäten hin überprüft werden. Überprüfen Sie die neuesten Aktivitäten in Ihren Teams, indem Sie zum Aktivitätsfeed in Ihrer mobilen Microsoft Teams-Anwendung navigieren. Dort sehen Sie die Benachrichtigungen von Kanälen, denen Sie folgen, oder von Kanälen, in denen andere Personen Sie erwähnt (@mentioned) haben, um Feedback von Ihnen zu erhalten.  
 
 ## <a name="manage-calendar-items-on-your-mobile-device"></a>Verwalten von Kalenderelementen auf Ihrem mobilen Gerät
-Sie sehen, dass es einen Verweis auf eine der für 9:00 Uhr geplanten Besprechungen gibt. Sie besagt, dass Ihr Manager eine Aktualisierung des Status eines Projekts benötigt, an dem Sie in dieser Besprechung arbeiten, und dass das aktuelle Foliendeck in der Dokumentbibliothek Ihrer SharePoint Online-Teamwebsite nicht über die neuesten Zahlen verfügt. Dies ist eindeutig die Priorität, daher wechseln Sie zum Kalender in Outlook, um die andere Besprechung mit 9:00 Uhr neu zu planen und Aktualisierungen an die Teilnehmer zu senden.
+Wenn Sie durch Ihre E-Mails scrollen, sehen Sie, dass es einen Bezug auf eine der Besprechungen gibt, die für 9:00 Uhr vormittags geplant sind. Darin steht, dass Ihr Vorgesetzter eine Aktualisierung zum Status eines Projekts, an dem Sie gerade arbeiten, benötigt und dass in den aktuellen Folien in der Dokumentbibliothek Ihrer SharePoint Online-Teamwebsite die neuesten Zahlen fehlen. Dies hat eindeutig Priorität. deshalb wechseln Sie zum Kalender in Outlook, um die andere Besprechung, die für 9:00 Uhr geplant war, zu verschieben und an alle Teilnehmer Terminupdates zu versenden.
 
 ## <a name="check-tasks-for-the-day"></a>Überprüfen von Aufgaben für den Tag
-In der Kalender-APP können Sie auch die Aufgaben für den Tag überprüfen. Wenn Sie Planner verwenden, kann der Besitzer des Plans diese Informationen zu Ihrem Outlook-Kalender hinzufügen. Dann kann jedes Mitglied des Teams Vorgänge in einer Zeitplanansicht in Outlook anzeigen. Auf diese Weise können Sie eine klare Ansicht der vorrangigen Aufgaben und Termine haben.  
+In der Kalender-App können Sie außerdem die Aufgaben für den Tag überprüfen. Wenn Sie Planer verwenden, kann der Besitzer Ihres Plans diese Informationen zu Ihrem Outlook-Kalender hinzufügen. Anschließend kann jedes Mitglied des Teams Aufgaben in Form eines Zeitplans in Outlook ansehen. Dies ermöglicht Ihnen einen klaren Überblick über prioritäre Aufgaben und Termine.  
 
-## <a name="manage-office-files-from-your-mobile-device"></a>Verwalten von Office-Dateien auf Ihrem mobilen Gerät
-Um die Präsentation mit den neuesten Zahlen zu aktualisieren, wechseln Sie in den Office-Hub auf Ihrem mobilen Gerät, auf dem die Dokumentbibliothek für die Teamwebsite für die Synchronisierung eingerichtet wurde. Suchen Sie dort das Foliendeck, das für die Besprechung verwendet wird, und bearbeiten Sie es direkt von Ihrem Telefon aus, indem Sie die neuesten Zahlen aus dem PowerBI-Dashboard hinzufügen. Sie können auch problemlos auf Dateien über die Registerkarte Microsoft Teams-Dateien zugreifen, die Office Hub automatisch auf Ihrem mobilen Gerät öffnet. 
+## <a name="manage-office-files-from-your-mobile-device"></a>Verwalten von Office-Dateien über Ihr mobiles Gerät
+Um die Präsentation mit den neuesten Zahlen zu aktualisieren, wechseln Sie in den Office-Hub auf Ihrem mobilen Gerät, auf dem die Dokumentbibliothek für die Teamwebsite zur Synchronisierung eingerichtet wurde. Suchen Sie dort den Foliensatz, der für die Besprechung verwendet wird, bearbeiten Sie diesen direkt von Ihrem Smartphone aus und fügen Sie die neuesten Zahlen aus dem PowerBI-Dashboard hinzu. Sie können über die Registerkarte „Microsoft Teams-Dateien“ auch ganz einfach auf Dateien zugreifen, wodurch der Office-Hub auf Ihrem mobilen Gerät automatisch geöffnet wird. 
