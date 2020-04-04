@@ -3,11 +3,14 @@
 ## [Bereitstellung von Microsoft 365-Lernpfaden](custom_provision.md)
 ## [Erkunden Sie die Website über die Microsoft 365-Lernpfade](custom_exploresite.md)
 ## [Einrichten von eigenständigen Webparts](custom_manualsetup.md)
-# [Admin Success Center](custom_successcenter.md)
-## [Inhaltsaktualisierungen vom November](custom_contentupdates.md)
+# Neuerungen 
+## [Inhaltsaktualisierungen](custom_contentupdates.md) 
 ## [Inhaltsaktualisierungen verwalten](custom_contentupdatesmanage.md)
-## [Feature-Updates vom November](custom_featureupdates.md)
-## [Schulungsinhalte planen](custom_plancontent.md)
+## [Featureupdates](custom_featureupdates.md)
+# [Admin Success Center](custom_successcenter.md)
+## Planen von Schulungsinhalten 
+### [Schulungsinhalte planen](custom_plancontent.md)
+### [Ressourcen zur Unterstützung von Remotemitarbeitern](custom_plancontent_remoteresources.md)
 ## [Lernpfade anpassen](custom_overview.md)
 ### [Wechseln Sie zur Website über die M365-Lernpfade](custom_goto.md)
 ### [Website anpassen](custom_edithelp.md)
