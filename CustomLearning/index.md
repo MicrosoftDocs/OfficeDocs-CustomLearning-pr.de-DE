@@ -4,15 +4,18 @@ ms.author: pkrebs
 title: Übersicht über Microsoft 365-Lernpfade
 ms.date: 10/23/2019
 description: Erfahren Sie, wie Microsoft 365-Lernpfade die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation beschleunigen können. Lernpfade umfassen ein benutzerdefiniertes SharePoint Online-Webpart und eine moderne Schulungswebsite zur SharePoint Online-Kommunikation, die problemlos für Ihren Microsoft 365-Mandanten bereitgestellt werden kann.
-ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
-ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
-ms.translationtype: HT
+ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41831891"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141398"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 Lernpfade 
 Microsoft 365-Lernpfade sind eine anpassbare, bedarfsgesteuerte Lernlösung zur Steigerung der Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation.    
+
+> [!IMPORTANT]
+> Als Reaktion auf aktuelle Ereignisse bietet Learning-Pfade eine April 2020-Inhaltsaktualisierung, die sich auf Wiedergabelisten und Ressourcen konzentriert, die die Remote Arbeit in Ihrer Organisation ermöglichen. Wir haben eine neue Gruppe von Remote-Wiedergabelisten hinzugefügt, den Microsoft Teams-Inhalt vor allem für Teams-Besprechungen erheblich aktualisiert und eine neue Gruppe von Office für die webplaylisten hinzugefügt. Im Rahmen des Updates haben wir auch eine Liste mit Remote-Arbeitsressourcen für Administratoren bereitgestellt. Eine vollständige Liste der Updates finden Sie unter [Learning Pfads April 2020 Inhaltsaktualisierungen](custom_contentupdates.md).   
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Bedarfsgesteuerte, benutzerorientierte Schulung von Microsoft
 

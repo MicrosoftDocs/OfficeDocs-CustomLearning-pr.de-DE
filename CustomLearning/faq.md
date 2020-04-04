@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Häufig gestellte Fragen zu Microsoft 365-Lernpfaden
 ms.date: 02/10/2019
 description: Informationen zu häufig gestellten Fragen für Microsoft 365-Lern Pfade
-ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
-ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
+ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068816"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141368"
 ---
 # <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
@@ -38,10 +38,9 @@ Microsoft 365 Lern Pfade befinden sich derzeit in der Beta Vorschau. Berücksich
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>In welchen Sprachen sind Microsoft 365-Lern Pfade verfügbar?
 
-Microsoft 365-Lern Pfade sind derzeit nur in englischer Sprache verfügbar. Die automatische End-to-End-proprovisionierung funktioniert nur mit englischen Mandanten. Wir planen die Einführung einer mehrsprachigen Unterstützung für diese neun Sprachen im ersten Quartal 2020. 
+Microsoft 365-Lern Pfade sind derzeit nur in englischer Sprache verfügbar. Die automatische End-to-End-proprovisionierung funktioniert nur mit englischen Mandanten. Wir planen die Einführung einer mehrsprachigen Unterstützung für die folgenden Sprachen im zweiten Quartal 2020. 
 
 - Chinesisch (vereinfacht) 
-- Niederländisch (Niederlande) 
 - Französisch  
 - Deutsch 
 - Italienisch (Italien) 
@@ -49,6 +48,8 @@ Microsoft 365-Lern Pfade sind derzeit nur in englischer Sprache verfügbar. Die 
 - Portugiesisch (Brasilien) 
 - Russisch (Russisch)  
 - Spanisch 
+
+> Die Unterstützung für die niederländische Sprache wird in der bevorstehenden Version der mehrsprachigen Unterstützung für Lern Pfade nicht berücksichtigt. Wir werden auch in Zukunft neue Sprachoptionen evaluieren.
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Wie lange dauert es, bis die Website in unserer Mandanten Umgebung installiert wird?
 
@@ -58,7 +59,7 @@ Basierend auf den Tests der Installation sollte es weniger als 15 Minuten dauern
 
 Microsoft 365 Lernpfade sind eine Open Source Software (OSS)-Lösung und tragen als solche eine Reihe von Vorteilen und Überlegungen für das deutsche für OSS:
 
-#### <a name="benefits"></a>Vorzüge 
+#### <a name="benefits"></a>Vorteile 
 - **Microsoft 365 Lern Pfade ist eine ﻿kostenlose Lösung:** Kunden können die Lösung in Ihrem Mandanten installieren, anpassen und für Endbenutzer verfügbar machen.
 - **OSS ermöglicht eine schnelle Entwicklung und Zusammenarbeit:**  Alle Open Source-Lösungen stehen einer breiten Community von Mitwirkenden zur Verfügung.  Microsoft setzt sich für diese Methode der Innovationssteuerung ein.  Um sicherzustellen, dass wir eine Erfahrung liefern, die den umfassendsten unserer Kunden zugute kommt, behält sich unser Kerndienst-Management-Team das Recht vor, festzustellen, welche Beiträge in unserem offiziellen Build zusammengeführt werden.  
 - **OSS ermöglicht die Zusammenarbeit mit Partnern:** Microsoft arbeitet mit mehreren Lernpartnern zusammen, um Ihre Bemühungen für zukünftige Erweiterungen und Beiträge für Microsoft 365-Lern Pfade zu unterstützen. Wir werden weitere Informationen bereitstellen, wenn diese Pläne abgeschlossen werden. 

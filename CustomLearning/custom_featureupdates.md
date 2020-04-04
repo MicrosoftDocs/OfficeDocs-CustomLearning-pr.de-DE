@@ -1,23 +1,43 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Lern Pfade November 2019 Feature-Updates
+title: Lern Pfade Feature-Updates
 ms.date: 10/20/2019
-description: Lern Pfade November 2019 Feature-Updates
-ms.openlocfilehash: fe3dc11f5e34d729d1a63f7b1ef92988f753021a
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+description: Lern Pfade Feature-Updates
+ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956572"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141358"
 ---
-# <a name="november-2019-version-30-feature-updates"></a>November 2019 Version 3,0 Feature-Updates
+# <a name="learning-pathways-feature-updates"></a>Lern Pfade Feature-Updates
+Das Team für Lern Pfade hört auf Kundenfeedback, um die erforderlichen Funktionen bereitzustellen. Im folgenden finden Sie ein Update der für Q2 2020 geplanten Funktionen. 
+
+## <a name="upcoming-feature-updates-for-q2-2020"></a>Bevorstehende Feature-Updates für Q2 2020
+Die mehrsprachige Unterstützung für Lern Pfade wird im zweiten Quartal 2020 veröffentlicht. Die mehrsprachige Unterstützung hängt von der Funktion "mehrsprachigen Page Publishing for modern SharePoint" ab und wird gleichzeitig mit der allgemeinen Verfügbarkeit für die SharePoint-mehrsprachige Unterstützung zur Verfügung stehen. Weitere Informationen finden Sie in der [Microsoft 365-Roadmap](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217).  
+  
+Die folgenden Sprachen werden für Lern Pfade unterstützt:   
+
+- Chinesisch (vereinfacht) 
+- Französisch  
+- Deutsch 
+- Italienisch (Italien) 
+- Japanisch (Japan)  
+- Portugiesisch (Brasilien) 
+- Russisch (Russisch)  
+- Spanisch 
+
+> [!NOTE]
+> Die Unterstützung für die niederländische Sprache wird in der bevorstehenden Version der mehrsprachigen Unterstützung für Lern Pfade nicht berücksichtigt. Wir werden auch in Zukunft neue Sprachoptionen evaluieren.
+
+## <a name="november-2019-version-30-feature-updates"></a>November 2019 Version 3,0 Feature-Updates
 Basierend auf Kundenfeedback wurden die folgenden neuen Features zu den Microsoft 365-Lernpfaden Version 3,0 hinzugefügt.
 
-## <a name="content-updates-and-editorial-calendar"></a>Inhaltsupdates und redaktioneller Kalender
+### <a name="content-updates-and-editorial-calendar"></a>Inhaltsupdates und redaktioneller Kalender
 Eines der Versprechungen von Lernpfaden sind aktuelle Inhalte. Zu diesem Zweck haben wir unser erstes vierteljährliches Inhaltsupdate vom November 2019 mit einer Vielzahl neuer Unterkategorien, Wiedergabelisten und Objekte bereitgestellt. Inhaltsupdates werden in unseren Content Update-Artikeln in unserer What es New/What es Changed-Wiedergabeliste mitgeteilt. Lern Pfade vierteljährliche Inhaltsaktualisierungen finden Sie auch hier: Allgemeine Office-Hilfe finden Sie im [November 2019 Inhaltsaktualisierungen](custom_contentupdates.md).
 
-## <a name="microsoft-365-success-center"></a>Microsoft 365-Erfolgs Center
+### <a name="learning-pathways-admin-success-center"></a>Lern Pfade Administrator Success Center
 Wir haben ein Microsoft 365 Learning Pfads-Administrator-Erfolgs Center hinzugefügt, um Administratoren und Websitesammlungsbesitzern zu helfen, die Lern Pfade optimal zu nutzen. Das Administrator Success Center bietet Links zu Planungs-und Adoptions Ressourcen sowie Anleitungen zur Planung, Anpassung, Einführung und Messung der Auswirkungen von Lern wegen. Weitere Informationen finden Sie unter [Admin Success Center](custom_successcenter.md).
 
 ## <a name="playlist-navigation"></a>Playlist-Navigation
