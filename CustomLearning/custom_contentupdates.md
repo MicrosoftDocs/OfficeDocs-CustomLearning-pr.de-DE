@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Lern Pfade Inhaltsaktualisierungen
 ms.date: 3/30/2020
 description: Lern Pfade April 2020 Inhaltsaktualisierungen
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141381"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191347"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Lern Pfade Inhaltsaktualisierungen
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. In der folgenden Liste werden die Inhaltsupdates für April 2020 aufgelistet.
@@ -109,9 +109,9 @@ Office für das Internet enthält eine Reihe von Wiedergabelisten für Szenarien
 - Freigeben von Dokumenten
 - Erstellen einer freigegebenen Verknüpfung
 - Schützen Ihrer Dokumente nur für bestimmte Personen
-- Freigeben für Personen außerhalb Ihrer Organisation
+- Freigeben für Personen außerhalb Ihrer Organisation 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 Auf Anfrage gibt es auch einige neue Formularobjekte. 
 #### <a name="forms-4-new-assets"></a>Formulare (4 neue Objekte) 
 - Erstellen eines Formulars 
@@ -119,7 +119,7 @@ Auf Anfrage gibt es auch einige neue Formularobjekte.
 - Anzeigen der Ergebnisse eines Formulars 
 - Häufig gestellte Fragen zu Microsoft Forms 
 
-### <a name="resources-for-supporting-your-remote-workforce"></a>Ressourcen für die Unterstützung ihrer Remotemitarbeiter
+### <a name="resources-for-supporting-your-remote-workforce"></a>Ressourcen zur Unterstützung von Remotemitarbeitern
 Sie können Lernpfade verwenden, um eine Zielseite in ihrer Lernpfade-Website für die Unterstützung von Remote Arbeitskräften zu erstellen. Sie können auch das Lernpfade-Webpart zu einer vorhandenen Support Seite auf Ihrer Lernpfade-Website hinzufügen und das Webpart filtern, um die Wiedergabelisten für die Arbeit im Remotemodus anzuzeigen. Im folgenden finden Sie eine Liste mit einigen der wichtigsten Ressourcen von Microsoft für die Unterstützung von Remote-Arbeit in Ihrer Organisation. 
 - [Vorgehensweise beim Rollout von Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
 - [Besprechungen und Konferenzen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
@@ -130,7 +130,7 @@ Sie können Lernpfade verwenden, um eine Zielseite in ihrer Lernpfade-Website f�
 - [Bildung: Microsoft Education Center](https://education.microsoft.com) 
 - [Education: Erste Schritte mit Remote Learning](https://education.microsoft.com/resource/4c0c02c0)
 
-Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Anpassen von Lernpfaden] ((custom_overview. MD). 
+Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Anpassen von Lern](custom_overview.md)Pfaden. 
 
 ## <a name="november-2019-content-updates"></a>November 2019 Inhalts Updates
 Willkommen beim Inhaltsupdate für Lernabschnitte von Microsoft 365. Beginnend mit unserem Update vom November 2019 werden wir eine aktualisierte Bestandsaufnahme des Katalogs für Lern Pfade auf Quartalsbasis bereitstellen. Für das Update vom November 2019 wurden die folgenden neuen Inhalts Unterkategorien und Wiedergabelisten zum Lern Pfad Katalog hinzugefügt. Weitere Informationen zum Anwenden von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md).    
