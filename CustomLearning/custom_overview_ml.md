@@ -5,12 +5,12 @@ title: Übersicht
 ms.date: 06/06/2020
 description: Mehrsprachige Unterstützung für Lern Pfade
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 72159b9525368c6f9744913aea023f496d353091
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: a576c94b48af9336ffc7f035de7377e7bf57c84c
+ms.sourcegitcommit: a50efd8bc3719dbb4f5630e8fceec185599e33a2
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699069"
+ms.locfileid: "44704621"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachige Unterstützung für Lern Pfade
 
@@ -24,9 +24,9 @@ Wenn Ihre Organisation eine unterschiedliche Bevölkerung umfasst, können Sie M
 - Japanisch (Japan)
 - Portugiesisch (Brasilien)
 - Russisch (Russisch)
-- Spanish
+- Spanisch
 
-Die mehrsprachige Unterstützung für Lern Pfade wird durch das SharePoint Online mehrsprachige Feature für SharePoint Online Kommunikationswebsites unterstützt. 
+Die mehrsprachige Unterstützung für Lern Pfade wird durch das SharePoint Online mehrsprachige Feature für SharePoint Online Kommunikationswebsites unterstützt.  
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-feature"></a>Machen Sie sich mit dem SharePoint Online mehrsprachigen Feature vertraut
 Mit SharePoint Online mehrsprachigen Unterstützung können Sie übersetzte Seiten, Nachrichten Beiträge und Benutzeroberflächenelemente in der bevorzugten Sprache des Benutzers bereitstellen. Bevor Sie beginnen, sollten Sie sich einige Zeit nehmen, um zu erfahren, wie die mehrsprachige Unterstützung funktioniert. 
