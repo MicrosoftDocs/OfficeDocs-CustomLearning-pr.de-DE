@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Aktualisieren von Microsoft 365 Lernpfaden
+title: Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 ms.date: 05/20/2019
-description: Aktualisieren von Microsoft 365 Lernpfaden
+description: Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: cf058d0b8953f39a8243ffc91ab31fc5941c5674
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699063"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031701"
 ---
-# <a name="update-microsoft-365-learning-pathways"></a>Aktualisieren von Microsoft 365 Lernpfaden
+# <a name="update-learning-pathways-for-multilingual-support"></a>Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 Wenn Sie über eine vorhandene Lern Pfad Website verfügen, können Sie diese für mehrsprachige Unterstützung aktualisieren. Um Lern Pfade auf die mehrsprachige Version 4,0 zu aktualisieren, laden Sie das Webpart-Paket, customlearning. sppkg, in den SharePoint-Mandanten-App-Katalog hoch. Beim Aktualisieren von Lernpfaden:  
 
 - Zuvor erstellte benutzerdefinierte Wiedergabelisten und Objekte werden beibehalten.
@@ -41,7 +41,7 @@ Lern Pfade unterstützen neun Sprachen, Sie sollten nur die Sprachen hinzufügen
 - Geben Sie unter **Sprachen hinzufügen oder entfernen**die Eingabe eines sprach namens in **"auswählen" oder**"Sprache eingeben" ein, oder wählen Sie eine Sprache aus der Dropdownliste aus. Sie können diesen Schritt wiederholen, um mehrere Sprachen hinzuzufügen. Sie können jederzeit Sprachen von Ihrer Website hinzufügen oder entfernen, indem Sie zurück zu dieser Seite wechseln.
  
 ### <a name="assign-translators"></a>Zuweisen von Übersetzern
-Beim Definieren von Spracheinstellungen für Lern Pfade können Sie Übersetzer zuweisen. Für Übersetzer sollte ein Fremdsprachen Profil eingerichtet sein. Weitere Informationen zu fremdsprachigen Profilen finden Sie unter [Erstellen von mehrsprachigen Kommunikationswebsites, Seiten und Nachrichten](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
+Beim Definieren von Spracheinstellungen für Lern Pfade können Sie Übersetzer zuweisen. Für Übersetzer sollte ein Fremdsprachen Profil eingerichtet sein. Weitere Informationen zu fremdsprachigen Profilen finden Sie unter [Erstellen von mehrsprachigen Kommunikationswebsites, Seiten und Nachrichten](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
 - Klicken Sie für eine unterstützte Sprache auf **auswählen, oder geben Sie einen Übersetzer** ein, und wählen Sie dann einen Übersetzer aus. 
 
 ## <a name="update-the-learning-pathways-web-part-package"></a>Aktualisieren des Lern Pfad-Webparts-Pakets

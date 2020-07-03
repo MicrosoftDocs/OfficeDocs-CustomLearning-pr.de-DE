@@ -4,19 +4,21 @@ ms.author: pkrebs
 title: Übersetzen von Website Seiten
 ms.date: 02/10/2019
 description: Übersetzen von Website Seiten
-ms.openlocfilehash: 32dc0928d12074575c8608cef38e4b4d0e5e5cf3
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: e26ec272641dc9ce9476e25c56007c76499b626a
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699066"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031784"
 ---
 # <a name="translate-site-pages"></a>Übersetzen von Website Seiten
-Unabhängig davon, ob Sie eine vorhandene Version von Lernpfaden auf Version 4,0 aktualisiert haben oder eine neue Website bereitgestellt haben, ist das Verfahren zum Übersetzen von Website Seiten identisch. Es gibt jedoch einige Dinge, die Sie beachten sollten. 
-- Wenn eine neue Lern Pfade mehrsprachig 4,0 Version vorgesehen ist, werden die Website Seiten für Sie in 9 Sprachen übersetzt. 
-- Wenn die Lern Pfad Lösung auf die mehrsprachige Version von 4,0 aktualisiert wird, bleiben die Seiten der SharePoint-Website für Lern Pfade unverändert. Übersetzungen müssen manuell erfolgen. 
+Bevor Sie mit der Übersetzung der Website für Lern Pfade beginnen, müssen Sie einige wichtige Konzepte verstehen, wie das mehrsprachige Feature mit Lernpfaden funktioniert. 
+- Website Informationen – Übersetzungen für Navigation, Logo und Websitenamen erfordern, dass die Website im Sprachprofil des Benutzers angezeigt wird.  
+- Das Lern Pfad-Webpart muss mit dem Sprachprofil des Benutzers angezeigt werden, damit es in einer anderen Sprache als Englisch angezeigt wird. Das Webpart und der von Microsoft bereitgestellte Inhalt werden bereits für Sie übersetzt.
+- Die Methode, die Sie zum Bereitstellen von Lernpfaden verwendet haben, bestimmt, ob Sie bereits übersetzte Seiten verfügbar sind oder ob Sie die Seiten manuell übersetzen müssen. 
 
-Die Website für Lern Pfade stellt standardmäßig die folgenden Seiten bereit:
+## <a name="working-with-a-newly-provisioned-site"></a>Arbeiten mit einer neu eingerichteten Website
+Wenn Sie eine neue Website für Lern Pfade aus dem SharePoint-Bereitstellung-Dienst bereitgestellt haben, sind die übersetzten Seiten bereits verfügbar. Standardmäßig stellt die Website die folgenden Seiten bereit:
 
 - Home. aspx
 - Start-with-Six-Simple-Steps. aspx
@@ -30,30 +32,58 @@ Die Website für Lern Pfade stellt standardmäßig die folgenden Seiten bereit:
 - Recommended-Playlists. aspx
 - Lern Pfade Administrator Success Center
 
+## <a name="view-translated-pages-from-the-newly-provisioned-site"></a>Übersetzte Seiten aus der neu erstellten Website anzeigen
+Um sich mit der übersetzten Lernpfade-Website vertraut zu machen, werfen wir einen Blick auf einige übersetzte Seiten.
+
+### <a name="view-the-translated-home-page"></a>Die übersetzte Startseite anzeigen
+Wählen Sie auf der Startseite für Lern Pfade eine Sprache aus der Dropdownliste Sprache aus, wie im folgenden Beispiel gezeigt. In diesem Beispiel wird in der oberen rechten Ecke Italienisch ausgewählt angezeigt.
+
+![custom_ml_pages_home.png](media/custom_ml_pages_home.png)
+
+### <a name="view-the-translated-microsoft-365-training-page"></a>Anzeigen der übersetzten Microsoft 365-Schulungsseite
+Um einige wichtige Konzepte veranschaulichen zu können, sehen wir uns die Microsoft 365-Schulungsseite an. 
+
+1. Klicken Sie auf der **Start** Seite der Website für Lern Pfade auf **Microsoft 365 Training**.
+2. Wählen Sie in der oberen rechten Ecke der Seite eine Sprache aus. In diesem Beispiel wird Italienisch ausgewählt.
+
+![custom_ml_pages_training.png](media/custom_ml_pages_training.png)
+
+Welche Übersetzungen werden angezeigt, wenn die Sprache ausgewählt wird?
+- Die SharePoint-Seite wird wie in der obigen Grafik dargestellt übersetzt. Beachten Sie, dass der Text für das Seitenbanner jetzt auf Italienisch angezeigt wird.
+
+Was sind Übersetzungen nicht sichtbar?
+- Der Websitename ist in Englisch.
+- Die Websitenavigation ist in Englisch
+- Das Webpart für Lern Pfade ist in Englisch.
+
+## <a name="view-the-fully-translated-site"></a>Anzeigen der vollständig übersetzten Website 
+Um eine vollständig übersetzte Website in einer bestimmten Sprache anzuzeigen, einschließlich der Website Seiten, der Navigation und des Webparts, müssen die persönlichen sprach-und Ländereinstellungen des Benutzers für diese Sprache festgelegt werden. Weitere Informationen zum Festlegen von Sprach-und Ländereinstellungen finden Sie unter [Ändern Ihrer persönlichen Sprache und regionalen Einstellungen](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). Beachten Sie, dass es am besten ist, ein separates Konto zu verwenden oder einen anderen Benutzer zu haben, in dem die unterschiedlichen Spracheinstellungen die übersetzten Seiten anzeigen. 
+
+## <a name="working-with-an-updated-or-manually-installed-learning-pathways-site"></a>Arbeiten mit einer aktualisierten oder manuell installierten Lern Pfad Website
+Wenn Sie eine vorhandene Lern Pfad Website aktualisiert oder das Webpart manuell auf einer vorhandenen Website installiert haben, müssen Sie die Website Seiten manuell übersetzen. Das Webpart für Lern Pfade und der Inhalt sind bereits übersetzt und werden in der bevorzugten Sprache des Benutzers angezeigt. Informationen zum Übersetzen von Seiten finden Sie in den folgenden Anweisungen unter "Erstellen von Seiten für die gewünschten Sprachen". 
+
 ## <a name="create-pages-for-the-languages-you-want"></a>Erstellen von Seiten für die gewünschten Sprachen
-Nachdem Sie Ihre Website für mehrsprachige Funktionen aktiviert haben und die Sprachen ausgewählt haben, die Sie zur Verfügung stellen möchten, können Sie die gewünschten Übersetzungsseiten erstellen. Um einige wichtige Konzepte veranschaulichen zu können, verwenden wir die Microsoft 365-Schulungsseite als Beispiel. Gehen Sie hierfür folgendermaßen vor:
+Nachdem Sie Ihre Website für mehrsprachige Funktionen aktiviert haben und die Sprachen ausgewählt haben, die Sie zur Verfügung stellen möchten, können Sie die gewünschten Übersetzungsseiten erstellen. 
 
-1.  Klicken Sie auf der **Start** Seite für Lern Pfade auf **Microsoft 365 Training**.  
-2.  Wählen Sie in der oberen Leiste **Übersetzung**aus.
-![custom_update_ml_transbutton.png](media/custom_update_ml_transbutton.png)
-3. Wenn Sie eine Seite für die Übersetzung in jeder für Ihre Website verfügbaren Sprache erstellen möchten, wählen Sie **für alle Sprachen erstellen**aus. Wählen Sie andernfalls nur für die gewünschten Sprachen **Erstellen** aus. In diesem Beispiel wählen Sie Italienisch aus.
-4.  Klicken Sie auf **Ansicht**. Die Seite ist jetzt für die Übersetzung verfügbar. 
-
-### <a name="an-important-concept-to-know"></a>Ein wichtiges Konzept, das Sie kennen sollten
-Beachten Sie, dass im folgenden Beispiel die Seite in Italienisch übersetzt wurde. Der Website Titel, die Navigation und das Webpart werden jedoch weiterhin in Englisch angezeigt. 
-
-![custom_update_ml_transpgconcept.png](media/custom_update_ml_transpgconcept.png)
-
- Nachdem die Website in Englisch eingerichtet wurde, wird ein Benutzer mit Spanisch, beispielsweise als bevorzugter persönlicher Sprache, die Titel-, Navigations-und Fußzeilen Inhalte manuell in Spanisch bearbeitet und übersetzt. Ein Benutzer mit Deutsch als bevorzugter persönlicher Sprache macht dasselbe für Deutsch. Sobald der Inhalt übersetzt wurde, wird er für alle Benutzer dieser bevorzugten Sprachen angezeigt. Das Webpart nimmt die bevorzugte Sprache des Benutzers auf und zeigt den Inhalt an, der in dieser Sprache übersetzt wurde. 
+1. Wechseln Sie zur Standardsprach Seite, die Sie in einer anderen Sprache verfügbar machen möchten.
+2. Wählen Sie in der oberen Leiste Übersetzung aus.
+3. Wählen Sie erstellen für die gewünschten Sprachen aus.
 
 > [!IMPORTANT]
-> Wichtig: Nachdem Sie die Übersetzungsseiten erstellt haben, müssen Sie die standardmäßige englischsprachige Seite veröffentlichen (oder erneut veröffentlichen), um Folgendes sicherzustellen:
-- Übersetzungsseiten werden auf der entsprechenden sprach Website angezeigt.
-- Übersetzungsseiten werden ordnungsgemäß im News-Webpart und den markierten Inhalts Webparts angezeigt
-- Das Sprachmenü oben auf der Website enthält alle Sprachen, die Sie aktiviert haben.
-- Übersetzer werden über die Übersetzungsanforderung benachrichtigt.
+> Nachdem Sie die Übersetzungsseiten erstellt haben, müssen Sie die Standardsprach Seite veröffentlichen (oder erneut veröffentlichen), um Folgendes sicherzustellen:
+>- Übersetzungsseiten werden auf der entsprechenden sprach Website angezeigt.
+>- Übersetzungsseiten werden ordnungsgemäß im News-Webpart und den markierten Inhalts Webparts angezeigt
+>- Das Sprachmenü oben auf der Website enthält alle Sprachen, die Sie aktiviert haben.
+>- Übersetzer werden über die Übersetzungsanforderung benachrichtigt.
+
+Nachdem die Seite (n) erstellt wurde, wird der Status der Seite (Entwurf gespeichert, veröffentlicht usw.) im Übersetzungsbereich neben jeder Sprache angezeigt. Außerdem werden die von Ihnen zugewiesenen Übersetzer per e-Mail benachrichtigt, dass eine Übersetzung angefordert wird.
+
+### <a name="view-the-fully-translated-site-in-a-specific-language"></a>Anzeigen der vollständig übersetzten Website in einer bestimmten Sprache
+Um eine vollständig übersetzte Website in einer bestimmten Sprache anzuzeigen, einschließlich der Website Seiten, der Navigation und des Webparts, müssen die persönlichen sprach-und Ländereinstellungen des Benutzers für diese Sprache festgelegt werden. Weitere Informationen zum Festlegen von Sprach-und Ländereinstellungen finden Sie unter [Ändern Ihrer persönlichen Sprache und regionalen Einstellungen](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). Beachten Sie, dass es am besten ist, ein separates Konto zu verwenden oder einen anderen Benutzer zu haben, in dem die unterschiedlichen Spracheinstellungen die übersetzten Seiten anzeigen.
 
 ## <a name="what-does-a-translator-do"></a>Was macht ein Übersetzungstool?
+ Nachdem die Website in Englisch eingerichtet wurde, wird ein Benutzer mit Spanisch, beispielsweise als bevorzugter persönlicher Sprache, die Titel-, Navigations-und Fußzeilen Inhalte manuell in Spanisch bearbeitet und übersetzt. Ein Benutzer mit Deutsch als bevorzugter persönlicher Sprache macht dasselbe für Deutsch. Sobald der Inhalt übersetzt wurde, wird er für alle Benutzer dieser bevorzugten Sprachen angezeigt. Das Webpart nimmt die bevorzugte Sprache des Benutzers auf und zeigt den Inhalt an, der in dieser Sprache übersetzt wurde. 
+
 Übersetzer übersetzen die Kopien der Standardsprach Seite manuell in die angegebenen Sprache (n). Wenn die Kopien der Seite (n) erstellt werden, werden Übersetzer per e-Mail benachrichtigt. Die e-Mail enthält einen Link zur Standardsprach Seite und der neu erstellten Übersetzungsseite. Der Übersetzer wird:
 1. Wählen Sie die Schaltfläche über **Setzung starten** in der e-Mail aus.
 2. Wählen Sie oben rechts auf der Seite **Bearbeiten** aus, und übersetzen Sie den Inhalt.
@@ -64,6 +94,20 @@ Weitere Informationen zum Übersetzungsprozess finden Sie unter [Erstellen von m
 ## <a name="updating-the-default-language-page"></a>Aktualisieren der Standardsprach Seite
 Wenn die Seite Standardsprache aktualisiert wird, muss die Seite erneut veröffentlicht werden. Anschließend werden die Übersetzer für die Übersetzungsseiten per e-Mail benachrichtigt, dass eine Aktualisierung vorgenommen wurde, damit die einzelnen Übersetzungsseiten aktualisiert werden können.
 
-## <a name="next-steps"></a>Nächste Schritte
-- [Übersetzen benutzerdefinierter Wiedergabelisten](custom_translate_pl_ml.md)
-- [Ausblenden und Anzeigen von mehrsprachigen-Inhalten](custom_translate_pl_ml.md)
+## <a name="set-up-a-multilingual-site-name-navigation-and-footer"></a>Einrichten eines mehrsprachigen Website namens, einer Navigation und einer Fußzeile
+Um den Websitenamen, die Navigation und die Fußzeile Ihrer Website in den verschiedenen Sprachen anzuzeigen, die Sie zur Verfügung gestellt haben, müssen Sie manuell übersetzt werden.
+
+Angenommen, Sie haben eine Kommunikationswebsite mit einer englischen Standardsprache erstellt, und Sie haben die Website für die Sprachen Spanisch und Deutsch aktiviert. Wenn Sie eine Website erstellen, richten Sie den Websitenamen und die Beschreibung in der Standardsprache ein (in diesem Fall Englisch). Sie können auch den Websitenamen und die Beschreibung nach der Erstellung der Website aktualisieren. Anschließend erstellen Sie die Navigationsknoten und Fußzeilen Inhalte in englischer Sprache.
+
+Nachdem die Website in Englisch eingerichtet wurde, bearbeitet und übersetzt ein Benutzer mit Spanisch als bevorzugter persönlicher Sprache die Titel-, Beschreibungs-, Navigations-und Fußzeilen Inhalte manuell in Spanisch. Ein Benutzer mit Deutsch als bevorzugter persönlicher Sprache macht dasselbe für Deutsch. Sobald der Inhalt übersetzt wurde, wird er für alle Benutzer dieser bevorzugten Sprachen angezeigt. 
+
+> [! Notizen
+>- Benutzer, die den Websiteinhalt für Ihre bevorzugten Sprachen übersetzen, sollten Mitglieder der Gruppe Besitzer für die Website sein oder über entsprechende Websiteberechtigungen verfügen.
+>- Wenn eine Änderung am Websitenamen, der Navigation oder der Fußzeile in der Standardsprache vorgenommen wird, wird das entsprechende übersetzte Element in einer anderen Sprache nicht automatisch aktualisiert, es sei denn, Sie haben die Möglichkeit, vorhandene Website Übersetzungen zu überschreiben. Wenn Sie dies tun, wird das übersetzte Element durch das Update in der Standardsprache ersetzt und müsste erneut manuell übersetzt werden. Wechseln Sie zum Überschreiben von Übersetzungen zur Seite Website Sprachen für die Standardsprache, und wählen Sie erweiterte Einstellungen anzeigen aus. Schieben Sie dann die Umschaltfläche für Übersetzungen Überschreiben in ein. Diese Option gilt nicht für Seiten-oder Nachrichteninhalte.
+
+### <a name="to-view-the-fully-translated-site-in-a-specific-language"></a>So zeigen Sie die vollständig übersetzte Website in einer bestimmten Sprache an
+Um eine vollständig übersetzte Website in einer bestimmten Sprache anzuzeigen, einschließlich der Website Seiten, der Navigation und des Webparts, müssen die persönlichen sprach-und Ländereinstellungen des Benutzers für diese Sprache festgelegt werden. Weitere Informationen zum Festlegen von Sprach-und Ländereinstellungen finden Sie unter [Ändern Ihrer persönlichen Sprache und regionalen Einstellungen](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7). Beachten Sie, dass es am besten ist, ein separates Konto zu verwenden oder einen anderen Benutzer zu haben, in dem die unterschiedlichen Spracheinstellungen die übersetzten Seiten anzeigen.
+
+## <a name="for-more-information"></a>Weitere Informationen
+- Weitere Informationen zum Übersetzen von SharePoint-Kommunikationswebsite Seiten finden Sie unter [Erstellen von mehrsprachigen Kommunikationswebsites, Seiten und Nachrichten](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
+- Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Anpassen von Lern](custom_overview.md)Pfaden.  

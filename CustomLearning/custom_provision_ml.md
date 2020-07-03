@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Stellen Sie eine mehrsprachige Website für neue Lern Pfade zur Verfügung
+title: Stellen Sie eine neue Lern Pfade mehrsprachige Lösung
 ms.date: 02/10/2019
 description: Stellen der Website "Microsoft 365 Learning Pfads" über den SharePoint-Bereitstellungsdienst
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: ca565a113056a915cfc780568ca36777bbf8f5bb
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699072"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031711"
 ---
-# <a name="provision-a-new-learning-pathways-multilingual-site"></a>Stellen Sie eine mehrsprachige Website für neue Lern Pfade zur Verfügung
+# <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Stellen Sie eine neue Lern Pfade mehrsprachige Lösung
 Organisationen, die keine Lernpfade bereits in Ihrem Mandanten bereitgestellt haben, können dem Mandanten die Lösung für mehrsprachige Lern Pfade hinzufügen. Mit dieser Option wird die SharePoint-Vorlage für Lern Pfade in neun Sprachen übersetzt und kann mit mindestens einer Änderung verwendet werden. 
 
 > [!IMPORTANT]
