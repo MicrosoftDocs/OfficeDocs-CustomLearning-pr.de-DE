@@ -5,15 +5,15 @@ title: Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
 ms.date: 06/8/2020
 description: Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: b57bf6d32a645f4ddf26429bb56f547c994d453a
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031733"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45039005"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
-Bei Lernpfaden hängt die Art und Weise, wie Sie mit benutzerdefinierten Wiedergabelisten arbeiten, davon ab, wie Sie die Website für Lern Pfade vorgestellt haben. 
+Bei Lernpfaden hängt die Art und Weise, wie Sie mit benutzerdefinierten Wiedergabelisten arbeiten, davon ab, wie Sie Lern Pfade einrichten.  
 
 - Wenn Sie eine mehrsprachige Website für neue Lern Pfade bereitgestellt haben, können Sie eine neue Wiedergabeliste kopieren oder erstellen und die Wiedergabeliste in die von der Website unterstützten Sprachen übersetzen.
 - Wenn Sie eine vorhandene Lern Pfad Website mit bereits vorhandenen benutzerdefinierten Wiedergabelisten aktualisiert haben, können Sie die vorhandenen Wiedergabelisten in die von Ihrer Website unterstützten Sprachen übertragen. Sie können auch neue Wiedergabelisten kopieren und erstellen. 
@@ -30,7 +30,7 @@ Um zu veranschaulichen, wie Sie eine neue benutzerdefinierte Wiedergabeliste ers
 1.  Klicken Sie im Menü **Home** Lern Pfade auf **Lern Pfadverwaltung**. 
 2.  Wählen Sie unter **Microsoft 365 Lern Pfade**die Option **erste Tage**aus, und wählen Sie dann **sechs einfache Schritte aus – Willkommen bei Microsoft 365**. 
 3. Klicken Sie auf **Playlist kopieren**, Scrollen Sie auf der Seite nach unten, und klicken Sie auf **Detail bearbeiten**.   
-4. Ändern Sie den Titel der Wiedergabeliste. In diesem Beispiel wird der Titel der Wiedergabeliste in **fünf einfache Schritte**geändert. Beachten Sie, dass die verfügbaren Sprachen von den unterstützten Sprachen abhängig sind, die für die Website ausgewählt wurden. Um weitere Sprachen hinzuzufügen, müssen Sie der Website weitere unterstützte Sprachen hinzufügen.   
+4. Ändern Sie den Titel der Wiedergabeliste. In diesem Beispiel wird der Titel der Wiedergabeliste in **fünf einfache Schritte**geändert. Die verfügbaren Sprachen hängen von den unterstützten Sprachen ab, die für die Website ausgewählt sind. Um weitere Sprachen hinzuzufügen, müssen Sie der Website weitere unterstützte Sprachen hinzufügen.   
 5. Klicken Sie auf **Detail speichern**. 
 6. Klicken Sie auf eine Sprache rechts neben der Standardsprache (in diesem Fall Englisch), um die kopierten Wiedergabelisten Details anzuzeigen. Die Details für die neue Sprache reflektieren die ursprüngliche kopierte Wiedergabeliste und erfordern eine Übersetzung.
 7. Notieren Sie sich, dass der Übersetzer die zu übersetzenden Wiedergabelisten Details benachrichtigt.  
@@ -38,7 +38,7 @@ Um zu veranschaulichen, wie Sie eine neue benutzerdefinierte Wiedergabeliste ers
 ![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
-> Translator-Benachrichtigungen sind nicht in benutzerdefinierte Wiedergabelisten integriert. Die Übersetzer müssen manuell benachrichtigt werden. Übersetzer übersetzen die Kopien der Standardsprach Details manuell in die angegebenen Sprache (n). Sie müssen den Übersetzer darüber informieren, welche Übersetzungen für Wiedergabelisten Details erforderlich sind. Es wird empfohlen, dass Sie alle Änderungen an der Wiedergabeliste, einschließlich hinzufügen, bearbeiten oder Löschen von Wiedergabelisten Objekten, beenden und dann den Übersetzer über die erforderlichen Übersetzungen für Wiedergabelisten Details und-Objekte informieren.
+> Translator-Benachrichtigungen sind nicht in benutzerdefinierte Wiedergabelisten integriert. Die Übersetzer müssen manuell benachrichtigt werden. Übersetzer übersetzen die Kopien der Standardsprach Details manuell in die angegebenen Sprache (n). Sie müssen den Übersetzer über die für Wiedergabelisten Details erforderlichen Übersetzungen informieren. Es wird empfohlen, dass Sie alle Änderungen an der Wiedergabeliste, einschließlich hinzufügen, bearbeiten oder Löschen von Wiedergabelisten Objekten, beenden und dann den Übersetzer über die erforderlichen Übersetzungen für Wiedergabelisten Details und-Objekte informieren.
 
 ## <a name="create-multilingual-assets-in-a-custom-playlist"></a>Erstellen von mehrsprachigen Objekten in einer benutzerdefinierten Wiedergabeliste
 Alle Objekte in einer Wiedergabeliste, die von Microsoft bereitgestellt werden, sind nicht bearbeitbar und erfordern keine Übersetzung. Von Microsoft bereitgestellte Ressourcen werden in den von der Website unterstützten Sprachen zur Verfügung stehen. Für von Ihnen erstellte benutzerdefinierte Objekte oder vorhandene benutzerdefinierte Objekte können Sie die von der Website unterstützten Sprachen hinzufügen.  Werfen wir einen Blick auf das Hinzufügen von Sprachen für neue und vorhandene benutzerdefinierte Objekte in einer Wiedergabeliste. 
@@ -54,7 +54,7 @@ Bei diesen Anweisungen wird davon ausgegangen, dass Sie die fünf einfache Schri
 2. Wählen Sie **Asset erstellen**aus, und wählen Sie dann **Objekt speichern**aus.
 
 **So öffnen Sie das Objekt**
-1. Wählen Sie das Objekt aus, das Sie soeben erstellt haben, und klicken Sie dann auf **Öffnen**.  
+1. Wählen Sie das Objekt aus, das Sie erstellt haben, und klicken Sie dann auf **Öffnen**.  
 2. Nehmen Sie die Änderungen an der Seite wie gewünscht vor. Im Moment können Sie den Titel der Seite ändern und der Seite Text hinzufügen, wie im folgenden Beispiel gezeigt, und klicken Sie dann auf **veröffentlichen**. 
 3. Klicken Sie auf **Übersetzung**.
 4. Wählen Sie **Create** für die Sprache (n) aus, die Sie verwenden möchten. In diesem Beispiel wählen Sie Italienisch aus.
@@ -75,22 +75,22 @@ Wenn Sie Lern Pfade für mehrsprachige Unterstützung aktualisiert haben und üb
 
 > [!IMPORTANT]
 > - Von Microsoft bereitgestellte Wiedergabelisten sind bereits übersetzt und können nicht geändert werden, es sei denn, Sie erstellen eine Kopie der Wiedergabeliste. Sie können nur Sprachen für benutzerdefinierte Wiedergabelisten hinzufügen. 
-> - Um Sprachen für benutzerdefinierte Wiedergabelisten und Objekte hinzuzufügen, müssen mehrsprachige Unterstützung und Sprachen aktiviert sein. Weitere Informationen zum Aktivieren der mehrsprachigen Unterstützung und Optionen finden Sie unter [Festlegen von Spracheinstellungen](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
+> - Um Sprachen für benutzerdefinierte Wiedergabelisten und Objekte hinzuzufügen, müssen mehrsprachige Unterstützung und Sprachen aktiviert sein. Weitere Informationen finden Sie unter [Festlegen von Spracheinstellungen](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
 
 ### <a name="to-add-languages-for-an-existing-playlist"></a>So fügen Sie Sprachen für eine vorhandene Wiedergabeliste hinzu
 1.  Klicken Sie im Menü **Home** Lern Pfade auf **Lern Pfadverwaltung**. 
 2.  Wählen Sie eine benutzerdefinierte Wiedergabeliste aus. Eine benutzerdefinierte Wiedergabeliste wird vom Personensymbol mit dem Häkchen identifiziert, wie im folgenden Beispiel gezeigt.
 ![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
 3. Wählen Sie **Detail bearbeiten**aus. Möglicherweise müssen Sie nach unten scrollen, um die Schaltfläche **Detail bearbeiten** zu finden.   
-4. Wählen Sie **Sprache hinzufügen** aus, und wählen Sie dann eine Sprache aus. 
+4. Wählen Sie **Sprache hinzufügen** aus, und wählen Sie dann eine Sprache aus.  
 5. Wählen Sie **Details speichern**aus.
- Beachten Sie, dass die verfügbaren Sprachen von den unterstützten Sprachen abhängig sind, die für die Website ausgewählt wurden. Um weitere Sprachen hinzuzufügen, müssen Sie der Website weitere unterstützte Sprachen hinzufügen.   
+ Die verfügbaren Sprachen hängen von den unterstützten Sprachen ab, die für die Website ausgewählt sind. Um weitere Sprachen hinzuzufügen, müssen Sie der Website weitere unterstützte Sprachen hinzufügen.   
 5. Klicken Sie auf eine Sprache rechts neben der Standardsprache (in diesem Fall Englisch), um die kopierten Wiedergabelisten Details anzuzeigen. Die Details für die neue Sprache reflektieren die ursprüngliche kopierte Wiedergabeliste und erfordern eine Übersetzung.
 ![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
 7. Notieren Sie sich, dass der Übersetzer die zu übersetzenden Wiedergabelisten Details benachrichtigt.  
 
 **So öffnen Sie das Objekt**
-1. Wählen Sie das Objekt aus, das Sie soeben erstellt haben, und klicken Sie dann auf **Öffnen**.  
+1. Wählen Sie das Objekt aus, das Sie erstellt haben, und klicken Sie dann auf **Öffnen**.  
 2. Nehmen Sie die Änderungen an der Seite wie gewünscht vor. Im Moment können Sie den Titel der Seite ändern und der Seite Text hinzufügen, wie im folgenden Beispiel gezeigt, und klicken Sie dann auf **veröffentlichen**. 
 3. Klicken Sie auf **Übersetzung**.
 4. Wählen Sie **Create** für die Sprache (n) aus, die Sie verwenden möchten. In diesem Beispiel wählen Sie Italienisch aus.
@@ -114,9 +114,8 @@ Wenn Sie Lern Pfade für mehrsprachige Unterstützung aktualisiert haben und üb
 > - Um Sprachen für benutzerdefinierte Wiedergabelisten und Objekte hinzuzufügen, müssen mehrsprachige Unterstützung und Sprachen aktiviert sein. Weitere Informationen zum Aktivieren der mehrsprachigen Unterstützung und Optionen finden Sie unter [Festlegen von Spracheinstellungen](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
 
 
-
-
 ## <a name="instructions-for-the-translator"></a>Anweisungen für den Übersetzer
+Wenn Sie Wiedergabelisten Sprachen hinzufügen, müssen Sie den Übersetzer über die Änderungen informieren. Sie können den Übersetzer auf Folgendes deuten: 
 
 ### <a name="translate-playlist-details"></a>Details zur Wiedergabeliste übersetzen
 Klicken Sie im Menü **Home** Lern Pfade auf **Lern Pfadverwaltung**. 
@@ -136,4 +135,7 @@ Klicken Sie im Menü **Home** Lern Pfade auf **Lern Pfadverwaltung**.
 1. Klicken Sie auf die benutzerdefinierte Wiedergabeliste, die übersetzt werden muss. 
 2. Scrollen Sie auf der Seite nach unten, wählen Sie dann unter Objekte die Option Objekt aus, wählen Sie die Sprache aus, und klicken Sie dann auf Öffnen. 
 3. Übernehmen Sie die Übersetzungen für die Seite, und klicken Sie dann auf **veröffentlichen**.   
+
+## <a name="for-more-information"></a>Weitere Informationen
+- Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Anpassen von Lern](custom_overview.md)Pfaden.  
 

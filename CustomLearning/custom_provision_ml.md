@@ -5,15 +5,15 @@ title: Stellen Sie eine neue Lern Pfade mehrsprachige Lösung
 ms.date: 02/10/2019
 description: Stellen der Website "Microsoft 365 Learning Pfads" über den SharePoint-Bereitstellungsdienst
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031711"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038995"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Stellen Sie eine neue Lern Pfade mehrsprachige Lösung
-Organisationen, die keine Lernpfade bereits in Ihrem Mandanten bereitgestellt haben, können dem Mandanten die Lösung für mehrsprachige Lern Pfade hinzufügen. Mit dieser Option wird die SharePoint-Vorlage für Lern Pfade in neun Sprachen übersetzt und kann mit mindestens einer Änderung verwendet werden. 
+Organisationen, die keine Lernpfade in Ihrem Mandanten bereitgestellt haben, können den SharePoint-Bereitstellung-Dienst verwenden, um die Lösung für mehrsprachige Lern Pfade hinzuzufügen. Mit dieser Option wird die SharePoint-Vorlage für Lern Pfade in neun Sprachen übersetzt und kann mit mindestens einer Änderung verwendet werden. 
 
 > [!IMPORTANT]
 > Wenn Sie bereits Lern Pfade in Ihrem Mandanten bereitgestellt haben, wird empfohlen, dass Sie den [Updatepfad](custom_update_ml.md) für Lern Pfade befolgten. Wenn Sie Lern Pfade über eine vorhandene Instanz in Ihrem Mandanten installieren, gehen möglicherweise Änderungen an der Websitevorlage für Lern Pfade oder den Wiedergabelisten verloren.
@@ -73,12 +73,12 @@ Als mandantenadministrator ist es unwahrscheinlich, dass Sie die Person anpassen
 5. Fügen Sie einen Link zum [Durchsuchen der Website](custom_exploresite.md) in der Freigabenachricht hinzu, und klicken Sie dann auf **Freigeben**.
 
 ## <a name="add-translators-to-the-site"></a>Hinzufügen von Übersetzern zur Website
-Übersetzer benötigen Mitglieder Berechtigungen oder höher auf der Website. 
+Wenn Sie Übersetzer für die Website verwenden, können Sie ihnen Berechtigungen zuweisen. Übersetzer benötigen Mitgliedsberechtigungen oder höher. 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>Auswählen von Optionen für die Verwendung von mehreren Sprachen auf der Website
 Der SharePoint-proarbeits Dienst erstellt die Website für Lern Pfade in neun Sprachen. Es gelten die folgenden Empfehlungen:
 - Deaktivieren der Sprachen, die nicht unterstützt werden sollen
-- Wenn Sie keine mehrsprachige Website unterstützen, deaktivieren Sie die mehrsprachige Funktion. 
+- Wenn Sie keine mehrsprachige Website unterstützen, deaktivieren Sie die mehrsprachige Funktion. Weitere Informationen finden Sie im Abschnitt "Deaktivieren der mehrsprachigen Unterstützung" weiter unten in diesem Thema.
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>Entfernen von Sprachen, die nicht unterstützt werden sollen
 Für Organisationen, die nur eine Sprache unterstützen möchten, wird neben der Standardsprache Englisch empfohlen, nicht unterstützte Sprachen zu entfernen. 
@@ -102,6 +102,11 @@ Wenn Sie Seiten übersetzen möchten, weisen Sie optional einen oder mehrere Üb
 
 ## <a name="turn-off-multilingual-support"></a>Deaktivieren der mehrsprachigen Unterstützung
 Wenn Sie keine mehrsprachige Website benötigen, beispielsweise eine nur-Englisch-Website, empfiehlt es sich, das mehrsprachige Feature zu deaktivieren. 
+
+1. Wählen Sie auf der Website Lern Pfade die Option **Einstellungen** von oben rechts auf der Seite aus, und wählen Sie dann **Website Informationen**aus.
+2. Wählen Sie unten im Bereich Website Informationen die Option **Alle Websiteeinstellungen anzeigen**aus.
+3. Wählen Sie unter **Websiteverwaltung**die Option **Spracheinstellungen**aus.
+4. Schieben Sie unter **Aktivieren von Seiten und Nachrichten in mehrere Sprachen**die Umschaltfläche **auf ein**. Es sollte standardmäßig aktiviert sein.
 - Wählen Sie unter **Aktivieren von Seiten und Nachrichten für die Übersetzung** **aus aus**. 
 
 ### <a name="add-languages"></a>Hinzufügen von Sprachen
