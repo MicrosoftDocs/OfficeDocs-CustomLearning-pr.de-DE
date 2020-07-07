@@ -1,12 +1,18 @@
-# [Erste Schritte](index.md)
-## [Einrichtungsoptionen für Microsoft 365-Lernpfade](custom_setupoptions.md)
-## [Bereitstellung von Microsoft 365-Lernpfaden](custom_provision.md)
-## [Erkunden Sie die Website über die Microsoft 365-Lernpfade](custom_exploresite.md)
-## [Einrichten von eigenständigen Webparts](custom_manualsetup.md)
+# [Erste Schritte](index.md)  
+## [Setup-Optionen für Lernpfade](custom_setupoptions.md)
+## [Bereitstellen von Lernpfaden](custom_provision.md)
+## [Lernpfade aktualisieren](custom_update.md)
+## [Manuelle Einrichtung](custom_manualsetup.md)
+## [Erkunden Sie die Microsoft 365 Lernpfade-Website.](custom_exploresite.md)
 # Neuerungen 
 ## [Inhaltsaktualisierungen](custom_contentupdates.md) 
 ## [Inhaltsaktualisierungen verwalten](custom_contentupdatesmanage.md)
 ## [Featureupdates](custom_featureupdates.md)
+# Mehrsprachiger Support
+## [Mehrsprachiger Support für Lernpfade](custom_overview_ml.md)
+## [Übersetzen von Websiteseiten](custom_translate_page_ml.md)
+## [Übersetzen von benutzerdefinierten Wiedergabelisten für Lernpfade](custom_translate_pl_ml.md)
+## [Übersetzen des Namens der Website, der Navigation und der Fußzeilen](custom_sitenamenav_ml.md)
 # [Admin Success Center](custom_successcenter.md)
 ## Planen von Schulungsinhalten 
 ### [Schulungsinhalte planen](custom_plancontent.md)
