@@ -2,20 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Übersicht über Microsoft 365-Lernpfade
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: Erfahren Sie, wie Microsoft 365-Lernpfade die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation beschleunigen können. Lernpfade umfassen ein benutzerdefiniertes SharePoint Online-Webpart und eine moderne Schulungswebsite zur SharePoint Online-Kommunikation, die problemlos für Ihren Microsoft 365-Mandanten bereitgestellt werden kann.
-ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141398"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043237"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 Lernpfade 
 Microsoft 365-Lernpfade sind eine anpassbare, bedarfsgesteuerte Lernlösung zur Steigerung der Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation.    
 
 > [!IMPORTANT]
-> Als Reaktion auf aktuelle Ereignisse bietet Learning-Pfade eine April 2020-Inhaltsaktualisierung, die sich auf Wiedergabelisten und Ressourcen konzentriert, die die Remote Arbeit in Ihrer Organisation ermöglichen. Wir haben eine neue Gruppe von Remote-Wiedergabelisten hinzugefügt, den Microsoft Teams-Inhalt vor allem für Teams-Besprechungen erheblich aktualisiert und eine neue Gruppe von Office für die webplaylisten hinzugefügt. Im Rahmen des Updates haben wir auch eine Liste mit Remote-Arbeitsressourcen für Administratoren bereitgestellt. Eine vollständige Liste der Updates finden Sie unter [Learning Pfads April 2020 Inhaltsaktualisierungen](custom_contentupdates.md).   
+> Als Reaktion auf Kundenfeedback bietet Learning-Pfade nun mehrsprachige Unterstützung für neun Sprachen. Informationen und Anweisungen zum Aktivieren der mehrsprachigen Unterstützung für Lern Pfade finden Sie in den folgenden Themen: 
+>- [Übersicht über die mehrsprachige Unterstützung für Lern Pfade](custom_overview_ml.md) 
+>- [Setup Optionen für Lern Pfade](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Bedarfsgesteuerte, benutzerorientierte Schulung von Microsoft
 
@@ -33,11 +34,12 @@ Lernpfade können über den SharePoint Online-Bereitstellungsdienst bereitgestel
 
 ![cg-provision.png](media/cg-provision.png)
 
-## <a name="3-easy-steps"></a>3 einfache Schritte
+## <a name="4-easy-steps"></a>4 einfache Schritte
 Beginnen wir mit dem Erstellen einer Lernpfadoberfläche für Ihre Umgebung.
-1. Wählen Sie eine [Setupoption](custom_setupoptions.md) aus, und stellen Sie Microsoft 365-Lernpfade bereit.  
-2. Schneiden Sie Lernpfade auf Ihre Umgebung zu.
-3. Teilen Sie Lernpfade mit ihren Benutzern mithilfe unserer [Einführungstools](driveadoption.md).
+1. Lesen Sie die [Übersicht über die mehrsprachige Unterstützung für Lern Pfade](custom_overview_ml.md). 
+2. Wählen Sie eine [Setupoption](custom_setupoptions.md) aus, und stellen Sie Microsoft 365-Lernpfade bereit.  
+3. Schneiden Sie Lernpfade auf Ihre Umgebung zu.
+4. Teilen Sie Lernpfade mit ihren Benutzern mithilfe unserer [Einführungstools](driveadoption.md).
 
 ## <a name="feedback-and-support"></a>Feedback und Support
 

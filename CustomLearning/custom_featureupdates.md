@@ -4,29 +4,36 @@ ms.author: pkrebs
 title: Lern Pfade Feature-Updates
 ms.date: 10/20/2019
 description: Lern Pfade Feature-Updates
-ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141358"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048093"
 ---
-# <a name="learning-pathways-feature-updates"></a>Lern Pfade Feature-Updates
-Das Team für Lern Pfade hört auf Kundenfeedback, um die erforderlichen Funktionen bereitzustellen. Im folgenden finden Sie ein Update der für Q2 2020 geplanten Funktionen. 
+# <a name="july-2020-version-40-feature-updates"></a>Juli 2020 Version 4,0 Feature-Updates 
 
-## <a name="upcoming-feature-updates-for-q2-2020"></a>Bevorstehende Feature-Updates für Q2 2020
-Die mehrsprachige Unterstützung für Lern Pfade wird im zweiten Quartal 2020 veröffentlicht. Die mehrsprachige Unterstützung hängt von der Funktion "mehrsprachigen Page Publishing for modern SharePoint" ab und wird gleichzeitig mit der allgemeinen Verfügbarkeit für die SharePoint-mehrsprachige Unterstützung zur Verfügung stehen. Weitere Informationen finden Sie in der [Microsoft 365-Roadmap](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217).  
-  
-Die folgenden Sprachen werden für Lern Pfade unterstützt:   
+Die folgenden neuen Features wurden zu Microsoft 365-Lernpfaden Version 4,0 hinzugefügt. 
 
+## <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachige Unterstützung für Lern Pfade 
+Mehrsprachige Unterstützung für Lern Pfade steht nun in neun Sprachen zur Verfügung.  
+- English     
 - Chinesisch (vereinfacht) 
-- Französisch  
+- Französisch 
 - Deutsch 
 - Italienisch (Italien) 
-- Japanisch (Japan)  
+- Japanisch (Japan) 
 - Portugiesisch (Brasilien) 
-- Russisch (Russisch)  
+- Russisch (Russisch) 
 - Spanisch 
+
+Weitere Informationen finden Sie unter [Learning Wege Multilingual Overview](custom_overview.md). 
+
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Bildauswahl für Lern Pfade benutzerdefinierter Unterkategorien 
+Lern Pfade bieten jetzt eine einfach zu verwendende Bildauswahl für benutzerdefinierte Wiedergabelisten und Unterkategorien.  In früheren Versionen können Sie das Bild für eine Wiedergabeliste, aber keine Unterkategorie ändern.  
+
+Weitere Informationen finden Sie unter:
+- [Erstellen Sie eine benutzerdefinierte Wiedergabeliste](custom_createnewplaylist.md). 
+- [Erstellen einer Unterkategorie](custom_createnewcat.md)
 
 > [!NOTE]
 > Die Unterstützung für die niederländische Sprache wird in der bevorstehenden Version der mehrsprachigen Unterstützung für Lern Pfade nicht berücksichtigt. Wir werden auch in Zukunft neue Sprachoptionen evaluieren.

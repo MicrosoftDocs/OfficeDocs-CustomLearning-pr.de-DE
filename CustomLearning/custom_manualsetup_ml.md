@@ -1,18 +1,17 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Manuelle Einrichtung von Lernpfaden
+title: Lern Pfade Manuelles Einrichten für ml
 ms.date: 02/10/2019
 description: Manuelle Einrichtung von Lernpfaden
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038975"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043277"
 ---
-# <a name="learning-pathways-manual-setup"></a>Manuelle Einrichtung von Lernpfaden
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>Lern Pfade manuelles Setup für mehrsprachige
 
 Microsoft 365-Lern Pfade bieten eine manuelle Einrichtung für Organisationen, die Unterstützung für eines der folgenden Szenarien benötigen:
 

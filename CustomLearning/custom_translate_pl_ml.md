@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039005"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048133"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
 Bei Lernpfaden hängt die Art und Weise, wie Sie mit benutzerdefinierten Wiedergabelisten arbeiten, davon ab, wie Sie Lern Pfade einrichten.  
@@ -137,5 +135,5 @@ Klicken Sie im Menü **Home** Lern Pfade auf **Lern Pfadverwaltung**.
 3. Übernehmen Sie die Übersetzungen für die Seite, und klicken Sie dann auf **veröffentlichen**.   
 
 ## <a name="for-more-information"></a>Weitere Informationen
-- Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Anpassen von Lern](custom_overview.md)Pfaden.  
+- Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Anpassen von Lern](custom_overview.md)Pfaden. 
 

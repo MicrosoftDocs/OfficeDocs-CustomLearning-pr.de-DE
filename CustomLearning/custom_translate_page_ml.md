@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: Übersetzen von Website Seiten
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: Übersetzen von Website Seiten
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038985"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048113"
 ---
 # <a name="translate-site-pages"></a>Übersetzen von Website Seiten
 Bevor Sie mit der Übersetzung der Website für Lern Pfade beginnen, müssen Sie einige wichtige Konzepte verstehen, wie das mehrsprachige Feature mit Lernpfaden funktioniert. 
 - Website Informationen – Übersetzungen für Navigation, Logo und Websitenamen erfordern, dass die Website im Sprachprofil des Benutzers angezeigt und übersetzt wird.  
 - Das Lern Pfad-Webpart muss mit dem Sprachprofil des Benutzers angezeigt werden, damit es in einer anderen Sprache als Englisch angezeigt wird. Das Webpart und die von Microsoft bereitgestellten Inhalte werden bereits für Sie übersetzt. Weitere Informationen zu den Sprachen Profilen finden Sie unter [Ändern Ihrer persönlichen Sprache und regionalen Einstellungen](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
-- Die Art und Weise, wie Sie Lern Pfade einrichten, bestimmt, ob Sie übersetzte Seiten verfügbar haben. Für neue Websites, die mit dem SharePoint-Bereitstellung-Dienst bereitgestellt werden, sind übersetzte Seiten in neun Sprachen verfügbar. Aktualisierte Websites oder Websites, die Sie erstellen, erfordern eine manuelle Übersetzung. Weitere Informationen finden Sie unter [Setup Optionen für mehrsprachige Lern Pfade](custom_setupoptions_ml.md).
+- Die Art und Weise, wie Sie Lern Pfade einrichten, bestimmt, ob Sie übersetzte Seiten verfügbar haben. Für neue Websites, die mit dem Microsoft 365-Such Buch Dienst bereitgestellt werden, sind übersetzte Seiten in neun Sprachen verfügbar. Aktualisierte Websites oder Websites, die Sie erstellen, erfordern eine manuelle Übersetzung. Weitere Informationen finden Sie unter [Setup Optionen für mehrsprachige Lern Pfade](custom_setupoptions_ml.md).
 - Die mehrsprachige Unterstützung für Lern Pfade wird durch SharePoint Online mehrsprachigen Features für Kommunikationswebsites aktiviert. Informationen zu SharePoint Online mehrsprachigen Features finden Sie unter [Erstellen von mehrsprachigen Kommunikationswebsites, Seiten und Nachrichten](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>Arbeiten mit einer neu eingerichteten Website
-Wenn Sie eine neue Website für Lern Pfade aus dem SharePoint-Bereitstellung-Dienst bereitgestellt haben, sind die übersetzten Seiten bereits verfügbar. Standardmäßig stellt die Website die folgenden Seiten bereit:
+Wenn Sie eine neue Website für Lern Pfade aus dem Microsoft 365-Such Buch Dienst bereitgestellt haben, stehen Ihnen die übersetzten Seiten bereits zur Verfügung. Standardmäßig stellt die Website die folgenden Seiten bereit:
 
 - Home. aspx
 - Start-with-Six-Simple-Steps. aspx
