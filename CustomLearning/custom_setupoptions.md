@@ -1,34 +1,55 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Einrichtungsoptionen für Microsoft 365-Lernpfade
-ms.date: 02/11/2019
-description: Einrichtungsoption für das Setup von Custom Learning
-ms.openlocfilehash: 6906b5e70b186c106b3a9969b5bce1cbe87d7021
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+title: Setupoption für Lernpfade
+ms.date: 07/16/2020
+description: Setupoption für Lernpfade
+ms.openlocfilehash: 1434a06fbe5f374de7b2f2e4fa471a8eda5ac871
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956652"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043217"
 ---
-# <a name="learning-pathways-setup-options"></a>Einrichtungsoptionen für Lernpfade
-Lernpfade bieten die Flexibilität, die Lösung auf verschiedene Weise einzurichten. In den folgenden Abschnitten werden die verfügbaren Optionen beschrieben.
+# <a name="setup-options-for-multilingual-learning-pathways"></a>Setupoptionen für mehrsprachige Lernpfade
+Mit der Veröffentlichung mehrsprachiger Features für SharePoint Online-Kommunikationswebsites bieten Lernpfade jetzt Unterstützung für mehrere Sprachen. Sie können Lernpfade auf verschiedene Arten einrichten, um den Bedürfnissen Ihrer Organisation gerecht zu werden. Um Ihnen bei der Entscheidung über den besten Pfad für Ihre Organisation zu helfen, haben wir die Einstellungsoptionen behandelt. 
 
-> [!IMPORTANT]
-> Wenn Sie in Ihrer Organisation bereits Custom Learning for Office 365 bereitgestellt haben und die Lösung aktualisieren möchten, befolgen Sie die Anweisungen "Aktualisieren der Lösung" in den [Microsoft 365-Lernpfade-ReadMe](https://github.com/pnp/custom-learning-office-365). Wenn Sie Microsoft 365-Lernpfade zum ersten Mal bereitstellen, lesen Sie die [Anweisungen zur Bereitstellung von Microsoft 365-Lernpfade]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) in der Dokumentation zu Microsoft 365-Lernpfade.  
+## <a name="new-install-scenarios"></a>Neue Installationsszenarien
+Im Abschnitt "Neue Installationsszenarien" werden die Optionen für die Installation einer neuen Instanz der Lernpfade unter Verwendung des Microsoft 365-Look-Book-Diensts erläutert. 
 
+### <a name="scenario-1-we-have-not-installed-learning-pathways-and-need-learning-pathways-multilingual-support"></a>Szenario 1: Wir haben keine Lernpfade installiert und brauchen mehrsprachige Unterstützung für Lernpfade 
+Wenn Sie keine Lernpfade installiert haben und mehrere Sprachen benötigen, können Sie den Microsoft 365-Look-Book-Dienst verwenden, um eine neue Lernpfade-Lösung mit Support für neun Sprachen zu installieren. Englisch ist die Standardsprache und kann nicht geändert werden. 
+- Informationen zur Bereitstellung einer neuen Lernpfade-Lösung mit Englisch als Standardsprache für die Website finden Sie unter [Bereitstellung einer neuen Lernpfade-Lösung](custom_provision.md).
 
-## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Empfohlen‑SharePoint Online-Bereitstellungsdienst 
-Der SharePoint Online-Bereitstellungsdienst bietet die schnellste, einfachste und empfohlene Methode zum Einrichten von Custom Learning. Der Administrator des Office 365-Mandanten meldet sich bei diesem Dienst an, trifft einige Entscheidungen und klickt auf **Zum Mandanten hinzufügen**, um die Website für benutzerdefiniertes Lernen und den Webpart für benutzerdefiniertes Lernen bereitzustellen. Wenn die Bereitstellung abgeschlossen ist, erhält der Mandant-Administrator eine E-Mail, dass die Website einsatzbereit ist. 
+### <a name="scenario-2-we-installed-learning-pathways-but-arent-currently-using-it-andor-havent-made-any-customization-to-the-site-or-playlists"></a>Szenario 2: Wir haben Lernpfade installiert, verwenden sie aber derzeit nicht und/oder haben keine Anpassung an Website oder Wiedergabelisten vorgenommen. 
+Wenn Sie Lernpfade installiert haben, aber nicht aktiv nutzen oder keine Anpassungen an der Website oder den Wiedergabelisten vorgenommen haben, können Sie den Microsoft 365-Look-Book-Dienst verwenden, um eine neue Lösung mit Support für neun Sprachen zu installieren. Englisch ist die Standardsprache und kann nicht geändert werden. 
+- Informationen zur Bereitstellung einer neuen Lernpfade-Lösung mit Englisch als Standardsprache für die Website finden Sie unter [Bereitstellung einer neuen Lernpfade-Lösung](custom_provision.md).
 
-- Um mit dem SharePoint-Bereitstellungsdienst zu beginnen, gehen Sie zu [Bereitstellung mit dem PnP-Bereitstellungsdienst](custom_provision.md)    
+### <a name="scenario-3-we-havent-installed-learning-pathways-and-dont-need-multilingual-support"></a>Szenario 3: Wir haben keine Lernpfade installiert und brauchen keinen mehrsprachigen Support 
+Wenn Sie keine Lernpfade installiert haben und keinen mehrsprachigen Support benötigen, können Sie sie über den Microsoft 365-Look-Book-Dienst installieren. Englisch ist die Standardsprache. Nach der Installation müssen Sie die Mehrsprachigkeit deaktivieren. 
+- Informationen zur Bereitstellung einer neuen Lernpfade-Lösung ohne mehrsprachigen Support finden Sie unter [Bereitstellung einer neuen Lernpfade-Lösung](custom_provision.md).
 
-## <a name="stand-alone-learning-pathways-web-part-setup"></a>Eigenständige Einrichtung von Webparts für Lernpfade
-Für Organisationen, die bereits über ein etabliertes SharePoint Online-Portal für moderne Kommunikationsschulungen verfügen, bieten Lernpfade die Möglichkeit, das Webpart von Microsoft 365-Lernpfade manuell in eine bestehende SharePoint Online-Website zu installieren. Beachten Sie, dass die Website eine moderne SharePoint Online-Website sein muss. Für diese Methode sind Berechtigungen als Mandant-Administrator und Erfahrung mit Windows PowerShell oder der SharePoint Online-Verwaltungsshell erforderlich. Beachten Sie, dass diese Methode mehr technisches Fachwissen erfordert als die Einrichtung des SharePoint Online-Bereitstellungsdienstes.
+## <a name="update-learning-pathways-with-a-web-part-upload-scenarios"></a>Szenarien für das Aktualisieren von Lernpfaden (mit einem Webpartupload)
+Wenn Sie eine vorhandene Version von Lernpfaden installiert haben, können Sie das Lernpfade-Webpart in den SharePoint-App-Katalog hochladen, um den mehrsprachigen Support zu aktivieren. 
 
-- Eine Anleitung zur manuellen Installation des Webparts finden Sie unter [Manuelle Installation des Webparts](custom_manualsetup.md). 
+### <a name="scenario-1-we-need-to-upgrade-an-existing-version-of-learning-pathways-but-dont-need-multilingual-support"></a>Szenario 1: Wir müssen eine vorhandene Version von Lernpfaden aktualisieren, benötigen aber keinen mehrsprachigen Support.
+Sie können Version 4.0 der Lernpfade ohne mehrsprachigen Support aktualisieren. Mit dem Update erhalten Sie einige neue Features, einschließlich einer Bildauswahl für benutzerdefinierte Wiedergabelisten und Unterkategorien. 
 
-## <a name="update-learning-pathways"></a>Lernpfade aktualisieren
-Organisationen, die den SharePoint Online-Bereitstellungsdienst zur Installation früherer Versionen von Microsoft 365-Lernpfade verwendet haben, können die Lösung auf die neueste Version aktualisieren. Anweisungen zur Überprüfung der bereitgestellten Version gegen die aktuellste Version der Lösung sowie Anweisungen zur Aktualisierung der Lösung finden Sie im Abschnitt "Aktualisierung der Lösung" der [ReadMe-Datei](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
+- Wenn Sie eine vorhandene Lernpfade-Lösung ohne mehrsprachigen Support aktualisieren möchten, lesen Sie [Aktualisieren von Lernpfaden für mehrsprachigen Support](custom_update.md). Der Upgradeprozess für Versionen ohne mehrsprachigen Support gleicht dem für mit Versionen mit mehrsprachigem Support, umfasst aber weniger Schritten. 
 
-### <a name="next-steps---provision-microsoft-365-learning-pathwayscustom_provisionmd"></a>Nächste Schritte: [Bereitstellung der Microsoft 365-Lernpfade](custom_provision.md)
+### <a name="scenario-2-we-need-to-upgrade-to-multilingual-support-and-the-default-language-of-the-site-collection-is-our-default-language"></a>Szenario 2: Wir müssen ein Upgrade auf eine Version mit mehrsprachigem Support durchführen, und die Standardsprache der Websitesammlung ist unsere Standardsprache.
+Version 4.0 der Lernpfade unterstützt mehrsprachige Seiten in Ihrer Websitesammlung. Zusätzlich zu mehrsprachigem Support erhalten Sie einige neue Features, einschließlich einer Bildauswahl für benutzerdefinierte Wiedergabelisten und Unterkategorien. 
+- Wenn Sie eine vorhandene Lernpfade-Website mit mehrsprachigem Support aktualisieren möchten, lesen Sie [Aktualisieren von Lernpfaden für mehrsprachigen Support](custom_update.md). 
+
+## <a name="update-learning-pathways-for-multilingual-support-with-manual-install"></a>Aktualisieren von Lernpfaden für mehrsprachigen Support mit der manuellen Installation 
+Im Folgenden werden die Szenarien für die Aktualisierung einer bestehenden Instanz der Lernpfade-Lösung auf die mehrsprachige Version 4.0 durch manuelle Installation des Lernpfade-Webparts beschrieben. 
+
+### <a name="scenario-1-we-need-multilingual-support-and-the-default-language-of-the-site-collection-is-not-our-default-language--no-custom-content"></a>Szenario 1: Wir benötigen mehrsprachigen Support, und die Standardsprache der Websitesammlung ist nicht unsere Standardsprache (kein benutzerdefinierter Inhalt). 
+Version 4.0 der Lernpfade unterstützt dieses Szenario. In diesem Szenario wird jedoch angenommen, dass keine benutzerdefinierten Inhalte oder Wiedergabelisten auf der bestehenden Website vorhanden sind. In diesem Szenario können Sie eine neue SharePoint Online-Kommunikationswebsite mit Ihrer Standardsprache erstellen, das Webpart hochladen und dann Lernpfade mithilfe eines PowerShell-Skripts manuell einrichten. 
+- Informationen zum Einrichten von Lernpfaden für mehrsprachigen Support in Ihrer Standardsprache finden Sie unter [Manuelle Installation von Lernpfaden für mehrsprachigen Support](custom_manualsetup.md).
+
+### <a name="scenario-2-we-need-multilingual-support-and-the-default-language-of-the-site-collection-is-not-our-default-language--plus-we-have-custom-content"></a>Szenario 2: Wir benötigen mehrsprachigen Support, und die Standardsprache der Websitesammlung ist nicht unsere Standardsprache (es ist benutzerdefinierter Inhalt vorhanden). 
+In diesem Szenario können Sie eine neue SharePoint Online-Kommunikationswebsite mit Ihrer Standardsprache erstellen, das Webpart hochladen und dann Lernpfade mithilfe eines PowerShell-Skripts manuell einrichten. 
+
+Nachdem Sie Ihre Lernpfade-Website anhand der oben beschriebenen Schritte wieder eingerichtet haben, müssen Sie den Inhalt Ihrer Listen **CustomPlaylists** und **CustomAssets** verschieben. Sie können optional auch die tatsächlichen benutzerdefinierten Seiten, aus denen sich Ihre benutzerdefinierten Objekte zusammensetzen, verschieben, wenn sie in der bestehenden Lernpfade-Website vorhanden sind und Sie beabsichtigen, sie zu löschen. Die Aufgabe kann schwierig sein, da für alle Elemente in der Liste **CustomPlaylists** die ID des Listenelements in der Liste **CustomAssets** im Feld "JSONData" des jeweiligen Wiedergabelistenelements verborgen ist. Daher reicht es nicht aus, einfach den Inhalt der Liste **CustomPlaylists** von einer Website auf eine andere zu verschieben. Außerdem enthält die Liste **CustomAssets** die absolute URL für die Seite des benutzerdefinierten Objekts im Feld "JSONData" des Listenelements. Wenn die Objekte nicht verschoben werden und die Website nicht umbenannt (also die absolute URL der Seite des Objekts geändert) wird, kann **CustomAssets** beibehalten werden. Sie müssen die Einträge aber manuell korrigieren. Angesichts der Komplexität dieser Art von Migration sollten Sie erwägen, einen unserer Lernpfade-Partner in Anspruch zu nehmen, um Ihnen bei der Durchführung dieses Übergangs zu helfen.
+- Informationen zum Einrichten von Lernpfaden für mehrsprachigen Support in Ihrer Standardsprache finden Sie unter [Manuelle Installation von Lernpfaden für mehrsprachigen Support](custom_manualsetup.md).
