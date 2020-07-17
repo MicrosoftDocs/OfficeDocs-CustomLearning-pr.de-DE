@@ -6,6 +6,7 @@ ms.date: 07/06/2020
 description: Aktualisieren von Microsoft 365 Lernpfaden
 ms.openlocfilehash: 5fe9dc64916eb75d309c44188cd2f72fa88ba9e4
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043247"

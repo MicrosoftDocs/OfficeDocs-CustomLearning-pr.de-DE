@@ -6,6 +6,7 @@ ms.date: 07/06/2020
 description: Manuelle Einrichtung von Microsoft 365 Lernpfaden
 ms.openlocfilehash: f980722fed48b5f92fb595cf8286604b3fa6d409
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043267"

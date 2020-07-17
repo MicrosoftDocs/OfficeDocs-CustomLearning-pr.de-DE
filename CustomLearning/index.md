@@ -6,6 +6,7 @@ ms.date: 7/6/2020
 description: Erfahren Sie, wie Microsoft 365-Lernpfade die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation beschleunigen können. Lernpfade umfassen ein benutzerdefiniertes SharePoint Online-Webpart und eine moderne Schulungswebsite zur SharePoint Online-Kommunikation, die problemlos für Ihren Microsoft 365-Mandanten bereitgestellt werden kann.
 ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043237"
