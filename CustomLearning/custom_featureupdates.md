@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: Lern Pfade Feature-Updates
 ms.date: 10/20/2019
 description: Lern Pfade Feature-Updates
-ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048093"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199335"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>Juli 2020 Version 4,0 Feature-Updates 
 
 Die folgenden neuen Features wurden zu Microsoft 365-Lernpfaden Version 4,0 hinzugefügt. 
 
-## <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachige Unterstützung für Lern Pfade 
+## <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachiger Support für Lernpfade 
 Mehrsprachige Unterstützung für Lern Pfade steht nun in neun Sprachen zur Verfügung.  
 - English     
 - Chinesisch (vereinfacht) 
@@ -28,6 +28,12 @@ Mehrsprachige Unterstützung für Lern Pfade steht nun in neun Sprachen zur Verf
 - Spanisch 
 
 Weitere Informationen finden Sie unter [Learning Wege Multilingual Overview](custom_overview.md). 
+
+## <a name="sort-subcategories-and-playlists"></a>Sortieren von Unterkategorien und Wiedergabelisten
+
+Jetzt können Sie Unterkategorien und Wiedergabelisten in Lernpfaden sortieren. Wenn Sie beispielsweise eine benutzerdefinierte Wiedergabeliste zu einer Unterkategorie hinzufügen, können Sie die Wiedergabelisten sortieren, sodass die benutzerdefinierte Wiedergabeliste zunächst in der Sortierreihenfolge angezeigt wird. 
+
+Weitere Informationen finden Sie unter [Sortieren von Unterkategorien und Wiedergabelisten](custom_sortsubplay.md). 
 
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Bildauswahl für Lern Pfade benutzerdefinierter Unterkategorien 
 Lern Pfade bieten jetzt eine einfach zu verwendende Bildauswahl für benutzerdefinierte Wiedergabelisten und Unterkategorien.  In früheren Versionen können Sie das Bild für eine Wiedergabeliste, aber keine Unterkategorie ändern.  

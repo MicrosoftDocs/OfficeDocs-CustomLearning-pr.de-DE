@@ -4,22 +4,22 @@ ms.author: pkrebs
 title: Bereitstellungslösung für neue Lern Pfade
 ms.date: 02/10/2019
 description: Stellen Sie die Website "Microsoft 365 Learning Pfads" mit dem Microsoft 365-Such Buch Dienst zur Verfügung.
-ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
-ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
+ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146536"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45196783"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Bereitstellungslösung für neue Lern Pfade 
-Organisationen, die keine Lernpfade in Ihrem Mandanten bereitgestellt haben, können den SharePoint-Such Buch Dienst verwenden, um die Lösung für mehrsprachige Lern Pfade hinzuzufügen. Mit dieser Option wird die SharePoint-Vorlage für Lern Pfade in neun Sprachen übersetzt und kann mit mindestens einer Änderung verwendet werden.
+Organisationen, die keine Lernpfade in Ihrem Mandanten bereitgestellt haben, können den SharePoint-Such Buch Dienst verwenden, um die Lösung für mehrsprachige Lern Pfade hinzuzufügen. Mit dieser Option wird die SharePoint-Vorlage für Lern Pfade in neun Sprachen übersetzt und kann mit mindestens einer Änderung verwendet werden. 
 
 > [!IMPORTANT]
 > Wenn Sie bereits Lern Pfade in Ihrem Mandanten bereitgestellt haben, wird empfohlen, dass Sie Lern Pfade [Aktualisieren](custom_update.md) . Wenn Sie eine neue Instanz von Lernpfaden installieren, müssen Sie alle Anpassungen von der vorhandenen Website manuell auf die neue Website übertragen. 
 
 ## <a name="prerequisites-for-multilingual-support"></a>Voraussetzungen für mehrsprachige Unterstützung
  
-Um Microsoft 365-Lernpfade mit dem "Look Book Service" erfolgreich einzurichten, muss die Person, die die Einrichtung ausführt, die folgenden Voraussetzungen erfüllen: 
+Um Microsoft 365-Lernpfade mit dem "Look Book Service" erfolgreich einzurichten, muss die Person, die die Einrichtung ausführt, die folgenden Voraussetzungen erfüllen:   
  
 - Die Person, die Lernpfade ausstellt, muss ein Mandanten Administrator des Mandanten sein, in dem Lern Pfade eingerichtet werden.  
 - Ein Mandanten-App-Katalog muss in der apps-Option des SharePoint Admin Center verfügbar sein. Wenn Ihre Organisation nicht über einen SharePoint-Mandanten-App-Katalog verfügt, lesen Sie in der [SharePoint Online Dokumentation](https://docs.microsoft.com/sharepoint/use-app-catalog) nach, um eine zu erstellen. Sie müssen mindestens zwei Stunden nach dem Erstellen des App-Katalogs warten, bevor Sie Lern Pfade einrichten.  
@@ -40,8 +40,6 @@ Vergewissern Sie sich vor dem Bereitstellen von Lernpfaden, dass für das Admini
 1. Wechseln Sie zur [Seite Microsoft 365 Learning Pfads Solution](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Klicken Sie auf **zu Ihrem Mandanten hinzufügen**. Wenn Sie nicht bei Ihrem Mandanten angemeldet sind, werden Sie vom Dienst für die Verwaltung aufgefordert, Ihre Mandanten-Administratoranmeldeinformationen einzugeben. 
 3. Wählen Sie im Dialogfeld angeforderte Berechtigungen die Option **Zustimmung im Namen Ihrer Organisation** aus, und wählen Sie dann **annehmen**aus.
-
-![Bild der APP-catologue Zustimmung](media/app-catologue-consent.png)
 
 Der Such Buch Dienst benötigt diese Berechtigungen, um den Mandanten-App-Katalog zu erstellen, die Anwendung im Mandanten-App-Katalog zu installieren und die Websitevorlage zur Verfügung zu stellen. Es gibt keine Gesamtauswirkung auf ihren Mandanten. Diese Berechtigungen werden explizit für den Zweck der Lösungsinstallation verwendet. Sie müssen diese Berechtigungen akzeptieren, um mit der Installation fortzufahren.
 
