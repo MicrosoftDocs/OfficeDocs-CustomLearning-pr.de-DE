@@ -32,6 +32,7 @@
 ### [Hinzufügen von Objekten zu einer benutzerdefinierten Wiedergabeliste](custom_addassets.md)
 ### [Erstellen einer Unterkategorie](custom_createnewcat.md)
 ### [Hinzufügen und Bearbeiten des Webparts für Microsoft 365-Lernpfade](custom_addwebpart.md)
+### [Sortieren von Unterkategorien und Wiedergabelisten](custom_sortsubplay.md)
 ### [Verlinken von Lernpfadinhalten](custom_linking.md)
 ### [Suchen nach Lernpfadinhalten](custom_search.md)
 ## [Fördern der Einführung](driveadoption.md)
