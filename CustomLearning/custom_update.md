@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Aktualisieren von Microsoft 365 Lernpfaden
 ms.date: 07/06/2020
 description: Aktualisieren von Microsoft 365 Lernpfaden
-ms.openlocfilehash: 5fe9dc64916eb75d309c44188cd2f72fa88ba9e4
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
+ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043247"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895583"
 ---
 # <a name="update-learning-pathways"></a>Lernpfade aktualisieren
 Wenn Sie über eine vorhandene Lern Pfad Website verfügen, können Sie diese für mehrsprachige Unterstützung aktualisieren. Um Lern Pfade auf die mehrsprachige Version 4,0 zu aktualisieren, laden Sie das Webpart-Paket, customlearning. sppkg, in den SharePoint-Mandanten-App-Katalog hoch. Beim Aktualisieren von Lernpfaden:  
@@ -47,7 +47,7 @@ Beim Definieren von Spracheinstellungen für Lern Pfade können Sie Übersetzer 
 In diesem Schritt laden Sie das Lern Pfade 4,0-Webpart in den SharePoint-App-Katalog hoch, und navigieren Sie dann zur Seite Verwaltungstools für Lern Pfade, um den Updateprozess zu starten.
 
 ### <a name="upload-the-web-part-package"></a>Hochladen des Webpart-Pakets
-1.  Wechseln Sie zum mehrsprachigen Freigabespeicherort in Microsoft Teams, und laden Sie **customlearning. sppkg** auf ein lokales Laufwerk auf Ihrem PC herunter. 
+1.  Wechseln Sie zum [benutzerdefinierten GitHub-Lern-Repository](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), wählen Sie **customlearning. sppkg** aus, und laden Sie es dann auf ein lokales Laufwerk auf Ihrem PC herunter.
 2.  Wenn Sie noch nicht angemeldet sind, melden Sie sich bei Ihrem Mandanten mit einem mandantenadministrator oder einem Websitesammlungsadministrator Konto an. 
 3.  Klicken Sie auf **Admin**  >  **alle**  >  **SharePoint**  >  -**Funktionen**anzeigen. 
 4.  Klicken Sie unter **apps**auf **Öffnen**. 

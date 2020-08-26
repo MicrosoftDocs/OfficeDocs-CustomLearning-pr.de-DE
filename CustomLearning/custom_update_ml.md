@@ -5,12 +5,12 @@ title: Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 ms.date: 05/20/2019
 description: Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
-ms.translationtype: Auto
+ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
+ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031701"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "46874976"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 Wenn Sie über eine vorhandene Lern Pfad Website verfügen, können Sie diese für mehrsprachige Unterstützung aktualisieren. Um Lern Pfade auf die mehrsprachige Version 4,0 zu aktualisieren, laden Sie das Webpart-Paket, customlearning. sppkg, in den SharePoint-Mandanten-App-Katalog hoch. Beim Aktualisieren von Lernpfaden:  
@@ -48,7 +48,7 @@ Beim Definieren von Spracheinstellungen für Lern Pfade können Sie Übersetzer 
 In diesem Schritt laden Sie das Lern Pfade 4,0-Webpart in den SharePoint-App-Katalog hoch, und navigieren Sie dann zur Seite Verwaltungstools für Lern Pfade, um den Updateprozess zu starten.
 
 ### <a name="upload-the-web-part-package"></a>Hochladen des Webpart-Pakets
-1.  Wechseln Sie zum mehrsprachigen Freigabespeicherort in Microsoft Teams, und laden Sie **customlearning. sppkg** auf ein lokales Laufwerk auf Ihrem PC herunter. 
+1.  Wechseln Sie zum [benutzerdefinierten GitHub-Lern-Repository](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), wählen Sie **customlearning. sppkg** aus, und laden Sie es dann auf ein lokales Laufwerk auf Ihrem PC herunter. 
 2.  Wenn Sie noch nicht angemeldet sind, melden Sie sich bei Ihrem Mandanten mit einem mandantenadministrator oder einem Websitesammlungsadministrator Konto an. 
 3.  Klicken Sie auf **Admin**  >  **alle**  >  **SharePoint**  >  -**Funktionen**anzeigen. 
 4.  Klicken Sie unter **apps**auf **Öffnen**. 
