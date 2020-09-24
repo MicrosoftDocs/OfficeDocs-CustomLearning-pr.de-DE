@@ -5,12 +5,13 @@ title: Stellen Sie eine neue Lern Pfade mehrsprachige Lösung
 ms.date: 02/10/2019
 description: Stellen der Website "Microsoft 365 Learning Pfads" über den SharePoint-Bereitstellungsdienst
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: cd14ff62eb0b7db99f300b346d9d9fd5089fde0a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038995"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234057"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Stellen Sie eine neue Lern Pfade mehrsprachige Lösung
 Organisationen, die keine Lernpfade in Ihrem Mandanten bereitgestellt haben, können den SharePoint-Bereitstellung-Dienst verwenden, um die Lösung für mehrsprachige Lern Pfade hinzuzufügen. Mit dieser Option wird die SharePoint-Vorlage für Lern Pfade in neun Sprachen übersetzt und kann mit mindestens einer Änderung verwendet werden. 
@@ -44,13 +45,13 @@ Vergewissern Sie sich vor dem Bereitstellen von Lernpfaden, dass für das Admini
 
 Für den Bereitstellungsdienst sind diese Berechtigungen erforderlich, um den Mandanten-App-Katalog zu erstellen, die Anwendung in den Mandanten-App-Katalog zu installieren und die Websitevorlage zur Verfügung zu stellen. Es gibt keine Gesamtauswirkung auf ihren Mandanten. Diese Berechtigungen werden explizit für den Zweck der Lösungsinstallation verwendet. Sie müssen diese Berechtigungen akzeptieren, um mit der Installation fortzufahren.
 
-4. Füllen Sie die Felder auf der Seite Informationen zur Datenverarbeitung entsprechend für Ihre Installation aus. Geben Sie mindestens die e-Mail-Adresse ein, unter der Sie Benachrichtigungen über den Bereitstellung-Prozess und die Ziel-URL für die Bereitstellung Ihrer Website erhalten möchten.  
+4. Füllen Sie die Felder auf der Seite mit den Bereitstellungsinformationen entsprechend Ihrer Installation aus. Geben Sie mindestens die E-Mail-Adresse ein, an die Sie Benachrichtigungen über den Bereitstellungsprozess erhalten möchten, sowie die Ziel-URL der Website, an die die Bereitstellung erfolgen soll.  
 > [!NOTE]
-> Stellen Sie die Ziel-URL für Ihre Website so freundlich wie "/Sites/MyTraining" oder "/Teams/LearnMicrosoft365" für Ihre Mitarbeiter dar.
+> Geben Sie der Ziel-URL Ihrer Website einen aussagekräftigen Namen wie beispielsweise „/Websites/MeinTraining“ oder „/Teams/Microsoft365Infos".
 
 ![inst_options.png](media/inst_options.png)
 
-6. Klicken Sie auf bereit **Stellung** , wenn Sie Lern Pfade in Ihrer Mandanten Umgebung installieren möchten.  Der Bereitstellung-Prozess kann bis zu 15 Minuten dauern. Sie werden per e-Mail benachrichtigt, wenn die Website verfügbar ist. 
+6. Klicken Sie auf bereit **Stellung** , wenn Sie Lern Pfade in Ihrer Mandanten Umgebung installieren möchten.  Der Bereitstellungsvorgang kann bis zu 15 Minuten dauern. Sie werden per E-Mail benachrichtigt, wenn die Website fertiggestellt ist. 
 
 > [!IMPORTANT]
 > Der mandantenadministrator, der die Website für Lern Pfade bereitstellt, muss zur Website wechseln und dann **CustomLearningAdmin. aspx** öffnen, um die Administrator Eigenschaften für Lern Pfade zu initialisieren. Zu diesem Zeitpunkt sollte der mandantenadministrator dem Standort auch Besitzer zuweisen. 
@@ -59,7 +60,7 @@ Für den Bereitstellungsdienst sind diese Berechtigungen erforderlich, um den Ma
 
 Wenn die Einrichtung abgeschlossen ist, erhält der mandantenadministrator, der die Website vorsieht, eine e-Mail vom PnP-Dienst für die Zustellung. Die e-Mail enthält einen Link zu der Website. An dieser Stelle sollte der mandantenadministrator die Website über den in der e-Mail angegebenen Link aufrufen und die Website für die erste Verwendung einrichten:
 
-- Navigieren Sie in das Verzeichnis `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Beim Öffnen von **CustomLearningAdmin. aspx** wird das **CustomConfig** -Listenelement initialisiert, das Lern Pfade für die erste Verwendung einrichtet. Sie sollten eine Seite sehen, die wie folgt aussieht:
+- Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Wenn Sie **CustomLearningAdmin. aspx** öffnen, wird das Listenelement **CustomConfig** initialisiert, das die Lernpfade für die erste Verwendung einrichtet. Sie sollten eine Seite sehen, die wie folgt aussieht:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

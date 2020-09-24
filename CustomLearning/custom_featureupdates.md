@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Lern Pfade Feature-Updates
 ms.date: 10/20/2019
 description: Lern Pfade Feature-Updates
-ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
-ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
+ms.service: sharepoint online
+ms.openlocfilehash: 1f075671854906cd331c1706c669eac30c04ddec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45199335"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234427"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>Juli 2020 Version 4,0 Feature-Updates 
 
@@ -17,7 +18,7 @@ Die folgenden neuen Features wurden zu Microsoft 365-Lernpfaden Version 4,0 hinz
 
 ## <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachiger Support für Lernpfade 
 Mehrsprachige Unterstützung für Lern Pfade steht nun in neun Sprachen zur Verfügung.  
-- English     
+- Englisch     
 - Chinesisch (vereinfacht) 
 - Französisch 
 - Deutsch 

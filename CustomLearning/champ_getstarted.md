@@ -1,45 +1,51 @@
 ---
-Title: ''
-ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Bewährte Methoden für das Champion-Programm
+description: Bewährte Methoden für die Einführung von Office 365 mit unserem Champion-Programm
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: e60a9a1a392789f864aecd71804bbba174098d9a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055390"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233457"
 ---
-# <a name="establish-champions-for-user-adoption"></a>Festlegen von Champions für die Benutzerakzeptanz 
+# <a name="establish-champions-for-user-adoption"></a>Etablieren von Champions für die Benutzerakzeptanz 
 
-Organizational Change Management ist die Kunst, das Verhalten einer Zielgruppe von Personen zu ändern. Diese Vorgehensweise wird durch Wissenschaft und Forschung unterstützt. In diesen Artikeln werden wir Ihnen helfen, die Einführung wichtiger Dienste voranzutreiben, die zu geschäftlichen Ergebnissen in Ihrem Unternehmen führen.  Nach unseren Best Practices verkürzen Sie Ihre Zeit, um messbaren Nutzen aus Office 365 zu gewinnen.  
+Organizational Change Management ist die Kunst, das Verhalten einer Zielgruppe von Personen zu ändern. Es gibt eine große Menge an Wissenschaft und Forschung, die diese Praxis unterstützen. In diesen Artikeln werden wir Ihnen helfen, die Einführung wichtiger Dienste voranzutreiben, die zu Geschäftsergebnissen in Ihrem Unternehmen führen.  Im Anschluss an unsere bewährten Methoden wird die Zeit verkürzt, um von Office 365 messbaren Wert zu erhalten.  
 
-Ein Champions-Programm ist ein wesentlicher Bestandteil der Einführung. Diese Einflussnehmer in Ihrem Unternehmen bieten dringend erforderliche Unterstützung und Ermutigung für Mitarbeiter, die die neue Technologie einführen. Lesen Sie diese Seiten, um sich über die Erstellung Ihres Adoptions Plans zu informieren und Ihr eigenes championprogramm auszuführen. 
+Ein Champions-Programm ist ein wesentlicher Bestandteil des Vorantreibens von Adoption. Diese Einflussfaktoren in Ihrem Unternehmen bieten dringend benötigte Unterstützung und Ermutigung für Mitarbeiter, die die neue Technologie einführen. Lesen Sie diese Seiten, um sich über die Erstellung Ihres Adoptions Plans und die Ausführung ihres eigenen Champion-Programms zu informieren. 
 
 > [!NOTE]
-> Sie können diese Wiedergabeliste mit Informationen zu Ihrem eigenen Programm als Referenz für Ihre Organisation aktualisieren oder ersetzen.
+> Sie können diese Wiedergabeliste mit Informationen zu Ihrem eigenen Programm als Referenz in Ihrer Organisation aktualisieren oder ersetzen.
 
-## <a name="who-are-champions-and-what-makes-them-tick"></a>Wer sind Champions und was macht Sie Ticken?
+## <a name="who-are-champions-and-what-makes-them-tick"></a>Wer sind Champions und was bewirkt, dass Sie Ticken?
 
-Champions sind nicht nur leidenschaftlich über das, was Sie tun, sondern freuen sich auch, Ihr Wissen zu teilen und ihren Mitarbeitern zu helfen, effizientere Lösungen zu erlernen. Champions sind begeistert und oft mit vorhandenen Tools frustriert. Sie helfen Ihnen dabei, die Watercooler Buzz Challenge zu gewinnen.  
+Champions sind nicht nur leidenschaftlich, was Sie tun, sondern freuen sich auch darauf, Ihr Wissen auszutauschen und ihren Kollegen dabei zu helfen, effektivere Lösungen zu erfahren. Champions sind enthusiastisch und oft mit vorhandenen Tools frustriert. Sie werden Ihnen dabei helfen, die Watercooler Buzz Challenge zu gewinnen!  
 
-Wir halten es für wichtig, Champions auf sinnvolle Weise zu belohnen. Einige Vorschläge sind:
+Wir sind der Meinung, dass es wichtig ist, Champions auf sinnvolle Weise zu belohnen. Einige Vorschläge sind:
 
-- Ermöglichen der erfolgreichen Mitgliedschaft im Championprogramm, zur Leistungsüberprüfung der Mitarbeiter beizutragen
-- Bestätigen Sie Ihre erfolgreichsten Champions mit Prämien für Office-Beute-und Mitarbeiter-Perks.  
-- Engagieren Sie Ihre Champions mit fortlaufendem Training und Inhalten, die Sie an andere Mitarbeiter weiterleiten können. 
+- Zulassen einer erfolgreichen Mitgliedschaft im Champion-Programm zum mitwirken an der Leistungsüberprüfung der Mitarbeiter
+- Bestätigen Sie Ihre erfolgreichsten Champions mit Prämien für Office-Beute und Mitarbeitervergünstigungen.  
+- Engagieren Sie Ihre Champions mit fortlaufendem Training und Inhalten, die Sie an andere Mitarbeiter weitergeben können. 
 
-Die Persönlichkeit des Meisters hat sich in der Regel nicht aufgrund dieser Belohnungen engagiert, sondern vielmehr deshalb, weil Sie für Sie eine sinnvollere und messbarere Erfahrung schafft, die zur Mitarbeiterzufriedenheit beiträgt. 
+Die Champion-Persönlichkeit ist normalerweise nicht aufgrund dieser Belohnungen beteiligt, sondern vielmehr, weil Sie eine aussagekräftigere und messbare Erfahrung für Sie schafft, die zur Zufriedenheit der Mitarbeiter beiträgt. 
 
 ## <a name="why-are-champions-important"></a>Warum sind Champions wichtig? 
 
-Das Lernen über Kollegen gehört zu den effektivsten Lernmethoden in einem professionellen Umfeld. Champions bieten Ihrem Adoptionsprogramm auch wertvolle Einblicke darüber, was über Ihre Dienstbereitstellung, Ihr Schulungsprogramm und ihre allgemeine Stimmung hinsichtlich der von Ihnen implementierten Änderungen funktioniert und was nicht.  
+Das Lernen über Kollegen gehört zu den effektivsten Lernmethoden in einer professionellen Umgebung. Champions bieten auch Ihrem Adoptionsprogramm wertvolle Einblicke darüber, was Ihre Dienstbereitstellung, das Schulungsprogramm und die allgemeine Stimmung hinsichtlich der Änderungen, die Sie implementieren, nicht funktioniert.  
 
-![Prozent mit Lernmethode und Hilfsbereitschaft](media/champstats.png)
+![Prozent mit Lernmethode vs Hilfsbereitschaft](media/champstats.png)
 
 ## <a name="how-will-champions-support-you"></a>Wie werden Sie von Champions unterstützt?
 
-Champions werden dazu beitragen, die Ressourcen des Kern Projekts zu reduzieren und das Engagement in der gesamten Community zu fördern. Sie können auch Folgendes tun:
+Champions helfen, die Ressourcen des Kernprojekt Teams zu belasten und den Einsatz in der gesamten Community zu fördern. Sie werden außerdem Folgendes tun:
 
-1. Erstellen der Welle eine Begeisterung, die die Einführung verbesserter Arbeitsweisen vergrößert
-1. Einen Einflusskreis in ihren Teams aufbauen
-1. Holen Sie sich die neuen Arbeitszeiten in Teams
-1. Identifizieren geschäftlicher Herausforderungen und möglicher Lösungen
-1. Geben Sie dem Projektteam und den Sponsoren Feedback.
+1. Erstellen des Welle eine Begeisterung, die die Einführung verbesserter Arbeitsweisen zunimmt.
+1. Erstellen eines Einfluss Kreises zwischen ihren Teams
+1. Bringen Sie die neuen Arbeitsweisen in Teams in Lebenszeit
+1. Identifizieren der geschäftlichen Herausforderungen und möglicher Lösungen
+1. Bereitstellen von Feedback an das Projektteam und die Sponsoren

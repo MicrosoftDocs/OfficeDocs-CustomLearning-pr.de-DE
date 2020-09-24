@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Erstellen von SharePoint-Seiten für Wiedergabelisten
 ms.date: 02/10/2019
 description: Erstellen von SharePoint-Seiten für Wiedergabelisten
-ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 99425b9be685a8090394ecb446a7c82dee24fe5d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247537"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234507"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Erstellen von SharePoint-Seiten für benutzerdefinierte Wiedergabelisten
 
@@ -19,10 +20,10 @@ Eines der einzigartigen Features von Lernpfaden ist die Möglichkeit, Wiedergabe
 
 1. Klicken Sie auf das Symbol SharePoint **Gear** , und klicken Sie dann auf **Seite hinzufügen**.
 2. Klicken Sie auf der linken Seite auf **einen neuen Abschnitt hinzufügen (+)** , und klicken Sie dann auf **zwei Spalten** für das Abschnittslayout.
-3. Klicken Sie in der linken Spalte auf +, und klicken Sie **** dann auf das Webpart einbetten. 
+3. Klicken Sie in der linken Spalte auf +, und klicken Sie dann auf das Webpart **einbetten** . 
 4. Klicken Sie in der rechten Spalte auf +, und klicken Sie dann auf das Webpart **Text** . Ihre Seite sollte wie folgt aussehen.
 
-![CG-pagenewstart. png](media/cg-pagenewstart.png)
+![cg-pagenewstart.png](media/cg-pagenewstart.png)
 
 ### <a name="add-a-video-and-text-from-youtube"></a>Hinzufügen eines Videos und Texts aus YouTube
 
@@ -30,12 +31,12 @@ Eines der einzigartigen Features von Lernpfaden ist die Möglichkeit, Wiedergabe
 2. Klicken Sie auf das Video, um es wiederzugeben, halten Sie es dann an, und klicken Sie dann mit der rechten Maustaste darauf. 
 3. Klicken Sie auf **embed-Code kopieren**und dann zur SharePoint-Seite zurückkehren. 
 4. Klicken Sie im **embed** -Webpart auf **eingebetteten Code hinzufügen** , und fügen Sie dann den Code aus dem YouTube-Video hinzu.
-5. Kehren Sie zur Seite YouTube zurück, **** und kopieren Sie den Beschreibungstext für das Video. 
+5. Kehren Sie zur Seite YouTube zurück, und kopieren Sie den **Beschreibungs** Text für das Video. 
 6. Kehren Sie zur SharePoint-Seite zurück, wählen Sie das Webpart **Text** aus, und kopieren Sie dann den Text aus dem YouTube-Video.
 7. Wählen Sie das Symbol " **Webpart bearbeiten** " im Titelbereich der SharePoint-Seite aus, und nennen Sie die Seite "benutzerdefinierte Wiedergabeliste". 
 8. Wählen Sie für **Layout**die Option **Plain**aus, und schließen Sie den Bereich Eigenschaften des **Titelbereichs** . Die Seite sollte nun etwa wie folgt aussehen. 
 
-![CG-pagenewfinish. png](media/cg-pagenewfinish.png)
+![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
 
 ### <a name="publish-the-page"></a>Veröffentlichen der Seite
 

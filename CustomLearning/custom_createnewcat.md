@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Erstellen einer neuen Unterkategorie
 ms.date: 02/17/2019
 description: Erstellen einer neuen Unterkategorie mit Lernpfaden
-ms.openlocfilehash: 9455e35120bbac1265ebe428979d5791dbd00924
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 5469845594cdc3da2b8905475caa560d47624bac
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327256"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234517"
 ---
 # <a name="create-a-subcategory"></a>Erstellen einer Unterkategorie 
 In einigen Fällen möchten Sie eine neue Unterkategorie erstellen. Wenn beispielsweise die Unterkategorie erste Tage für Ihre Organisation nicht funktioniert, können Sie eine neue Unterkategorie erstellen und dann Wiedergabelisten hinzufügen, um die Anforderungen Ihrer Organisation zu erfüllen. 
@@ -19,7 +20,7 @@ In einigen Fällen möchten Sie eine neue Unterkategorie erstellen. Wenn beispie
 3. Scrollen Sie auf der Seite nach unten. 
 3. Klicken Sie auf das Symbol **neue Unterkategorie hinzufügen +** .  
 
-![CG-newsubcategory. png](media/cg-newsubcategory.png)
+![cg-newsubcategory.png](media/cg-newsubcategory.png)
 
 > [!TIP]
 > Von Microsoft bereitgestellte Unterkategorien können ausgeblendet, aber nicht bearbeitet oder gelöscht werden. 

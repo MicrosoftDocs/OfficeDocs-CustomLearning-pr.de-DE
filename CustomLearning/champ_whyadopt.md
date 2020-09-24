@@ -1,23 +1,29 @@
 ---
-Title: ''
-ms.openlocfilehash: a866c3de0dee75812bd590252d68f769727ad059
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Bewährte Methoden für das Champion-Programm
+description: Warum wird die Einführung vorangetrieben?
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fa20a40737159f97160526f61e73734923b5060d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055308"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233337"
 ---
-# <a name="why-put-effort-into-driving-adoption"></a>Warum sollten Sie die Akzeptanz vorantreiben?  
+# <a name="why-put-effort-into-driving-adoption"></a>Warum sollten Sie die Einführung in das treibende Kraft setzen?  
 
-Es liegt im Interesse Ihres Unternehmens und ihrer Mitarbeiter, das Beste aus Ihren Office 365-Investitionen herausholen.  Ihre Mitarbeiter können Ihre Produktivität optimieren, und Ihre Daten können innerhalb unserer Dienste sicher und sicher sein.  Aber die Tage von, "Build IT, und Sie werden kommen." sind lange Weg.  Es ist wichtig, Mitarbeiter in ansprechender Weise zu veranschaulichen, wie Sie diese Dienste optimal nutzen können.
+Es liegt im besten Interesse Ihres Unternehmens und ihrer Mitarbeiter, Ihre Office 365 Investitionen optimal zu nutzen.  Ihre Mitarbeiter können Ihre Produktivität rationalisieren, und Ihre Daten können in unseren Diensten sicher und sicher sein.  Aber die Tage von, "Build IT, und Sie werden kommen." sind lange Weg.  Es ist wichtig, Mitarbeitern die Möglichkeit zu geben, diese Dienste optimal zu nutzen.
 
-Adoptionsprogramme können die digitale Kompetenz ihrer Mitarbeiter erhöhen, ihre Produktivitäts Erfahrung vereinfachen und zu besseren geschäftlichen Ergebnissen führen. Empowering Your Employees wird letztlich Ihre Organisation dazu ermutigen, ihre Ziele zu erreichen. 
+Adoptionsprogramme können die digitale Kompetenz ihrer Mitarbeiter verbessern, ihre Produktivitäts Erfahrung vereinfachen und zu besseren Geschäftsergebnissen führen. Durch die Ermächtigung ihrer Mitarbeiter können Sie letztlich Ihre Organisation zum Erreichen ihrer Ziele befähigen. 
 
 ## <a name="interview-adoption-best-practices"></a>Interview: bewährte Methoden für die Einführung
 
-Sehen Sie sich dieses Video an, um zu erfahren, warum Sie in die Benutzerakzeptanz investieren möchten.  
+Sehen Sie sich dieses Video an, um zu erfahren, warum Sie in die Einführung von Benutzern investieren müssen.  
 
-**Adopt _AMP_ Embrace**: discussing Adoption for Microsoft Teams & Office 365 mit [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), Leiter des [Office 365 Champions Program](https://aka.ms/O365Champions) und [Darryl Webster](https://webster.net.nz/), Microsoft MVP und Collaboration Subject Matter Expert. 
+**Adoptieren Sie & Umarmung**: Diskussion über die Einführung von Microsoft Teams & Office 365 mit [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), dem Führer des [Office 365 Champions-Programms](https://aka.ms/O365Champions) und [Darryl Webster](https://webster.net.nz/), Microsoft MVP und dem Fachbereich Zusammenarbeit. 
 
 > [!VIDEO https://www.youtube.com/embed/c-j5oF2Kwzk]
 

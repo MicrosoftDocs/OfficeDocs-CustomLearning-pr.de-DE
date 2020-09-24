@@ -10,7 +10,7 @@ ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234637"
+ms.locfileid: "48234803"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Lern Pfade Inhaltsaktualisierungen
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. In der folgenden Liste werden die Inhaltsupdates für April 2020 aufgelistet.

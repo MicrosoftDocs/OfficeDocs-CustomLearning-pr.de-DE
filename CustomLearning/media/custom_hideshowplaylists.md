@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: Ausblenden und Anzeigen von Wiedergabelisten
 ms.date: 02/15/2019
 description: Ausblenden und Anzeigen von Wiedergabelisten
-ms.openlocfilehash: 88b042ce8f1f64d2df4ee7956113c722b971f0cb
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 36151a997e4090b4d2130981ace5fd8871e8792f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "34272692"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233287"
 ---
-# <a name="hide-and-show-playlists"></a>Ausblenden und Anzeigen von Wiedergabelisten
+# <a name="hide-and-show-playlists"></a>Ein- und Ausblenden von Wiedergabelisten
 
 Um Lern Pfade für Ihre Umgebung anzupassen, müssen Sie möglicherweise von Microsoft bereitgestellte Wiedergabelisten ausblenden und durch Wiedergabelisten ersetzen, die Sie für Ihre Organisation erstellen. Beispielsweise besteht ein allgemeiner Anwendungsfall darin, die sechs Listen für einfache Schritte von Microsoft auszublenden und durch eine Wiedergabeliste zu ersetzen, die Sie für Ihre Organisation oder Benutzergruppe erstellen. 
 
@@ -21,12 +21,12 @@ Um Lern Pfade für Ihre Umgebung anzupassen, müssen Sie möglicherweise von Mic
 2. Wählen Sie im Webpart Lern Pfade das Menü **System** aus, und wählen Sie dann **Wiedergabeliste verwalten**aus. Nun sollten zwei Registerkarten geöffnet sein: eine mit der **Verwaltungsseite für Lern Pfade** ; und eine mit der Seite **Office 365 Training** . 
 3. Wählen Sie auf der Seite **benutzerdefinierte Lern Verwaltung** unter **Kategorie**eine Unterkategorie aus, und wählen Sie dann den Augapfel für eine Wiedergabeliste aus, um sie auszublenden. Klicken Sie in diesem Beispiel auf die Unterkategorie **erste Tage** , und blenden Sie dann die sechs Listen für **einfache Schritte aus** .  
 
-![CG-hideplaylist. png](media/cg-hideplaylist.png)
+![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Überprüfen, ob die Wiedergabeliste ausgeblendet ist
 - Um zu überprüfen, ob die Wiedergabeliste ausgeblendet ist, wählen Sie die Registerkarte Browser mit der Seite **Erste Schritte mit Office 365** aus, und aktualisieren Sie dann die Seite. Sie sollten nun die Unterkategorie **erste Tage** sehen, und **sechs einfache Schritte** sind ausgeblendet. In diesem Fall gibt es nur eine Wiedergabeliste in der Unterkategorie, die ausgeblendet ist, sodass Lern Pfade auch die Unterkategorie ausblenden, anstatt eine leere Unterkategorie anzuzeigen. 
 
-![CG-hideplaylistrefresh. png](media/cg-hideplaylistrefresh.png)
+![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>Einblenden einer Wiedergabeliste
 

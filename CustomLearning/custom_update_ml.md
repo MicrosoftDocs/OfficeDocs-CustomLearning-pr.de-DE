@@ -5,12 +5,13 @@ title: Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 ms.date: 05/20/2019
 description: Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
-ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.service: sharepoint online
+ms.openlocfilehash: 32870a21dfc1e012f140ffdbd33d69bd0f149880
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "46874976"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233827"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
 Wenn Sie über eine vorhandene Lern Pfad Website verfügen, können Sie diese für mehrsprachige Unterstützung aktualisieren. Um Lern Pfade auf die mehrsprachige Version 4,0 zu aktualisieren, laden Sie das Webpart-Paket, customlearning. sppkg, in den SharePoint-Mandanten-App-Katalog hoch. Beim Aktualisieren von Lernpfaden:  
@@ -49,7 +50,7 @@ In diesem Schritt laden Sie das Lern Pfade 4,0-Webpart in den SharePoint-App-Kat
 
 ### <a name="upload-the-web-part-package"></a>Hochladen des Webpart-Pakets
 1.  Wechseln Sie zum [benutzerdefinierten GitHub-Lern-Repository](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), wählen Sie **customlearning. sppkg** aus, und laden Sie es dann auf ein lokales Laufwerk auf Ihrem PC herunter. 
-2.  Wenn Sie noch nicht angemeldet sind, melden Sie sich bei Ihrem Mandanten mit einem mandantenadministrator oder einem Websitesammlungsadministrator Konto an. 
+2.  Wenn Sie noch nicht angemeldet sind, melden Sie sich mit einem Mandantenadministrator- oder Sitesammlung-Administratorkonto bei Ihrem Mandanten an. 
 3.  Klicken Sie auf **Admin**  >  **alle**  >  **SharePoint**  >  -**Funktionen**anzeigen. 
 4.  Klicken Sie unter **apps**auf **Öffnen**. 
 5.  Klicken Sie auf **App-Katalog**  >  **Apps für SharePoint verteilen**. 

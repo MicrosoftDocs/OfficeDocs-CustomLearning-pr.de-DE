@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Planen der Inhalte für Lern Pfade
 ms.date: 10/20/2019
 description: Microsoft 365 Lern Pfade-Inhaltsupdate
-ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: e3df63d098046311ffb5aa4220cbcaf3a9394572
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956662"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234107"
 ---
 # <a name="plan-your-learning-pathways-content"></a>Planen der Inhalte für Lern Pfade
 Bevor Sie sich mit der Einführung von Microsoft 365-Lernpfaden vertraut machen, sollten Sie sich einige Zeit nehmen, um die Lerninhalte, Tools und Funktionen, die Ihnen zur Verfügung stehen, zu vermessen. Unser Ziel ist es, Ihnen dabei zu helfen, die Benutzer Ihrer Organisation so schnell und effizient wie möglich auf dem neuesten Stand zu halten und produktiv zu nutzen. Wenn es um die Planung von Lern wegen geht, empfehlen wir einen dreistufigen Prozess:
@@ -24,7 +25,7 @@ Bevor Sie einen Inhaltsplan für Microsoft 365-Lern Pfade erstellen, sollten Sie
 ### <a name="review-the-learning-pathways-sharepoint-site"></a>Überprüfen der SharePoint-Website für Lern Pfade
 Die Microsoft 365-Lern Pfad Lösung stellt eine SharePoint-Kommunikationswebsite mit einem Webpart bereit, das mit einem Online Katalog verbunden ist. Die SharePoint-Website ist vollständig anpassbar, einschließlich des Website namens, des Logos, der Seiten, Menüelemente, Designs und Kacheln. Nehmen Sie sich eine Weile Zeit, um auf die Kacheln und Menüelemente zu klicken, um zu ermitteln, was auf der Website für Lern Pfade verfügbar ist.
 
-![CG-Introducing. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ### <a name="review-the-content-from-the-online-catalog-with-the-web-part"></a>Überprüfen der Inhalte aus dem Online Katalog mit dem Webpart
 Das Webpart wird standardmäßig einer Reihe von Seiten auf der SharePoint-Kommunikationswebsite hinzugefügt. Der vollständige Inhaltskatalog wird auf der Microsoft 365-Schulungsseite bereitgestellt. Auf der Microsoft 365-Schulungsseite wird das Webpart für Lern Pfade gehostet, das für die Anzeige aller für Lern Pfade verfügbaren Schulungen konfiguriert ist. 
@@ -34,7 +35,7 @@ Das Webpart wird standardmäßig einer Reihe von Seiten auf der SharePoint-Kommu
 1. Scrollen Sie auf der Seite nach unten, um alle Kategorien und Unterkategorien anzuzeigen.
 2. Kick die Reifen ein wenig. Klicken Sie auf einige Unterkategorien, und klicken Sie dann auf einige Wiedergabelisten, um ein Gefühl dafür zu erhalten, wie Lern Pfade Inhalte organisiert werden. 
 
-![CG-adminsuccesscenterplan_01. png](media/cg-adminsuccesscenterplan_01.png)
+![cg-adminsuccesscenterplan_01.png](media/cg-adminsuccesscenterplan_01.png)
 
 ### <a name="view-the-administration-page"></a>Anzeigen der Verwaltungsseite
 Die Verwaltungsseite enthält eine Liste der verfügbaren Inhalte. Hier können Sie Inhalte ausblenden, neue Wiedergabelisten erstellen und Wiedergabelisten hinzufügen, bearbeiten und entfernen. Klicken Sie durch die verschiedenen Kategorien und Wiedergabelisten, um den vollständigen Atem der verfügbaren Inhalte anzuzeigen. 
@@ -43,7 +44,7 @@ Die Verwaltungsseite enthält eine Liste der verfügbaren Inhalte. Hier können 
 1. Zeigen Sie auf der Website Lernpfade auf den Dropdownpfeil Start Menü, und klicken Sie dann auf Lern Pfadverwaltung.  
 2. Klicken Sie dann durch die verschiedenen Kategorien, Unterkategorien und Wiedergabelisten, um ein Gefühl für den Hauch von Inhalten zu erhalten, die Ihnen zur Verfügung stehen. 
 
-![CG-adminsuccesscenterplan_02. png](media/cg-adminsuccesscenterplan_02.png)
+![cg-adminsuccesscenterplan_02.png](media/cg-adminsuccesscenterplan_02.png)
 
 ### <a name="get-to-know-the-capabilities-of-microsoft-365-learning-pathways"></a>Kennenlernen der Funktionen von Microsoft 365-Lernpfaden
 Mit den Lernpfaden von Microsoft 365 können Inhalte, die von Microsoft mit Inhalten erstellt wurden, die Sie erstellen, für bestimmte Richtlinien und Verfahren zur Verfügung gestellt werden, die für Ihre Organisation eindeutig sind. Als bewährte Methode sollten Sie die von Microsoft bereitgestellten Inhalte so weit wie möglich nutzen. Microsoft aktualisiert einzelne Ressourcen regelmäßig und aktualisiert den vollständigen Bestand an Inhalten auf vierteljährlicher Basis. In der Regel erstellt eine Organisation 10-20% eindeutige Inhalte und lässt dann die restlichen 80% an Microsoft weiter, um auf dem neuesten Stand zu sein. In der folgenden Liste wird beschrieben, wie Lern Pfade Inhalte organisiert werden, zusammen mit Richtlinien für den Inhalt, der geändert oder erstellt werden kann. Anleitungen zum Anpassen von Inhalten finden Sie im Abschnitt Anpassen von Lernpfaden im Admin Success Center.

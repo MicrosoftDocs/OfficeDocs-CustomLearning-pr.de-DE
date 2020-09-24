@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Verknüpfen mit Ressourcen für Lern Pfade in Microsoft 365
 ms.date: 02/15/2019
 description: Vorgehensweise Verknüpfen von Microsoft 365-Lernpfaden-Ressourcen
-ms.openlocfilehash: cc8ba80e1c658fabb44e3df405c9293ec763ab3d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 737bff4c8d98e210e619d16bb680a9ea30334d93
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327276"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234317"
 ---
-# <a name="link-to-learning-pathways-content"></a>Link zu Lernpfaden Inhalt
+# <a name="link-to-learning-pathways-content"></a>Verlinken von Lernpfadinhalten
 
 Bei Lernpfaden gibt es zwei Möglichkeiten zum Verknüpfen von Inhalten:
 
@@ -26,7 +27,7 @@ Wenn Sie neue Seiten und Lernerfahrungen mit dem Webpart Microsoft 365 Learning-
 2. Klicken Sie in einer der Startseiten Kacheln auf **Details bearbeiten** . In diesem Beispiel bearbeiten wir die **empfohlenen Wiedergabelisten** Kacheln.
 3. Klicken Sie unter **Link**auf **ändern**.
 
-![CG-linktopage. png](media/cg-linktopage.png)
+![cg-linktopage.png](media/cg-linktopage.png)
 
 4. Klicken Sie auf **Website**, dann auf **Website Seiten**, klicken Sie auf die Seite, mit der Sie eine Verknüpfung herstellen möchten, und klicken Sie dann auf **Öffnen**. In diesem Beispiel wird eine Verknüpfung mit der **Create-your-own-Experience. aspx** -Seite hergestellt, die im vorherigen Abschnitt behandelt wurde.
 5. Schließen Sie den Bereich Hero-Eigenschaften, klicken Sie auf **veröffentlichen**, und testen Sie dann den Link. 
@@ -38,12 +39,12 @@ Lern Pfade bieten Ihnen, dem Administrator oder einem Endbenutzer die Möglichke
 2. Klicken Sie auf **Microsoft Teams**, und klicken Sie dann auf **Einführung in Microsoft Teams**.
 3. Klicken Sie auf das Symbol **Kopieren** .
 
-![CG-linktowebpart. png](media/cg-linktowebpart.png)
+![cg-linktowebpart.png](media/cg-linktowebpart.png)
 
 4. Klicken Sie im Menü Website von Microsoft 365 Learning Pfads auf Startseite.
 5. Fügen Sie die kopierte URL in die Adressleiste des Browsers ein, und drücken Sie die EINGABETASTE. 
 
 Wie in der folgenden Abbildung dargestellt, wechselt der Link zur Seite CustomLearningViewer. aspx und zeigt den Inhalt basierend auf den Parametern in der kopierten Verknüpfung an. 
 
-![CG-linktowebpartviewer. png](media/cg-linktowebpartviewer.png)
+![cg-linktowebpartviewer.png](media/cg-linktowebpartviewer.png)
 

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Messen der Auswirkung von Microsoft 365-Lernpfaden
 ms.date: 02/10/2019
 description: Messen der Auswirkungen von Microsoft 365-Lernpfaden
-ms.openlocfilehash: 8beb4955208f14ca5d4bbc8a525d839d47e47b88
-ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
+ms.service: sharepoint online
+ms.openlocfilehash: 30614a048871f298019246f4dfe3f6563ee33729
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076009"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234247"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Messen der Auswirkungen von Microsoft 365-Lernpfaden
 
@@ -19,9 +20,9 @@ Administratoren sollten die integrierten Funktionen für die Berichterstellung d
 
 ## <a name="site-level-impact"></a>Auswirkungen auf Websiteebene
 
-Als SharePoint Online Websitebesitzer können Sie Informationen anzeigen, die zeigen, wie Benutzer mit Ihrer Website interagieren. Sie können beispielsweise die Anzahl der Personen sehen, die die Website besucht haben, wie oft die Website besucht wurde, und eine Liste mit Dateien, die die meisten Ansichten erhalten haben. Siehe [Berichts Details](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e). 
+Als SharePoint Online Websitebesitzer können Sie Informationen anzeigen, die zeigen, wie Benutzer mit Ihrer Website interagieren. Sie können z. B. die Anzahl der Personen sehen, die die Website besucht haben, wie oft die Website besucht wurde und eine Liste der Dateien, die am häufigsten aufgerufen wurden. Siehe [Berichts Details](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e). 
 
-![CG-measureimpactreport. png](media/cg-measureimpactreport.png)
+![cg-measureimpactreport.png](media/cg-measureimpactreport.png)
 
 ## <a name="organization-level-impact"></a>Auswirkungen auf Organisationsebene
 Mit dem Bericht Office 365 Admin Center SharePoint Site Usage können Administratoren eine allgemeine Übersicht über den Wert erhalten, den Sie vom benutzerdefinierten Lernprozess für Office 365 Website im Verhältnis zu allen anderen SharePoint-Websites erhalten. Siehe [Berichts Details](https://docs.microsoft.com/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide).

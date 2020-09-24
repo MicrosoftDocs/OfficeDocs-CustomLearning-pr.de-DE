@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Erstellen neuer Wiedergabelisten
 ms.date: 02/18/2019
 description: Erstellen neuer Wiedergabelisten
-ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: c0a338567f06601412dd077337051e12c2b0fb34
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886818"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234527"
 ---
 # <a name="create-a-custom-playlist"></a>Erstellen einer benutzerdefinierten Wiedergabeliste
 
@@ -21,11 +22,11 @@ Mit den Lernpfaden von Microsoft 365 können Sie benutzerdefinierte Wiedergabeli
 2. Wählen Sie die Unterkategorie Symbol **Verwalten**aus. Wählen Sie in diesem Beispiel die Option **erste Tage**aus.  
 3. Klicken Sie auf das Symbol +.  
 
-![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
+![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
 
 4.  Füllen Sie die Felder in der Wiedergabeliste aus, wie im folgenden Beispiel gezeigt. Sie können das Standardsymbol für dieses Beispiel belassen. 
 
-![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
+![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
 
 5.  Wenn Sie fertig sind, wählen Sie **Details speichern**aus. 
 
@@ -33,10 +34,10 @@ Mit den Lernpfaden von Microsoft 365 können Sie benutzerdefinierte Wiedergabeli
 
 - Klicken Sie auf der Seite **benutzerdefinierte Lern Verwaltung** auf die Wiedergabeliste, und klicken Sie dann auf **Detail bearbeiten**.  
 
-![CG-editplaylist. png](media/cg-editplaylist.png)
+![cg-editplaylist.png](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>Löschen einer Wiedergabeliste
 
 - Klicken Sie auf der Seite benutzerdefinierte Lern Verwaltung auf das **Lösch** Symbol für die Wiedergabeliste.  
 
-![CG-deleteplaylist. png](media/cg-deleteplaylist.png)
+![cg-deleteplaylist.png](media/cg-deleteplaylist.png)

@@ -4,12 +4,13 @@ ms.author: mikeholl
 title: Häufig gestellte Fragen zu Partnern
 ms.date: 3/9/2019
 description: Wie vergleicht Microsoft 365 Lern Pfade mit Partner angeboten von Unternehmen, die Schulungsdienste für Unternehmen anbieten?
-ms.openlocfilehash: 27a05012363e2ef4a75656dd2e66f7beda51bd2d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247800"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234147"
 ---
 # <a name="partner-frequently-asked-questions"></a>Häufig gestellte Fragen zu Partnern
 
@@ -23,7 +24,7 @@ Die benutzerdefinierte Lernwebsite Vorlage und Inhalts Lösung wird im GitHub-Re
 Obwohl es nicht möglich ist, den Feed direkt aus dem SharePoint Online Bereitstellungsdienst zu ergänzen, gibt es mehrere Integrationsmodelle, die Partner für die Erstellung ausgerichteter Value-Add-Dienste nutzen können.
 
 1. **Bereitstellungs-und Anpassungs Dienste im Auftrag von Kunden** -Partner können die Lösung installieren, Branding und Inhaltsanpassung für Ihre Kunden durchführen. Partner können auch angepasste Wiedergabelisten bereitstellen, die auf Value-Add Trainingsinhalte verweisen, die Sie erstellen. 
-2. **Anpassung, neubranding, Umpacken und Bereitstellungsdienste im Auftrag von Kunden** -Partner können Websitevorlagen und Inhaltswiedergabe Listen pro Kundenanforderungen anpassen und diese in Kundenumgebungen neu verpacken und bereitstellen, indem Sie Aufbauend auf dem Open-Source-SharePoint Patterns and Practice Framework. 
+2. **Anpassung, neubranding, Umpacken und Bereitstellungsdienste im Auftrag von Kunden** -Partner können Websitevorlagen und Inhaltswiedergabe Listen pro Kundenanforderungen anpassen und diese in Kundenumgebungen neu verpacken und bereitstellen, indem Sie auf dem Open-Source-SharePoint Patterns and Practice Framework aufbauen. 
 
 ### <a name="how-does-this-solution-affect-my-adoption-change-management-practice"></a>Wie wirkt sich diese Lösung auf meine Einführung Change Management Practice aus? 
 Schulungsdienste sind eine Komponente des erweiterten Übungs Bereichs für Einführung und Change Management. Die Microsoft 365-Lern Pfad Lösung dient einem spezifischen Bedürfnis, die Fähigkeit von Partnern und Kunden zu beschleunigen, auf von Microsoft bereitgestellte Schulungsinhalte zuzugreifen und diese anzupassen. Microsoft 365 Lern Pfade umfassen kein benutzerdefiniertes Kursdesign, Kursleiter Design, gamification, Benutzerverhalten-Analyse, umfassende Kommunikations-und engagementfunktionen oder Live Support. Microsoft setzt auf Adoptions-und Change Management-Partner, um diese Dienste für Kunden zu erfüllen. 

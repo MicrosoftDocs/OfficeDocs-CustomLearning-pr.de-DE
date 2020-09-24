@@ -1,11 +1,17 @@
 ---
-Titel: ''
-ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Tag im Leben mit Office 365-Meeting im Büro
+description: Schnelle Schritte für den Tag mit Office 365 bereit
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056098"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233637"
 ---
 # <a name="meeting-at-the-office"></a>Besprechung im Büro
 
@@ -63,4 +69,4 @@ Wenn Sie einem Plan für Ihr Projekt direkt Aktionselemente hinzufügen, müssen
 ![Planner-Aufgabe](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>Beenden einer Besprechung
-Wenn alle Tagesordnungspunkte diskutiert wurden, können Sie die Besprechung beenden, ganz unabhängig von der Uhrzeit. Weisen Sie allen Teilnehmern Aktionselemente zu und versenden Sie sie. Wenn Sie in Microsoft Teams zusammenarbeiten, können Sie Aktionselemente ganz einfach im entsprechenden Kanal teilen. Aktionselemente können auch während der Besprechung in Planner eingegeben und zugewiesen werden. Dies ist eine schnelle Möglichkeit zum Nachverfolgen der Durchführung, auf die auch in [Microsoft Teams zugegriffen werden kann](https://support.office.com/de-DE/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
+Wenn alle Tagesordnungspunkte diskutiert wurden, können Sie die Besprechung beenden, ganz unabhängig von der Uhrzeit. Weisen Sie allen Teilnehmern Aktionselemente zu und versenden Sie sie. Wenn Sie in Microsoft Teams zusammenarbeiten, können Sie Aktionselemente ganz einfach im entsprechenden Kanal teilen. Aktionselemente können auch während der Besprechung in Planner eingegeben und zugewiesen werden. Dies ist eine schnelle Möglichkeit zum Nachverfolgen der Durchführung, auf die auch in [Microsoft Teams zugegriffen werden kann](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 

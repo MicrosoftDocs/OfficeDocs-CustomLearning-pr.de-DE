@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Verwalten von Lernpfaden Inhaltsaktualisierungen
 ms.date: 10/20/2019
 description: Verwalten von Lernpfaden Inhaltsaktualisierungen
-ms.openlocfilehash: e59b05718192a5ace9ae6b8d999a26f5d7accbf9
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 171504fb3d3679f541bbf1cd9b2e3937d3aba1f7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956512"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234547"
 ---
 # <a name="manage-learning-pathways-content-updates"></a>Verwalten von Lernpfaden Inhaltsaktualisierungen
 Der Microsoft 365-Lern Pfad Katalog wird vierteljährlich aktualisiert. Der Kataloginhalt, bei dem es sich um eine Gruppe von JSON-Metadaten handelt, die auf Lernobjekte verweist, die auf Support.Office.com gehostet werden, wird in einem globalen Cache innerhalb des Mandanten einer Organisation gespeichert. Der globale Cache wird automatisch aktualisiert, wenn ein Website Sammlungs Administrator oder-Besitzer auf dem Lern Pfad die Verwaltungsseite Lernpfade öffnet. Darüber hinaus wird der globale Cache für Lern Pfade alle 24 Stunden aktualisiert. Inhaltsaktualisierungen für den Katalog werden automatisch für Benutzer mit Lernpfaden angezeigt, wenn der globale Cache aktualisiert wird. Ein Administrator für Lern Pfade kann Unterkategorien oder Wiedergabelisten ausblenden, wenn er Benutzern keine neuen Inhalte zur Verfügung stellen soll.

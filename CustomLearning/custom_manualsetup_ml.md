@@ -5,12 +5,13 @@ title: Lern Pfade Manuelles Einrichten für ml
 ms.date: 02/10/2019
 description: Manuelle Einrichtung von Lernpfaden
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: a7417cbd2cc5e668699d9838d2a72a8777a5743a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043277"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234267"
 ---
 # <a name="learning-pathways-manual-setup-for-multilingual"></a>Lern Pfade manuelles Setup für mehrsprachige
 
@@ -20,7 +21,7 @@ Microsoft 365-Lern Pfade bieten eine manuelle Einrichtung für Organisationen, d
 
 - Sie möchten Lern Pfade für mehrsprachige Unterstützung in einer der SharePoint-Kommunikationswebsites Ihrer Organisation installieren. Die Website hat eine Standardsprache, die nicht Englisch ist und eine der Sprachen ist, die von Lernpfaden unterstützt werden. Hier sind die Sprachen, die von Lernpfaden unterstützt werden:
 
-- English
+- Englisch
 - Chinesisch (vereinfacht)
 - Französisch
 - Deutsch
@@ -85,7 +86,7 @@ Im Rahmen des Setupprozesses benötigen Sie das Microsoft 365 Learning-Pfad-Webp
 Um Microsoft 365-Lern Pfade einzurichten, laden Sie die Datei customlearning. sppkg in den Mandanten weiten App-Katalog hoch und stellen Sie bereit. Ausführliche Anweisungen zum Hinzufügen einer App zum App-Katalog finden Sie unter [Verwenden des App-Katalogs, um benutzerdefinierte Business-Apps für Ihre SharePoint Online Umgebung zur Verfügung zu stellen](https://docs.microsoft.com/sharepoint/use-app-catalog) .
 
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>Schritt 3 – Bereitstellung/Identifizierung einer modernen Kommunikationswebsite
-Identifizieren Sie entweder eine vorhandene SharePoint-Kommunikationswebsite, oder stellen Sie eine neue in Ihrem SharePoint Online Mandanten zur Verfügung. Weitere Informationen zum Einrichten einer Kommunikationswebsite finden Sie unter [Create a Communication Site in SharePoint Online](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) und folgen den Schritten zum Erstellen einer Kommunikationswebsite.
+Identifizieren Sie entweder eine vorhandene SharePoint-Kommunikationswebsite, oder stellen Sie eine neue in Ihrem SharePoint Online Mandanten zur Verfügung. Weitere Informationen zum Einrichten einer Kommunikationswebsite finden Sie unter [Create a Communication Site in SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) und folgen den Schritten zum Erstellen einer Kommunikationswebsite.
 
 ## <a name="step-4---add-the-microsoft-365-learning-pathways-app-to-the-site"></a>Schritt 4 – Hinzufügen der App "Microsoft 365 Learning Pfads" zur Website
 
@@ -112,7 +113,7 @@ Ein Teil dieser Lösung umfasst die anonymisierte Telemetrie-Überwachung Opt in
 
 Nachdem das PowerShell-Skript erfolgreich ausgeführt wurde, navigieren Sie zur Website, initialisieren das **CustomConfig** -Listenelement, das Lern Pfade für die erste Verwendung einrichtet, und überprüfen, ob die Website funktioniert.
 
-- Navigieren Sie in das Verzeichnis `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Beim Öffnen von **CustomLearningAdmin. aspx** wird das **CustomConfig** -Listenelement initialisiert, das Lern Pfade für die erste Verwendung einrichtet. Sie sollten eine Seite sehen, die wie folgt aussieht:
+- Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Wenn Sie **CustomLearningAdmin. aspx** öffnen, wird das Listenelement **CustomConfig** initialisiert, das die Lernpfade für die erste Verwendung einrichtet. Sie sollten eine Seite sehen, die wie folgt aussieht:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 
@@ -126,7 +127,7 @@ Als mandantenadministrator ist es unwahrscheinlich, dass Sie die Person anpassen
 5. Fügen Sie einen Link zum [Durchsuchen der Website](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) in der Freigabenachricht hinzu, und klicken Sie dann auf **Freigeben**.
 
 ## <a name="migrate-custom-content"></a>Migrieren von benutzerdefinierten Inhalten
-Nachdem Sie die Website für Lernpfade wiederhergestellt haben, indem Sie die obigen Schritte ausführen, müssen Sie den Inhalt Ihrer **CustomPlaylists** -Liste und ihrer **CustomAssets** -Liste verlagern. Sie können auch die tatsächlichen benutzerdefinierten Seiten, aus denen sich Ihre benutzerdefinierten Objekte zusammensetzen, wahlweise in der vorhandenen Lern Pfad-Website verlagern, und ihre Absicht besteht darin, diese zu löschen. Die Aufgabe kann schwierig sein, da für alle Elemente in der **CustomPlaylists** -Liste die ID des Listenelements in der **CustomAssets** -Liste im Feld JSONData jedes Listenelements für eine Wiedergabeliste begraben ist. Daher reicht das einfache Verschieben des Inhalts der **CustomPlaylists** -Liste von einer Website zur anderen nicht aus. Außerdem enthält die **CustomAssets** -Liste die absolute URL der benutzerdefinierten Ressourcen Seite im Feld JSONData des Listenelements. Wenn die Objekte nicht verschoben werden und die Website nicht umbenannt wird (wodurch die absolute URL auf die Seite der Ressource geändert wird), kann **CustomAssets** bleiben. Die Einträge müssen jedoch manuell korrigiert werden. In Anbetracht der Komplexität dieser Art von Migration empfehlen wir Ihnen, einen unserer Partner für Lern Pfade einzutragen, um Sie bei der Durchführung dieses Übergangs zu unterstützen. 
+Nachdem Sie Ihre Lernpfade-Website anhand der oben beschriebenen Schritte wieder eingerichtet haben, müssen Sie den Inhalt Ihrer Listen **CustomPlaylists** und **CustomAssets** verschieben. Sie können optional auch die tatsächlichen benutzerdefinierten Seiten, aus denen sich Ihre benutzerdefinierten Objekte zusammensetzen, verschieben, wenn sie in der bestehenden Lernpfade-Website vorhanden sind und Sie beabsichtigen, sie zu löschen. Die Aufgabe kann schwierig sein, da für alle Elemente in der Liste **CustomPlaylists** die ID des Listenelements in der Liste **CustomAssets** im Feld "JSONData" des jeweiligen Wiedergabelistenelements verborgen ist. Daher reicht das einfache Verschieben des Inhalts der **CustomPlaylists** -Liste von einer Website zur anderen nicht aus. Außerdem enthält die Liste **CustomAssets** die absolute URL für die Seite des benutzerdefinierten Objekts im Feld "JSONData" des Listenelements. Wenn die Objekte nicht verschoben werden und die Website nicht umbenannt (also die absolute URL der Seite des Objekts geändert) wird, kann **CustomAssets** beibehalten werden. Sie müssen die Einträge aber manuell korrigieren. Angesichts der Komplexität dieser Art von Migration sollten Sie erwägen, einen unserer Lernpfade-Partner in Anspruch zu nehmen, um Ihnen bei der Durchführung dieses Übergangs zu helfen. 
 
 ### <a name="next-steps"></a>Nächste Schritte
 - Siehe [Anpassen von Lernpfaden](custom_overview.md). 

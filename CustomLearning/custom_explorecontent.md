@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Durchsuchen der Website und Standardinhalte
 ms.date: 02/10/2019
 description: Erkunden der Website für Lern Pfade und Standardinhalte
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.service: sharepoint online
+ms.openlocfilehash: 65c4eba8e0f1925c1512b330efbbd2dc5a970ab7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726783"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234487"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Erkunden der Website für Lern Pfade
 
@@ -17,11 +18,11 @@ ms.locfileid: "37726783"
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
-1.  Öffnen Sie den Webbrowser, und navigieren Sie zu Office.com oder zum Anmelde Speicherort Ihrer Organisation. 
-2.  Melden Sie sich mit Ihrem Benutzernamen und Ihrem Kennwort an.
+1.  Öffnen Sie Ihren Webbrowser und navigieren Sie zu office.com oder der Anmeldeseite Ihrer Organisation. 
+2.  Melden Sie sich mit Ihrem Benutzernamen und Kennwort an.
 3.  Navigieren Sie mit der vom mandantenadministrator bereitgestellten URL zum Speicherort der Website, oder wählen Sie SharePoint auf der Office 365 Homepage aus, und wählen Sie dann den Standort aus. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## <a name="explore-the-learning-pathways-site"></a>Erkunden der Website für Lern Pfade
 
@@ -35,7 +36,7 @@ Die Website für Lern Pfade stellt Standardinhalte bereit, die Ihnen beim Einsti
 2.  Klicken Sie auf die Schaltfläche **Bearbeiten**.
 3.  Zeigen Sie mit der Maus auf ein Hilfe Optionsbild, und klicken Sie dann auf **Webpart bearbeiten**.
 
-![CG-edithelp. png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 Anweisungen zum Anpassen von Website Seiten finden Sie unter [Anpassen der Website](custom_edithelp.md).
 
@@ -45,7 +46,7 @@ Auf der Microsoft 365-Schulungsseite wird das Webpart für Lern Pfade gehostet, 
 1. Scrollen Sie auf der Seite nach unten, um alle Kategorien und Unterkategorien anzuzeigen.
 2. Kick die Reifen ein wenig. Klicken Sie auf einige Unterkategorien, und klicken Sie dann auf einige Wiedergabelisten, um ein Gefühl dafür zu erhalten, wie Lern Pfade Inhalte organisiert werden. 
 
-![CG-gotoall. png](media/cg-gotoall.png)
+![cg-gotoall.png](media/cg-gotoall.png)
 
 Anweisungen zum Anpassen des Webparts für Lernpfade finden Sie unter [Anpassen der Lernerfahrung](custom_overview.md).
 

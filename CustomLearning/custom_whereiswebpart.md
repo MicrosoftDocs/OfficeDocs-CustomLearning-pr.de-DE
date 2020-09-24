@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Wo befindet sich das Microsoft 365-Lern Webpart
 ms.date: 02/15/2019
 description: Hier erfahren Sie, wo das Lern Pfad-Webpart auf der Website für Lern Pfade angezeigt wird.
-ms.openlocfilehash: f84ce82233612c0b7892177defb2a8ca28618b68
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956557"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233747"
 ---
-# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Wo ist das Microsoft 365 Learning-Wege-Webpart? 
+# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Wo befindet sich das Webpart für Microsoft 365-Lernpfade? 
 
 Wenn Lern Pfade in Ihrer Organisation festgestellt werden, werden die Website und das Webpart für Lern Pfade dem SharePoint-Mandanten Ihrer Organisation hinzugefügt. Im Rahmen der proaktivierung wird das Microsoft 365 Learning-Webpart auf den folgenden Seiten der Microsoft 365-Lern Pfade-Website hinzugefügt:
 
@@ -31,11 +32,11 @@ Im folgenden finden Sie ein Beispiel für die Seite **Erste Schritte mit Microso
 
 - Wählen Sie auf der Startseite für Lern Pfade die Option **Erste Schritte mit Microsoft Teams**aus.
 
-![CG-whereiswp-Teams. png](media/cg-whereiswp-teams.png)
+![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
 
 - Klicken Sie im Menü Website auf das Menü **Start** , um zur Homepage der Website zurückzukehren.
 
-![CG-homebtnmenu. png](media/cg-homebtnmenu.png)
+![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
 
 ## <a name="view-the-six-simple-steps-playlist"></a>Anzeigen der Wiedergabeliste für sechs einfache Schritte
 
@@ -43,7 +44,7 @@ Das Webpart auf der Seite " **Start-with-Six-Simple-Steps. aspx** " ist so konfi
 
 - Klicken Sie auf der Startseite Lernpfade auf **mit sechs einfachen Schritten beginnen**. 
 
-![CG-whereiswp-Six. png](media/cg-whereiswp-six.png)
+![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
 ## <a name="view-all-microsoft-365-training"></a>Alle Microsoft 365-Schulungen anzeigen
 
@@ -51,7 +52,7 @@ Das Webpart auf der **Microsoft 365-Schulungs** Seite ist so konfiguriert, dass 
 
 - Klicken Sie auf der Startseite für Lern Pfade auf **Microsoft 365 Training**. Die Seite wird angezeigt, wobei das Webpart so konfiguriert ist, dass alle im benutzerdefinierten Lernkatalog verfügbaren Kategorien und Unterkategorien angezeigt werden.
 
-![CG-whereiswp-o365. png](media/cg-whereiswp-o365.png)
+![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
 - Klicken Sie im Menü Website auf das Menü **Start** , um zur Homepage der Website zurückzukehren.
 
@@ -61,7 +62,7 @@ Das Webpart auf der Seite **Admin Success Center** wird so konfiguriert, dass al
 
 - Klicken Sie auf der Startseite für Lern Pfade auf **Erste Schritte mit dem Administrator-Erfolgs Center**. . 
 
-![CG-adminsuccesscenterwebpart. png](media/cg-adminsuccesscenterwebpart.png)
+![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
 
 - Klicken Sie im Menü Website auf das Menü **Start** , um zur Homepage der Website zurückzukehren.
 

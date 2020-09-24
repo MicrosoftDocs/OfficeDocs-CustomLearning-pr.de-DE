@@ -5,12 +5,13 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: d19b3f25455e07efd8325899e0adb2f0a0c4adc2
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956642"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233567"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Einführung des Portals für Lern Pfade
 Nachdem Sie Microsoft 365-Lern Pfade angepasst und Ihre anfänglichen Lern Kampagnen zusammengestellt haben, ist es an der Zeit, darüber nachzudenken, wie Sie die Benutzer zu Microsoft 365-Lernpfaden für das fortlaufende lernen und die Transformation zurückkehren lassen. Sie können den Leitfaden, das Adoptions Kit und bewährte Methoden verwenden, die Microsoft zur Verfügung gestellt hat, um Ihnen beim Ausführen erfolgreicher Microsoft 365-Einführungs Kampagnen zu helfen, wir bieten Anleitungen, bewährte Methoden und ein Adoptionspaket. 
@@ -32,7 +33,7 @@ Wenn Sie die folgenden Szenarien in ihrer Kommunikationskampagne verwenden, kön
 - Verbinden Ihrer Organisation mit "jammern"
 
 ## <a name="use-the-downloadable-adoption-kit"></a>Verwenden des herunterladbaren Adoptions Kits
-Verwenden Sie das [herunterladbare Adoptions Kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip), um Sie beim Ausführen ihrer Kommunikationskampagne für Microsoft 365-Lern Pfade zu unterstützen. Sie enthält Folgendes: 
+Verwenden Sie das [herunterladbare Adoptions Kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip), um Sie beim Ausführen ihrer Kommunikationskampagne für Microsoft 365-Lern Pfade zu unterstützen. Dazu zählen: 
 
 - Microsoft 365 Lern Pfade empfohlener Kommunikationskampagnen Kalender zur Planung Ihrer Kampagne
 - Endbenutzer Start und Tipps e-Mail-Vorlagen für jedes der fünf Microsoft 365-Szenarien.    
@@ -70,12 +71,12 @@ Arbeiten Sie mit Ihrem Personalteam zusammen, um den Start ihrer Schulungswebsit
 1.  Erstellen Sie einen Einführungsplan für die Einführung von Microsoft 365-Lernpfaden in Ihrer Organisation.
 2.  Pilotieren Sie Ihre angepasste Version von Microsoft 365 Lernpfaden mit einer repräsentativen Gruppe von Endbenutzern, und führen Sie einen Trockenlauf Ihres Adoptions Plans durch. Basierend auf dem Feedback des Piloten durchlaufen eines endgültigen Annahme Plans.
 3.  Führen Sie Ihre Adoptions Kampagne über einen längeren Zeitraum aus. 
-4.  Treten Sie der Community für treibende Akzeptanz bei. Teilen Sie Ihre Erfahrungen mit Microsoft 365 Lernpfaden in unserer Driving Adoption Community online. Finden Sie uns https://aka.ms/DriveAdoptionunter. 
+4.  Treten Sie der Community für treibende Akzeptanz bei. Teilen Sie Ihre Erfahrungen mit Microsoft 365 Lernpfaden in unserer Driving Adoption Community online. Finden Sie uns unter https://aka.ms/DriveAdoption . 
 
 ## <a name="join-the-driving-adoption-community"></a>Teilnahme an der Driving Adoption Community
 
-Teilen Sie Ihre Erfahrungen mit Microsoft 365 Lernpfaden in unserer Driving Adoption Community online.  Finden Sie uns https://aka.ms/DriveAdoptionunter.
+Teilen Sie Ihre Erfahrungen mit Microsoft 365 Lernpfaden in unserer Driving Adoption Community online.  Finden Sie uns unter https://aka.ms/DriveAdoption .
 
 ## <a name="give-us-feedback"></a>Geben Sie uns Feedback
 
-Haben Sie Anforderungen für neue Features oder Inhalte im benutzerdefinierten Lernportal?  Besuchen Sie unsere Online-UserVoice, wo Sie für vorhandene Vorschläge stimmen oder eigene hinzufügen können.  Finden Sie unsere UserVoice- https://aka.ms/AdoptionToolsInstanz unter.
+Haben Sie Anforderungen für neue Features oder Inhalte im benutzerdefinierten Lernportal?  Besuchen Sie unsere Online-UserVoice, wo Sie für vorhandene Vorschläge stimmen oder eigene hinzufügen können.  Finden Sie unsere UserVoice-Instanz unter https://aka.ms/AdoptionTools .

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Sortieren von Unterkategorien und Wiedergabelisten
 ms.date: 07/20/2020
 description: Sortieren von Unterkategorien und Wiedergabelisten in Lernpfaden
-ms.openlocfilehash: 2716d4f4c609283da51805fa7d0353d95d99bd06
-ms.sourcegitcommit: 4668bd9303b77e69aa7807edc3df833e218eb98d
+ms.service: sharepoint online
+ms.openlocfilehash: 3d3246fd7adaffb0e3f64defc83cad0d1cc04f8d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187507"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233887"
 ---
 # <a name="sort-subcategories-and-playlists"></a>Sortieren von Unterkategorien und Wiedergabelisten
 

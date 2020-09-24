@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Aktualisieren von Microsoft 365 Lernpfaden
 ms.date: 07/06/2020
 description: Aktualisieren von Microsoft 365 Lernpfaden
-ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
-ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
+ms.service: sharepoint online
+ms.openlocfilehash: 3f1874849832224726e452912c9228411ecd0820
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895583"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233847"
 ---
 # <a name="update-learning-pathways"></a>Lernpfade aktualisieren
 Wenn Sie über eine vorhandene Lern Pfad Website verfügen, können Sie diese für mehrsprachige Unterstützung aktualisieren. Um Lern Pfade auf die mehrsprachige Version 4,0 zu aktualisieren, laden Sie das Webpart-Paket, customlearning. sppkg, in den SharePoint-Mandanten-App-Katalog hoch. Beim Aktualisieren von Lernpfaden:  
@@ -48,7 +49,7 @@ In diesem Schritt laden Sie das Lern Pfade 4,0-Webpart in den SharePoint-App-Kat
 
 ### <a name="upload-the-web-part-package"></a>Hochladen des Webpart-Pakets
 1.  Wechseln Sie zum [benutzerdefinierten GitHub-Lern-Repository](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), wählen Sie **customlearning. sppkg** aus, und laden Sie es dann auf ein lokales Laufwerk auf Ihrem PC herunter.
-2.  Wenn Sie noch nicht angemeldet sind, melden Sie sich bei Ihrem Mandanten mit einem mandantenadministrator oder einem Websitesammlungsadministrator Konto an. 
+2.  Wenn Sie noch nicht angemeldet sind, melden Sie sich mit einem Mandantenadministrator- oder Sitesammlung-Administratorkonto bei Ihrem Mandanten an. 
 3.  Klicken Sie auf **Admin**  >  **alle**  >  **SharePoint**  >  -**Funktionen**anzeigen. 
 4.  Klicken Sie unter **apps**auf **Öffnen**. 
 5.  Klicken Sie auf **App-Katalog**  >  **Apps für SharePoint verteilen**. 

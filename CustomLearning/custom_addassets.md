@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Hinzufügen von Objekten zu einer Wiedergabeliste
 ms.date: 02/17/2019
 description: Hinzufügen von neuen und vorhandenen Objekten zu einer Wiedergabeliste für Lernabschnitte
-ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 52684f4c76ecbe54d5377469de6d3ee6fdbcfdb1
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247640"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234687"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Hinzufügen von Objekten zu einer benutzerdefinierten Wiedergabeliste
 
@@ -35,14 +36,14 @@ Mit der Option " **Ressourcen Seite erstellen** " geben Sie einen Titel für das
 2. Wenn Sie einer Wiedergabeliste ein neues Objekt hinzufügen möchten, klicken Sie auf **Neues Objekt**. 
 3. Geben Sie einen Titel ein. Geben Sie in diesem Beispiel "Hinzufügen von Objekten zu einer Wiedergabeliste" ein, und klicken Sie dann auf **Objekt Seite erstellen**.
 
-![CG-addassetcreatenewpage. png](media/cg-addassetcreatenewpage.png)
+![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
 
 4. Klicken Sie auf **Seite öffnen**.
 5. Klicken Sie auf das Symbol **Bearbeiten** , und klicken Sie dann im Titelbereich auf **Webpart bearbeiten** .
 6. Klicken Sie unter **Layout**auf **Ebene**. 
 7. Fügen Sie einen neuen Abschnitt mit einer Spalte hinzu, und fügen Sie dann einen Beispieltext zur Seite hinzu, sodass er wie im folgenden Beispiel aussieht. 
 
-![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
+![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
 
 7. Klicken Sie auf **Veröffentlichen**.
 8. Kehren Sie zur Seite **benutzerdefinierte Lern Verwaltung** zurück. 
@@ -55,11 +56,11 @@ Geben Sie mit der Option **URL eingeben** einen Titel für das Objekt ein, und k
 2. Wenn Sie einer Wiedergabeliste ein neues Objekt hinzufügen möchten, klicken Sie auf **Neues Objekt**. 
 3. Geben Sie einen Titel ein. Geben Sie in diesem Beispiel "Einführung in die benutzerdefinierte Wiedergabeliste" ein, und klicken Sie dann auf **URL eingeben**. 
 
-![CG-newplaylistasseturl. png](media/cg-newplaylistasseturl.png)
+![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
 
-4. Geben Sie die URL der SharePoint-Seite ein, die Sie in einem vorherigen Abschnitt [Erstellen von SharePoint-Seiten für benutzerdefinierte Wiedergabelisten](custom_createnewpage.md) erstellt haben, und füllen Sie dann die restlichen Felder aus, wie in der folgenden Abbildung dargestellt.
+4. Geben Sie die URL der SharePoint-Seite ein, die Sie in einem vorherigen Abschnitt [Erstellen von SharePoint-Seiten für benutzerdefinierte Wiedergabelisten ](custom_createnewpage.md) erstellt haben, und füllen Sie dann die restlichen Felder aus, wie in der folgenden Abbildung dargestellt.
 
-![CG-newplaylistassetdetails. png](media/cg-newplaylistassetdetails.png)
+![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
 
 5. Klicken Sie auf **Objekt speichern**. 
 
@@ -69,12 +70,12 @@ Vorhandene Objekte bestehen aus von Microsoft bereitgestellten Lernpfaden oder O
 
 - Geben Sie im **Suchfeld** einen Suchbegriff ein, und wählen Sie dann ein Objekt aus den Suchergebnissen aus. Geben Sie in diesem Beispiel "Was ist Excel?" ein. So fügen Sie der Wiedergabeliste ein Excel-Intro-Thema hinzu.
 
-![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
+![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>Bearbeiten, verlagern und Löschen von Objekten
 Sie können benutzerdefinierte Objekte bearbeiten, die Sie erstellen, aber keine Objekte von Microsoft. Sie können allerdings alle Objekte aus einer Wiedergabeliste entfernen und die Auftragsobjekte ändern. 
 
-![CG-playlistassetedit. png](media/cg-playlistassetedit.png)
+![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>Bearbeiten eines Objekts
 - Klicken Sie auf die Schaltfläche Bearbeiten für ein Objekt, ändern Sie das Objekt, und klicken Sie dann auf Objekt speichern. 
@@ -93,4 +94,4 @@ Nachdem Sie nun einer Wiedergabeliste Objekte hinzugefügt haben, schließen wir
 3. Aktualisieren Sie die Seite, und klicken Sie dann unter erste **Schritte**auf **erste Tage** .
 4. Klicken Sie auf **Lern Pfade Starter Kit** , um Ihre erste Wiedergabeliste in Aktion anzuzeigen. 
 
-![CG-addassetcheckwork. png](media/cg-addassetcheckwork.png)
+![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)

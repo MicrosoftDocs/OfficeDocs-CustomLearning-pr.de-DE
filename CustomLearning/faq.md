@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Häufig gestellte Fragen zu Microsoft 365-Lernpfaden
 ms.date: 02/10/2019
 description: Informationen zu häufig gestellten Fragen für Microsoft 365-Lern Pfade
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141368"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233537"
 ---
 # <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
@@ -19,7 +20,7 @@ Die Microsoft 365-Lern Pfad Version ist eine neuausrichtungs Maßnahme, die dem 
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Was sind die Voraussetzungen für die Installation von Microsoft 365-Lernpfaden in meiner Mandanten Umgebung?
 
-- SharePoint Online-und Kommunikationswebsites aktiviert.
+- SharePoint Online- und Kommunikationswebsites aktiviert.
 - Die Person, die CLO365 bereitstellen soll, muss der mandantenadministrator des Zielmandanten für die Installation sein.
 - Ein Mandanten-App-Katalog muss in der Option "Apps" im SharePoint Admin Center verfügbar sein.
 - Wenn ein neuer App-Katalog erstellt wird, ist eine Wartezeit von 30 Minuten oder mehr erforderlich, damit der APP-Katalog vollständig eingerichtet werden kann. Wenn Sie versuchen, Microsoft 365-Lern Pfade direkt nach dem Erstellen des Mandanten-App-Katalogs zur Verfügung zu stellen, führt dies zu einem Fehler bei der Bereitstellungslösung für die Lern Pfade. 
@@ -53,7 +54,7 @@ Microsoft 365-Lern Pfade sind derzeit nur in englischer Sprache verfügbar. Die 
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Wie lange dauert es, bis die Website in unserer Mandanten Umgebung installiert wird?
 
-Basierend auf den Tests der Installation sollte es weniger als 15 Minuten dauern. Dies umfasst nicht die Zeit, die erforderlich ist, um die Website auf Ihre Anforderungen anzupassen.
+Basierend auf den Tests der Installation sollte es weniger als 15 Minuten dauern. Dies schließt nicht die Zeit ein, die für die Anpassung der Website an Ihre Anforderungen erforderlich ist.
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Handelt es sich bei Microsoft 365-Lernpfaden um eine Open Source-Lösung, und welche Auswirkungen hat dies?
 

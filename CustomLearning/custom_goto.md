@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Wechseln Sie zur Website "Microsoft 365 Learning Pfads".
 ms.date: 02/18/2019
 description: Wechseln Sie zur Website "Microsoft 365 Learning Pfads".
-ms.openlocfilehash: 9b10552f17028b384b60b71f92e132686a65d776
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 5d102092f639e91c39dc163b0acab004d5605d86
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956622"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234377"
 ---
 # <a name="go-to-the-microsoft-365-learning-pathways-site"></a>Wechseln Sie zur Website "Microsoft 365 Learning Pfads".
 
@@ -17,8 +18,8 @@ Die Website Microsoft 365 Learning-Pfade für Office 365 Website wird in Ihrem O
 
 ## <a name="sign-in"></a>Anmelden  
 
-1.  Öffnen Sie den Webbrowser, und navigieren Sie zu Office.com oder zum Anmelde Speicherort Ihrer Organisation. 
-2.  Melden Sie sich mit Ihrem Benutzernamen und Ihrem Kennwort an.
+1.  Öffnen Sie Ihren Webbrowser und navigieren Sie zu office.com oder der Anmeldeseite Ihrer Organisation. 
+2.  Melden Sie sich mit Ihrem Benutzernamen und Kennwort an.
 3.  Navigieren Sie mit der vom mandantenadministrator bereitgestellten URL zum Speicherort der Website, oder wählen Sie SharePoint auf der Office 365 Homepage aus, und wählen Sie dann die Website Microsoft 365 Learning Pfads aus. 
 5. Klicken Sie auf die **Microsoft 365-Schulungs** Kachel, um die vollständige Sammlung der in Microsoft 365 Lernpfaden verfügbaren Trainings-Wiedergabeliste anzuzeigen. 
 

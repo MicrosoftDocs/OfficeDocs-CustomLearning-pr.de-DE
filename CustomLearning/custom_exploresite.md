@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Durchsuchen der Website und Standardinhalte
 ms.date: 02/10/2019
 description: Erkunden der Website für Lern Pfade und Standardinhalte
-ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956542"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234447"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Erkunden der Website für Lern Pfade
 
@@ -17,11 +18,11 @@ ms.locfileid: "37956542"
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
-1.  Öffnen Sie den Webbrowser, und navigieren Sie zu Office.com oder zum Anmelde Speicherort Ihrer Organisation. 
-2.  Melden Sie sich mit Ihrem Benutzernamen und Ihrem Kennwort an.
+1.  Öffnen Sie Ihren Webbrowser und navigieren Sie zu office.com oder der Anmeldeseite Ihrer Organisation. 
+2.  Melden Sie sich mit Ihrem Benutzernamen und Kennwort an.
 3.  Navigieren Sie mit der vom mandantenadministrator bereitgestellten URL zum Speicherort der Website, oder wählen Sie SharePoint auf der Office 365 Homepage aus, und wählen Sie dann den Standort aus. 
 
-![CG-exploresite. png](media/cg-introducing.png)
+![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>Erkunden von Microsoft 365-Lernpfaden
 

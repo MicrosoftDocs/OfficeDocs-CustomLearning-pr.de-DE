@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
+title: Übersetzen von benutzerdefinierten Wiedergabelisten für Lernpfade
 ms.date: 07/06/2020
-description: Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
-ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
-ms.translationtype: Auto
+description: Übersetzen von benutzerdefinierten Wiedergabelisten für Lernpfade
+ms.service: sharepoint online
+ms.openlocfilehash: ceb354a48c6add948d8d2ecd1f6f2762e6b819c5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048133"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233917"
 ---
-# <a name="translate-learning-pathways-custom-playlists"></a>Übersetzen von Lernpfaden benutzerdefinierte Wiedergabelisten
+# <a name="translate-learning-pathways-custom-playlists"></a>Übersetzen von benutzerdefinierten Wiedergabelisten für Lernpfade
 Bei Lernpfaden hängt die Art und Weise, wie Sie mit benutzerdefinierten Wiedergabelisten arbeiten, davon ab, wie Sie Lern Pfade einrichten.  
 
 - Wenn Sie eine mehrsprachige Website für neue Lern Pfade bereitgestellt haben, können Sie eine neue Wiedergabeliste kopieren oder erstellen und die Wiedergabeliste in die von der Website unterstützten Sprachen übersetzen.

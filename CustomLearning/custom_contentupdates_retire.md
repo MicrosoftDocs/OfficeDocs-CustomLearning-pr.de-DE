@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: November 2019 Inhalts Updates
 ms.date: 10/20/2019
 description: Microsoft 365 Lern Pfade-Inhaltsupdate
-ms.openlocfilehash: dbe5d6dd1e007bbef029b4d40136d83032ff5461
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142203"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234707"
 ---
 # <a name="november-2019-content-updates"></a>November 2019 Inhalts Updates
 Willkommen beim Inhaltsupdate für Lernabschnitte von Microsoft 365. Beginnend mit unserem Update vom November 2019 werden wir eine aktualisierte Bestandsaufnahme des Katalogs für Lern Pfade auf Quartalsbasis bereitstellen. Für das Update vom November 2019 wurden die folgenden neuen Inhalts Unterkategorien und Wiedergabelisten zum Lern Pfad Katalog hinzugefügt. Weitere Informationen zum Anwenden von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md).    

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Setupoption für Lernpfade
 ms.date: 07/16/2020
 description: Setupoption für Lernpfade
-ms.openlocfilehash: 1434a06fbe5f374de7b2f2e4fa471a8eda5ac871
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
-ms.translationtype: HT
+ms.service: sharepoint online
+ms.openlocfilehash: 3246434cf450a17d324ce5b5afed5b9d7a4339ec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043217"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233967"
 ---
 # <a name="setup-options-for-multilingual-learning-pathways"></a>Setupoptionen für mehrsprachige Lernpfade
 Mit der Veröffentlichung mehrsprachiger Features für SharePoint Online-Kommunikationswebsites bieten Lernpfade jetzt Unterstützung für mehrere Sprachen. Sie können Lernpfade auf verschiedene Arten einrichten, um den Bedürfnissen Ihrer Organisation gerecht zu werden. Um Ihnen bei der Entscheidung über den besten Pfad für Ihre Organisation zu helfen, haben wir die Einstellungsoptionen behandelt. 

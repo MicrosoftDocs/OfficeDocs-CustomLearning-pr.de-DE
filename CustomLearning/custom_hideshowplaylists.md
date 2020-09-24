@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Ausblenden und Anzeigen von Wiedergabelisten
 ms.date: 10/27/2019
 description: Ausblenden und Anzeigen von Wiedergabelisten
-ms.openlocfilehash: f5afc66220a936d2346c3a81b33545a46f7672f5
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: e8f6a2df8e328d995143990be569f3de815d5646
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886656"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234327"
 ---
-# <a name="hide-and-show-playlists"></a>Ausblenden und Anzeigen von Wiedergabelisten
+# <a name="hide-and-show-playlists"></a>Ein- und Ausblenden von Wiedergabelisten
 
 Um Lern Pfade für Ihre Umgebung anzupassen, können Sie von Microsoft bereitgestellte Wiedergabelisten ausblenden. 
 
@@ -24,12 +25,12 @@ Um Lern Pfade für Ihre Umgebung anzupassen, können Sie von Microsoft bereitges
 2. Wählen Sie im Webpart Lern Pfade das Symbol **Verwalten** aus. 
 3. Wählen Sie im linken Bereich auf der Seite **Verwaltung** eine Unterkategorie aus, und wählen Sie dann den Augapfel für eine Wiedergabeliste aus, um ihn auszublenden. Klicken Sie in diesem Beispiel auf die Unterkategorie **Microsoft Teams** , und blenden Sie dann die Liste * * * * Chats, Anrufe und Besprechungen starten * * aus.  
 
-![CG-hideplaylist. png](media/cg-hideplaylist.png)
+![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Überprüfen, ob die Wiedergabeliste ausgeblendet ist
 - Um zu überprüfen, ob die Wiedergabeliste ausgeblendet ist, wählen Sie die Registerkarte Browser mit der Seite **Erste Schritte mit Office 365** aus, und aktualisieren Sie dann die Seite. Wählen Sie Microsoft Teams aus. Jetzt sollten die Unterkategorie **Start Chats, Anrufe und Besprechungen** ausgeblendet werden. 
 
-![CG-hideplaylistrefresh. png](media/cg-hideplaylistrefresh.png)
+![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>Einblenden einer Wiedergabeliste
 
