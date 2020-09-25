@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Lern Pfade September 2020 Inhaltsaktualisierungen
 ms.date: 9/21/2020
 description: Lern Pfade September 2020 Inhaltsaktualisierungen
-ms.service: sharepoint online
-ms.openlocfilehash: d8f651515d22568f4ad0701d28f4c10a1104628a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 34f02a5edd691590d96058312213bc85083b2d56
+ms.sourcegitcommit: 769aad80e9bb63304550e416d438e809a7d78ab3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234795"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48268507"
 ---
-# <a name="september-2020-content-updates"></a>September 2020 Inhalts Updates
+# <a name="learning-pathways-september-2020-content-updates"></a>Lern Pfade September 2020 Inhaltsaktualisierungen
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. Weitere Informationen zum Anwenden von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). In der folgenden Liste werden die Inhaltsaktualisierungen für den Microsoft 365-Lern Pfad 2020 September aufgelistet. 
 
 ## <a name="security"></a>Sicherheit

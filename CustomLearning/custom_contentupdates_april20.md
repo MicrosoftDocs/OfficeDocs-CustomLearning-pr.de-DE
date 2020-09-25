@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Lern Pfade Inhaltsaktualisierungen
+title: Lern Pfade Inhaltsaktualisierungen April
 ms.date: 3/30/2020
 description: Lern Pfade April 2020 Inhaltsaktualisierungen
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234803"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261677"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Lern Pfade Inhaltsaktualisierungen
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Microsoft 365 Lern Pfade Inhalts Updates für April
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. In der folgenden Liste werden die Inhaltsupdates für April 2020 aufgelistet.
 
 ## <a name="april-2020-content-updates"></a>April 2020 Inhaltsaktualisierungen
@@ -29,7 +29,7 @@ Die folgenden Wiedergabelisten wurden hinzugefügt oder aktualisiert.
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>Remote arbeiten (2 neue Wiedergabelisten/11 neue Objekte)
 Eine neue Unterkategorie "Work Remote" wurde zu Lernpfaden hinzugefügt, die die folgenden Wiedergabelisten und Objekte aufweisen: 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![Lern Pfade arbeiten Remotewiedergabe Liste](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>Remote arbeiten (5 neue Objekte)
 - Remote Betrieb mit Office 365
@@ -187,7 +187,7 @@ Die Unterkategorie Sway des Inhalts wurde mit den folgenden Wiedergabelisten hin
 - Hinzufügen von Inhalten zu Sway (11 Objekte)
 - Anpassen von Sway (5 Objekte)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Zugriff
 - Access-schnell Start (4 Objekte)
 - Einführung in Access (3 Objekte)
 - Erstellen einer Access-Datenbank (2 Objekte)
