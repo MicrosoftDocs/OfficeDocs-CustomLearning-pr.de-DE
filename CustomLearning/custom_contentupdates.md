@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: Lern Pfade Inhaltsaktualisierungen
 ms.date: 3/30/2020
 description: Lern Pfade Inhaltsaktualisierungen
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261691"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336403"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Lern Pfade Inhaltsaktualisierungen
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. In der folgenden Liste werden die Inhaltsupdates für September 2020 aufgelistet.
 
 ## <a name="september-2020-content-updates"></a>September 2020 Inhalts Updates
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. Weitere Informationen zum Anwenden von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). 
+
+> [!IMPORTANT]
+> Das Inhaltsupdate für September wurde für Englisch veröffentlicht. Inhaltsupdates für Chinesisch (vereinfacht), Französisch, Deutsch, Italienisch, Japanisch, Portugiesisch (Brasilianisch), Russisch und Spanisch werden in Kürze verfügbar sein.  
 
 ### <a name="security"></a>Sicherheit
 Eine neue Sicherheitsunter Kategorie wurde mit Wiedergabelisten und Objekten hinzugefügt, damit Benutzer im Büro und zu Hause sicherer arbeiten können. 
@@ -314,7 +317,7 @@ Die Unterkategorie Sway des Inhalts wurde mit den folgenden Wiedergabelisten hin
 - Hinzufügen von Inhalten zu Sway (11 Objekte)
 - Anpassen von Sway (5 Objekte)
 
-### <a name="access"></a>Zugriff
+### <a name="access"></a>Access
 - Access-schnell Start (4 Objekte)
 - Einführung in Access (3 Objekte)
 - Erstellen einer Access-Datenbank (2 Objekte)
