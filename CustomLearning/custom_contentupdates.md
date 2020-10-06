@@ -5,12 +5,12 @@ title: Lern Pfade Inhaltsaktualisierungen
 ms.date: 3/30/2020
 description: Lern Pfade Inhaltsaktualisierungen
 ms.service: o365-solutions
-ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
-ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
+ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
+ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "48336403"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48361095"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Lern Pfade Inhaltsaktualisierungen
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. In der folgenden Liste werden die Inhaltsupdates für September 2020 aufgelistet.
@@ -19,7 +19,7 @@ Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. Weitere Informationen zum Anwenden von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). 
 
 > [!IMPORTANT]
-> Das Inhaltsupdate für September wurde für Englisch veröffentlicht. Inhaltsupdates für Chinesisch (vereinfacht), Französisch, Deutsch, Italienisch, Japanisch, Portugiesisch (Brasilianisch), Russisch und Spanisch werden in Kürze verfügbar sein.  
+> Das Inhaltsupdate für September wurde für Englisch, Chinesisch (vereinfacht), Französisch, Deutsch, Italienisch, Japanisch, Portugiesisch (Brasilianisch), Russisch und Spanisch veröffentlicht.  
 
 ### <a name="security"></a>Sicherheit
 Eine neue Sicherheitsunter Kategorie wurde mit Wiedergabelisten und Objekten hinzugefügt, damit Benutzer im Büro und zu Hause sicherer arbeiten können. 
