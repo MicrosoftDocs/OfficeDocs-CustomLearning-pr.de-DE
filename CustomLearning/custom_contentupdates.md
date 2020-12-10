@@ -5,12 +5,12 @@ title: Lern Pfade Inhaltsaktualisierungen
 ms.date: 3/30/2020
 description: Lern Pfade Inhaltsaktualisierungen
 ms.service: o365-solutions
-ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
-ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
+ms.openlocfilehash: a292e0daa81b384bad8cf45fd2a9e0a1dc3257e7
+ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48361095"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49614633"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Lern Pfade Inhaltsaktualisierungen
 Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. In der folgenden Liste werden die Inhaltsupdates für September 2020 aufgelistet.
@@ -36,7 +36,7 @@ Eine neue Sicherheitsunter Kategorie wurde mit Wiedergabelisten und Objekten hin
 #### <a name="security-at-home-playlist"></a>Wiedergabeliste "Sicherheit zu Hause"
 - Tipps zum Schützen Ihrer Daten
 - Schützen Ihres Computers zu Hause
-- Schützen Sie Ihre Familie online mit Windows-Sicherheit – ist das hier versehentlich passiert?
+- Schützen Ihrer Familie online mit Windows-Sicherheit   
 
 #### <a name="security-at-work-playlist"></a>Wiedergabeliste "Sicherheit bei der Arbeit"
 - Schützen des Computers bei der Arbeit
@@ -146,7 +146,7 @@ Die folgenden Objekte wurden den Products\PowerPoint-Wiedergabelisten aktualisie
 Die Office-schnell Start Handbücher für alle Office-Produkte wurden aktualisiert. 
 
 ## <a name="april-2020-content-updates"></a>April 2020 Inhaltsaktualisierungen
- Als Reaktion auf aktuelle Ereignisse bietet das Inhalts Update vom April 2020 Lern Wiedergabelisten und Ressourcen, die die Remote Arbeit in Ihrer Organisation ermöglichen. Wir haben eine neue Gruppe von Remote-Wiedergabelisten hinzugefügt, den Microsoft Teams-Inhalt vor allem für Teams-Besprechungen erheblich aktualisiert, eine neue Gruppe von Office für die webplaylisten hinzugefügt und neue Microsoft Forms-Objekte hinzugefügt. Im Rahmen des Updates haben wir auch eine Liste mit Remote-Arbeitsressourcen für Administratoren bereitgestellt.  
+ Als Reaktion auf aktuelle Ereignisse bietet das Inhalts Update vom April 2020 Lern Wiedergabelisten und Ressourcen, die die Remote Arbeit in Ihrer Organisation ermöglichen. Wir haben eine neue Gruppe von Remotewiedergabe Listen für Arbeit hinzugefügt und den Microsoft Teams-Inhalt aktualisiert, insbesondere für Besprechungen mit Teams. Außerdem haben wir eine neue Gruppe von Office für die webplaylisten hinzugefügt und neue Microsoft Forms-Objekte hinzugefügt. Wir haben auch eine Liste mit Remote-Arbeitsressourcen für Administratoren bereitgestellt.  
  
  Weitere Informationen zum Anwenden von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). Im folgenden werden die Inhaltsaktualisierungen für den April 2020 Microsoft 365 Lern Pfade aufgelistet. 
 
@@ -161,7 +161,7 @@ Eine neue Unterkategorie "Work Remote" wurde zu Lernpfaden hinzugefügt, die die
 
 ![Remotewiedergabe für Lern Pfad-Arbeit](media/cg-contentupdate-apr2020-01.png)
 
-##### <a name="work-remotely-5-new-assets"></a>Remote arbeiten (5 neue Objekte)
+##### <a name="work-remotely-five-new-assets"></a>Remote arbeiten (fünf neue Objekte)
 - Remote Betrieb mit Office 365
 - Erste Schritte auf Office.com
 - Kommunizieren oder erfüllen
@@ -173,22 +173,22 @@ Eine neue Unterkategorie "Work Remote" wurde zu Lernpfaden hinzugefügt, die die
 - Mitautor
 - Chatten in Dateien
 - Erfüllen
-- Mobile
+- Mobilgeräte
 
-### <a name="teams-9-new-assets6-updated-assets"></a>Teams (9 neue Objekte/6 aktualisierte Objekte)
+### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (neun neue Objekte/sechs aktualisierte Objekte)
 Es wurden verschiedene Updates für Microsoft Teams-Inhalte vorgenommen. 
-#### <a name="collaborate-in-teams-and-channels-1-new1-updated-asset"></a>Zusammenarbeit in Teams und Kanälen (1 neues/1 aktualisiertes Asset)
+#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Zusammenarbeit in Teams und Kanälen (ein neues/ein aktualisiertes Asset)
 - Erstellen und Verwenden privater Kanäle (neu)
 - Anzeigen oder Ausblenden von Kanälen (aktualisiert)
-#### <a name="start-chats-and-calls-2-new1-updated"></a>Starten von Chats und anrufen (2 neu/1 aktualisiert)
+#### <a name="start-chats-and-calls-two-newone-updated"></a>Starten von Chats und anrufen (zwei neue/eine aktualisierte)
 - Chats starten und anheften (neu)
 - Ausblenden von Chats, Löschen von Nachrichten (neu)
 - Anrufe tätigen (aktualisiert)
-#### <a name="explore-apps-and-tools-1-new"></a>Durchsuchen von apps und Tools (1 neu)
+#### <a name="explore-apps-and-tools-one-new"></a>Durchsuchen von apps und Tools (eine neue)
 - Verwenden von apps (neu)
 #### <a name="work-with-posts-and-messages"></a>Arbeiten mit Beiträgen und Nachrichten
 - Bereitstelleneiner Nachricht in mehreren Kanälen (neu)
-#### <a name="manage-meetings-3-new4-updated-assets"></a>Verwalten von Besprechungen (3 neue/4 aktualisierte Objekte)
+#### <a name="manage-meetings-three-newfour-updated-assets"></a>Verwalten von Besprechungen (drei neue/vier aktualisierte Objekte)
 - An einer Microsoft Teams-Besprechung teilnehmen (neu)
 - Sofortbesprechungen mit Meet now erstellen (aktualisiert)
 - In einem Kanal Zusammentreffen (neu)
@@ -196,12 +196,12 @@ Es wurden verschiedene Updates für Microsoft Teams-Inhalte vorgenommen.
 - Anzeigen des Bildschirms während einer Besprechung (aktualisiert)
 - PowerPoint-Folien anzeigen (aktualisiert)
 - Navigieren während einer Besprechung in Microsoft Teams (aktualisiert)
-#### <a name="work-with-post-and-messages-1-new"></a>Arbeiten mit Post und Nachrichten (1 neu)
+#### <a name="work-with-post-and-messages-one-new"></a>Arbeiten mit Post und Nachrichten (eine neue)
 - Bereitstelleneiner Nachricht in mehreren Kanälen (neu)
 
 ### <a name="office-for-the-web"></a>Office für das Web
 Office für das Internet enthält eine Reihe von Wiedergabelisten für Szenarien, in denen Benutzer Office im Internet erstellen, freigeben und zusammenarbeiten möchten. Diese Gruppe von Inhalten ist auch für Organisationen nützlich, die den Wechsel von Google G Suite zu Microsoft 365 vornehmen.
-#### <a name="get-started-5-new-assets"></a>Erste Schritte (5 neue Objekte)
+#### <a name="get-started-five-new-assets"></a>Erste Schritte (fünf neue Objekte)
 - Erste Schritte
 - Suchen nach IT mit Suche
 - Erstellen neuer Dokumente
@@ -244,7 +244,7 @@ Office für das Internet enthält eine Reihe von Wiedergabelisten für Szenarien
 
 ### <a name="microsoft-forms"></a>Microsoft Forms 
 Auf Anfrage gibt es auch einige neue Formularobjekte. 
-#### <a name="forms-4-new-assets"></a>Formulare (4 neue Objekte) 
+#### <a name="forms-four-new-assets"></a>Formulare (vier neue Objekte) 
 - Erstellen eines Formulars 
 - Freigeben eines Formulars 
 - Anzeigen der Ergebnisse eines Formulars 
@@ -268,26 +268,25 @@ Willkommen beim Inhaltsupdate für Lernabschnitte von Microsoft 365. Beginnend m
 
 ### <a name="teams"></a>Teams
 Der Unterkategorie Teams wurden mehrere neue Wiedergabelisten hinzugefügt.
-- Arbeiten mit Beiträgen und Nachrichten (3 Objekte)
-- Dateien hochladen und finden (2 Objekte)
-- Einrichten und teilnehmen von Live Ereignissen (4 Objekte)
-- Verwalten des Aktivitätsfeeds (2 Objekte)
-- Microsoft Teams unterwegs (2 Objekte)
+- Arbeiten mit Beiträgen und Nachrichten (vier Objekte)
+- Dateien hochladen und finden (zwei Objekte)
+- Einrichten und besuchen von Live Ereignissen (vier Objekte)
+- Verwalten des Aktivitätsfeeds (zwei Objekte)
+- Teams auf dem Sprung (zwei Objekte)
 
 ### <a name="microsoft-365-success-center"></a>Microsoft 365-Erfolgs Center
 Wir haben eine Unterkategorie "Microsoft 365 Learning Pfads Success Center" zur Lernerfahrung "Lernpfade" hinzugefügt. Das Success Center bietet die folgenden Wiedergabelisten.
-- Was ist neu, was geändert (3 Asset)
-- Planen Ihrer Lerninhalte (2 Objekte)
-- Anpassen von Lernpfaden (8 Objekte?)
-- Verabschiedung von Lern wegen (1 Anlage)
-- Messen der Auswirkung von Lernpfaden (1 Ressource)
+- Was ist neu, was geändert (drei Objekte)
+- Planen Ihrer Lerninhalte (zwei Objekte)
+- Anpassen von Lernpfaden (acht Ressourcen?)
+- Verabschiedung von Lernpfaden (eine Ressource)
+- Messen der Auswirkung von Lernpfaden (ein Objekt)
 
 ### <a name="outlook"></a>Outlook
 Die folgenden Wiedergabelisten wurden zur Outlook-Unterkategorie hinzugefügt. 
-- Outlook Mobile: Verwalten Ihres Posteingangs (4 Objekte)
-- Outlook Mobile: Verwalten Ihrer Zeit (8 Objekte)
-- Outlook Mobile: Personen und Verbindungen (5 Objekte)
-- Outlook Mobile: Suchen und freigeben (4 Objekte)
+- Outlook Mobile: Verwalten Ihres Posteingangs (acht Objekte)
+- Outlook Mobile: Personen und Verbindungen (fünf Objekte)
+- Outlook Mobile: Suchen und freigeben (vier Objekte)
 
 ### <a name="onedrive"></a>OneDrive
 Die folgenden Videoobjekte wurden für OneDrive hinzugefügt. 
@@ -296,36 +295,33 @@ Die folgenden Videoobjekte wurden für OneDrive hinzugefügt.
 
 ### <a name="planner"></a>Planner
 Die folgenden Wiedergabelisten und Objekte wurden dem Katalog hinzugefügt.  
-- Schnell Start für Planer (6 Objekte)
-- Use Planner (8 Objekte)
+- Schnell Start für Planer (sechs Objekte)
+- Use Planner (acht Objekte)
 
 ### <a name="accessibility"></a>Barrierefreiheit
 Die Unterkategorie Barrierefreiheit des Inhalts wurde mit den folgenden Wiedergabelisten hinzugefügt. 
-- Microsoft 365 Accessibility Overview and Resources (3 Objekte)
-- Erstellen leichter zugänglicher e-Mail-Nachrichten in Outlook (3 Objekte)
-- Erstellen leichter zugänglicher Word-Dokumente (8 Objekte)
-- Erstellen leichter zugänglicher Excel-Arbeitsmappen (3 Objekte)
-- Erstellen barrierefreier Folien in PowerPoint (5 Objekte)
-
-### <a name="onedrive"></a>OneDrive
-Hinweis: Hier müssen Änderungen hinzugefügt werden.....
+- Microsoft 365 Accessibility Overview and Resources (drei Objekte)
+- Erstellen leichter zugänglicher e-Mail-Nachrichten in Outlook (drei Objekte)
+- Erstellen leichter zugänglicher Word-Dokumente (acht Objekte)
+- Erstellen leichter zugänglicher Excel-Arbeitsmappen (drei Objekte)
+- Erstellen von barrierefreien Folien in PowerPoint (fünf Objekte)
 
 ### <a name="sway"></a>Sway
 Die Unterkategorie Sway des Inhalts wurde mit den folgenden Wiedergabelisten hinzugefügt. 
-- Sway-schnell Start (4 Objekte)
-- Share and Access Sway (5 Objekte)
+- Sway-schnell Start (vier Objekte)
+- Share and Access Sway (fünf Objekte)
 - Hinzufügen von Inhalten zu Sway (11 Objekte)
-- Anpassen von Sway (5 Objekte)
+- Anpassen von Sway (fünf Objekte)
 
-### <a name="access"></a>Access
-- Access-schnell Start (4 Objekte)
-- Einführung in Access (3 Objekte)
-- Erstellen einer Access-Datenbank (2 Objekte)
-- Hinzufügen von Tabellen (2 Objekte)
-- Verwenden von Beziehungen (5 Objekte)
-- Hinzufügen und Bearbeiten von Daten (2 Objekte)
-- Verwalten von Daten mit Abfragen (5 Objekte)
-- Erstellen von Formularen (1 Objekt)
-- Erstellen von Berichten (2 Objekte)
-- Schützen von Datenbanken (1 Ressource)
+### <a name="access"></a>Zugriff
+- Access-schnell Start (vier Objekte)
+- Einführung in Access (drei Objekte)
+- Erstellen einer Access-Datenbank (zwei Objekte)
+- Tabellen hinzufügen (zwei Objekte)
+- Verwenden von Beziehungen (fünf Objekte)
+- Hinzufügen und Bearbeiten von Daten (zwei Objekte)
+- Verwalten von Daten mit Abfragen (fünf Objekte)
+- Erstellen von Formularen (ein Objekt)
+- Erstellen von Berichten (zwei Objekte)
+- Schützen von Datenbanken (eine Ressource)
 

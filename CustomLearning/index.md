@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Übersicht über Microsoft 365-Lernpfade
 ms.date: 9/24/2020
 description: Erfahren Sie, wie Microsoft 365-Lernpfade die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation beschleunigen können. Lernpfade umfassen ein benutzerdefiniertes SharePoint Online-Webpart und eine moderne Schulungswebsite zur SharePoint Online-Kommunikation, die problemlos für Ihren Microsoft 365-Mandanten bereitgestellt werden kann.
-ms.service: sharepoint online
-ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 8589b205ead505229ff8416b862c851c766b444f
+ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261657"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49614623"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 Lernpfade 
 Microsoft 365-Lernpfade sind eine anpassbare, bedarfsgesteuerte Lernlösung zur Steigerung der Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation.    
