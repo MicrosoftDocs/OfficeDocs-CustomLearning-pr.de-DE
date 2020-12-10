@@ -14,6 +14,7 @@
 ## [Übersetzen von benutzerdefinierten Wiedergabelisten für Lernpfade](custom_translate_pl_ml.md)
 ## [Übersetzen des Namens der Website, der Navigation und der Fußzeilen](custom_sitenamenav_ml.md)
 # [Admin Success Center](custom_successcenter.md)
+## [Verwenden von Advisor für Teams mit Lernpfaden als Hilfe beim Bereitstellen von Microsoft Teams](custom_teamsadvisor.md)
 ## Planen von Schulungsinhalten 
 ### [Schulungsinhalte planen](custom_plancontent.md)
 ### [Ressourcen zur Unterstützung von Remotemitarbeitern](custom_plancontent_remoteresources.md)
