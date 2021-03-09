@@ -1,23 +1,45 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Lern Pfade Feature-Updates
+title: Featureupdates für Lernpfade
 ms.date: 10/20/2019
-description: Lern Pfade Feature-Updates
+description: Featureupdates für Lernpfade
 ms.service: sharepoint online
-ms.openlocfilehash: 1f075671854906cd331c1706c669eac30c04ddec
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: dba6903553ef5b51bc6d1e727c0e61781f9db26a
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234427"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573387"
 ---
-# <a name="july-2020-version-40-feature-updates"></a>Juli 2020 Version 4,0 Feature-Updates 
+# <a name="learning-pathways-version-40-feature-updates"></a>Featureupdates für Lernpfade, Version 4.0
+Im Folgenden finden Sie Featureupdates für Lernpfade, Version 4.0.  
 
-Die folgenden neuen Features wurden zu Microsoft 365-Lernpfaden Version 4,0 hinzugefügt. 
+## <a name="march-2021-feature-updates"></a>Featureupdates vom März 2021
+Featureupdates vom März 2021 umfassen mehrsprachige Unterstützung für Niederländisch und die Verfügbarkeit des Web part-Codes für Lernpfade als Open Source. 
 
-## <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachiger Support für Lernpfade 
-Mehrsprachige Unterstützung für Lern Pfade steht nun in neun Sprachen zur Verfügung.  
+### <a name="multilingual-support-for-dutch"></a>Mehrsprachiger Support für Niederländisch 
+Die mehrsprachige Unterstützung für Lernpfade umfasst jetzt Niederländisch. Die Liste der unterstützten Sprachen umfasst: 
+- Englisch     
+- Chinesisch (vereinfacht) 
+- Französisch 
+- Deutsch 
+- Italienisch (Italien) 
+- Japanisch (Japan) 
+- Portugiesisch (Brasilien) 
+- Russisch (Russisch) 
+- Spanisch
+- Niederländisch 
+
+### <a name="learning-pathways-web-part-is-now-open-source"></a>Web part für Lernpfade ist jetzt Open Source
+Das Web part für Lernpfade ist jetzt als Open Source verfügbar. Weitere Informationen finden Sie im [Beitragshandbuch](https://github.com/pnp/custom-learning-office-365#contributions).
+
+## <a name="july-2020-version-40-feature-updates"></a>Featureupdates für Version 4.0 vom Juli 2020 
+
+Die folgenden neuen Features wurden microsoft 365-Lernpfaden, Version 4.0, hinzugefügt. 
+
+### <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachiger Support für Lernpfade 
+Die mehrsprachige Unterstützung für Lernpfade umfasst jetzt Niederländisch. 
 - Englisch     
 - Chinesisch (vereinfacht) 
 - Französisch 
@@ -28,42 +50,43 @@ Mehrsprachige Unterstützung für Lern Pfade steht nun in neun Sprachen zur Verf
 - Russisch (Russisch) 
 - Spanisch 
 
-Weitere Informationen finden Sie unter [Learning Wege Multilingual Overview](custom_overview.md). 
+
+Weitere Informationen finden Sie unter [Learning pathways multilingual overview](custom_overview.md). 
 
 ## <a name="sort-subcategories-and-playlists"></a>Sortieren von Unterkategorien und Wiedergabelisten
 
-Jetzt können Sie Unterkategorien und Wiedergabelisten in Lernpfaden sortieren. Wenn Sie beispielsweise eine benutzerdefinierte Wiedergabeliste zu einer Unterkategorie hinzufügen, können Sie die Wiedergabelisten sortieren, sodass die benutzerdefinierte Wiedergabeliste zunächst in der Sortierreihenfolge angezeigt wird. 
+Jetzt können Sie Unterkategorien und Wiedergabelisten in Lernpfaden sortieren. Wenn Sie beispielsweise einer Unterkategorie eine benutzerdefinierte Wiedergabeliste hinzufügen, können Sie die Wiedergabelisten so sortieren, dass die benutzerdefinierte Wiedergabeliste zuerst in der Sortierreihenfolge angezeigt wird. 
 
 Weitere Informationen finden Sie unter [Sortieren von Unterkategorien und Wiedergabelisten](custom_sortsubplay.md). 
 
-## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Bildauswahl für Lern Pfade benutzerdefinierter Unterkategorien 
-Lern Pfade bieten jetzt eine einfach zu verwendende Bildauswahl für benutzerdefinierte Wiedergabelisten und Unterkategorien.  In früheren Versionen können Sie das Bild für eine Wiedergabeliste, aber keine Unterkategorie ändern.  
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Bildauswahl für benutzerdefinierte Unterkategorien für Lernpfade 
+Lernpfade bieten jetzt eine einfach zu verwendende Bildauswahl für benutzerdefinierte Wiedergabelisten und Unterkategorien.  In früheren Versionen konnten Sie das Bild für eine Wiedergabeliste ändern, jedoch keine Unterkategorie.  
 
 Weitere Informationen finden Sie unter:
-- [Erstellen Sie eine benutzerdefinierte Wiedergabeliste](custom_createnewplaylist.md). 
+- [Erstellen einer benutzerdefinierten Wiedergabeliste](custom_createnewplaylist.md). 
 - [Erstellen einer Unterkategorie](custom_createnewcat.md)
 
 > [!NOTE]
-> Die Unterstützung für die niederländische Sprache wird in der bevorstehenden Version der mehrsprachigen Unterstützung für Lern Pfade nicht berücksichtigt. Wir werden auch in Zukunft neue Sprachoptionen evaluieren.
+> Unterstützung für die niederländische Sprache wird in der bevorstehenden Veröffentlichung der mehrsprachigen Unterstützung für Lernpfade nicht enthalten sein. Wir werden auch in Zukunft neue Sprachoptionen auswerten.
 
-## <a name="november-2019-version-30-feature-updates"></a>November 2019 Version 3,0 Feature-Updates
-Basierend auf Kundenfeedback wurden die folgenden neuen Features zu den Microsoft 365-Lernpfaden Version 3,0 hinzugefügt.
+## <a name="november-2019-version-30-feature-updates"></a>Featureupdates für Version 3.0 von November 2019
+Basierend auf Kundenfeedback wurden den Microsoft 365-Lernpfaden Version 3.0 die folgenden neuen Features hinzugefügt.
 
 ### <a name="content-updates-and-editorial-calendar"></a>Inhaltsupdates und redaktioneller Kalender
-Eines der Versprechungen von Lernpfaden sind aktuelle Inhalte. Zu diesem Zweck haben wir unser erstes vierteljährliches Inhaltsupdate vom November 2019 mit einer Vielzahl neuer Unterkategorien, Wiedergabelisten und Objekte bereitgestellt. Inhaltsupdates werden in unseren Content Update-Artikeln in unserer What es New/What es Changed-Wiedergabeliste mitgeteilt. Lern Pfade vierteljährliche Inhaltsaktualisierungen finden Sie auch hier: Allgemeine Office-Hilfe finden Sie im [November 2019 Inhaltsaktualisierungen](custom_contentupdates.md).
+Eine der Versprechen von Lernpfaden ist der aktuelle Inhalt. Zu diesem Zweck haben wir unser erstes vierteljährliches Inhaltsupdate vom November 2019 mit einer Vielzahl neuer Unterkategorien, Wiedergabelisten und Ressourcen bereitgestellt. Inhaltsupdates werden in unseren Content Update-Artikeln in unserer Wiedergabeliste "Neuigkeiten/Änderungen" kommuniziert. Vierteljährliche Inhaltsupdates für Lernpfade finden Sie hier: Allgemeine Office-Hilfe finden Sie unter [Inhaltsupdates vom November 2019](custom_contentupdates.md).
 
-### <a name="learning-pathways-admin-success-center"></a>Lern Pfade Administrator Success Center
-Wir haben ein Microsoft 365 Learning Pfads-Administrator-Erfolgs Center hinzugefügt, um Administratoren und Websitesammlungsbesitzern zu helfen, die Lern Pfade optimal zu nutzen. Das Administrator Success Center bietet Links zu Planungs-und Adoptions Ressourcen sowie Anleitungen zur Planung, Anpassung, Einführung und Messung der Auswirkungen von Lern wegen. Weitere Informationen finden Sie unter [Admin Success Center](custom_successcenter.md).
+### <a name="learning-pathways-admin-success-center"></a>Lernpfade Admin Success Center
+Wir haben ein Microsoft 365-Lernpfade Admin Success Center hinzugefügt, um Administratoren und Websitesammlungsbesitzern zu helfen, die Lernpfade am besten zu nutzen. Das Admin Success Center bietet Links zu Planungs- und Einführungsressourcen und bietet Anleitungen zum Planen, Anpassen, Fördern der Einführung und Messen der Auswirkungen von Lernpfaden. Weitere Informationen finden Sie unter [Admin Success Center](custom_successcenter.md).
 
-## <a name="playlist-navigation"></a>Playlist-Navigation
-Basierend auf Kundenfeedback haben wir die Navigation mit den Schaltflächen weiter und zurück deutlicher gemacht. Außerdem haben wir ein Inhaltsverzeichnis im Navigationsbereich hinzugefügt, um Benutzern die Möglichkeit zu geben, die vollständige Liste der Elemente in einer Wiedergabeliste anzuzeigen und direkt zu einem Objekt in einer Wiedergabeliste zu navigieren.
+## <a name="playlist-navigation"></a>Wiedergabelistennavigation
+Basierend auf Kundenfeedback haben wir die Navigation mit den Schaltflächen Weiter und Zurück offensichtlicher gemacht. Außerdem haben wir ein Inhaltsverzeichnis im Navigationsbereich hinzugefügt, damit Benutzer die vollständige Liste der Elemente in einer Wiedergabeliste sehen und direkt zu einem Objekt in einer Wiedergabeliste navigieren können.
 
 ## <a name="toggle-full-screen-mode"></a>Umschalten des Vollbildmodus
-In einigen Fällen wird das Video in einem Wiedergabelisten Objekt unter dem Anzeigebereich eines Fensters angezeigt, deshalb haben wir in der Navigationsleiste ein Toggle-Feature für den Vollbildmodus hinzugefügt, damit Benutzer durch eine Wiedergabeliste navigieren können, in der genügend sichtbare Bildschirmbereiche angezeigt werden, um das Video anzuzeigen.
+In einigen Fällen wird das Video in einem Wiedergabelisten-Objekt unterhalb des Anzeigebereichs eines Fensters angezeigt, sodass wir in der Navigationsleiste ein Umschalt-Vollbildmodus-Feature hinzugefügt haben, damit Benutzer durch eine Wiedergabeliste mit genügend sichtbarem Bildschirmbereich navigieren können, um das Video anzuzeigen.
 
 ## <a name="copy-a-playlist"></a>Kopieren einer Wiedergabeliste
-Viele Kunden haben die Notwendigkeit ausgedrückt, nur ein paar einfache Dinge in einer von Microsoft bereitgestellten Wiedergabeliste zu ändern, ohne dass eine vollständig neue Wiedergabeliste erstellt werden muss. Eine allgemeine Kundenanforderung besteht beispielsweise darin, einen Schritt aus der Playlist Start mit sechs einfachen Schritten zu entfernen. Jetzt können Sie eine Wiedergabeliste aus einer vorhandenen Wiedergabeliste kopieren, einschließlich einer Wiedergabeliste aus dem Microsoft-Katalog, und diese Wiedergabeliste dann ändern. Sie können beispielsweise jetzt sechs einfache Schritte kopieren, 3 Schritte löschen und die Wiedergabeliste in drei einfache Schritte umwandeln. Weitere Informationen finden Sie unter [Kopieren einer Wiedergabeliste](custom_copyplaylist.md).
+Viele Kunden haben die Notwendigkeit zum Ausdruck gebracht, nur einige einfache Dinge in einer von Microsoft bereitgestellten Wiedergabeliste zu ändern, ohne eine komplett neue Wiedergabeliste erstellen zu müssen. Eine häufige Kundenanforderung besteht beispielsweise in der Entfernung eines Schritts aus der Wiedergabeliste Start mit sechs einfachen Schritten. Jetzt können Sie eine Wiedergabeliste aus einer vorhandenen Wiedergabeliste kopieren, einschließlich einer Wiedergabeliste aus dem Microsoft-Katalog, und diese Wiedergabeliste dann ändern. Beispielsweise können Sie jetzt sechs einfache Schritte kopieren, 3 Schritte löschen und die Wiedergabeliste in 3 einfache Schritte verwandeln. Weitere Informationen finden Sie unter [Copy a Playlist](custom_copyplaylist.md).
 
-## <a name="multi-content-pack-support"></a>Unterstützung für Multi-Content Pack
-Entwickelt für Microsoft 365 Lern Pfade Partner und Administratoren mit Erfahrung bei der Verwaltung von Webinhalten ermöglicht die Unterstützung durch Multi-Content einem Partner oder Administrator die Integration eines benutzerdefinierten Inhalts Satzes in Microsoft 365-Lern Pfade. Weitere Informationen finden Sie im [Partner Handbuch](custom_partnerguide.md).
+## <a name="multi-content-pack-support"></a>Multi-Content Pack-Unterstützung
+Die für Microsoft 365-Lernpfade konzipierte Unterstützung für Partner und Administratoren mit Erfahrung bei der Verwaltung von Webinhalten ermöglicht es einem Partner oder Administrator, einen benutzerdefinierten Inhaltssatz in Microsoft 365-Lernpfade zu integrieren. Weitere Informationen finden Sie im [Partner guide](custom_partnerguide.md).
 

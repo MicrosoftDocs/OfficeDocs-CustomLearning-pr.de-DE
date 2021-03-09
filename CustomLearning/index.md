@@ -5,18 +5,18 @@ title: Übersicht über Microsoft 365-Lernpfade
 ms.date: 9/24/2020
 description: Erfahren Sie, wie Microsoft 365-Lernpfade die Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation beschleunigen können. Lernpfade umfassen ein benutzerdefiniertes SharePoint Online-Webpart und eine moderne Schulungswebsite zur SharePoint Online-Kommunikation, die problemlos für Ihren Microsoft 365-Mandanten bereitgestellt werden kann.
 ms.service: o365-solutions
-ms.openlocfilehash: 8589b205ead505229ff8416b862c851c766b444f
-ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
+ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49614623"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573407"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 Lernpfade 
 Microsoft 365-Lernpfade sind eine anpassbare, bedarfsgesteuerte Lernlösung zur Steigerung der Verwendung und Akzeptanz von Microsoft 365-Diensten in Ihrer Organisation.    
 
 > [!IMPORTANT]
-> Lern Pfade bemühen sich, einen vierteljährlichen Inhalts Aktualisierungszyklus einzuhalten. Seit 9/24/2020 haben wir den Lern Pfad Inhalt für unser September-Inhaltsupdate aktualisiert. Weitere Informationen zum Inhaltsupdate vom September 2020 finden Sie unter [Content Updates](custom_contentupdates.md). Informationen zum Anwenden von Inhaltsupdates und zum Verwalten von Inhalten finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md).  
+> Lernpfade sind bestrebt, einen vierteljährlichen Inhaltsaktualisierungszyklus einzuhalten. Ab dem 01.03.2021 haben wir die Inhalte der Lernpfade für unser Inhaltsupdate vom März aktualisiert. Weitere Informationen zum Inhaltsupdate vom März finden Sie unter [Inhaltsupdates](custom_contentupdates.md). Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhalten finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md).  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Bedarfsgesteuerte, benutzerorientierte Schulung von Microsoft
 
@@ -29,14 +29,14 @@ Microsoft 365 Lernpfade bieten:
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-look-book-service"></a>SharePoint-Such Buch Dienst
-Lern Pfade können aus dem SharePoint-Such Buch Dienst zur Verfügung gestellt werden. Wenn Microsoft 365-Lernpfade bereitgestellt werden, erhalten Organisationen eine SharePoint Online-Kommunikationswebsite, die als Out-of-the-Box-Schulungsportal konzipiert ist, zusammen mit einem Lernpfadwebpart, das mit einem Onlinekatalog mit Schulungsinhalten verbunden ist. 
+## <a name="sharepoint-look-book-service"></a>SharePoint-Look-Book-Dienst
+Lernpfade können über den SharePoint-Look-Book-Dienst bereitgestellt werden. Wenn Microsoft 365-Lernpfade bereitgestellt werden, erhalten Organisationen eine SharePoint Online-Kommunikationswebsite, die als Out-of-the-Box-Schulungsportal konzipiert ist, zusammen mit einem Lernpfadwebpart, das mit einem Onlinekatalog mit Schulungsinhalten verbunden ist. 
 
-![Seite zum Anzeigen von SharePoint-Such Büchern](media/cg-provision.png)
+![SharePoint-Look-Book-Bereitstellungsseite](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>4 einfache Schritte
 Beginnen wir mit dem Erstellen einer Lernpfadoberfläche für Ihre Umgebung.
-1. Lesen Sie die [Übersicht über die mehrsprachige Unterstützung für Lern Pfade](custom_overview_ml.md). 
+1. Lesen Sie [die Übersicht über mehrsprachige Unterstützung für Lernpfade](custom_overview_ml.md). 
 2. Wählen Sie eine [Setupoption](custom_setupoptions.md) aus, und stellen Sie Microsoft 365-Lernpfade bereit.  
 3. Schneiden Sie Lernpfade auf Ihre Umgebung zu.
 4. Teilen Sie Lernpfade mit ihren Benutzern mithilfe unserer [Einführungstools](driveadoption.md).
