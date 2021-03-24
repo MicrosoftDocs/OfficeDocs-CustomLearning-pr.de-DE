@@ -5,12 +5,12 @@ title: Inhaltsupdates für Lernpfade
 ms.date: 3/30/2020
 description: Inhaltsupdates für Lernpfade
 ms.service: o365-solutions
-ms.openlocfilehash: 1cd46031ceb2ef1c88099d5556887aa7ea72cc80
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573417"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163082"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Inhaltsupdates für Microsoft 365 Learning Pathways
 Lernpfade sind bestrebt, einen vierteljährlichen Inhaltsaktualisierungszyklus einzuhalten. Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). 
@@ -373,12 +373,12 @@ Auf Anfrage gibt es auch einige neue Forms-Objekte.
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>Ressourcen zur Unterstützung von Remotemitarbeitern
 Sie können Lernpfade verwenden, um eine Zielseite auf Ihrer Lernpfadwebsite zur Unterstützung von Remotemitarbeitern zu erstellen. Oder Sie können das Web part für Lernpfade zu einer vorhandenen Supportseite auf Ihrer Lernpfadwebsite hinzufügen und das Webteil filtern, um die Remotearbeitslisten zu zeigen. Hier finden Sie eine Liste der besten Ressourcen von Microsoft für die Unterstützung der Remotearbeit in Ihrer Organisation. 
-- [Bereitstellen von Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Besprechungen und Konferenzen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Unterstützen von Remotemitarbeitern mithilfe von Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [Häufig gestellte Fragen: Unterstützung für Ihre Remotemitarbeiter](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [Bereitstellen von Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
+- [Besprechungen und Konferenzen in Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Unterstützen von Remotemitarbeitern mithilfe von Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
+- [Häufig gestellte Fragen: Unterstützung für Ihre Remotemitarbeiter](/microsoftteams/faq-support-remote-workforce)
 - [Die 9 besten Methoden, mit denen microsoft IT Remotearbeit für seine Mitarbeiter ermöglicht](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams Training](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Microsoft Teams Training](/microsoftteams/training-microsoft-teams-landing-page)
 - [Bildungseinrichtungen: Microsoft Education Center](https://education.microsoft.com) 
 - [Bildungseinrichtungen: Erste Schritte mit Remote learning](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -409,7 +409,7 @@ Die folgenden Wiedergabelisten wurden der Outlook-Unterkategorie hinzugefügt.
 - Outlook mobile: Personen und Verbindungen (fünf Objekte)
 - Outlook mobile: Suche und Freigabe (vier Objekte)
 
-### <a name="onedrive"></a>Microsoft OneDrive-App
+### <a name="onedrive"></a>OneDrive
 Die folgenden Videoressourcen wurden für OneDrive hinzugefügt. 
 - Einrichten Ihres iPhones oder iPads wurde der Intro to OneDrive-Wiedergabeliste hinzugefügt
 - Aktivieren der OneDrive-Sicherung wurde zur Wiedergabeliste "Dateien mit OneDrive verwalten" hinzugefügt.
@@ -434,7 +434,7 @@ Die Sway-Unterkategorie von Inhalten wurde mit den folgenden Wiedergabelisten hi
 - Hinzufügen von Inhalten zu Sway (11 Objekte)
 - Anpassen von Sway (fünf Objekte)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Zugriff
 - Zugriff auf Schnellstart (vier Ressourcen)
 - Einführung in Access (drei Ressourcen)
 - Erstellen einer Access-Datenbank (zwei Ressourcen)
@@ -445,4 +445,3 @@ Die Sway-Unterkategorie von Inhalten wurde mit den folgenden Wiedergabelisten hi
 - Erstellen von Formularen (ein Objekt)
 - Erstellen von Berichten (zwei Ressourcen)
 - Schützen von Datenbanken (ein Objekt)
-

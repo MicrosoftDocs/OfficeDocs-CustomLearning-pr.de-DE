@@ -1,35 +1,35 @@
 ---
-title: Best Practices für Champion-Programme – Champions suchen
-description: Bewährte Methoden für die Einführung von Office 365 mit unserem Champion-Programm
+title: Bewährte Methoden für das Championprogramm – Suchen nach Champions
+description: Fördern der Einführung von Office 365 mit bewährten Methoden für das Championprogramm
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: d3dc0b573469e8990c7b82014f645bcd4824a282
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: d7e3d5bf25a822c6c09245658726d255dbb82a3f
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233467"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162901"
 ---
-# <a name="finding-your-champions"></a>Suchen nach ihren Champions 
+# <a name="finding-your-champions"></a>Suchen nach Ihren Champions 
 
-Es ist wahrscheinlich, dass Sie bereits wissen, wer ihre Champions sind, selbst wenn Sie derzeit kein formelles Programm haben.  Dies sind Personen, die:
+Wahrscheinlich wissen Sie bereits, wer Ihre Champions sind, auch wenn Sie derzeit kein formelles Programm haben.  Dies sind Personen, die:
 
-Werden oft gesehen, anderen Benutzern mit vorhandener Technologie zu helfen, viel Spaß beim Lehren und lernen über neue Technologien zu haben, kann sich über die Einschränkungen aktueller Lösungen freuen, die neue Dinge ausprobieren möchten, sogar bevor andere Mitarbeiter
+Werden häufig gesehen, wie sie anderen mit vorhandener Technologie helfen Genießen Sie das Lehren und Lernen über neue Technologien. Die Einschränkungen aktueller Lösungen sind daran interessiert, neue Dinge auszuprobieren, noch bevor andere Kollegen
 
 > [!NOTE]
-> Champions unterscheiden sich von Personen, die sich freuen, neue Software für die Technologie allein zu testen. Champions gedeihen auf der unter **Stützung anderer** unabhängig vom Kontext. 
+> Champions unterscheiden sich von Personen, die gerne neue Software für die Technologie testen. Champions können unabhängig vom Kontext **anderen** helfen. 
 
-## <a name="start-small-and-grow"></a>Klein anfangen und wachsen
+## <a name="start-small-and-grow"></a>Klein starten und wachsen
 
-Wenn Ihre Organisation nicht über ein Aktuelles Champion-Programm verfügt oder Sie das eine neu beleben möchten, senden Sie eine Einladung an eine kleine Gruppe bekannter Personen, die dem obigen Profil entsprechen.  Sammeln Sie dann zusammen, um die Ziele des neuen Programms zu besprechen und Ihr Feedback zu erhalten. Wahre Champions möchten, dass Ihre Stimme gehört wird und sich anfühlt, als wären Sie ein Teil des Erstellens von etwas.  
+Wenn Ihre Organisation nicht über ein aktuelles Champion-Programm verfügt oder Sie die Einladung neu beleben möchten, senden Sie eine Einladung an eine kleine Gruppe bekannter Personen, die in das oben beschriebene Profil passen.  Sammeln Sie dann zusammen, um die Ziele des neuen Programms zu besprechen und feedback zu erhalten. Echte Champions möchten ihre Stimme hören und sich anfühlen, als wären sie Teil der Erstellung von etwas.  
 
-## <a name="provide-structure"></a>Bereitstellen der Struktur
+## <a name="provide-structure"></a>Bereitstellen einer Struktur
 
-Erfolgreiche Champion-Programme haben eine Führungskraft und einen regelmäßigen Zeitplan für die Besprechung aktueller Probleme.  Monatliche Besprechungen sind ein wichtiger Bestandteil der Schaffung einer positiven Kultur in der Gemeinschaft und der Förderung von Wachstum.  
+Erfolgreiche Championprogramme verfügen über einen Leiter und einen regelmäßigen Zeitplan, um aktuelle Probleme zu besprechen und zu besprechen.  Monatliche Besprechungen sind mindestens ein wichtiger Bestandteil der Schaffung einer positiven Kultur in der Community und der Förderung des Wachstums.  
 
-Sie können auch Microsoft Teams verwenden, um einen Hub für Ihr Teamwork-Champions-Programm zu erstellen.  In [diesem Artikel](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams)finden Sie ein Beispiel für diese Teamstruktur.
+Sie können Microsoft Teams auch verwenden, um einen Hub für Das Teamarbeits-Champions-Programm zu erstellen.  Ein Beispiel für diese Teamstruktur finden Sie in [diesem Artikel](/MicrosoftTeams/teams-adoption-your-first-teams).
 
-![Teamwork Champion-Team Registerkarten](media/teams-adoption-tab-example.png)
+![Teamregisterkarten des Teamteams für die Teamarbeit](media/teams-adoption-tab-example.png)

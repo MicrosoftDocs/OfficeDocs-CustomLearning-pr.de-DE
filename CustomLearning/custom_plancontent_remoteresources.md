@@ -5,32 +5,31 @@ title: Ressourcen zur Unterstützung von Remotemitarbeitern
 ms.date: 3/31/2020
 description: Ressourcen zur Unterstützung von Remotemitarbeitern
 ms.service: sharepoint online
-ms.openlocfilehash: 9e228d8de0b28a8f24ebc805329d9b5b920f20c6
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: b32defa9e60066db33d6d978f1894cea00da446c
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234087"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163012"
 ---
 # <a name="resources-for-supporting-your-remote-workforce"></a>Ressourcen zur Unterstützung von Remotemitarbeitern
-Als Reaktion auf den Ausbruch von Covid-19 bietet das Inhalts Update vom April 2020 Lern Wiedergabelisten und Ressourcen, die sich auf die Aktivierung von Remote Arbeit in Ihrer Organisation konzentrieren. Wir haben eine neue Gruppe von Remote-Wiedergabelisten hinzugefügt, den Microsoft Teams-Inhalt vor allem für Teams-Besprechungen erheblich aktualisiert und eine neue Gruppe von Office für die webplaylisten hinzugefügt. 
+Als Reaktion auf den Covid-19-Ausbruch bietet das Inhaltsupdate vom April 2020 Lernlisten und Ressourcen, die auf die Aktivierung der Remotearbeit in Ihrer Organisation ausgerichtet sind. Wir haben einen neuen Satz von Remotearbeitslisten hinzugefügt, die Microsoft Teams-Inhalte, insbesondere für Teams-Besprechungen, erheblich aktualisiert und einen neuen Satz von Office für die Web-Wiedergabelisten hinzugefügt. 
 
-## <a name="customize-learning-pathways-for-remote-work"></a>Anpassen von Lernpfaden für Remote-Arbeit
-Zur Unterstützung von Remote Arbeitskräften können Sie die SharePoint-Website für Lern Pfade anpassen, um Benutzer an die Remotewiedergabe Listen weiterzuleiten. Weitere Informationen zum Anpassen von Lernpfaden.
+## <a name="customize-learning-pathways-for-remote-work"></a>Anpassen von Lernpfaden für Remotearbeit
+Zur Unterstützung von Remotemitarbeitern können Sie die SharePoint-Website "Lernpfade" anpassen, um Benutzer an die Remotearbeitslisten zu führen. Weitere Informationen zum Anpassen von Lernpfaden.
 
-Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Anpassen von Lern](custom_overview.md)Pfaden. Informationen zum Hinzufügen und Bearbeiten des Webparts zum Filtern einer Unterkategorie oder Wiedergabeliste finden Sie unter 
+Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Customize learning pathways](custom_overview.md). Informationen zum Hinzufügen und Bearbeiten des Webteils zum Filtern in eine Unterkategorie oder Wiedergabeliste finden Sie unter 
 
-## <a name="top-resources-from-microsoft-for-supporting-your-remote-workforce"></a>Die wichtigsten Ressourcen von Microsoft für die Unterstützung ihrer Remotemitarbeiter
-Sie können in ihrer Lern Pfad-SharePoint-Website eine Zielseite für die Unterstützung von Remotemitarbeitern erstellen. Sie können auch einer vorhandenen Support Seite Ressourcen für Remote Arbeitsthreads hinzufügen. Im folgenden finden Sie eine Liste mit einigen der wichtigsten Ressourcen von Microsoft für die Unterstützung von Remote-Arbeit in Ihrer Organisation. 
-- [Bereitstellen von Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Besprechungen und Konferenzen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Unterstützung von Remote Mitarbeitern mithilfe von Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [Häufig gestellte Fragen: Unterstützung für Ihre Remotemitarbeiter](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
-- [Die Top 9-Wege, die Microsoft IT die Remote-Arbeit für seine Mitarbeiter ermöglicht](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams-Schulung](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
-
-
-Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Anpassen von Lern](custom_overview.md)Pfaden. Informationen zum Hinzufügen und Bearbeiten des Webparts zum Filtern einer Unterkategorie oder Wiedergabeliste finden Sie unter 
+## <a name="top-resources-from-microsoft-for-supporting-your-remote-workforce"></a>Die besten Ressourcen von Microsoft für die Unterstützung Ihrer Remote-Mitarbeiter
+Sie können eine Zielseite auf Ihrer SharePoint-Website für Lernpfade erstellen, um Remotemitarbeiter zu unterstützen. Sie können auch Ressourcen zu einer vorhandenen Supportseite für Remotemitarbeiter hinzufügen. Hier finden Sie eine Liste der besten Ressourcen von Microsoft für die Unterstützung der Remotearbeit in Ihrer Organisation. 
+- [Bereitstellen von Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
+- [Besprechungen und Konferenzen in Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Unterstützen von Remotemitarbeitern mithilfe von Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
+- [Häufig gestellte Fragen: Unterstützung für Ihre Remotemitarbeiter](/microsoftteams/faq-support-remote-workforce)
+- [Die 9 besten Methoden, mit denen microsoft IT Remotearbeit für seine Mitarbeiter ermöglicht](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
+- [Microsoft Teams Training](/microsoftteams/training-microsoft-teams-landing-page)
 
 
- 
+Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Customize learning pathways](custom_overview.md). Informationen zum Hinzufügen und Bearbeiten des Webteils zum Filtern in eine Unterkategorie oder Wiedergabeliste finden Sie unter 
+
+
