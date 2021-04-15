@@ -3,14 +3,17 @@ author: pkrebs
 ms.author: pkrebs
 title: Manuelles Installieren von Lernpfaden
 ms.date: 02/18/2019
+manager: bpardi
 description: Manuelles Installieren von Lernpfaden
-ms.service: sharepoint online
-ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+audience: itpro
+ms.service: o365-administration
+ms.topic: article
+ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162842"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749313"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Manuelles Installieren und Konfigurieren von Custom Learning für Office 365
 
@@ -26,11 +29,11 @@ Um das Webteil und die Websitesammlung manuell zu installieren und zu konfigurie
 
 ## <a name="prerequisites"></a>Voraussetzungen
 
-Sie müssen den mandantenweiten App-Katalog eingerichtet und konfiguriert haben. Weitere Informationen [finden Sie unter Einrichten Ihres Office 365-Mandanten,](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) und folgen Sie dem Abschnitt Erstellen einer App-Katalogwebsite. Wenn Ihr mandantenweiter App-Katalog bereits bereitgestellt wurde, benötigen Sie Zugriff auf ein Konto, das über die Rechte zum Hochladen eines Pakets verfügt, um diesen Setupvorgang abzuschließen. Im Allgemeinen handelt es sich um ein Konto mit der SharePoint-Administratorrolle. Wenn ein Konto mit dieser Rolle nicht funktioniert, wechseln Sie zum SharePoint Admin Center, suchen Sie die Websitesammlungsadministratoren für die Websitesammlung des App-Katalogs, und melden Sie sich entweder als einer der Websitesammlungsadministratoren an, oder fügen Sie das SharePoint-Administratorkonto hinzu, das den Websitesammlungsadministratoren fehlgeschlagen ist. Außerdem benötigen Sie Zugriff auf ein Konto, bei dem es sich um einen SharePoint-Mandantenadministrator handelt.
+Sie müssen den mandantenweiten App-Katalog eingerichtet und konfiguriert haben. Weitere Informationen finden Sie unter Einrichten [ihres Office 365-Mandanten,](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) und folgen Sie dem Abschnitt Erstellen einer App-Katalogwebsite. Wenn Ihr mandantenweiter App-Katalog bereits bereitgestellt wurde, benötigen Sie Zugriff auf ein Konto, das Über die Rechte zum Hochladen eines Pakets darauf verfügt, um diesen Setupvorgang abzuschließen. In der Regel verfügt dieses Konto über die Rolle des SharePoint-Administrators. Wenn ein Konto mit dieser Rolle nicht funktioniert, wechseln Sie zum SharePoint Admin Center, suchen Sie die Websitesammlungsadministratoren für die Websitesammlung des App-Katalogs, und melden Sie sich entweder als einer der Websitesammlungsadministratoren an, oder fügen Sie das SharePoint-Administratorkonto hinzu, das den Websitesammlungsadministratoren fehlgeschlagen ist. Außerdem benötigen Sie Zugriff auf ein Konto, bei dem es sich um einen SharePoint-Mandantenadministrator handelt.
 
 ## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Hochladen des Webteils in den Mandanten-App-Katalog
 
-Zum Einrichten von Custom Learning für Office 365 laden Sie die Datei customlearning.sppkg in den mandantenweiten App-Katalog hoch, und stellen sie zur Bereitstellung hoch. Ausführliche Anweisungen zum Hinzufügen einer App zum App-Katalog finden Sie unter Use [the App Catalog to make custom business apps available for your SharePoint Online](/sharepoint/use-app-catalog) environment.
+Zum Einrichten von Custom Learning für Office 365 laden Sie die Datei customlearning.sppkg in den mandantenweiten App-Katalog hoch, und stellen sie zur Bereitstellung hoch. Ausführliche Anweisungen zum Hinzufügen einer App zum App-Katalog finden Sie unter Verwenden des App-Katalogs, um benutzerdefinierte Geschäfts-Apps für Ihre [SharePoint Online-Umgebung](/sharepoint/use-app-catalog) verfügbar zu machen.
 
 ## <a name="provisionidentify-modern-communication-site"></a>Bereitstellen/Identifizieren einer modernen Kommunikationswebsite
 
@@ -48,7 +51,7 @@ Ein PowerShell-Skript ist enthalten, das Sie ausführen müssen, um drei Mandant
 
 ### <a name="disabling-telemetry-collection"></a>Deaktivieren der Telemetriesammlung
 
-Teil dieser Lösung ist die anonymisierte Telemetrieverfolgung, die standardmäßig auf ein festgelegt ist. Wenn Sie eine manuelle Installation durchführen und die Telemetrieverfolgung deaktivieren möchten, ändern Sie das Skript, um die variable $optInTelemetry auf `CustomlearningConfiguration.ps1` $false.
+Teil dieser Lösung ist die anonymisierte Telemetrieverfolgung, die standardmäßig auf aktiviert festgelegt ist. Wenn Sie eine manuelle Installation durchführen und die Telemetrieverfolgung deaktivieren möchten, ändern Sie das Skript so, dass die variable $optInTelemetry auf `CustomlearningConfiguration.ps1` $false.
 
 Wenn Sie keine manuelle Installation durchführen und die Telemetrieverfolgung deaktivieren möchten, wurde ein separates Skript enthalten, das bei der Ausführung die Telemetrieverfolgung `TelemetryOptOut.ps1` deaktiviert.
 

@@ -3,14 +3,17 @@ title: Hilfreiche Links für Administratoren, die benutzerdefiniertes Lernen fü
 description: Hilfreiche Links für Administratoren, die benutzerdefiniertes Lernen für Office 365 verwenden
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
+ms.service: o365-administration
 ms.date: 02/01/2019
-ms.topic: administration
-ms.openlocfilehash: b5984d6ff84ee07a93aba52202cb394a6db6116b
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.topic: article
+ms.openlocfilehash: 693612e775cc9372279c22955c2d545bdeadc3be
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163052"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749323"
 ---
 # <a name="helpful-links-for-office-365-administrators"></a>Hilfreiche Links für Office 365-Administratoren
 

@@ -1,23 +1,25 @@
 ---
-title: Tag im Leben mit Office 365-eine unternehmensweite Verbindung
-description: Schnelle Schritte für den Tag mit Office 365 bereit
+title: Tag im Leben mit Office 365 – Verbinden im gesamten Unternehmen
+description: Schritte, um für Ihren Arbeitstag mit Office 365 bereit zu sein
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 09cd657c1e5d1de4d794e03d36ee6c38ffbff6a0
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: ad08a3076eb4aa042a7eb2c65608f3a36a5b4513
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233657"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749413"
 ---
 # <a name="connecting-across-the-company"></a>Unternehmensweite Vernetzung
 
 ![Vernetzung (Bild)](media/ditl_crosscompany.png)
 
-Es war ein anstrengender Tag, aber bevor Sie das Büro verlassen, sollten Sie sicherstellen, dass alle Personen, die sich für Ihre Arbeit interessieren, über den aktuellen Stand informiert sind. Sicherstellen, dass alle Projektbeteiligten – innerhalb und außerhalb Ihres Teams – über Ihre Ziele, den Status und die Ergebnisse Bescheid wissen, ist ein wichtiges Element Ihrer Arbeit.  
+Es war ein anstrengender Tag, aber bevor Sie das Büro verlassen, sollten Sie sicherstellen, dass alle Personen, die sich für Ihre Arbeit interessieren, über den aktuellen Stand informiert sind. Sicherstellen, dass alle Beteiligten – innerhalb und außerhalb Ihres Teams – Ihre Ziele, Fortschritte und Ergebnisse verstehen, ist ein wichtiger Bestandteil ihrer Arbeit.  
 
 ## <a name="tools"></a>Tools
 - SharePoint
@@ -29,7 +31,7 @@ Es war ein anstrengender Tag, aber bevor Sie das Büro verlassen, sollten Sie si
 - Wer sind Ihre Adressaten und welche Kommunikationsmethoden verwenden sie derzeit?
 - Richten Sie Ihre wichtigsten Nachrichten an der Rolle der Empfänger aus, z. B. Projektbeteiligter, Teammitglied oder Mitarbeiter.
 - Wählen Sie Kommunikationstools, die einander ergänzen; veröffentlichen Sie z. B. einen Beitrag in Ihrer Yammer-Community und versenden Sie eine Benachrichtigung per E-Mail. 
-- Stellen Sie die Informationen gemeinsam mit anderen Personen in Ihrem Team zusammen.
+- Gemeinsamen Autorisieren Ihrer Informationen mit anderen Personen in Ihrem Team
 - Veröffentlichen Sie die Informationen, und senden Sie eine Benachrichtigung an alle interessierten Parteien. 
  
 ## <a name="select-your-communication-method"></a>Wählen Sie eine Kommunikationsmethode aus.
@@ -39,19 +41,19 @@ Verwenden Sie die nachstehenden Informationen, um zu bestimmen, auf welche Weise
 
 ![Beiträge in sozialen Netzwerken](media/ditl_IT-Service-News.png)
 
-**SharePoint**: Wenn Sie Personen außerhalb Ihrer Arbeitsgruppe erreichen möchten, können Sie einen kurzen Beitrag zu Neuigkeiten und Fortschritt schreiben, der in SharePoint Online bereitgestellt und für die gesamte Projektdauer beibehalten wird. Verwenden Sie eine moderne Seite auf einer SharePoint-Teamwebsite, oder erstellen Sie für umfangreichere Vorhaben eventuell eine SharePoint-Kommunikationswebsite. 
+**SharePoint**: Wenn Sie Personen außerhalb Ihrer Arbeitsgruppe erreichen möchten, können Sie einen kurzen Beitrag zu Neuigkeiten und Fortschritt schreiben, der in SharePoint Online bereitgestellt und für die gesamte Projektdauer beibehalten wird. Verwenden Sie eine moderne Seite auf einer SharePoint-Teamwebsite, oder erstellen Sie für größere Programme eine SharePoint-Kommunikationswebsite. 
 
 SharePoint-Kommunikationswebsites bieten ansprechende und flexible Artikel, in die Sie Bilder, Dashboards und Text zusammen einbetten können. Die Informationen sind dann über einen beliebigen Browser oder über die mobile SharePoint-App verfügbar. Dieses Video bietet einen schnellen Überblick über die Möglichkeiten, die diese leistungsfähigen Websites bieten. Um für maximale Sichtbarkeit der Kommunikationswebsite zu sorgen, können Sie sie als Registerkarte für Ihre Arbeitsgruppe in Microsoft Teams anheften.
 
 ![Beispiel einer Kommunikationswebsite in SharePoint Online](media/ditl_Comm-Site.png)
 
-**Microsoft Teams**: Wenn diese größere Gruppe von Personen bereits Teil Ihrer Arbeitsgruppe in Microsoft Teams ist, können Sie in dem Kanal "Allgemein" eine Notiz mit den wichtigsten Informationen und einem Link zu einer Wiki-Seite für ein ausführlicheres Update veröffentlichen.  Wiki-Seiten können von mehreren Personen gemeinsam betreut und während des Bestehens des Teams beibehalten werden. 
+**Microsoft Teams**: Wenn diese größere Gruppe von Personen bereits Teil Ihrer Arbeitsgruppe in Microsoft Teams ist, können Sie in dem Kanal "Allgemein" eine Notiz mit den wichtigsten Informationen und einem Link zu einer Wiki-Seite für ein ausführlicheres Update veröffentlichen.  Wikiseiten können von mehreren Personen gemeinsam authentifiziert werden und über das Leben dieses Teams bestehen bleiben. 
 
 ![Screenshot einer Wiki-Seite in Microsoft Teams](media/ditl_Teams-Wiki.png)
 
 ## <a name="tip-to-modernize-your-communication"></a>Tipp für einen moderneren Kommunikationsansatz
 
-**Für Ihre E-Mail-zentrierten Kollegen**: Abonnieren Sie für sie Benachrichtigungen über Ihre Yammer-Gruppe oder Ihren SharePoint-Newsfeed.  Auf diese Weise werden sie per E-Mail darüber benachrichtigt, dass Sie neue Informationen veröffentlicht haben, und gelangen durch einen Klick zu Ihren Quellinformationen, ohne dass Sie eigens eine E-Mail erstellen müssen.  Möchten Sie es noch pfiffiger?  Passen Sie die Benachrichtigung mit Microsoft Flow oder PowerApps an. Erwägen Sie die Verwendung eines Brownbag, um den Benutzern zu zeigen, wie sie Microsoft Teams, SharePoint oder Yammer auf ihren mobilen Geräten verwenden können. 
+**Für Ihre E-Mail-zentrierten** Kollegen: Abonnieren Sie sie Benachrichtigungen von Ihrer Yammer oder Ihrem SharePoint-Newsfeed.  Auf diese Weise werden sie per E-Mail darüber benachrichtigt, dass Sie neue Informationen veröffentlicht haben, und gelangen durch einen Klick zu Ihren Quellinformationen, ohne dass Sie eigens eine E-Mail erstellen müssen.  Möchten Sie es noch pfiffiger?  Passen Sie die Benachrichtigung mit Microsoft Flow oder PowerApps an. Erwägen Sie, einen Brownbag zu verwenden, um diesen Benutzern zu zeigen, wie Sie Microsoft Teams, SharePoint oder Yammer mobilen Geräten verwenden. 
 
 **Fördern Sie den Gedankenaustausch!** Aktivieren Sie die Kommentarfunktion auf Ihren SharePoint-Kommunikationswebsites für eine stärkere Einbindung.  Wenn Sie Yammer verwenden, stellen Sie sicher, dass Ihre Community genutzt wird, indem Sie regelmäßig überprüfen, ob es Fragen gibt, die Sie beantworten können. 
 

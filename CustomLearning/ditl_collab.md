@@ -1,23 +1,25 @@
 ---
-title: Tag im Leben mit Office 365-Zusammenarbeit mit Kollegen
-description: Schnelle Schritte für den Tag mit Office 365 bereit
+title: Tag im Leben mit Office 365 – Zusammenarbeit mit Kollegen
+description: Bereiten Sie sich mit Office 365 auf Ihren nächsten Tag vor
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 029901ea81be9b649ee9e928591b929f8e1f462e
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+manager: alexb
+audience: itpro
+ms.service: sharepoint-online
+ms.openlocfilehash: 8c32e727b09eb7ed7b82e12821c95f18092ea91f
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233717"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749363"
 ---
 # <a name="collaborating-with-colleagues"></a>Zusammenarbeit mit Kollegen
 
 ![Unterwegs (Bild)](media/ditl_collab.png)
 
-Es ist 14:00 Uhr – Zeit für die Zusammenarbeit mit Kollegen. Office 365 bietet herausragende Lösungen für die Zusammenarbeit, die es Teams ermöglichen, auf unterschiedliche Weise zusammenzuarbeiten. 
+Es ist 14:00 Uhr – Zeit für die Zusammenarbeit mit Kollegen. Office 365 bietet erstklassige Möglichkeiten für die Zusammenarbeit, sodass Teams auf unterschiedliche Weise zusammenarbeiten können. 
 
 ## <a name="tools"></a>Tools
 - Microsoft Teams
@@ -28,12 +30,12 @@ Es ist 14:00 Uhr – Zeit für die Zusammenarbeit mit Kollegen. Office 365 biete
 ## <a name="checklist-for-collaborating-with-colleagues"></a>Prüfliste für die Zusammenarbeit mit Kollegen
 - Erstellen eines Microsoft-Teams für die Zusammenarbeit oder einem beitreten
 - Erstellen und Freigeben von Dateien von OneDrive 
-- Gemeinsame Dokumentbearbeitung in Office 365 
+- Cocreate in Office 365 
 - Verwenden von Cloud-Anlagen
 
 ## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>Erstellen eines Microsoft-Teams für die Zusammenarbeit oder einem beitreten
 
-Microsoft Teams und Kanäle sind Orte, an denen Personen durch das Teilen von Dateien, das Nachverfolgen von Team-Aktionselementen und vieles mehr effektiv zusammenarbeiten können. Jedes Microsoft-Team weist Integrationen einer SharePoint-Website, einem OneNote-Notizbuch und anderen Objekte auf. Dieser Dienst von Office 365 eignet sich am besten für Personen, die häufig an gemeinsamen Projekten oder Zielen arbeiten. 
+Microsoft Teams und Kanäle sind Orte, an denen Personen durch das Teilen von Dateien, das Nachverfolgen von Team-Aktionselementen und vieles mehr effektiv zusammenarbeiten können. Jedes Microsoft Teams verfügt über eine Integration in eine SharePoint-Website, ein OneNote-Notizbuch und andere Ressourcen. Dieser Dienst von Office 365 eignet sich am besten für Personen, die häufig an gemeinsamen Projekten oder Zielen arbeiten. 
 
 ## <a name="share-files-from-your-onedrive"></a>Dateien über OneDrive freigeben
 Dateien, die auf OneDrive for Business gespeichert wurden, können über den Browser oder Office 365-Desktopanwendungen wie Word oder Excel für andere Personen freigegeben werden. Für die Freigabe kann der Name oder der Alias einer Person oder ihre Firmen-E-Mail-Adresse angegeben werden. 

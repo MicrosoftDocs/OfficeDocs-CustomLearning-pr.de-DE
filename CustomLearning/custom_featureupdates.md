@@ -2,15 +2,15 @@
 author: pkrebs
 ms.author: pkrebs
 title: Featureupdates für Lernpfade
-ms.date: 10/20/2019
+ms.date: 4/13/2021
 description: Featureupdates für Lernpfade
-ms.service: sharepoint online
-ms.openlocfilehash: dba6903553ef5b51bc6d1e727c0e61781f9db26a
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.service: o365-solutions
+ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
+ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573387"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755281"
 ---
 # <a name="learning-pathways-version-40-feature-updates"></a>Featureupdates für Lernpfade, Version 4.0
 Im Folgenden finden Sie Featureupdates für Lernpfade, Version 4.0.  
@@ -48,7 +48,8 @@ Die mehrsprachige Unterstützung für Lernpfade umfasst jetzt Niederländisch.
 - Japanisch (Japan) 
 - Portugiesisch (Brasilien) 
 - Russisch (Russisch) 
-- Spanisch 
+- Spanisch
+- Niederländisch 
 
 
 Weitere Informationen finden Sie unter [Learning pathways multilingual overview](custom_overview.md). 
@@ -65,9 +66,6 @@ Lernpfade bieten jetzt eine einfach zu verwendende Bildauswahl für benutzerdefi
 Weitere Informationen finden Sie unter:
 - [Erstellen einer benutzerdefinierten Wiedergabeliste](custom_createnewplaylist.md). 
 - [Erstellen einer Unterkategorie](custom_createnewcat.md)
-
-> [!NOTE]
-> Unterstützung für die niederländische Sprache wird in der bevorstehenden Veröffentlichung der mehrsprachigen Unterstützung für Lernpfade nicht enthalten sein. Wir werden auch in Zukunft neue Sprachoptionen auswerten.
 
 ## <a name="november-2019-version-30-feature-updates"></a>Featureupdates für Version 3.0 von November 2019
 Basierend auf Kundenfeedback wurden den Microsoft 365-Lernpfaden Version 3.0 die folgenden neuen Features hinzugefügt.

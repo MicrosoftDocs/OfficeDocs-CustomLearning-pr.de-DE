@@ -1,45 +1,48 @@
 ---
+title: Häufig gestellte Fragen zu Microsoft 365-Lernpfaden
 author: karuanag
 ms.author: karuanag
-title: Häufig gestellte Fragen zu Microsoft 365-Lernpfaden
 ms.date: 02/10/2019
-description: Informationen zu häufig gestellten Fragen für Microsoft 365-Lern Pfade
-ms.service: sharepoint online
-ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.topic: article
+manager: alexb
+audience: itpro
+description: Häufig gestellte Fragen zu Microsoft 365-Lernpfaden.
+ms.service: sharepoint-online
+ms.openlocfilehash: f791d6421740c3458be525a7e306b10edab58259
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233537"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749403"
 ---
 # <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
-### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Ich habe vor kurzem einen Blogbeitrag gesehen, bei dem benutzerdefiniertes lernen für Office 365 in Microsoft 365-Lern Pfade umbenannt wird. Werden der Lösung im Rahmen der Umbenennung weitere Änderungen hinzugefügt? Sollte ich die Lösung in meiner Organisation aktualisieren?
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Ich habe kürzlich einen Blogbeitrag gesehen, in dem Custom Learning für Office 365 in Microsoft 365-Lernpfade umbenannt wird. Werden der Lösung im Rahmen der Umbenennung weitere Änderungen hinzugefügt? Soll ich die Lösung in meiner Organisation aktualisieren?
 
-Die Microsoft 365-Lern Pfad Version ist eine neuausrichtungs Maßnahme, die dem Ändern des Namens der Lösung für das Microsoft 365-Branding gewidmet ist. Wenn Sie benutzerdefinierte Lernprogramm für Office 365 derzeit erfolgreich in Ihrer Organisation ausgeführt haben, ist es nicht erforderlich, die Lösung zu diesem Zeitpunkt zu aktualisieren.  
+Die Microsoft 365-Lernpfadeversion ist eine Umbranding-Anstrengung, um den Namen der Lösung so zu ändern, dass sie mit dem Microsoft 365-Branding in Einklang steht. Wenn Custom Learning für Office 365 derzeit erfolgreich in Ihrer Organisation ausgeführt wird, ist es derzeit nicht erforderlich, die Lösung zu aktualisieren.  
 
-### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Was sind die Voraussetzungen für die Installation von Microsoft 365-Lernpfaden in meiner Mandanten Umgebung?
+### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Welche Anforderungen gelten für die Installation von Microsoft 365-Lernpfaden in meiner Mandantenumgebung?
 
 - SharePoint Online- und Kommunikationswebsites aktiviert.
-- Die Person, die CLO365 bereitstellen soll, muss der mandantenadministrator des Zielmandanten für die Installation sein.
-- Ein Mandanten-App-Katalog muss in der Option "Apps" im SharePoint Admin Center verfügbar sein.
-- Wenn ein neuer App-Katalog erstellt wird, ist eine Wartezeit von 30 Minuten oder mehr erforderlich, damit der APP-Katalog vollständig eingerichtet werden kann. Wenn Sie versuchen, Microsoft 365-Lern Pfade direkt nach dem Erstellen des Mandanten-App-Katalogs zur Verfügung zu stellen, führt dies zu einem Fehler bei der Bereitstellungslösung für die Lern Pfade. 
-- Die Einzelperson, die CLO365 bereitstellen wird, muss ein Websitesammlungsadministrator des App-Katalogs im Zielmandanten für die Installation sein.
+- Die Person, die DENK365 bereitstellen wird, muss der Mandantenadministrator des Ziel-Mandanten für die Installation sein.
+- Ein Mandant "App Catalog" muss innerhalb der Option "Apps" des SharePoint Admin Center verfügbar sein.
+- Wenn ein neuer App-Katalog erstellt wird, ist eine Wartezeit von 30 Minuten oder mehr erforderlich, damit der App-Katalog vollständig bereitgestellt wird. Wenn Sie versuchen, Microsoft 365-Lernpfade direkt nach dem Erstellen des Mandanten-App-Katalogs bereitstellen, tritt ein Bereitstellungsfehler der Lösung für Lernpfade auf. 
+- Die Person, die DENK365 bereitstellen soll, muss ein Websitesammlungsadministrator des App-Katalogs im Ziel-Mandanten für die Installation sein.
 
-### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Warum fragt Microsoft bei der Installation von Microsoft 365-Lernpfaden nach Mandanten Berechtigungen 
+### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Warum bittet Microsoft bei der Installation von Microsoft 365-Lernpfaden um Mandantenberechtigungen 
 
-- Der SharePoint Online Bereitstellungsdienst verwendet die Berechtigungen, um die Lern Pfade SharePoint-Website zu erstellen, die Seiten der Website zu erstellen und die Microsoft 365-Lern Pfad Anwendung in Ihrem Mandanten zu installieren. Das ist der einzige Grund dafür, dass wir die Berechtigungen anfordern. Ohne die angeforderten Berechtigungen kann der SharePoint-Bereitstellungsdienst nicht die Befehle ausführen, die die Websitevorlage und das Webpart für Lern Pfade automatisch installieren. 
+- Der SharePoint Online-Bereitstellungsdienst verwendet die Berechtigungen zum Bereitstellen der SharePoint-Website "Lernpfade", zum Erstellen der Seiten der Website und zum Installieren der Microsoft 365-Lernpfadanwendung in ihrem Mandanten. Dies ist der einzige Grund, warum wir die Berechtigungen anfordern. Ohne die angeforderten Berechtigungen kann der SharePoint-Bereitstellungsdienst die Befehle nicht ausführen, die die Websitevorlage und das Webteil für Lernpfade automatisch installieren. 
 
-### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>Was sind die Auswirkungen von Microsoft 365-Lernpfaden in einer Beta Vorschau? 
+### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>Welche Auswirkungen hat eine Betavorschau auf Microsoft 365-Lernpfade? 
 
-Microsoft 365 Lern Pfade befinden sich derzeit in der Beta Vorschau. Berücksichtigen Sie beim Auswerten, planen und Implementieren von Microsoft 365-Lernpfaden Folgendes:
+Microsoft 365-Lernpfade befindet sich derzeit in der Betavorschau. Berücksichtigen Sie folgendes, wenn Sie Microsoft 365-Lernpfade auswerten, planen und implementieren:
 
-- Wie bei jeder Beta-Lösung behält sich unser Service Management Team das Recht vor, Änderungen am Dienst und an seinen Komponenten vorzunehmen. Da wir Bugs und UX-Probleme aktiv beheben, müssen Sie wahrscheinlich das Webpart aktualisieren.
-- Um das Webpart zu aktualisieren, müssen Sie es aus unserem GitHub-Repository herunterladen und in ihren Mandanten-App-Katalog hochladen. Weitere Informationen finden Sie im Abschnitt "Aktualisieren der Lösung" der [Readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) -Datei zu Microsoft 365 Learning-Pfaden. 
+- Wie bei jeder Betalösung behält sich unser Serviceverwaltungsteam das Recht vor, Änderungen am Dienst und seinen Komponenten vorzunehmen. Da Sie Fehler und UX-Probleme aktiv beheben, müssen Sie das WebPart wahrscheinlich aktualisieren.
+- Um das Webteil zu aktualisieren, müssen Sie es aus unserem GitHub-Repository herunterladen und in Ihren Mandanten-App-Katalog hochladen. Weitere Informationen finden Sie im Abschnitt "Aktualisieren der Lösung" der [Readme-Datei](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) für Microsoft 365-Lernpfade. 
 
-### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>In welchen Sprachen sind Microsoft 365-Lern Pfade verfügbar?
+### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>In welchen Sprachen sind Microsoft 365-Lernpfade verfügbar?
 
-Microsoft 365-Lern Pfade sind derzeit nur in englischer Sprache verfügbar. Die automatische End-to-End-proprovisionierung funktioniert nur mit englischen Mandanten. Wir planen die Einführung einer mehrsprachigen Unterstützung für die folgenden Sprachen im zweiten Quartal 2020. 
+Microsoft 365-Lernpfade sind derzeit nur in Englisch verfügbar. Die automatische End-to-End-Bereitstellung funktioniert nur mit englischen Mandanten. Wir planen, den mehrsprachigen Support für die folgenden Sprachen im zweiten Quartal 2020 zu bieten. 
 
 - Chinesisch (vereinfacht) 
 - Französisch  
@@ -50,39 +53,39 @@ Microsoft 365-Lern Pfade sind derzeit nur in englischer Sprache verfügbar. Die 
 - Russisch (Russisch)  
 - Spanisch 
 
-> Die Unterstützung für die niederländische Sprache wird in der bevorstehenden Version der mehrsprachigen Unterstützung für Lern Pfade nicht berücksichtigt. Wir werden auch in Zukunft neue Sprachoptionen evaluieren.
+> Unterstützung für die niederländische Sprache wird in der bevorstehenden Veröffentlichung der mehrsprachigen Unterstützung für Lernpfade nicht enthalten sein. Wir werden auch in Zukunft neue Sprachoptionen auswerten.
 
-### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Wie lange dauert es, bis die Website in unserer Mandanten Umgebung installiert wird?
+### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Wie lange dauert die Installation der Website in unserer Mandantenumgebung?
 
-Basierend auf den Tests der Installation sollte es weniger als 15 Minuten dauern. Dies schließt nicht die Zeit ein, die für die Anpassung der Website an Ihre Anforderungen erforderlich ist.
+Basierend auf unseren Tests der Installation sollte es weniger als 15 Minuten dauern. Dies schließt nicht die Zeit ein, die für die Anpassung der Website an Ihre Anforderungen erforderlich ist.
 
-### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Handelt es sich bei Microsoft 365-Lernpfaden um eine Open Source-Lösung, und welche Auswirkungen hat dies?
+### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Ist Microsoft 365-Lernpfade eine Open-Source-Lösung, und welche Auswirkungen hat dies?
 
-Microsoft 365 Lernpfade sind eine Open Source Software (OSS)-Lösung und tragen als solche eine Reihe von Vorteilen und Überlegungen für das deutsche für OSS:
+Microsoft 365-Lernpfade sind eine Open-Source-Software (OSS)-Lösung, die eine Reihe von Vorteilen und Überlegungen für OSS mit sich bringt:
 
 #### <a name="benefits"></a>Vorteile 
-- **Microsoft 365 Lern Pfade ist eine ﻿kostenlose Lösung:** Kunden können die Lösung in Ihrem Mandanten installieren, anpassen und für Endbenutzer verfügbar machen.
-- **OSS ermöglicht eine schnelle Entwicklung und Zusammenarbeit:**  Alle Open Source-Lösungen stehen einer breiten Community von Mitwirkenden zur Verfügung.  Microsoft setzt sich für diese Methode der Innovationssteuerung ein.  Um sicherzustellen, dass wir eine Erfahrung liefern, die den umfassendsten unserer Kunden zugute kommt, behält sich unser Kerndienst-Management-Team das Recht vor, festzustellen, welche Beiträge in unserem offiziellen Build zusammengeführt werden.  
-- **OSS ermöglicht die Zusammenarbeit mit Partnern:** Microsoft arbeitet mit mehreren Lernpartnern zusammen, um Ihre Bemühungen für zukünftige Erweiterungen und Beiträge für Microsoft 365-Lern Pfade zu unterstützen. Wir werden weitere Informationen bereitstellen, wenn diese Pläne abgeschlossen werden. 
+- **Microsoft 365-Lernpfade sind eine kostenlose Lösung:** Kunden können die Lösung in ihrem Mandanten installieren, anpassen und endbenutzern zur Verfügung stellen
+- **OSS ermöglicht eine schnelle Entwicklung und Zusammenarbeit:**  Alle Open-Source-Lösungen stehen einer breiten Community von Mitwirkenden zur Verfügung.  Microsoft setzt sich für diese Methode zur Förderung von Innovationen ein.  Um sicherzustellen, dass wir eine Erfahrung bereitstellen, von der die breiteste Gruppe unserer Kunden profitiert, behält sich unser Kernteam für die Dienstverwaltung das Recht vor, zu bestimmen, welche Beiträge in unserem offiziellen Build zusammengeführt werden.  
+- **OSS ermöglicht die Zusammenarbeit mit Partnern:** Microsoft arbeitet mit mehreren Lernpartnern zusammen, um ihre Bemühungen um zukünftige Erweiterungen und Beiträge zu Microsoft 365-Lernpfaden zu unterstützen. Wir werden weitere Informationen bereitstellen, sobald diese Pläne finalisiert werden. 
     
-#### <a name="implications"></a>Auswirkungen
-- **OSS ist kein kommerziell verfügbares Produkt:** Kommerzielle Produkte umfassen Aktualisierung und Patching und sind in gebührenbasierten Supportverträgen enthalten. Während Microsoft derzeit Dokumentation, Aktualisierung und Patchen für Microsoft 365-Lern Pfade anbietet, basiert es auf unserer Verpflichtung, dieses spezielle Geschäftsszenario zu verbessern. Unsere Pläne sind es, weiterhin in Lernpfade zu investieren, aber die Kunden sollten sich darüber im klaren sein, dass unser Service Management Team in Zukunft auch Strategien ändern kann. Zukünftige Änderungen an den Lernpfaden von Microsoft 365 werden vorab mitgeteilt, bevor Sie wirksam werden. 
-- **Als OSS werden Microsoft 365-Lern Pfade über eine Online-Problemliste auf GitHub unterstützt**: Microsoft 365-Lernpfade werden nicht von einem vorhandenen Microsoft-Supportvertrag abgedeckt. Übermittelte Probleme werden von Microsoft 365-Dienstbesitzern und der Community für Lern Pfade für Bildungsgänge abgesprochen. Die Problem Auflösungsdienst Ebenen befinden sich nicht auf der gleichen Ebene wie ein bezahlter Microsoft-Supportvertrag.  
+#### <a name="implications"></a>Implikationen
+- **OSS ist kein kommerziell verfügbares Produkt:** Kommerzielle Produkte umfassen Aktualisierungen und Patching und sind in kostenpflichtigen Supportverträgen enthalten. Obwohl Microsoft derzeit Dokumentation, Aktualisierung und Patching für Microsoft 365-Lernpfade anbietet, basiert es auf unserer Verpflichtung, dieses bestimmte Geschäftsszenario zu verbessern. Unsere Pläne sind es, weiterhin in Lernpfade zu investieren, und beachten Sie, dass unser Servicemanagementteam in Zukunft Strategien ändern kann. Alle zukünftigen Änderungen an Microsoft 365-Lernpfaden werden vor dem Wirksam werden kommuniziert. 
+- **Als OSS werden Microsoft 365-Lernpfade** über eine Onlineproblemeliste auf GitHub unterstützt: Microsoft 365-Lernpfade werden nicht von einem vorhandenen Microsoft-Supportvertrag abgedeckt. Übermittelte Probleme werden von Den Besitzern von Microsoft 365-Lernpfaden und der Community triagediert. Die Servicelevels für die Problembeauflösung befinden sich NICHT auf der gleichen Stufe wie ein kostenpflichtiger Microsoft-Supportvertrag.  
 
-### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>Können wir die Microsoft 365 Learning-Pfade zu einer Unterwebsite unserer primären SharePoint-Websitesammlung machen?
+### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>Können wir die Microsoft 365-Lernpfade zu einer Unterwebsite unserer primären SharePoint-Websitesammlung machen?
 
-Nein. Die Website basiert auf einer Kommunikationswebsite Vorlage, die immer als Stammwebsitesammlung gedacht ist.
-
-> [!NOTE]
-> Es ist wichtig, die Berechtigungen zu beachten, die Ihre Endbenutzer für den Zugriff auf die Website benötigen. Die meisten Organisationen haben Sicherheits-oder Benutzergruppen definiert. Sie müssen dem neuen Schulungsportal die entsprechenden Sicherheitsgruppen hinzufügen, sobald Sie es für Ihre Mitarbeiter Community starten können.
-
-### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>Ich muss die Website neu installieren; Was soll ich tun?
-
-Befolgen Sie die [hier](custom_provision.md)veröffentlichten Installationsanweisungen.
+Nein. Die Website basiert auf einer Kommunikationswebsitevorlage, die immer als Stammwebsitesammlung gedacht ist.
 
 > [!NOTE]
-> Wenn Sie die Telemetrie in Ihrer vorherigen Installation deaktiviert haben und mit deaktivierter Telemetrie fortfahren möchten, müssen Sie die Anweisungen zum Deaktivieren der Telemetrie hier befolgen.
+> Es ist wichtig, die Berechtigungen zu berücksichtigen, die Ihre Endbenutzer für den Zugriff auf die Website benötigen. Die meisten Organisationen haben Sicherheits- oder Benutzergruppen definiert. Sie müssen dem neuen Schulungsportal die entsprechenden Sicherheitsgruppen hinzufügen, sobald Sie bereit sind, es in Ihrer Mitarbeiter-Community zu starten.
 
-### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>Wir haben Updates für unsere Implementierung von Microsoft 365-Lernpfaden vorgenommen. Werden diese Updates (erstellt in der Websitevorlage, Wiedergabelisten) verloren, wenn wir die Website neu installieren?
+### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>Ich muss die Website neu installieren. Was soll ich tun?
 
-Anpassungen für einzelne Seiten und benutzerdefinierte Wiedergabelisten gehen verloren, wenn Sie die Website über Ihre aktuelle Installation neu installieren.  
+Befolgen Sie die hier veröffentlichten [Installationsanweisungen.](custom_provision.md)
+
+> [!NOTE]
+> Wenn Sie die Telemetrie in Ihrer vorherigen Installation deaktiviert haben und die Telemetrie deaktivieren möchten, müssen Sie hier die Anweisungen zum Deaktivieren der Telemetrie befolgen.
+
+### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>Wir haben Updates für die Implementierung von Microsoft 365-Lernpfaden vorgenommen. Gehen diese Updates (an Websitevorlage, Wiedergabelisten) verloren, wenn wir die Website erneut installieren?
+
+Anpassungen an einzelnen Seiten und benutzerdefinierten Wiedergabelisten gehen verloren, wenn Sie die Website über Die aktuelle Installation neu installieren.  
