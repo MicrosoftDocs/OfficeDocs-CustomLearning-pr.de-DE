@@ -5,30 +5,33 @@ title: Setupoptionen für mehrsprachige Lernpfade
 ms.date: 07/6/2020
 description: Setupoptionen für mehrsprachige Lernpfade
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 2fb18de310d87bf4f41724a874f587a628e4f68b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 1384885adc1d7119658bf968e18e8859c784ef37
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233957"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999311"
 ---
 # <a name="setup-options-for-multilingual-learning-pathways"></a>Setupoptionen für mehrsprachige Lernpfade
 Mit der Veröffentlichung mehrsprachiger Features für SharePoint Online-Kommunikationswebsites bieten Lernpfade jetzt Unterstützung für mehrere Sprachen. Sie können Lernpfade auf verschiedene Arten einrichten, um den Bedürfnissen Ihrer Organisation gerecht zu werden. Um Ihnen bei der Entscheidung über den besten Pfad für Ihre Organisation zu helfen, haben wir die Einstellungsoptionen behandelt. 
 
 ## <a name="new-install-scenarios"></a>Neue Installationsszenarien
-In den "neuen Installationsszenarien" werden die Optionen zum Installieren einer neuen Instanz der Lernpfade mithilfe des SharePoint-Bereitstellungs Diensts erläutert, der jetzt im SharePoint-suchbuch verfügbar ist.
+In den "neuen Installationsszenarien" werden die Optionen zum Installieren einer neuen Instanz der Lernpfade mithilfe des SharePoint-Bereitstellungsdiensts erläutert, der jetzt im SharePoint-Look book verfügbar ist.
 
 ### <a name="scenario-1-we-have-not-installed-learning-pathways-and-need-learning-pathways-multilingual-support"></a>Szenario 1: Wir haben keine Lernpfade installiert und brauchen mehrsprachige Unterstützung für Lernpfade 
-Wenn Sie keine Lernpfade installiert haben und mehrere Sprachen benötigen, können Sie mit dem SharePoint-prodienst eine neue Lern Pfad Lösung mit Unterstützung für neun Sprachen installieren. Englisch ist die Standardsprache und kann nicht geändert werden. 
+Wenn Sie keine Lernpfade installiert haben und mehrere Sprachen benötigen, können Sie den SharePoint-Bereitstellungsdienst verwenden, um eine neue Lösung für Lernpfade mit Unterstützung für neun Sprachen zu installieren. Englisch ist die Standardsprache und kann nicht geändert werden. 
 - Informationen zur Bereitstellung einer neuen Lernpfade-Lösung mit Englisch als Standardsprache für die Website finden Sie unter [Bereitstellung einer neuen Lernpfade-Lösung](custom_provision_ml.md).
 
 ### <a name="scenario-2-we-installed-learning-pathways-but-arent-currently-using-it-andor-havent-made-any-customization-to-the-site-or-playlists"></a>Szenario 2: Wir haben Lernpfade installiert, verwenden sie aber derzeit nicht und/oder haben keine Anpassung an Website oder Wiedergabelisten vorgenommen. 
-Wenn Sie Lern Pfade installiert haben und diese nicht aktiv verwenden oder keine Anpassungen an der Website oder an den Wiedergabelisten vorgenommen haben, können Sie den SharePoint-prodienst verwenden, um eine neue Lösung mit Unterstützung für neun Sprachen zu installieren. Englisch ist die Standardsprache und kann nicht geändert werden. 
+Wenn Sie Lernpfade installiert, aber nicht aktiv verwenden oder keine Anpassungen an der Website oder wiedergabelisten vorgenommen haben, können Sie den SharePoint-Bereitstellungsdienst verwenden, um eine neue Lösung mit Unterstützung für neun Sprachen zu installieren. Englisch ist die Standardsprache und kann nicht geändert werden. 
 - Informationen zur Bereitstellung einer neuen Lernpfade-Lösung mit Englisch als Standardsprache für die Website finden Sie unter [Bereitstellung einer neuen Lernpfade-Lösung](custom_provision_ml.md).
 
 ### <a name="scenario-3-we-havent-installed-learning-pathways-and-dont-need-multilingual-support"></a>Szenario 3: Wir haben keine Lernpfade installiert und brauchen keinen mehrsprachigen Support 
-Wenn Sie keine Lern Pfade installiert haben und keine mehrsprachige Unterstützung benötigen, können Sie Sie über den SharePoint-Dienst für die SharePoint-Zustellung installieren. Englisch ist die Standardsprache. Nach der Installation müssen Sie die Mehrsprachigkeit deaktivieren. 
+Wenn Sie keine Lernpfade installiert haben und keinen mehrsprachigen Support benötigen, können Sie sie über den SharePoint-Bereitstellungsdienst installieren. Englisch ist die Standardsprache. Nach der Installation müssen Sie die Mehrsprachigkeit deaktivieren. 
 - Informationen zur Bereitstellung einer neuen Lernpfade-Lösung ohne mehrsprachigen Support finden Sie unter [Bereitstellung einer neuen Lernpfade-Lösung](custom_provision_ml.md).
 
 ## <a name="update-learning-pathways-with-a-web-part-upload-scenarios"></a>Szenarien für das Aktualisieren von Lernpfaden (mit einem Webpartupload)

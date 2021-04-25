@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Bereitstellen der Benutzerdefinierten Lernwebsite
 ms.date: 02/10/2019
 description: Bereitstellen der Benutzerdefinierten Lernumgebung für Office 365-Website über das SharePoint-Bereitstellungsmodul
-ms.service: sharepoint online
-ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: f930eba5815366bcefd2730c88a3c2df3f246dd4
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162922"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000321"
 ---
 # <a name="provision-custom-learning"></a>Bereitstellen von benutzerdefiniertem Lernen
 
@@ -27,26 +30,22 @@ Zum erfolgreichen Einrichten von Custom Learning mit dem Bereitstellungsdienst [
 ### <a name="to-provision-custom-learning"></a>So bereitstellen Sie benutzerdefiniertes Lernen
 
 1. Wechseln Sie http://provisioning.sharepointpnp.com **zu, und melden** Sie sich von der oberen rechten Ecke der Startseite an.  Melden Sie sich mit den Anmeldeinformationen für den zielorientierten Mandanten an, in dem Sie die Websitevorlage installieren möchten.
-
-![pnphome.png](media/inst_signin.png)
+![Hauptseite des Bereitstellungsdiensts.](media/inst_signin.png)
 
 2. Löschen Sie die **Zustimmung im Namen Ihrer Organisation,** und wählen Sie Akzeptieren **aus.**
-
-![in](media/inst_perms.png)
+![Zustimmungsbildschirm](media/inst_perms.png)
 
 3. Wählen Sie im Lösungskatalog Benutzerdefiniertes Lernen für **Office 365** aus.
+![Bildschirm, auf dem Sie Benutzerdefiniertes Lernen für Office 365 auswählen.](media/inst_select.png)
 
-![in](media/inst_select.png)
-
-4. Wählen Sie auf der Homepage der Lösung **die Option Zu Ihrem Mandanten hinzufügen aus.**
-
-![inst_select.png](media/inst_add.png)
+4. Wählen Sie auf der Homepage der Lösung die Option **Zum Mandantenbildschirm hinzufügen** aus, wo Sie 
+ ![ Zu Ihrem Mandanten hinzufügen auswählen.](media/inst_add.png)
 
 5. Füllen Sie die Felder auf der Seite mit den Bereitstellungsinformationen entsprechend Ihrer Installation aus. Geben Sie mindestens die E-Mail-Adresse ein, an der Sie Benachrichtigungen über den Bereitstellungsprozess und die Ziel-URL für Ihre Website erhalten möchten, für die sie bereitgestellt werden soll.  
-> [!NOTE]
-> Gestalten Sie die Ziel-URL für Ihre Website für Ihre Mitarbeiter wie "/sites/MyTraining" oder "/teams/LearnOffice365".
+   > [!NOTE]
+   > Gestalten Sie die Ziel-URL für Ihre Website für Ihre Mitarbeiter wie "/sites/MyTraining" oder "/teams/LearnOffice365".
 
-![inst_options.png](media/inst_options.png)
+   ![Bildschirm, auf dem Sie Bereitstellungsdetails bereitstellen.](media/inst_options.png)
 
 6. Wählen **Sie Bereitstellen** aus, wenn Sie benutzerdefiniertes Lernen in Ihrer Mandantenumgebung installieren möchten.  Der Bereitstellungsvorgang kann bis zu 15 Minuten dauern. Sie werden per E-Mail (an die Benachrichtigungs-E-Mail-Adresse, die Sie auf der Seite "Bereitstellung" eingegeben haben) benachrichtigt, wenn die Website für den Zugriff bereit ist.
 
@@ -66,6 +65,3 @@ Als Mandantenadministrator ist es unwahrscheinlich, dass Sie die Person sind, di
 4. Klicken **Sie auf Neue** Benutzer zu dieser Gruppe hinzufügen, fügen Sie die Personen hinzu, die Besitzer sein sollen, und klicken Sie  >  dann auf **Freigeben.**
 
 8. Klicken Sie **in** der oberen rechten Ecke der Seite auf die Option Folgen, um der Website zu folgen.  
-
-### <a name="next-steps"></a>Nächste Schritte
-- Sehen Sie sich [die Standardinhalte an,](sitecontent.md) die im Webpart enthalten sind.

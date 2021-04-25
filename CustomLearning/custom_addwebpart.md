@@ -1,45 +1,45 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Hinzufügen und Bearbeiten des Webparts Microsoft 365 Learning-Pfade
+title: Hinzufügen und Bearbeiten des Microsoft 365-Lernpfad-Web teils
 ms.date: 02/17/2019
-description: Hinzufügen des Microsoft 365 Learning Pfads-Webparts zu einer SharePoint-Seite
-ms.service: sharepoint online
-ms.openlocfilehash: 35b07940f0f71dd3c8398412c755d514a951b6d1
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Hinzufügen des Microsoft 365-Lernpfadwebteils zu einer SharePoint-Seite
+ms.service: sharepoint-online
+ms.openlocfilehash: 78279ddeb9e73ca087d546f5081444596a209aa7
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234657"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999201"
 ---
-# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>Hinzufügen und Bearbeiten des Webparts Microsoft 365 Learning-Pfade
+# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>Hinzufügen und Bearbeiten des Microsoft 365-Lernpfadwebteils
 
-Microsoft 365 Lernpfade bieten Ihnen die Möglichkeit, das Microsoft 365 Learning Pfads-Webpart einer SharePoint-Seite hinzuzufügen und dann den Inhalt des Webparts zu filtern, um die Lernziele für die Seite zu erfüllen. Sie können beispielsweise eine Seite "zur OneDrive wechseln" erstellen, dann das Webpart hinzufügen und es so konfigurieren, dass es benutzerdefinierte OneDrive-Migrations Wiedergabelisten anzeigt, die speziell für Ihre Organisation erstellt wurden.
+Microsoft 365-Lernpfade bieten Ihnen die Flexibilität, das Microsoft 365-Lernpfadwebteil zu einer SharePoint-Seite hinzuzufügen und anschließend die Inhalte des Webteils zu filtern, um die Lernziele für die Seite zu erfüllen. Sie könnten beispielsweise eine Seite "Wechseln zu OneDrive" erstellen und dann das Webteil hinzufügen und so konfigurieren, dass benutzerdefinierte #A0 angezeigt werden, die speziell für Ihre Organisation erstellt wurden.
 
-1.  Klicken Sie auf das Symbol SharePoint Gear, und klicken Sie dann auf **Seite hinzufügen**.
-2.  Klicken Sie auf der linken Seite auf **einen neuen Abschnitt hinzufügen (+)** , und klicken Sie dann auf **eine Spalte**.
-3.  Klicken Sie auf **+** , und wählen Sie dann **Microsoft 365 Learning Pfads** -Webpart aus. 
+1.  Klicken Sie auf das Symbol SharePoint Gear, und klicken Sie dann **auf Seite hinzufügen.**
+2.  Klicken Sie auf der linken Seite der Seite auf Hinzufügen eines neuen **Abschnitts (+),** und klicken Sie dann auf **Eine Spalte**.
+3.  Klicken **+** Sie auf , und wählen Sie dann Microsoft **365-Lernpfad-Web** part aus. 
 
 ![cg-webpartadd.png](media/cg-webpartadd.png)
 
-## <a name="edit-the-custom-learning-web-part"></a>Bearbeiten des benutzerdefinierten Lern Webparts
-Sie können das Webpart Microsoft 365 Learning-Pfade bearbeiten, um alle verfügbaren benutzerdefinierten Lerninhalte oder eine bestimmte Kategorie, Unterkategorie, Wiedergabeliste oder ein Objekt anzuzeigen. 
+## <a name="edit-the-custom-learning-web-part"></a>Bearbeiten des Benutzerdefinierten Lernwebteils
+Sie können das Microsoft 365-Lernpfad-Web part bearbeiten, um alle verfügbaren Benutzerdefinierten Lerninhalte oder eine bestimmte Kategorie, Unterkategorie, Wiedergabeliste oder Ressource anzuzeigen. 
 
 1.  Klicken Sie auf **Webpart bearbeiten**.
 
 ![cg-webpartedit.png](media/cg-webpartedit.png)
 
-2. Filtern Sie im Bereich benutzerdefinierte Lern Eigenschaften das Webpart für Folgendes. 
+2. Filtern Sie im Bereich Benutzerdefinierte Lerneigenschaften das Webteil nach Folgendem. 
 
-- Webpart-Modus: vollständig
+- Webpartmodus: Vollständig
 - Filter: Unterkategorie
 - Unterkategorie: Excel
 
-3. Die Seite sollte nun etwa wie in der folgenden Abbildung aussehen: 
+3. Ihre Seite sollte nun etwa wie die folgende Abbildung aussehen: 
 
 ![cg-webpartfilter.png](media/cg-webpartfilter.png)
 
 ## <a name="add-a-title-and-publish-the-page"></a>Hinzufügen eines Titels und Veröffentlichen der Seite
-1. Geben Sie im Titelbereich der Seite "eigene Benutzeroberfläche erstellen" ein.
-2. Klicken Sie im Bereich Titel auf das Symbol **Webpart bearbeiten** , wählen Sie unter **Layout**die Option **Plain** aus, und schließen Sie dann den Bereich **Eigenschaften** .
+1. Geben Sie im Titelbereich der Seite "Eigene Erfahrung erstellen" ein.
+2. Klicken Sie im Bereich Titel auf das Symbol **Webteil** bearbeiten, wählen Sie Unter **Layout** die Option **Nur** aus, und schließen Sie dann den **Bereich Eigenschaften.**
 3. Klicken Sie auf **Veröffentlichen**.

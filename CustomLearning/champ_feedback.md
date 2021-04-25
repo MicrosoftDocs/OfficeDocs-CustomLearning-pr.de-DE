@@ -5,13 +5,13 @@ author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 259952d15b960f1946ad7bed466ff44bcd23ccb6
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: afa2a593572af8fca059274e0bc36b1275870384
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162882"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000001"
 ---
 # <a name="collect-feedback-from-your-employees"></a>Sammeln von Feedback von Ihren Mitarbeitern
 

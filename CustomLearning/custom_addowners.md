@@ -1,43 +1,43 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Wechseln Sie zum benutzerdefinierten Lernprozess für Office 365 Website.
+title: Wechseln zur Benutzerdefinierten Lernumgebung für Office 365-Website
 ms.date: 02/18/2019
 description: Wechseln zur benutzerdefinierten Lernwebsite
-ms.service: sharepoint online
-ms.openlocfilehash: a91ed15c51eea3259e503687308a14b073aa94ee
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: a232b192b92f1305486538b2baaf2cbc917c9ecb
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234677"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999121"
 ---
 # <a name="add-owners-custom-learning-site"></a>Benutzerdefinierte Lernwebsite "Besitzer hinzufügen"
 
-Das benutzerdefinierte Lernangebot für Office 365 Website wird in Ihrem Office 365 Mandanten gehostet, daher müssen Sie sich bei Office 365 anmelden, wenn Sie noch nicht angemeldet sind, um zur Website zu gelangen. 
+Die Benutzerdefinierte Lernumgebung für Office 365 wird in Ihrem Office 365-Mandanten gehostet, daher müssen Sie sich bei Office 365 anmelden, wenn Sie noch nicht angemeldet sind, um zur Website zu kommen. 
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
 1.  Öffnen Sie Ihren Webbrowser und navigieren Sie zu office.com oder der Anmeldeseite Ihrer Organisation. 
 2.  Melden Sie sich mit Ihrem Benutzernamen und Kennwort an.
-3.  Navigieren Sie zum Speicherort der Website. Wenn Sie ihn nicht zur Verfügung haben, können Sie ihn in der e-Mail finden, die Sie vom PNP-Bereitstellung-Dienst erhalten haben. Wählen Sie auf der Startseite von Office 365 SharePoint aus, und wählen Sie dann die **benutzerdefinierte Schulung für Office 365** Website aus. Möglicherweise haben Sie den Namen unterschiedlich benannt. 
-5. Klicken Sie auf die Kachel **Office 365 Schulung** , um die vollständige Sammlung von Schulungs Listen anzuzeigen, die mit benutzerdefiniertem Lernen zur Verfügung stehen, und um zu überprüfen, ob benutzerdefiniertes lernen wie 
+3.  Navigieren Sie zum Speicherort der Website. Wenn sie nicht verfügbar ist, finden Sie sie in der E-Mail, die Sie vom PnP-Bereitstellungsdienst erhalten haben. Wählen Sie auf der Office 365-Startseite SharePoint aus, und wählen Sie dann die Benutzerdefinierte Lernumgebung für **Office 365** aus. Sie haben sie möglicherweise anders benannt. 
+5. Klicken Sie auf **die Office 365-Schulungskachel,** um die vollständige Suite von Schulungslisten zu sehen, die mit Custom Learning verfügbar ist, und um zu überprüfen, ob benutzerdefiniertes Lernen wie erwartet funktioniert. 
 
 ![cg-goto.png](media/cg-goto.png)
 
-## <a name="view-all-the-custom-learning-content"></a>Anzeigen aller benutzerdefinierten Lerninhalte
-Auf der Seite Office 365 Training wird das benutzerdefinierte Lern Webpart gehostet, das für die Anzeige aller verfügbaren Schulungen für benutzerdefiniertes lernen konfiguriert ist. 
+## <a name="view-all-the-custom-learning-content"></a>Anzeigen aller Benutzerdefinierten Lerninhalte
+Auf der Office 365-Schulungsseite wird das Benutzerdefinierte Lernwebteil hostet, das so konfiguriert ist, dass alle für benutzerdefiniertes Lernen verfügbaren Schulungen angezeigt werden. 
 
-1. Scrollen Sie auf der Seite nach unten, um alle Kategorien und Unterkategorien anzuzeigen.
-2. Kick die Reifen ein wenig. Klicken Sie auf einige Unterkategorien, und klicken Sie dann auf einige Wiedergabelisten, um ein Gefühl dafür zu erhalten, wie benutzerdefinierte Lerninhalte organisiert werden. 
+1. Scrollen Sie auf der Seite nach unten, um alle Kategorien und Unterkategorien zu sehen.
+2. Kicken Sie die Reifen ein wenig. Klicken Sie auf einige Unterkategorien, und klicken Sie dann auf ein paar Wiedergabelisten, um ein Gefühl für die Organisation von Inhalten für benutzerdefiniertes Lernen zu erhalten. 
 
 ![cg-gotoall.png](media/cg-gotoall.png)
 
 ## <a name="add-owners-to-site"></a>Hinzufügen von Besitzern zur Website
-Als mandantenadministrator ist es unwahrscheinlich, dass Sie die Person anpassen, die die Website anpasst, sodass Sie der Website einige Besitzer zuweisen müssen. Besitzer verfügen über Administratorrechte für die Website, damit Sie Website Seiten ändern und die Website neu Branding können. Sie haben auch die Möglichkeit, Inhalte, die über das benutzerdefinierte Lern Webpart übermittelt werden, auszublenden und anzuzeigen. Sie haben außerdem die Möglichkeit, benutzerdefinierte Wiedergabelisten zu erstellen und Sie benutzerdefinierten Unterkategorien zuzuweisen.  
+Als Mandantenadministrator ist es unwahrscheinlich, dass Sie die Person sein werden, die die Website anpasst, sodass Sie der Website einige Besitzer zuweisen müssen. Besitzer verfügen über Administratorrechte auf der Website, damit sie Websiteseiten ändern und die Website neubranden können. Sie haben auch die Möglichkeit, Inhalte auszublenden und anzuzeigen, die über das Custom Learning-Web part übermittelt werden. Außerdem können sie benutzerdefinierte Wiedergabelisten erstellen und benutzerdefinierten Unterkategorien zuweisen.  
 
-1. Klicken Sie im Menü SharePoint- **Einstellungen** auf **Websiteberechtigungen**.
-2. Klicken Sie auf **Erweiterte Berechtigungseinstellungen**.
-3. Klicken Sie auf **benutzerdefiniertes lernen für Office 365 Besitzer**.
-4. Klicken Sie auf **neue**  >  **Benutzer zu dieser Gruppe hinzufügen**, fügen Sie die Personen hinzu, die Besitzer sein sollen, und klicken Sie dann auf **Freigeben**.
+1. Klicken Sie im Menü **SharePoint-Einstellungen** auf **Websiteberechtigungen**.
+2. Klicken Sie **auf Erweiterte Berechtigungseinstellungen**.
+3. Klicken **Sie auf Benutzerdefiniertes Lernen für Office 365-Besitzer**.
+4. Klicken **Sie auf Neue** Benutzer zu dieser Gruppe hinzufügen, fügen Sie die Personen hinzu, die Besitzer sein sollen, und klicken Sie  >  dann auf **Freigeben.**
 

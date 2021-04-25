@@ -1,17 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Übersicht
 ms.date: 07/06/2020
 description: Mehrsprachiger Support für Lernpfade
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: abf08f37a12550f81dd3e3eb6944255257535cf4
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+audience: admin
+ms.topic: article
+ms.openlocfilehash: 5c57a6ef61e064bd2b9a330bc7e23678ebfdcc1a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163022"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999471"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachiger Support für Lernpfade
 

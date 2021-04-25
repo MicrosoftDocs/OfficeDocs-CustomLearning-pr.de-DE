@@ -1,37 +1,37 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Durchsuchen der Website und Standardinhalte
+title: Erkunden der Website und der Standardinhalte
 ms.date: 02/10/2019
-description: Erkunden der Website für Lern Pfade und Standardinhalte
-ms.service: sharepoint online
-ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Erkunden der Lernpfadwebsite und der Standardinhalte
+ms.service: sharepoint-online
+ms.openlocfilehash: 667a30b0c455b9ced416e73cb18682b54aa31dd8
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234447"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999731"
 ---
-# <a name="explore-the-learning-pathways-site"></a>Erkunden der Website für Lern Pfade
+# <a name="explore-the-learning-pathways-site"></a>Erkunden der Lernpfadwebsite
 
-> Hinweis: Sie benötigen Websitesammlungsadministratoren, Besitzer oder Mitglieder Berechtigungen für die Website, um die Website mit den Lernpfaden und den Verwaltungsfunktionen zu untersuchen. Wenn Sie nicht über die notwendig-Berechtigungen verfügen, wenden Sie sich an den Website Administrator für die Website. Die Website für Lern Pfade wird in Ihrem Office 365 Mandanten gehostet, daher müssen Sie sich bei Office 365 anmelden, um zur Website zu gelangen. Wenn Sie sich nicht bereits bei Office 365 angemeldet haben, melden Sie sich jetzt an. 
+> Hinweis: Zum Erkunden der Lernpfadwebsite und der verwaltungstechnischen Features benötigen Sie Websitesammlungsadministrator-, Besitzer- oder Mitgliederberechtigungen für die Website. Wenn Sie nicht über die erforderlichen Berechtigungen verfügen, wenden Sie sich an den Websiteadministrator für die Website. Die Lernpfadwebsite wird in Ihrem Office 365-Mandanten gehostet, daher müssen Sie sich bei Office 365 anmelden, um zur Website zu kommen. Wenn Sie sich noch nicht bei Office 365 angemeldet haben, melden Sie sich jetzt an. 
 
 ## <a name="sign-in-to-office-365"></a>Sign in to Office 365 
 
 1.  Öffnen Sie Ihren Webbrowser und navigieren Sie zu office.com oder der Anmeldeseite Ihrer Organisation. 
 2.  Melden Sie sich mit Ihrem Benutzernamen und Kennwort an.
-3.  Navigieren Sie mit der vom mandantenadministrator bereitgestellten URL zum Speicherort der Website, oder wählen Sie SharePoint auf der Office 365 Homepage aus, und wählen Sie dann den Standort aus. 
+3.  Navigieren Sie mithilfe der von Ihrem Mandantenadministrator bereitgestellten URL zum Speicherort der Website, oder wählen Sie auf der Office 365-Startseite SharePoint aus, und wählen Sie dann die Website aus. 
 
 ![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>Erkunden von Microsoft 365-Lernpfaden
 
-Die Website für Lern Pfade basiert auf einer SharePoint-Kommunikations Vorlage, sodass es einfach ist, die Website so zu ändern, dass Sie den Anforderungen Ihrer Organisation entspricht. Sie können den Websitenamen, das Logo, die Menüelemente und den Inhalt der Seiten ändern. Anleitungen zum Anpassen von Lernpfaden finden Sie im Admin Success Center. 
+Die Website für Lernpfade basiert auf einer SharePoint-Kommunikationsvorlage, sodass die Website ganz einfach an die Anforderungen Ihrer Organisation angepasst werden kann. Sie können den Websitenamen, das Logo, die Menüelemente und den Inhalt auf den Seiten ändern. Anleitungen zum Anpassen von Lernpfaden werden im Admin Success Center bereitgestellt. 
 
-### <a name="get-started-with-the-admin-success-center"></a>Erste Schritte mit dem Administrator Success Center
+### <a name="get-started-with-the-admin-success-center"></a>Erste Schritte mit dem Admin Success Center
 
-Das Administrator Success Center bietet die Anleitungen und Ressourcen, die Sie bei der Planung, Anpassung, Einführung und Messung der Auswirkungen ihrer Lern Pfadbereitstellung unterstützen. 
+Das Admin Success Center bietet Die Anleitungen und Ressourcen, mit deren Hilfe Sie die Auswirkungen Ihrer Bereitstellung von Lernpfaden planen, anpassen, die Einführung fördern und messen können. 
 
-- Klicken Sie auf der **Homepage** von Microsoft 365 Learning Pfads auf **Erste Schritte mit dem Administrator Success Center**.
+- Klicken Sie auf der Startseite  der Microsoft 365-Lernpfade auf **Erste Schritte mit dem Admin Success Center**.
 
-Lern Pfade bieten Anleitungen im Admin Success Center in der Lösung. Dokumentation für das Admin Success Center steht auch in dieser Dokumentationsgruppe zur Verfügung. Siehe [Lern Pfade admin Success Center](custom_successcenter.md).
+Lernpfade bieten Anleitungen im Admin Success Center in der Lösung. Dokumentation für das Admin Success Center finden Sie auch in diesem Dokumentationssatz. Weitere [Informationen finden Sie unter Learning pathways Admin Success Center](custom_successcenter.md).

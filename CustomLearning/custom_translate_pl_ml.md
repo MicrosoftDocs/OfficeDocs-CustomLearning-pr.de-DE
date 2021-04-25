@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Übersetzen von benutzerdefinierten Wiedergabelisten für Lernpfade
 ms.date: 07/06/2020
 description: Übersetzen von benutzerdefinierten Wiedergabelisten für Lernpfade
-ms.service: sharepoint online
-ms.openlocfilehash: c5c4c3b34a721295bdcd2e89bad865bc6760d058
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 2b36479facd2a119753f193b2c4bf90e0ad21b68
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162832"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000351"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Übersetzen von benutzerdefinierten Wiedergabelisten für Lernpfade
 Bei Lernpfaden hängt die Art und Weise, wie Sie mit benutzerdefinierten Wiedergabelisten arbeiten, davon ab, wie Sie Lernpfade einrichten.  
@@ -35,7 +38,7 @@ Um zu veranschaulichen, wie Sie eine neue benutzerdefinierte Wiedergabeliste ers
 6. Klicken Sie auf eine Sprache rechts neben der Standardsprache (in diesem Fall Englisch), um die Details der kopierten Wiedergabeliste anzuzeigen. Die Details für die neue Sprache spiegeln die ursprüngliche kopierte Wiedergabeliste wider und erfordern eine Übersetzung.
 7. Notieren Sie sich, um den Übersetzer über die zu übersetzende Wiedergabelistendetails zu informieren.  
 
-![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
+![Beispiel für italienische Seite.](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
 > Übersetzerbenachrichtigungen sind nicht in benutzerdefinierte Wiedergabelisten integrierte. Übersetzer müssen manuell benachrichtigt werden. Übersetzer übersetzen die Kopien der Standardsprachendetails manuell in die angegebene Sprache. Sie müssen den Übersetzer über die übersetzungen benachrichtigen, die für Wiedergabelistendetails erforderlich sind. Es wird empfohlen, alle Wiedergabelistenänderungen, einschließlich hinzufügen, Bearbeiten oder Löschen von Wiedergabelistenressourcen, fertig zu stellen und dann den Übersetzer über die erforderlichen Übersetzungen für Wiedergabelistendetails und -objekte zu informieren.
@@ -48,9 +51,9 @@ In diesen Anweisungen wird davon ausgegangen, dass Sie die Wiedergabeliste "Fün
 
 **So erstellen Sie das Objekt**
 1. Wählen Sie für die Wiedergabeliste "Fünf einfache **Schritte"** unter Assets die Option **+ Neues Objekt aus,** und füllen Sie dann die Details für das Objekt aus. 
-- Geben **Sie für Titel**"Willkommen bei Microsoft 365 bei Contoso" ein. 
-- Wählen **Sie für Technologie** Microsoft **365 aus.**
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+   - Geben **Sie für Titel**"Willkommen bei Microsoft 365 bei Contoso" ein. 
+   - Wählen **Sie für Technologie** Microsoft **365 aus.**
+![Formular, in dem Sie Objektdetails eingeben.](media/custom_ml_pl_createasset.png)
 2. Wählen **Sie Asset erstellen** aus, und wählen Sie dann Asset speichern **aus.**
 
 **So öffnen Sie das Objekt**
@@ -59,7 +62,7 @@ In diesen Anweisungen wird davon ausgegangen, dass Sie die Wiedergabeliste "Fün
 3. Klicken Sie **auf Übersetzung**.
 4. Wählen **Sie Erstellen** für die Sprache aus, die Sie möchten. In diesem Beispiel wählen wir Italienisch aus.
 5. Wählen Sie **Ansicht** aus. Je nach den unterstützten Sprachen sollte nun eine Seite ähnlich dem folgenden Beispiel angezeigt werden.
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![Beispielseite für Wiedergabelistenressourcen.](media/custom_ml_pl_createasset.png)
 6. Klicken Sie auf **Veröffentlichen**.
 7. Kopieren Sie für die erstellte Übersetzungsseite die URL aus dem Browser, und kehren Sie zur Seite Verwaltung der Lernpfade zurück.
 
@@ -67,7 +70,7 @@ In diesen Anweisungen wird davon ausgegangen, dass Sie die Wiedergabeliste "Fün
 1. Kehren Sie zur Seite Verwaltung von Lernpfaden zurück, und wählen Sie das Bearbeitungssymbol (Bleistift) für das von Ihnen geöffnete Objekt "Fünf einfache Schritte" aus. 
 2. Klicken **Sie auf Sprache** hinzufügen, und wählen Sie dann eine Sprache aus. In diesem Beispiel haben wir Italienisch ausgewählt. 
 3. Geben Sie die URL der übersetzten Seite ein, die Sie erstellt haben. Es sollte eine Seite wie im folgenden Beispiel angezeigt werden. 
-![custom_ml_pl_translateasseturl.png](media/custom_ml_pl_translateasseturl.png)
+![Formular, in dem Sie die URL für eine bestimmte Sprachseite eingeben](media/custom_ml_pl_translateasseturl.png)
 4. Klicken **Sie auf Asset speichern**.
 
 ## <a name="add-languages-for-existing-custom-playlists-and-assets"></a>Hinzufügen von Sprachen für vorhandene benutzerdefinierte Wiedergabelisten und Ressourcen
@@ -80,13 +83,13 @@ Wenn Sie über aktualisierte Lernpfade für mehrsprachigen Support verfügen und
 ### <a name="to-add-languages-for-an-existing-playlist"></a>So fügen Sie Sprachen für eine vorhandene Wiedergabeliste hinzu
 1.  Klicken Sie im Menü Start der **Lernpfade** auf **Verwaltung von Lernpfaden.** 
 2.  Wählen Sie eine benutzerdefinierte Wiedergabeliste aus. Eine benutzerdefinierte Wiedergabeliste wird durch das Personensymbol mit dem Häkchen identifiziert, wie im folgenden Beispiel gezeigt.
-![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
+![Beispiel für eine benutzerdefinierte Wiedergabeliste.](media/custom_ml_pl_customselect.png) 
 3. Wählen **Sie Detail bearbeiten aus.** Möglicherweise müssen Sie einen Bildlauf nach unten durchführen, um die Schaltfläche **Detail bearbeiten zu** finden.   
 4. Wählen **Sie Sprache hinzufügen** aus, und wählen Sie dann eine Sprache aus.  
 5. Wählen **Sie Details speichern aus.**
  Die verfügbaren Sprachen hängen von den unterstützten Sprachen ab, die für die Website ausgewählt wurden. Um weitere Sprachen hinzuzufügen, müssen Sie der Website weitere unterstützte Sprachen hinzufügen.   
 5. Klicken Sie auf eine Sprache rechts neben der Standardsprache (in diesem Fall Englisch), um die Details der kopierten Wiedergabeliste anzuzeigen. Die Details für die neue Sprache spiegeln die ursprüngliche kopierte Wiedergabeliste wider und erfordern eine Übersetzung.
-![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
+![Beispieldetailsepage für Italienisch.](media/custom_ml_pl_editdetailit.png) 
 7. Notieren Sie sich, um den Übersetzer über die zu übersetzende Wiedergabelistendetails zu informieren.  
 
 **So öffnen Sie das Objekt**
@@ -95,7 +98,7 @@ Wenn Sie über aktualisierte Lernpfade für mehrsprachigen Support verfügen und
 3. Klicken Sie **auf Übersetzung**.
 4. Wählen **Sie Erstellen** für die Sprache aus, die Sie möchten. In diesem Beispiel wählen wir Italienisch aus.
 5. Wählen Sie **Ansicht** aus. Je nach den unterstützten Sprachen sollte nun eine Seite ähnlich dem folgenden Beispiel angezeigt werden.
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![Beispielseite, die angezeigt wird, wenn Sie Ansicht auswählen.](media/custom_ml_pl_createasset.png)
 6. Klicken Sie auf **Veröffentlichen**.
 7. Kopieren Sie für die erstellte Übersetzungsseite die URL aus dem Browser, und kehren Sie zur Seite Verwaltung der Lernpfade zurück.
 

@@ -1,24 +1,24 @@
 ---
-title: Best Practices für das Champion-Programm – Teilnahme am Office 365 Champions-Programm
-description: Bewährte Methoden für die Einführung von Office 365 mit unserem Champion-Programm
+title: Bewährte Methoden für das Championprogramm – Teilnehmen am Office 365 Champions-Programm
+description: Fördern der Einführung von Office 365 mit bewährten Methoden für das Championprogramm
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 70ecd8c6c080c90b6de12694a57de4360c91ab38
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 159d2ce3a5e34b69716696673e841add23e754f5
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233427"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999911"
 ---
-# <a name="office-365-champions-program"></a>Office 365 Champions-Programm 
+# <a name="office-365-champions-program"></a>Office 365 Champions Program 
 
-![machen Sie einen Unterschied zu einem Champion](media/makeadifference.png)
+![Machen Sie einen Unterschied zum Champion](media/makeadifference.png)
 
-Microsoft stellt ein kostenloses Office 365-Champions-Programm zur Unterstützung der Champion-Rolle weltweit zur Verfügung.  Dieses Programm bietet eine Online-Community, monatliche Community-Anrufe und Inhalte, die die Einführung in einer Vielzahl von Diensten in Office 365 vorantreiben.
+Microsoft stellt ein kostenloses Office 365 Champions-Programm zur Unterstützung der Rolle "Champion" weltweit zur Verfügung.  Dieses Programm bietet eine Online-Community, monatliche Communityanrufe und Inhalte, die die Einführung in eine Vielzahl von Diensten in Office 365 verbessern.
 
-Dieses Programm ist für alle Benutzer zugänglich.  Es wird empfohlen, dass mindestens jeder, der ein Champion-Programm in seiner Organisation ausführt, Mitglied wird, um Zugang zu Champion-Schulungsmaterialien zu erhalten, die in Ihrem eigenen Programm genutzt werden können. 
+Dieses Programm ist für jeden zugänglich.  Es wird empfohlen, dass mindestens jeder, der ein Champion-Programm in seiner Organisation ausgeführt hat, Mitglied wird, um Zugriff auf Champion-Schulungsmaterialien zu erhalten, die in seinem eigenen Programm verwendet werden können. 
 
-Registrieren Sie sich noch heute, um ein Teil der weltweiten Community zu werden. https://aka.ms/O365Champions  
+Registrieren Sie sich noch heute, um Teil der weltweiten Community zu werden. https://aka.ms/O365Champions  

@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Lernpfade Inhaltsupdates april
 ms.date: 3/30/2020
 description: 'Lernpfade: Inhaltsupdates vom April 2020'
-ms.service: sharepoint online
-ms.openlocfilehash: 9cae2f1f3fe96a5e6496739ca194202a45286c2e
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: a8b6cf64a93e7d10aa0fa8602ba8b7f52ded1f67
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163062"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999131"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Inhaltsupdates für Microsoft 365 Learning Pathways für April
 Lernpfade sind bestrebt, einen vierteljährlichen Inhaltsaktualisierungszyklus einzuhalten. In der folgenden Liste sind die Inhaltsupdates für April 2020 aufgeführt.
@@ -159,7 +159,7 @@ Die folgenden Wiedergabelisten wurden der Outlook-Unterkategorie hinzugefügt.
 - Outlook mobile: Personen und Verbindungen (5 Objekte)
 - Outlook mobile: Suche und Freigabe (4 Objekte)
 
-### <a name="onedrive"></a>OneDrive
+### <a name="onedrive"></a>Microsoft OneDrive-App
 Die folgenden Videoressourcen wurden für OneDrive hinzugefügt. 
 - Einrichten Ihres iPhones oder iPads wurde der Intro to OneDrive-Wiedergabeliste hinzugefügt
 - Aktivieren der OneDrive-Sicherung wurde zur Wiedergabeliste "Dateien mit OneDrive verwalten" hinzugefügt.
@@ -177,7 +177,7 @@ Die Unterkategorie Barrierefreiheit von Inhalten wurde mit den folgenden Wiederg
 - Erstellen barrierefreierer Excel-Arbeitsmappen (3 Objekte)
 - Erstellen von barrierefreien Folien in PowerPoint (5 Objekte)
 
-### <a name="onedrive"></a>OneDrive
+### <a name="onedrive"></a>Microsoft OneDrive-App
 HINWEIS: Hier müssen Änderungen hinzugefügt werden.....
 
 ### <a name="sway"></a>Sway

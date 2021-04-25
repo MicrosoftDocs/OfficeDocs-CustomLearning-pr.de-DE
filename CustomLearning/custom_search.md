@@ -3,23 +3,26 @@ author: pkrebs
 ms.author: pkrebs
 title: Suche
 ms.date: 02/10/2019
-description: Suche in Microsoft 365 Lernpfaden
-ms.service: sharepoint online
-ms.openlocfilehash: 7e6a623ed26caff97aff7d2e8fc913a64e1d88b2
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Suchen in Microsoft 365-Lernpfaden
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 3322ee9a4a659d15fdfbd9f05b5bb0e2f85e430c
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234027"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999321"
 ---
-# <a name="search-for-microsoft-365-learning-pathways-content"></a>Suchen nach Microsoft 365 Lernpfaden Inhalt
+# <a name="search-for-microsoft-365-learning-pathways-content"></a>Suchen nach Inhalten für Microsoft 365-Lernpfade
 
-Microsoft 365 Lern Pfade bieten die Möglichkeit, nach Inhalten nach Unterkategorie, Wiedergabeliste oder Objekt zu suchen. 
+Microsoft 365-Lernpfade bieten die Möglichkeit, nach Inhalten nach Unterkategorien, Wiedergabelisten oder Ressourcen zu suchen. 
 
 > [!TIP]
-> Die Microsoft 365-Lern Pfad Suche umfasst Inhalte für Lern Pfade, einschließlich der von Microsoft bereitgestellten Inhalte und der Inhalte, die benutzerdefinierten Wiedergabelisten oder Unterkategorien hinzugefügt werden. SharePoint-Seiten, die sich nicht in einer Playlist für Lernpfade befinden, sind nicht in den Suchergebnissen enthalten.     
+> Microsoft 365-Lernpfade Die Suche ist auf Lernpfadinhalte begrenzt, einschließlich der von Microsoft bereitgestellten Inhalte und aller Inhalte, die benutzerdefinierten Wiedergabelisten oder Unterkategorien hinzugefügt werden. SharePoint-Seiten, die nicht in einer Wiedergabeliste für Lernpfade enthalten sind, sind nicht in den Suchergebnissen enthalten.     
 
-- Klicken Sie auf das **Such** Symbol, und geben Sie einen Suchbegriff ein. 
+- Klicken Sie auf **das Symbol** Suchen, und geben Sie einen Suchbegriff ein. 
 
-![cg-search.png](media/cg-search.png)
+![Suchwebseite.](media/cg-search.png)
 

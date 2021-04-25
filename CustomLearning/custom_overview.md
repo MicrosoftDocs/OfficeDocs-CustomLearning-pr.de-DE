@@ -3,44 +3,47 @@ author: pkrebs
 ms.author: pkrebs
 title: Lernpfade anpassen
 ms.date: 02/18/2019
+manager: bpardi
+audience: admin
+ms.topic: article
 description: Lernpfade anpassen
-ms.service: sharepoint online
-ms.openlocfilehash: 56027e48917cbdeeb2187f87497f3281fff3c23a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: a5087096ec3bd7c1194aab9dd089276fc196a736
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234227"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999501"
 ---
 # <a name="customize-learning-pathways"></a>Lernpfade anpassen
 
-Microsoft 365-Lern Pfade bieten eine Vielzahl von Möglichkeiten, mit denen Sie Inhalte für Ihre Organisation anpassen können. Beispielsweise können Sie folgende Aktionen ausführen:  
-- Ändern der Lernpfade SharePoint-Website – ändern Sie den Websitenamen, das Logo und diese. Ändern Sie die Seite Ask Questions und Get Help, um Ihre eigene Hilfe zu erstellen. 
-- Ausblenden oder Anzeigen von Inhalten, um die in Ihrer Organisation unterstützten Dienste oder Features widerzuspiegeln 
-- Erstellen benutzerdefinierter Wiedergabelisten und Unterkategorien, die speziell für die Anforderungen Ihrer Benutzer erstellt wurden
-- Erstellen von Zielseiten mit gefiltertem Inhalt zur Unterstützung geschäftlicher Ergebnisse, beispielsweise das Vorantreiben der Einführung von Microsoft Teams, Outlook Mobile oder die Zusammenarbeit mit Microsoft 365.
+Microsoft 365-Lernpfade bieten eine Vielzahl von Möglichkeiten zum Anpassen von Inhalten für Ihre Organisation. Beispielsweise können Sie folgende Aktionen ausführen:  
+- Ändern der SharePoint-Lernpfade – Ändern des Websitenamens, des Logos und dieser. Ändern Sie die Seite Fragen stellen und Hilfe erhalten, um Ein eigenes Hilfecenter zu erstellen. 
+- Ausblenden oder Anzeigen von Inhalten zur Widerspiegelung der in Ihrer Organisation unterstützten Dienste oder Features 
+- Erstellen benutzerdefinierter Wiedergabelisten und Unterkategorien, die speziell für die Anforderungen Ihres Benutzers erstellt wurden
+- Erstellen sie Angebotsseiten mit Inhalten, die gefiltert wurden, um Geschäftsergebnisse zu unterstützen, z. B. die Einführung von Microsoft Teams, Outlook mobile oder die Zusammenarbeit mit Microsoft 365 zu fördern.
 
-![cg-introducing.png](media/cg-introducing.png)
+![Allgemeine Microsoft-Lernpfade-Fotosammlung.](media/cg-introducing.png)
 
 ## <a name="requirements-and-permissions"></a>Anforderungen und Berechtigungen
 
-Bevor Sie mit dem Leitfaden zum Anpassen von Lernpfaden beginnen, stellen Sie sicher, dass von Ihrem SharePoint-Mandanten Administrator Lern Pfade eingerichtet wurden. Wenn Sie sich nicht sicher sind, ob Sie eingerichtet wurde, wenden Sie sich an Ihren SharePoint-mandantenadministrator, um zu überprüfen, ob Lern Pfade bereitgestellt wurden. Stellen Sie außerdem sicher, dass Sie die URL der SharePoint-Website für Lern Pfade abrufen. Wenn Sie der Mandanten Administrator sind und keine Lern Pfade eingerichtet wurden, finden Sie weitere Informationen unter [Bereitstellungspfade](custom_provision.md). 
+Bevor Sie mit den Anleitungen zum Anpassen von Lernpfaden beginnen, stellen Sie sicher, dass Lernpfade von Ihrem SharePoint-Mandantenadministrator eingerichtet wurden. Wenn Sie nicht sicher sind, ob sie eingerichtet wurde, wenden Sie sich an Ihren SharePoint-Mandantenadministrator, um zu überprüfen, ob Lernpfade bereitgestellt wurden. Achten Sie außerdem darauf, die URL der SharePoint-Website für Lernpfade zu erhalten. Wenn Sie der Mandantenadministrator sind und keine Lernpfade bereitgestellt wurden, finden Sie weitere Informationen unter [Bereitstellen von Lernpfaden](custom_provision.md). 
 
-### <a name="permissions-to-provision-learning-pathways"></a>Berechtigungen zur Vermittlung von Lernpfaden
+### <a name="permissions-to-provision-learning-pathways"></a>Berechtigungen zum Bereitstellen von Lernpfaden
 
-- Mandantenadministrator, auch bekannt als Office 365 globaler Administrator
+- Mandantenadministrator, auch als globaler Office 365-Administrator bekannt
 - Der SharePoint-Websitesammlungsadministrator mit Besitzerberechtigungen für die Website
 
-### <a name="permissions-to-use-learning-pathways-administration-features"></a>Berechtigungen zum Verwenden von Verwaltungsfeatures für Lern Pfade
+### <a name="permissions-to-use-learning-pathways-administration-features"></a>Berechtigungen zum Verwenden von Verwaltungsfeatures für Lernpfade
 
 - Websitesammlungsadministrator
-- SharePoint-Besitzer-oder Mitgliedsberechtigungen
+- Berechtigungen für SharePoint-Besitzer oder -Mitglieder
 
-### <a name="permissions-to-use-the-learning-pathways-site-as-a-user"></a>Berechtigungen zum Verwenden der Website für Lern Pfade als Benutzer
+### <a name="permissions-to-use-the-learning-pathways-site-as-a-user"></a>Berechtigungen zur Verwendung der Lernpfadwebsite als Benutzer
 
 - Office 365-Benutzerberechtigungen/Berechtigungen für SharePoint-Websitebesucher oder höher
 
 ## <a name="get-started-with-customization"></a>Erste Schritte der Anpassung
-Nachdem Sie sichergestellt haben, dass Sie über die erforderlichen Berechtigungen zum Anpassen der Website und des Webparts verfügen, ist es an der Zeit, mit dem Anpassungsprozess begonnen zu werden. 
+Nachdem Sie sichergestellt haben, dass Sie über die erforderlichen Berechtigungen zum Anpassen der Website und des Webteils verfügen, ist es an der Zeit, mit dem Anpassungsprozess zu beginnen. 
 
-- Informationen zu den ersten Schritten finden Sie unter [Wechseln zur Website für Lern Pfade](custom_goto.md).
+- Informationen zu den ersten Schritte finden [Sie unter Go to the learning pathways site](custom_goto.md).

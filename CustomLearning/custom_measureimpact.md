@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Messen der Auswirkungen von Microsoft 365-Lernpfaden
 ms.date: 02/10/2019
 description: Messen der Auswirkungen von Microsoft 365-Lernpfaden
-ms.service: sharepoint online
-ms.openlocfilehash: 3f803959a7fe14c2c67bb232a5f9ade31218ab11
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 4ba5981902367ef9c94c28c49442af588dcf368e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163042"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999531"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Messen der Auswirkungen von Microsoft 365-Lernpfaden
 
@@ -32,6 +32,6 @@ Folgen Sie dem referenzierten Artikel zu:
 2. Interpretieren der Details des SharePoint-Websitenutzungsberichts. Sortieren Sie nach dem Feld Website-URL, um Ihre Microsoft 365-Lernpfadwebsite einfacher zu identifizieren. 
 3. Nutzen Sie die Exportfunktionen des Berichts für eine erweiterte Datenanalyse oder wenn Ihre Organisation über mehr als 2.000 Websites verfügt. 
 
-## <a name="feedback"></a>Feedback
+## <a name="reporting"></a>Berichterstellung
 
 Ab heute ist die Berichterstellung auf die SharePoint-Websiteebene beschränkt. Stimmen Sie unserem [User Voice-Forum](https://go.microsoft.com/fwlink/?linkid=2109552) zu, um anforderungen an erweiterte Berichtsfunktionen zu priorisieren.

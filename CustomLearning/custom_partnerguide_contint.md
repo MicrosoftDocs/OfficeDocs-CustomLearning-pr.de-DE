@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Partner-Integrationsmodelle
 ms.date: 3/9/2019
 description: Partner-Integrationsmodelle
-ms.service: sharepoint online
-ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162932"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999521"
 ---
 # <a name="partner-integration-models"></a>Partner-Integrationsmodelle
 Es ist zwar nicht möglich, die Inhalte von Microsoft 365-Lernpfaden direkt "sofort" über den SharePoint Online-Bereitstellungsdienst zu ergänzen, es gibt jedoch mehrere Integrationsmodelle, die Partner nutzen können, um ausgerichtete Mehrwertdienstangebote zu erstellen. Die oben genannten Partnerintegrationsmodelle werden in der Reihenfolge der aufsteigenden Komplexität und der Höhe der Investitionen dargestellt. Daher ist es unsere Anleitung, Ihr Fachwissen zu entwickeln und auf anspruchsvollere Ebenen basierend auf Ihren Geschäftsmodellen zu graduierten.
 
-![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+![Das Flussdiagramm zeigt die Rolle von Enablern, Integratoren und Redistibutors.](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>Wie soll ich beginnen? 
 In den ersten Schritte finden Sie einige bewährte Methoden, die Sie befolgen sollten.     
@@ -95,7 +98,7 @@ playlists.json – Das Wiedergabelistenmanifest ist ein Array von Objekten, die 
 |AudienceId                   |Zugeordnete Zielgruppe                                                                        |
 |TechnologyId                 |Zugehörige Technologie                                                                      |
 |SubjectId                    |Anzeigename für die Kategorie/Unterkategorie                                                  |
-|Source                        |Aus dem Quellarray, das nicht speziell in der UX verwendet wird, werden keine benutzerdefinierten Daten, die vom Benutzer hinzugefügt werden, als "Mandant" markiert, und der UX-Administratorbereich lässt die Bearbeitung von nichts zu, das nicht als "Mandant" gekennzeichnet ist.                                              |
+|Quelle                        |Aus dem Quellarray, das nicht speziell in der UX verwendet wird, werden keine benutzerdefinierten Daten, die vom Benutzer hinzugefügt werden, als "Mandant" markiert, und der UX-Administratorbereich lässt die Bearbeitung von nichts zu, das nicht als "Mandant" gekennzeichnet ist.                                              |
 |CatId                         |Die Category- oder SubCategory-ID, die den Container darstellt, in dem die Wiedergabeliste angezeigt werden soll. Derzeit unterstützt das Manifest die Auswahl einer Kategorie oder Unterkategorie als Container nicht, wenn es auch untergeordnete Unterkategorien enthält.        |
 |Beschreibung                   |Eine Beschreibung, die für jede Wiedergabeliste in der UX angezeigt wird                                           |
 |StatusTagId                   |Zugeordnetes Statustag                                                                      |
@@ -113,7 +116,7 @@ playlists.json – Das Wiedergabelistenmanifest ist ein Array von Objekten, die 
 |URL                           |Die Quell-URL für die Ressource, die auf den iFrame angewendet werden soll                                  |
 |TechnologyId                  |Zugehörige Technologie                                                                      |
 |SubjectId                     |Zugeordneter Betreff                                                                         |
-|Source                        |Anzeigename für die Kategorie/Unterkategorie                                                  |
+|Quelle                        |Anzeigename für die Kategorie/Unterkategorie                                                  |
 |StatusTagId                   |Zugeordnetes Statustag                                                                      |
 |StatusNote                    |Hinweise zu Inhalten, die Administratoren angezeigt werden.                                           |
 
@@ -133,7 +136,7 @@ Microsoft verwendet GitHub-Seiten als Quelle für das Inhaltszustellungsnetzwerk
 
 Es ist wichtig, dass Sie dieselbe Versionsstruktur wie Microsoft beibehalten, wenn Sie die Lösung für Lernpfade mit Ihrem eigenen Inhaltspaket erweitern möchten. Ihr CDN-Endpunkt sollte den Versionsordner nicht enthalten, da die vom Web part unterstützte Manifestversion in ihn eingebacken wird und automatisch an die CDN-URL angefügt wird. Wir geben Ihnen bei jeder Überarbeitung natürlich Zeit, neue Instanzen Ihrer Manifestdateien zu erstellen.
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png) 
+![Screenshot zeigt die Beispielstruktur.](media/cg-part-json-folder.png) 
 
 Weitere Informationen zur Verwendung von GitHub-Seiten als CDN-Quelle finden Sie in der folgenden Hilfedokumentation: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) .
 
@@ -158,11 +161,11 @@ Nachdem Sie das JSON erstellt und Ihr CDN definiert haben, können Sie das Conta
 2. Klicken Sie **auf der Seite** Verwaltung auf die Schaltfläche **... Fügen Sie Content Pack** in der oberen rechten Ecke der Seite hinzu.
 3. Klicken Sie auf Benutzerdefiniertes Inhaltspaket, und geben Sie dann einen Namen des Inhaltspakets ein, und geben Sie dann den CDN an, in dem sich die JSON-Dateien befinden.
 
-![cg-part-addconpack.png](media/cg-part-addconpack.png)
+   ![Bildschirm, auf dem Sie den Namen und die Pfade eingeben.](media/cg-part-addconpack.png)
 
 4. Klicken Sie auf **Speichern**. Der Inhalt ihres benutzerdefinierten Inhaltspakets sollte nun auf der Seite Verwaltung angezeigt werden. Hier ein Beispiel. 
 
-![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
+   ![Beispiel für die Verwaltungsseite.](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtern in das Inhaltspaket im Webteil
 Mit Lernpfaden können Sie das Web part für Lernpfade zu einer Seite hinzufügen, das Webteil filtern, um auf die Benutzerdefinierte Inhaltspaketquelle zu verweisen, und dann das Webteil nach der Kategorie, Unterkategorie, Wiedergabeliste und dem Objekt filtern, die Sie möchten. 
@@ -175,4 +178,4 @@ Mit Lernpfaden können Sie das Web part für Lernpfade zu einer Seite hinzufüge
 6. Klicken Sie auf das Webteil, und klicken Sie dann auf das **Symbol Bearbeiten.**
 7. Wählen Sie **im Feld Lernquelle** auswählen Das benutzerdefinierte Inhaltspaket aus, und filtern Sie das Webteil nach dem inhalt, den Sie möchten. Im Folgenden finden Sie ein Beispiel für das Webteil, das aus einem benutzerdefinierten Inhaltspaket in eine Wiedergabeliste gefiltert wurde.
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+   ![Screenshot eines Beispielwebteils, das aus einem benutzerdefinierten Inhaltspaket in eine Wiedergabeliste gefiltert wurde.](media/cg-part-conpackfilter.png)

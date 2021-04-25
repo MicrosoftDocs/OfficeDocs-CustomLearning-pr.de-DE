@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Inhaltsupdates für Lernpfade
 ms.date: 3/30/2020
+audience: Admin
+ms.topic: article
 description: Inhaltsupdates für Lernpfade
 ms.service: o365-solutions
-ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163082"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000111"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Inhaltsupdates für Microsoft 365 Learning Pathways
 Lernpfade sind bestrebt, einen vierteljährlichen Inhaltsaktualisierungszyklus einzuhalten. Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). 
@@ -132,7 +135,7 @@ Der Wiedergabeliste "Formeln und Funktionen" wurden zwei neue Objekte hinzugefü
 - XLOOKUP-Funktion
 - VERGLEICH-Funktion
 
-### <a name="sharepoint"></a>SharePoint
+### <a name="sharepoint"></a>Microsoft Office SharePoint Online
 Alle SharePoint-Wiedergabelisten und -Objekte wurden aktualisiert. Zu den aktualisierten Wiedergabelisten gehören:
 - SharePoint Online Schnellstart
 - Einführung in SharePoint Online
@@ -206,7 +209,7 @@ In der Kategorie Produkte wurde die Unterkategorie "Office 365 Basics" auf die K
 
 #### <a name="get-the-most-out-of-windows-playlist"></a>Wiedergabeliste "Das Beste aus Windows heraus"
 - Suchen nach Dokumenten, Apps und mehr mit der Suche
-- Microsoft Edge
+- Aktuelle Version von Microsoft Edge
 - Microsoft Search in Bing
 
 #### <a name="work-from-anywhere-playlist"></a>Wiedergabeliste "Von überall arbeiten"
@@ -409,7 +412,7 @@ Die folgenden Wiedergabelisten wurden der Outlook-Unterkategorie hinzugefügt.
 - Outlook mobile: Personen und Verbindungen (fünf Objekte)
 - Outlook mobile: Suche und Freigabe (vier Objekte)
 
-### <a name="onedrive"></a>OneDrive
+### <a name="onedrive"></a>Microsoft OneDrive-App
 Die folgenden Videoressourcen wurden für OneDrive hinzugefügt. 
 - Einrichten Ihres iPhones oder iPads wurde der Intro to OneDrive-Wiedergabeliste hinzugefügt
 - Aktivieren der OneDrive-Sicherung wurde zur Wiedergabeliste "Dateien mit OneDrive verwalten" hinzugefügt.

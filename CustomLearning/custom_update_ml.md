@@ -1,70 +1,73 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
+title: Aktualisieren von Lernpfaden für mehrsprachigen Support
 ms.date: 05/20/2019
-description: Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
+description: Aktualisieren von Lernpfaden für mehrsprachigen Support
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 32870a21dfc1e012f140ffdbd33d69bd0f149880
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 9344cd91e5b6718b1eb0e73e25fdc8311afed793
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233827"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000241"
 ---
-# <a name="update-learning-pathways-for-multilingual-support"></a>Aktualisieren von Lernpfaden für mehrsprachige Unterstützung
-Wenn Sie über eine vorhandene Lern Pfad Website verfügen, können Sie diese für mehrsprachige Unterstützung aktualisieren. Um Lern Pfade auf die mehrsprachige Version 4,0 zu aktualisieren, laden Sie das Webpart-Paket, customlearning. sppkg, in den SharePoint-Mandanten-App-Katalog hoch. Beim Aktualisieren von Lernpfaden:  
+# <a name="update-learning-pathways-for-multilingual-support"></a>Aktualisieren von Lernpfaden für mehrsprachigen Support
+Wenn Sie über eine vorhandene Website für Lernpfade verfügen, können Sie sie für mehrsprachigen Support aktualisieren. Um Lernpfade auf die mehrsprachige Version 4.0 zu aktualisieren, laden Sie das Webteilpaket customlearning.sppkg in den SharePoint-Mandanten-App-Katalog hoch. Wenn Sie Lernpfade aktualisieren:  
 
-- Zuvor erstellte benutzerdefinierte Wiedergabelisten und Objekte werden beibehalten.
+- Alle zuvor erstellten benutzerdefinierten Wiedergabelisten und Ressourcen werden verwaltet
 - Einstellungen zum Ausblenden oder Anzeigen von Inhalten werden beibehalten
-- Die SharePoint-Vorlage für Lern Pfade bleibt unverändert
-- Die Website Seiten für Lern Pfade werden nicht übersetzt. Diese Arbeit muss manuell durchgeführt werden.
+- Die SharePoint-Vorlage für Lernpfade bleibt unverändert
+- Die Seiten der Lernpfade werden nicht übersetzt. Diese Arbeit muss manuell durchgeführt werden
 
-## <a name="read-the-learning-pathways-multilingual-overview"></a>Lesen der Lern Pfade – mehrsprachig (Übersicht)
-Weitere Informationen zur Funktionsweise der mehrsprachigen Unterstützung für Lern Pfade finden Sie in den [Lernpfaden mehrsprachig (Übersicht](custom_overview_ml.md))). 
+## <a name="read-the-learning-pathways-multilingual-overview"></a>Mehrsprachige Übersicht über Lernpfade lesen
+Informationen dazu, wie mehrsprachiger Support für Lernpfade funktioniert, finden Sie in der Mehrsprachigen Übersicht über [Lernpfade](custom_overview_ml.md)). 
 
-## <a name="prerequisites-to-update"></a>Voraussetzungen für die Aktualisierung
-Vor dem Aktualisieren von Lernpfaden müssen folgende Voraussetzungen erfüllt sein:
-- Die Person, die Lern Pfade aktualisiert, muss ein Websitesammlungsbesitzer des Mandanten-App-Katalogs sein. Wenn die Person, die Lernpfade ausstellt, kein Websitesammlungsbesitzer des App-Katalogs ist, führen Sie die [folgenden Schritte](addappadmin.md) aus, und fahren Sie fort. 
+## <a name="prerequisites-to-update"></a>Zu aktualisierende Voraussetzungen
+Vor dem Aktualisieren von Lernpfaden muss die folgende Voraussetzung erfüllt sein:
+- Die Person, die Lernpfade aktualisiert, muss Websitesammlungsbesitzer des Mandanten-App-Katalogs sein. Wenn die Person, die Lernpfade bereitstellen, kein Websitesammlungsbesitzer des App-Katalogs ist, führen Sie [diese](addappadmin.md) Anweisungen aus, und fahren Sie fort. 
 
 ## <a name="set-language-settings"></a>Festlegen von Spracheinstellungen 
-Legen Sie vor dem Aktualisieren von Lernpfaden die Einstellungen für die Website Sprache fest. Um die mehrsprachige Unterstützung für die Website für Lern Pfade zu aktivieren, können Sie die **Option Seiten und Nachrichten aktivieren in mehrere Sprachen** auf **ein**setzen festlegen und dann die Sprachen hinzufügen, die Sie für die Website unterstützen möchten.
-1.  Wählen Sie auf der Website Lern Pfade die Option **Einstellungen** von oben rechts aus, und wählen Sie dann **Website Informationen**aus.
-2.  Wählen Sie unten im Bereich Website Informationen die Option **Alle Websiteeinstellungen anzeigen**aus.
-3.  Wählen Sie unter **Websiteverwaltung**die Option **Spracheinstellungen**aus.
-4.  Legen **Sie unter Aktivieren von Seiten und Nachrichten in mehrere Sprachen übersetzt**den Umschaltfläche-Schalter fest. 
-- Für eine mehrsprachigen-Website schieben Sie die Umschaltfläche **auf**ein, und fahren Sie dann mit dem Abschnitt Sprachen hinzufügen fort. 
-- Bei einer nur-Englisch-Website schieben Sie die Umschaltfläche auf **aus**.
+Legen Sie vor dem Aktualisieren von Lernpfaden die Spracheinstellungen für die Website ein. Um die mehrsprachige Unterstützung für die Lernpfadwebsite  zu aktivieren, können Sie die Option Seiten und Nachrichten aktivieren, die in mehrere Sprachen übersetzt werden sollen, auf **Ein** festlegen und dann die Sprachen hinzufügen, die Sie für die Website unterstützen möchten.
+1.  Wählen Sie auf der  Website Lernpfade oben rechts Einstellungen aus, und wählen Sie dann **Websiteinformationen aus.**
+2.  Wählen Sie unten im Bereich Websiteinformationen die Option **Alle Websiteeinstellungen anzeigen aus.**
+3.  Wählen **Sie unter Websiteverwaltung** die Option **Spracheinstellungen aus.**
+4.  Legen **Sie unter Seiten und Nachrichten in mehrere** Sprachen übersetzen aktivieren den Umschalter ein. 
+- Verschieben Sie für eine mehrsprachige Website den Umschalter auf **Ein**, und fahren Sie dann mit dem Abschnitt Sprachen hinzufügen fort. 
+- Verschieben Sie für eine englischsprachige Website den Umschalter auf **Aus**.
 
 ### <a name="add-languages"></a>Hinzufügen von Sprachen
-Lern Pfade unterstützen neun Sprachen, Sie sollten nur die Sprachen hinzufügen, die Sie benötigen. In den in dieser Dokumentation verwendeten Beispielen wird Italienisch hinzugefügt. 
-- Geben Sie unter **Sprachen hinzufügen oder entfernen**die Eingabe eines sprach namens in **"auswählen" oder**"Sprache eingeben" ein, oder wählen Sie eine Sprache aus der Dropdownliste aus. Sie können diesen Schritt wiederholen, um mehrere Sprachen hinzuzufügen. Sie können jederzeit Sprachen von Ihrer Website hinzufügen oder entfernen, indem Sie zurück zu dieser Seite wechseln.
+Lernpfade unterstützen neun Sprachen, Sie sollten nur die benötigten Sprachen hinzufügen. In den in dieser Dokumentation verwendeten Beispielen wird Italienisch hinzugefügt. 
+- Geben Sie unter Hinzufügen **oder Entfernen** von Websitesprachen einen Sprachnamen in **Auswählen** oder Eingeben einer Sprache ein, oder wählen Sie eine Sprache aus dem Dropdown aus. Sie können diesen Schritt wiederholen, um mehrere Sprachen hinzuzufügen. Sie können Ihrer Website jederzeit Sprachen hinzufügen oder entfernen, indem Sie zu dieser Seite zurückwechseln.
  
 ### <a name="assign-translators"></a>Zuweisen von Übersetzern
-Beim Definieren von Spracheinstellungen für Lern Pfade können Sie Übersetzer zuweisen. Für Übersetzer sollte ein Fremdsprachen Profil eingerichtet sein. Weitere Informationen zu fremdsprachigen Profilen finden Sie unter [Erstellen von mehrsprachigen Kommunikationswebsites, Seiten und Nachrichten](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
-- Klicken Sie für eine unterstützte Sprache auf **auswählen, oder geben Sie einen Übersetzer** ein, und wählen Sie dann einen Übersetzer aus. 
+Beim Definieren von Spracheinstellungen für Lernpfade können Sie Übersetzer zuweisen. Für Übersetzer sollte ein Fremdsprachenprofil eingerichtet sein. Weitere Informationen zu Fremdsprachenprofilen finden Sie unter [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
+- Klicken Sie für eine unterstützte Sprache auf **Übersetzer auswählen** oder eingeben, und wählen Sie dann einen Übersetzer aus. 
 
-## <a name="update-the-learning-pathways-web-part-package"></a>Aktualisieren des Lern Pfad-Webparts-Pakets
-In diesem Schritt laden Sie das Lern Pfade 4,0-Webpart in den SharePoint-App-Katalog hoch, und navigieren Sie dann zur Seite Verwaltungstools für Lern Pfade, um den Updateprozess zu starten.
+## <a name="update-the-learning-pathways-web-part-package"></a>Aktualisieren des Web part-Pakets für Lernpfade
+In diesem Schritt laden Sie das Webteil Lernpfade 4.0 in den SharePoint-App-Katalog hoch und navigieren dann zur Seite Verwaltung von Lernpfaden, um den Aktualisierungsprozess zu starten.
 
-### <a name="upload-the-web-part-package"></a>Hochladen des Webpart-Pakets
-1.  Wechseln Sie zum [benutzerdefinierten GitHub-Lern-Repository](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), wählen Sie **customlearning. sppkg** aus, und laden Sie es dann auf ein lokales Laufwerk auf Ihrem PC herunter. 
+### <a name="upload-the-web-part-package"></a>Hochladen des Web part-Pakets
+1.  Wechseln Sie zum [benutzerdefinierten GitHub-Lernrepository,](https://github.com/pnp/custom-learning-office-365/tree/master/webpart)wählen Sie **customlearning.sppkg** aus, und laden Sie es dann auf ein lokales Laufwerk auf Ihrem PC herunter. 
 2.  Wenn Sie noch nicht angemeldet sind, melden Sie sich mit einem Mandantenadministrator- oder Sitesammlung-Administratorkonto bei Ihrem Mandanten an. 
-3.  Klicken Sie auf **Admin**  >  **alle**  >  **SharePoint**  >  -**Funktionen**anzeigen. 
-4.  Klicken Sie unter **apps**auf **Öffnen**. 
-5.  Klicken Sie auf **App-Katalog**  >  **Apps für SharePoint verteilen**. 
-6.  Klicken Sie auf **hochladen**  >  **Auswählen von Dateien**. 
-7.  Wählen Sie die Datei **customlearning. sppkg** aus, die Sie heruntergeladen haben, und klicken Sie auf **OK**  >  **Deploy**. 
+3.  Klicken **Sie auf Administrator**  >  **Alle**  >  **SharePoint weitere** Features  >  **anzeigen**. 
+4.  Klicken **Sie unter Apps** auf **Öffnen**. 
+5.  Klicken **Sie auf App-Katalog**  >  **Apps für SharePoint verteilen**. 
+6.  Klicken **Sie auf Dateien**  >  **hochladen**. 
+7.  Wählen Sie die **datei customlearning.sppkg** aus, die Sie heruntergeladen haben, klicken Sie **auf OK**  >  **Bereitstellen**. 
 
 ### <a name="complete-the-update"></a>Abschließen des Updates
-1.  Wählen Sie auf der Website Lernpfade im Menü **Start** die Option **Verwaltung von Lernpfaden** aus. 
-2.  Eine Eingabeaufforderung wird angezeigt, in der Sie gefragt werden, ob Sie aktualisieren möchten. 
+1.  Wählen Sie auf der Website Lernpfade im Menü Start die Option **Verwaltung von** **Lernpfaden** aus. 
+2.  Es wird eine Eingabeaufforderung angezeigt, in der Sie gefragt werden, ob Sie aktualisieren möchten. 
 ![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
 3.  Klicken Sie auf **Start**. 
-4. Wenn das Update abgeschlossen ist, klicken Sie auf **Schließen**. 
+4. Klicken Sie nach Abschluss des Updates auf **Schließen**. 
 
 ### <a name="next-steps"></a>Nächste Schritte
-- Erkunden Sie die in der Website und im Webpart bereitgestellten [Standardinhalte](custom_exploresite.md) .
-- Weitere Informationen zum Übersetzen von Website Seiten finden Sie unter [Translate site Pages](custom_translate_page_ml.md). 
+- Sehen Sie sich [die Standardinhalte](custom_exploresite.md) an, die auf der Website und im Web part bereitgestellt werden.
+- Weitere Informationen zum Übersetzen von Websiteseiten finden Sie unter [Translate site pages](custom_translate_page_ml.md). 
 

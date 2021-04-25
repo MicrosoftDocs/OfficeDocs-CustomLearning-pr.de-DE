@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Onboarding-Leitfaden für Partner
 ms.date: 3/9/2019
 description: Partner Onboarding Guide für Microsoft 365 Learning Pathways
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163032"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999421"
 ---
 # <a name="partner-onboarding-guide"></a>Onboarding-Leitfaden für Partner
 Beginnen Sie mit Lernpfaden, indem Sie die drei unten beschriebenen Schritte ausführen. Mit den drei Schritten können Sie eine überzeugende Demo erstellen, die Sie für ansprechende Präsentationen mit Kunden verwenden können. 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![Chart illustrated the five-step onboarding process.](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Erstellen einer Microsoft 365-Demonstrationsumgebung
 Sie können demos.microsoft.com verwenden, um eine Demoumgebung zu erstellen, in der Sie den Dienst bereitstellen, überprüfen und für die Präsentation von Lernpfaden für Kunden verwenden können. Für diese Zwecke haben alle https://demos.microsoft.com Partner Zugriff auf. Sie können den Leitfaden demos.microsoft.com **Erste Schritte verwenden,** wenn Sie neu in der Demoumgebung sind.

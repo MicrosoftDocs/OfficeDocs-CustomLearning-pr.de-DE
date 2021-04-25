@@ -3,38 +3,38 @@ author: pkrebs
 ms.author: pkrebs
 title: Kopieren einer Wiedergabeliste
 ms.date: 02/18/2019
-description: Vorgehensweise Kopieren einer Wiedergabeliste
-ms.service: sharepoint online
-ms.openlocfilehash: f97b2e45f60a9d26f715f80ab29ae754b4dd0e1f
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Kopieren einer Wiedergabeliste
+ms.service: sharepoint-online
+ms.openlocfilehash: 665af0b9dfaa73eb091df831ec1178beb19a4c7c
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234537"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999111"
 ---
 # <a name="copy-a-playlist"></a>Kopieren einer Wiedergabeliste
-Häufig müssen Organisationen eine von Microsoft bereitgestellte Wiedergabeliste ändern, indem Sie ein Objekt durch ein von der Organisation erstelltes Objekt entfernen oder ersetzen. Sie können beispielsweise einen Schritt von der Playlist Start mit sechs einfachen Schritten entfernen. Jetzt können Sie die Funktion zum Kopieren von Wiedergabelisten für Lern Pfade verwenden, um die sechs einfache Schritte-Wiedergabeliste einfach zu kopieren und ein Objekt einfach zu entfernen, ein Objekt zu ersetzen oder neue Objekte hinzuzufügen. 
+Häufig müssen Organisationen eine von Microsoft bereitgestellte Wiedergabeliste ändern, indem sie ein Objekt entfernen oder durch eine von der Organisation erstellte Ressource ersetzen. Sie können beispielsweise einen Schritt aus der Wiedergabeliste Start mit sechs einfachen Schritten entfernen. Jetzt können Sie das Feature "Lernpfade Wiedergabeliste kopieren" verwenden, um die Wiedergabeliste mit sechs einfachen Schritten einfach zu kopieren und einfach ein Objekt zu entfernen, ein Objekt zu ersetzen oder neue Objekte hinzuzufügen. 
 
 ## <a name="to-copy-a-playlist"></a>So kopieren Sie eine Wiedergabeliste
 
-1. Klicken Sie auf der **Homepage** von Microsoft 365 Learning-Pfade auf **Office 365 Schulung**.
-2. Klicken Sie auf das Symbol **Verwaltung** .
-3. Klicken Sie unter **erste Tage**auf die **sechs einfachen Schritte – Willkommen bei Office 365-** Wiedergabeliste, und klicken Sie dann auf **Wiedergabeliste kopieren**. 
-4. Klicken Sie auf **Details bearbeiten**, und füllen Sie dann die Felder **Title** und **Description** aus, wie im folgenden Beispiel gezeigt, und klicken Sie dann auf **Detail speichern**.  
+1. Klicken Sie auf der Startseite  der Microsoft 365-Lernpfade auf **Office 365-Schulungen.**
+2. Klicken Sie auf **das Symbol Verwaltung.**
+3. Klicken **Sie unter** Erste Tage auf die Sechs **einfachen Schritte – Willkommen bei der Office 365-Wiedergabeliste,** und klicken Sie dann auf **Wiedergabeliste kopieren**. 
+4. Klicken **Sie auf Detail** bearbeiten, und füllen Sie dann die Felder **Titel** und **Beschreibung** aus, wie im folgenden Beispiel gezeigt, und klicken Sie dann auf **Details speichern**.  
  
 ![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
 
-## <a name="add-or-remove-assets-from-a-playlist"></a>Hinzufügen oder Entfernen von Objekten aus einer Wiedergabeliste
-Mit benutzerdefinierten Wiedergabelisten haben Sie folgende Möglichkeiten:
-- Hinzufügen und Entfernen von Microsoft-Objekten, aber nicht bearbeiten von Objekten von Microsoft
-- Hinzufügen, entfernen und Bearbeiten benutzerdefinierter vorhandener SharePoint-Objekte aus Ihrer Organisation oder von Ihnen erstellten SharePoint-Objekten. 
+## <a name="add-or-remove-assets-from-a-playlist"></a>Hinzufügen oder Entfernen von Ressourcen aus einer Wiedergabeliste
+Mit benutzerdefinierten Wiedergabelisten können Sie:
+- Hinzufügen und Entfernen von Microsoft-Ressourcen, aber nicht Bearbeiten der Objekte von Microsoft
+- Fügen Sie benutzerdefinierte vorhandene SharePoint-Objekte aus Ihrer Organisation oder Von Ihnen erstellten SharePoint-Ressourcen hinzu, entfernen und bearbeiten Sie diese. 
 
-### <a name="remove-an-asset-from-a-playlist"></a>Entfernen eines Objekts aus einer Wiedergabeliste
-- Scrollen Sie auf der **Verwaltungs** Seite nach unten, und klicken Sie dann unter **Wiedergabelisten Objekte** auf das Symbol Löschen für **Schritt 5. Einrichten Mobile Apps**. 
+### <a name="remove-an-asset-from-a-playlist"></a>Entfernen einer Ressource aus einer Wiedergabeliste
+- Scrollen Sie auf **der Seite Verwaltung** nach unten, und klicken Sie dann unter **Wiedergabelistenressourcen** auf das Löschsymbol für **Schritt 5. Einrichten mobiler Apps**. 
 
 ## <a name="verify-the-asset-is-removed-from-the-playlist"></a>Überprüfen, ob das Objekt aus der Wiedergabeliste entfernt wurde
-1. Kehren Sie mit der **Microsoft 365-Schulungs** Seite zur Registerkarte zurück.
-2. Klicken Sie auf **erste Tage**, und klicken Sie dann auf die **fünf einfachen Schritte – Willkommen bei Office 365-** Wiedergabeliste. 
-3. Klicken Sie durch die Wiedergabeliste, um zu überprüfen, ob das Objekt entfernt wurde.
+1. Kehren Sie mit der **Microsoft 365-Schulungsseite zur Registerkarte** zurück.
+2. Klicken **Sie auf Erste** Tage, und klicken Sie dann auf die Wiedergabeliste Fünf einfache Schritte – Willkommen bei der Office **365-Wiedergabeliste.** 
+3. Klicken Sie auf die Wiedergabeliste, um zu überprüfen, ob das Objekt entfernt wurde.
 
 

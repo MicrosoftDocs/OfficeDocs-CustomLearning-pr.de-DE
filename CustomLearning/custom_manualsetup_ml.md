@@ -5,13 +5,13 @@ title: Manuelle Einrichtung von Lernpfaden für ml
 ms.date: 02/10/2019
 description: Manuelle Einrichtung von Lernpfaden
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: efa812a52418751b934fdcdf70c1377744f1a66d
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 6a12334647dac66c2af18fb141ab94a993c1183d
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162952"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999591"
 ---
 # <a name="learning-pathways-manual-setup-for-multilingual"></a>Manuelle Einrichtung von Lernpfaden für mehrsprachig
 

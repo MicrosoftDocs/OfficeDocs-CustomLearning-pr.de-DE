@@ -6,14 +6,14 @@ ms.author: karuanag
 manager: alexb
 audience: itpro
 ms.date: 02/01/2019
-ms.topic: how-to
+ms.topic: article
 ms.service: sharepoint-online
-ms.openlocfilehash: ad08a3076eb4aa042a7eb2c65608f3a36a5b4513
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: 971088888ac9f1942f0a53869af63347f3bf931a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749413"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000131"
 ---
 # <a name="connecting-across-the-company"></a>Unternehmensweite Vernetzung
 

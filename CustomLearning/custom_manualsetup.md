@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Manuelle Einrichtung von Lernpfaden
 ms.date: 07/06/2020
 description: Manuelle Einrichtung von Microsoft 365-Lernpfaden
-ms.service: sharepoint online
-ms.openlocfilehash: 511b4e5d7d251a1e3fbffcefb01d4ba1f139e5a1
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 5cc2f641884871fcb33d6cf7ea0db885fcdbd019
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163072"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999611"
 ---
 # <a name="learning-pathways-manual-setup"></a>Manuelle Einrichtung von Lernpfaden
 

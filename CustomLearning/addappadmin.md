@@ -1,33 +1,31 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Hinzufügen von Administrator zu SharePoint Online App-Katalog
+title: Hinzufügen eines Administrators zum SharePoint Online-App-Katalog
 ms.date: 02/10/2019
-description: Hinzufügen des erforderlichen Administrators zum App-Katalog
-ms.service: sharepoint online
-ms.openlocfilehash: 24e22ddc74d6c7b9311e031eaef296bcdd4ffacf
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Hinzufügen des erforderlichen Administrators zu Ihrem App-Katalog
+ms.service: sharepoint-online
+ms.openlocfilehash: fb23a6abd1d4a1cb5c66ca31cd7f823d79e8623e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233507"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000051"
 ---
 # <a name="view-or-add-an-administrator-to-your-sharepoint-online-app-catalog"></a>Anzeigen oder Hinzufügen eines Administrators zu Ihrem SharePoint Online-App-Katalog
 
-Um CLO365 erfolgreich zu installieren, muss die Person, die die Lösung zur Verfügung stellt, als Administrator des Mandanten-App-Katalogs aufgeführt werden.
+Zur erfolgreichen Installation von CLO365 muss die Person, die die Bereitstellung der Lösung vor sich hat, als Administrator des Mandanten-App-Katalogs aufgeführt werden.
 
-1. Wechseln Sie im Office 365 Verwaltungsportal zum SharePoint Online Admin Center.
-1. **Wählen Sie** die APP-Katalog-URL aus der Websitesammlungsliste aus ![appadmin_url.png](media/appadmin_url.png)
-1. Stellen Sie sicher, dass das CLO365-Installationsprogramm als einer der APP-Katalogadministratoren aufgeführt ist.
+1. Wechseln Sie über das Office 365-Verwaltungsportal zum SharePoint Online Admin Center.
+1. **Wählen** Sie die URL des App-Katalogs aus der Websitesammlungsliste ![appadmin_url.png](media/appadmin_url.png)
+1. Vergewissern Sie sich, dass das INSTALLATIONSPROGRAMM FÜR DAS 365 als einer der App-Katalogadministratoren aufgeführt ist.
 ![appadmin_dialog.png](media/appadmin_dialog.png)
 
-Wenn Ihr Benutzername aufgelistet ist, können Sie zur Einrichtung der benutzerdefinierten Lernwebsite zurückkehren.  Wenn nicht, führen Sie die nächsten Schritte aus. 
+Wenn Ihr Benutzername aufgeführt ist, können Sie zur Bereitstellung der Benutzerdefinierten Lernwebsite zurückkehren.  Wenn die nächsten Schritte nicht abgeschlossen sind. 
 
-## <a name="add-an-administrator"></a>Administrator hinzufügen
+## <a name="add-an-administrator"></a>Hinzufügen eines Administrators
 
-1. Aktivieren Sie im SharePoint Admin Center das Kontrollkästchen neben der APP-Katalog-URL, und wählen Sie das Dropdownfeld Besitzer aus.
+1. Aktivieren Sie im SharePoint Admin Center das Kontrollkästchen neben der URL des App-Katalogs, und aktivieren Sie das Dropdownfeld Besitzer.
 ![appadmin_owner.png](media/appadmin_owner.png)
-1. Wählen Sie im Dropdownmenü Administratoren verwalten aus ![appadmin_owner.png](media/appadmin_manage.png)
-1. Fügen Sie die richtige Person als Website Sammlungs Administrator hinzu, und klicken Sie auf OK, um die Änderungen zu speichern.
-
-### <a name="next-steps---site-provisioning"></a>Nächste Schritte – [Website-prozielierung](installsitepackage.md)
+1. Wählen Sie Administrator verwalten im Dropdownmenü ![appadmin_owner.png](media/appadmin_manage.png)
+1. Fügen Sie die richtige Person als Websitesammlungsadministrator hinzu, und klicken Sie auf OK, um Ihre Änderungen zu speichern.

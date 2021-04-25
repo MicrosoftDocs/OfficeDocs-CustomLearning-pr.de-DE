@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Bereitstellen einer neuen Lösung für Lernpfade
 ms.date: 02/10/2019
 description: Bereitstellen der Microsoft 365-Lernpfadwebsite mit dem Microsoft 365 Look Book-Dienst
-ms.service: sharepoint online
-ms.openlocfilehash: fd50eed38ea6f2073eb61b4d21545a73bc918a49
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bf260f41ea149a2344d1f09ba67d3e3a1d6e6180
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162912"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999441"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Bereitstellen einer neuen Lösung für Lernpfade 
 Organisationen, für die keine Lernpfade in ihrem Mandanten bereitgestellt sind, können den SharePoint-Look-Book-Dienst verwenden, um die Lösung für mehrsprachige Lernpfade hinzuzufügen. Mit dieser Option wird die SharePoint-Vorlage für Lernpfade in neun Sprachen übersetzt und kann mit einer minimalen Änderung verwendet werden. 
@@ -45,10 +48,10 @@ Stellen Sie vor der Bereitstellung von Lernpfaden sicher, dass für das Administ
 Der Look book-Dienst benötigt diese Berechtigungen, um den Mandanten-App-Katalog zu erstellen, die Anwendung im Mandanten-App-Katalog zu installieren und die Websitevorlage zur Verfügung zu stellen. Es gibt keine gesamtwirtschaftlichen Auswirkungen auf Ihren Mandanten. Diese Berechtigungen werden explizit für die Lösungsinstallation verwendet. Sie müssen diese Berechtigungen akzeptieren, um mit der Installation fortfahren zu können.
 
 4. Füllen Sie die Felder auf der Seite mit den Bereitstellungsinformationen entsprechend Ihrer Installation aus. Geben Sie mindestens die E-Mail-Adresse ein, an die Sie Benachrichtigungen über den Bereitstellungsprozess erhalten möchten, sowie die Ziel-URL der Website, an die die Bereitstellung erfolgen soll.  
-> [!NOTE]
-> Geben Sie der Ziel-URL Ihrer Website einen aussagekräftigen Namen wie beispielsweise „/Websites/MeinTraining“ oder „/Teams/Microsoft365Infos".
+   > [!NOTE]
+   > Geben Sie der Ziel-URL Ihrer Website einen aussagekräftigen Namen wie beispielsweise „/Websites/MeinTraining“ oder „/Teams/Microsoft365Infos".
 
-![inst_options.png](media/inst_options.png)
+   ![Der Bildschirm fordert Sie auf, grundlegende Informationen für das Setup ein eingeben.](media/inst_options.png)
 
 6. Klicken **Sie auf Bereitstellen,** wenn Sie Lernpfade in Ihrer Mandantenumgebung installieren möchten.  Der Bereitstellungsvorgang kann bis zu 15 Minuten dauern. Sie werden per E-Mail benachrichtigt, wenn die Website fertiggestellt ist. 
 
@@ -61,7 +64,7 @@ Nach Abschluss der Bereitstellung erhält der Mandantenadministrator, der die We
 
 - Wechseln Sie zu `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Wenn Sie **CustomLearningAdmin. aspx** öffnen, wird das Listenelement **CustomConfig** initialisiert, das die Lernpfade für die erste Verwendung einrichtet. Es sollte eine Seite angezeigt werden, die wie dies aussieht:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+   ![Beispiel für die erste CustomLearningAdmin.aspx-Seite.](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Hinzufügen von Besitzern zur Website
 Als Mandantenadministrator ist es unwahrscheinlich, dass Sie die Person sein werden, die die Website anpasst, sodass Sie der Website einige Besitzer zuweisen müssen. Besitzer verfügen über Administratorrechte auf der Website, damit sie Websiteseiten ändern und die Website neubranden können. Sie haben auch die Möglichkeit, Inhalte auszublenden und anzuzeigen und benutzerdefinierte Wiedergabelisten und Unterkategorien zu erstellen.  
@@ -88,7 +91,7 @@ Für Organisationen, die neben der Standardsprache Englisch nur eine Sprache unt
 4. Verschieben Sie unter Seiten **und Nachrichten in mehrere** Sprachen übersetzen aktivieren den Umschalter auf **Ein**. Es sollte standardmäßig Ein sein.
 5. Klicken Sie unter Websitesprachen hinzufügen oder entfernen auf **Entfernen,** um die Sprachen zu entfernen, die Sie für die Website nicht benötigen. Das folgende Beispiel zeigt ein Beispiel der Seite Spracheinstellungen, auf der neben der Standardsprache Englisch italienisch angezeigt wird, das für die Website unterstützt wird.
 
-![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+   ![Beispielbildschirm für Websitesprachen.](media/custom_update_ml_langsettings.png)
 
 > [!NOTE]
 > Beim Entfernen von Sprachen können Sie die Standardsprache Englisch nicht entfernen. 

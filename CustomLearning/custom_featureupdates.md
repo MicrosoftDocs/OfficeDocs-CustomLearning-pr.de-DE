@@ -1,17 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
-title: Featureupdates für Lernpfade
-ms.date: 4/13/2021
-description: Featureupdates für Lernpfade
-ms.service: o365-solutions
-ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
-ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755281"
----
+autor: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13.04.2021 beschreibung: Lernpfade Featureupdates ms.service: sharepoint-online
+
 # <a name="learning-pathways-version-40-feature-updates"></a>Featureupdates für Lernpfade, Version 4.0
 Im Folgenden finden Sie Featureupdates für Lernpfade, Version 4.0.  
 
@@ -63,7 +52,7 @@ Weitere Informationen finden Sie unter [Sortieren von Unterkategorien und Wieder
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Bildauswahl für benutzerdefinierte Unterkategorien für Lernpfade 
 Lernpfade bieten jetzt eine einfach zu verwendende Bildauswahl für benutzerdefinierte Wiedergabelisten und Unterkategorien.  In früheren Versionen konnten Sie das Bild für eine Wiedergabeliste ändern, jedoch keine Unterkategorie.  
 
-Weitere Informationen finden Sie unter:
+Weitere Informationen finden Sie hier:
 - [Erstellen einer benutzerdefinierten Wiedergabeliste](custom_createnewplaylist.md). 
 - [Erstellen einer Unterkategorie](custom_createnewcat.md)
 

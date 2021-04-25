@@ -1,68 +1,66 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Wo befindet sich das Microsoft 365-Lern Webpart
+title: Wo befindet sich das Microsoft 365-Lernwebteil?
 ms.date: 02/15/2019
-description: Hier erfahren Sie, wo das Lern Pfad-Webpart auf der Website für Lern Pfade angezeigt wird.
-ms.service: sharepoint online
-ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Erfahren Sie, wo das Web part für Lernpfade auf der Lernpfadwebsite angezeigt wird
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 75d753a8f6b6dd65c5b723588bc83238ad63b35a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233747"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000221"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Wo befindet sich das Webpart für Microsoft 365-Lernpfade? 
 
-Wenn Lern Pfade in Ihrer Organisation festgestellt werden, werden die Website und das Webpart für Lern Pfade dem SharePoint-Mandanten Ihrer Organisation hinzugefügt. Im Rahmen der proaktivierung wird das Microsoft 365 Learning-Webpart auf den folgenden Seiten der Microsoft 365-Lern Pfade-Website hinzugefügt:
+Wenn In Ihrer Organisation Lernpfade bereitgestellt werden, werden die Website und das Webteil der Lernpfade dem SharePoint-Mandanten Ihrer Organisation hinzugefügt. Im Rahmen der Bereitstellung wird das Microsoft 365-Lernwebteil den folgenden Seiten der Microsoft 365-Lernpfadwebsite hinzugefügt:
 
-- Start-with-Six-Simple-Steps. aspx 
-- Recommended-Playlists. aspx
-- Erste Schritte mit-Office 365. aspx
-- Get-Started-with-Microsoft-Teams. aspx
-- Get-Started-with-OneDrive. aspx
-- Get-Started-with-SharePoint. aspx
-- Lern Pfade Administrator Success Center. aspx
+- Start-with-Six-Simple-Steps.aspx 
+- Recommended-Playlists.aspx
+- Erste Schritte mit Office 365.aspx
+- Get-started-with-Microsoft-Teams.aspx
+- Get-started-with-OneDrive.aspx
+- Get-started-with-SharePoint.aspx
+- Lernpfade Admin Success Center.aspx
 
-Für jede Seite wird das Webpart unterschiedlich konfiguriert, um die Kategorien, Unterkategorien, Wiedergabelisten oder Objekte anzuzeigen, die für die Absicht der Seite ausgelegt sind. Das Webpart Lernpfade, wie wir Sie in späteren Abschnitten anzeigen können, kann nur zu einer beliebigen SharePoint-Seite hinzugefügt und gefiltert werden, um bestimmte Kategorien, Unterkategorien, Wiedergabelisten oder nur Objekte anzuzeigen. Werfen wir einen Blick. 
+Für jede Seite ist das Webteil anders konfiguriert, um die Kategorien, Unterkategorien, Wiedergabelisten oder Ressourcen zur Unterstützung der Absicht der Seite zu zeigen. Das Web part für Lernpfade, wie in späteren Abschnitten gezeigt wird, kann zu einer beliebigen SharePoint-Seite hinzugefügt und gefiltert werden, um bestimmte Kategorien, Unterkategorien, Wiedergabelisten oder nur Objekte anzeigen zu können. Lassen Sie uns einen Blick werfen. 
 
 ## <a name="view-microsoft-teams-playlists"></a>Anzeigen von Microsoft Teams-Wiedergabelisten
 
-Im folgenden finden Sie ein Beispiel für die Seite **Erste Schritte mit Microsoft Teams** , bei der das Webpart gefiltert wurde, um die Lern Wiedergabelisten für Teams anzuzeigen. 
+Hier sehen Sie ein Beispiel für die Seite Erste Schritte **mit Microsoft Teams,** auf der das Webteil gefiltert wurde, um die Lernlisten für Teams zu zeigen. 
 
-- Wählen Sie auf der Startseite für Lern Pfade die Option **Erste Schritte mit Microsoft Teams**aus.
+- Wählen Sie auf der Startseite der Lernpfade die Option **Erste Schritte mit Microsoft Teams aus.**
+![Erste Schritte mit dem Microsoft Teams-Bildschirm.](media/cg-whereiswp-teams.png)
 
-![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
+- Klicken Sie **im** Menü Lernpfade-Website auf das Menü Start, um zur Homepage der Website zurückzukehren.
+![Bildschirm mit Lernpfaden, auf dem Sie Start auswählen.](media/cg-homebtnmenu.png)
 
-- Klicken Sie im Menü Website auf das Menü **Start** , um zur Homepage der Website zurückzukehren.
+## <a name="view-the-six-simple-steps-playlist"></a>Anzeigen der Wiedergabeliste mit sechs einfachen Schritten
 
-![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
+Das Webteil auf der **Seite Start-with-Six-Simple-Steps.aspx** ist so konfiguriert, dass das erste Objekt in der Wiedergabeliste mit sechs einfachen Schritten angezeigt wird. 
 
-## <a name="view-the-six-simple-steps-playlist"></a>Anzeigen der Wiedergabeliste für sechs einfache Schritte
+- Klicken Sie auf der Startseite der Lernpfade auf **Start mit sechs einfachen Schritten.** 
+![Office 365-Seite, auf der Sie Start mit sechs einfachen Schritten auswählen.](media/cg-whereiswp-six.png)
 
-Das Webpart auf der Seite " **Start-with-Six-Simple-Steps. aspx** " ist so konfiguriert, dass das erste Objekt in der Liste mit den sechs einfachen Schritten angezeigt wird. 
+## <a name="view-all-microsoft-365-training"></a>Anzeigen aller Microsoft 365-Schulungen
 
-- Klicken Sie auf der Startseite Lernpfade auf **mit sechs einfachen Schritten beginnen**. 
+Das Webteil auf der **Microsoft 365-Schulungsseite** ist so konfiguriert, dass alle Kategorien und Unterkategorien angezeigt werden, die im Katalog für Lernpfade verfügbar sind. Dies umfasst Unterkategorien von Microsoft sowie alle Unterkategorien, die Sie für Ihre Organisation erstellen.
 
-![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
+- Klicken Sie auf der Startseite der Lernpfade auf **Microsoft 365-Schulungen.** Die Seite wird angezeigt, wenn das Webteil so konfiguriert ist, dass alle Kategorien und Unterkategorien angezeigt werden, die im Benutzerdefinierten Lernkatalog verfügbar sind.
+![Fenster "Pfade", in dem Kategorien angezeigt werden.](media/cg-whereiswp-o365.png)
 
-## <a name="view-all-microsoft-365-training"></a>Alle Microsoft 365-Schulungen anzeigen
+- Klicken Sie **im** Menü Lernpfade-Website auf das Menü Start, um zur Homepage der Website zurückzukehren.
 
-Das Webpart auf der **Microsoft 365-Schulungs** Seite ist so konfiguriert, dass alle Kategorien und Unterkategorien angezeigt werden, die im Lern Pfad Katalog verfügbar sind. Dies umfasst Unterkategorien von Microsoft zusammen mit allen Unterkategorien, die Sie für Ihre Organisation erstellen.
+## <a name="view-the-web-part-on-the-admin-success-center-page"></a>Anzeigen des Webteils auf der Seite "Admin Success Center"
 
-- Klicken Sie auf der Startseite für Lern Pfade auf **Microsoft 365 Training**. Die Seite wird angezeigt, wobei das Webpart so konfiguriert ist, dass alle im benutzerdefinierten Lernkatalog verfügbaren Kategorien und Unterkategorien angezeigt werden.
+Das Webteil auf der **Seite Admin Success Center** ist so konfiguriert, dass alle wiedergabelisten gefiltert werden, die für das Admin Success Center verfügbar sind. Wie im folgenden Beispiel gezeigt, wird das Webteil einer Seite hinzugefügt, die auch Schnelllinks zu Administratorressourcen enthält. 
 
-![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
+- Klicken Sie auf der Startseite der Lernpfade auf **Erste Schritte mit dem Admin Success Center**. . 
+![Hauptseite des Admin Success Center.](media/cg-adminsuccesscenterwebpart.png)
 
-- Klicken Sie im Menü Website auf das Menü **Start** , um zur Homepage der Website zurückzukehren.
-
-## <a name="view-the-web-part-on-the-admin-success-center-page"></a>Anzeigen des Webparts auf der Seite "Administrator-Erfolgs Center"
-
-Das Webpart auf der Seite **Admin Success Center** wird so konfiguriert, dass alle verfügbaren Wiedergabelisten für das Admin Success Center gefiltert werden. Wie im folgenden Beispiel gezeigt, wird das Webpart zu einer Seite hinzugefügt, die auch schnell Links zu Administrator Ressourcen enthält. 
-
-- Klicken Sie auf der Startseite für Lern Pfade auf **Erste Schritte mit dem Administrator-Erfolgs Center**. . 
-
-![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
-
-- Klicken Sie im Menü Website auf das Menü **Start** , um zur Homepage der Website zurückzukehren.
+- Klicken Sie **im** Menü Lernpfade-Website auf das Menü Start, um zur Homepage der Website zurückzukehren.
 
