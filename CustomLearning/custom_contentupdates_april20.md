@@ -5,23 +5,25 @@ title: Lernpfade Inhaltsupdates april
 ms.date: 3/30/2020
 description: 'Lernpfade: Inhaltsupdates vom April 2020'
 ms.service: sharepoint-online
-ms.openlocfilehash: a8b6cf64a93e7d10aa0fa8602ba8b7f52ded1f67
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 7e020cd7f0b470f67c48b9bc3f08e0affa85221d
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999131"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310479"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Inhaltsupdates für Microsoft 365 Learning Pathways für April
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Microsoft 365 Inhaltsupdates für Lernpfade für April
 Lernpfade sind bestrebt, einen vierteljährlichen Inhaltsaktualisierungszyklus einzuhalten. In der folgenden Liste sind die Inhaltsupdates für April 2020 aufgeführt.
 
 ## <a name="april-2020-content-updates"></a>Inhaltsupdates vom April 2020
- Als Reaktion auf aktuelle Ereignisse bietet das Inhaltsupdate vom April 2020 Lernlisten und Ressourcen, die die Remotearbeit in Ihrer Organisation ermöglichen. Wir haben einen neuen Satz von Remotearbeitslisten hinzugefügt, die Microsoft Teams-Inhalte, insbesondere für Teams-Besprechungen, erheblich aktualisiert, einen neuen Satz von Office für die Web-Wiedergabelisten hinzugefügt und neue Microsoft Forms-Ressourcen hinzugefügt. Im Rahmen des Updates haben wir auch eine Liste der Remotearbeitsressourcen für Administratoren bereitgestellt.  
+ Als Reaktion auf aktuelle Ereignisse bietet das Inhaltsupdate vom April 2020 Lernlisten und Ressourcen, die die Remotearbeit in Ihrer Organisation ermöglichen. Wir haben einen neuen Satz von Remotearbeitslisten hinzugefügt, die Microsoft Teams-Inhalte, insbesondere für Teams-Besprechungen, erheblich aktualisiert, einen neuen Satz von Office für die Weblisten hinzugefügt und neue Microsoft Forms-Objekte hinzugefügt. Im Rahmen des Updates haben wir auch eine Liste der Remotearbeitsressourcen für Administratoren bereitgestellt.  
  
- Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). Im Folgenden sind die Inhaltsupdates für Microsoft 365-Lernpfade vom April 2020 aufgeführt. 
+ Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). Im Folgenden werden die Inhaltsupdates Microsoft 365 Lernpfade vom April 2020 aufgeführt. 
 
-### <a name="office-365-was-rebranded-to-microsoft-365"></a>Office 365 wurde in Microsoft 365 umbenannt
-Office 365 wurde in Microsoft 365 umbenannt. Die Namensänderung wird in den Inhalten der Microsoft 365-Lernpfade widerspiegelt. 
+### <a name="office-365-was-rebranded-to-microsoft-365"></a>Office 365 wurde in "Microsoft 365
+Office 365 wurde in Microsoft 365. Die Namensänderung wird im gesamten Microsoft 365 Lernpfadinhalten wider. 
 
 ### <a name="new-or-updated-playlists"></a>Neue oder aktualisierte Wiedergabelisten
 Die folgenden Wiedergabelisten wurden hinzugefügt oder aktualisiert.  
@@ -35,7 +37,7 @@ Den Lernpfaden mit den folgenden Wiedergabelisten und Ressourcen wurde eine neue
 - Remotearbeit mit Office 365
 - Erste Schritte auf Office.com
 - Kommunizieren oder Treffen
-- Speichern ihrer Arbeitsdateien
+- Store Ihrer Arbeitsdateien
 - Fortgeschrittene Alternativen
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Bewährte Methoden für die Zusammenarbeit mit Office 365 (6 neue Ressourcen)
 - Erste Schritte
@@ -45,8 +47,8 @@ Den Lernpfaden mit den folgenden Wiedergabelisten und Ressourcen wurde eine neue
 - Meet
 - Mobilgeräte
 
-### <a name="teams-9-new-assets6-updated-assets"></a>Teams (9 neue Objekte/6 aktualisierte Ressourcen)
-Es wurden eine Vielzahl von Updates an Teams-Inhalten vorgenommen. 
+### <a name="teams-9-new-assets6-updated-assets"></a>Teams (9 neue Objekte/6 aktualisierte Objekte)
+Es wurden eine Vielzahl von Updates für Teams vorgenommen. 
 #### <a name="collaborate-in-teams-and-channels-1-new1-updated-asset"></a>Zusammenarbeit in Teams und Kanälen (1 neues/1 aktualisiertes Objekt)
 - Erstellen und Verwenden privater Kanäle (neu)
 - Ein- oder Ausblenden von Kanälen (aktualisiert)
@@ -59,18 +61,18 @@ Es wurden eine Vielzahl von Updates an Teams-Inhalten vorgenommen.
 #### <a name="work-with-posts-and-messages"></a>Arbeiten mit Beiträgen und Nachrichten
 - Senden einer Nachricht an mehrere Kanäle (neu)
 #### <a name="manage-meetings-3-new4-updated-assets"></a>Verwalten von Besprechungen (3 neue/4 aktualisierte Ressourcen)
-- Teilnehmen an einer Teams-Besprechung (neu)
+- Teilnehmen an Teams Besprechung (neu)
 - Erstellen von Sofortbesprechungen mit Meet now (aktualisiert)
 - Treffen in einem Kanal (neu)
 - Verwalten von Besprechungen (neu)
 - Anzeigen des Bildschirms während einer Besprechung (aktualisiert)
-- Anzeigen von PowerPoint-Folien (aktualisiert)
-- Verschieben während einer Teams-Besprechung (aktualisiert)
+- Anzeigen PowerPoint Folien (aktualisiert)
+- Verschieben während einer besprechungs Teams (aktualisiert)
 #### <a name="work-with-post-and-messages-1-new"></a>Arbeiten mit Beiträgen und Nachrichten (1 neu)
 - Senden einer Nachricht an mehrere Kanäle (neu)
 
 ### <a name="office-for-the-web"></a>Office für das Web
-Office für das Web bietet eine Reihe von Wiedergabelisten für Szenarien, in denen Benutzer Office im Web erstellen, freigeben und zusammenarbeiten möchten. Diese Inhaltssammlung ist auch für Organisationen nützlich, die den Wechsel von Google G Suite zu Microsoft 365 unternehmen.
+Office für das Web bietet eine Reihe von Wiedergabelisten für Szenarien, in denen Benutzer erstellen, freigeben und mit Office im Web. Diese Inhaltssammlung ist auch für Organisationen nützlich, die den Wechsel von Google G Suite zu Microsoft 365.
 #### <a name="get-started-5-new-assets"></a>Erste Schritte (5 neue Ressourcen)
 - Erste Schritte
 - Suchen mit Der Suche
@@ -98,7 +100,7 @@ Office für das Web bietet eine Reihe von Wiedergabelisten für Szenarien, in de
 - Einblicke mit Ideen erhalten
 - Zusammenarbeiten
 - Zeit sparen mit Flash Fill
-- Zeichnen eines Bilds mit bedingter Formatierung
+- Paint einer Grafik mit bedingter Formatierung
 #### <a name="powerpoint-for-the-web"></a>PowerPoint für das Web
 - Kennenlernen von PowerPoint für das Web
 - Einfügen von Bildern, Formen und mehr
@@ -124,28 +126,28 @@ Auf Anfrage gibt es auch einige neue Forms-Objekte.
 Sie können Lernpfade verwenden, um eine Zielseite auf Ihrer Lernpfadwebsite zur Unterstützung von Remotemitarbeitern zu erstellen. Oder Sie können das Web part für Lernpfade zu einer vorhandenen Supportseite auf Ihrer Lernpfadwebsite hinzufügen und das Webteil filtern, um die Remotearbeitslisten zu zeigen. Hier finden Sie eine Liste der besten Ressourcen von Microsoft für die Unterstützung der Remotearbeit in Ihrer Organisation. 
 - [Bereitstellen von Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
 - [Besprechungen und Konferenzen in Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Unterstützen von Remotemitarbeitern mithilfe von Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
+- [Unterstützen von Remotemitarbeitern mithilfe Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
 - [Häufig gestellte Fragen: Unterstützung für Ihre Remotemitarbeiter](/microsoftteams/faq-support-remote-workforce)
 - [Die 9 besten Methoden, mit denen microsoft IT Remotearbeit für seine Mitarbeiter ermöglicht](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams Training](/microsoftteams/training-microsoft-teams-landing-page)
+- [Microsoft Teams Schulung](/microsoftteams/training-microsoft-teams-landing-page)
 - [Bildungseinrichtungen: Microsoft Education Center](https://education.microsoft.com) 
 - [Bildungseinrichtungen: Erste Schritte mit Remote learning](https://education.microsoft.com/resource/4c0c02c0)
 
 Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Customize learning pathways](custom_overview.md). 
 
 ## <a name="november-2019-content-updates"></a>Inhaltsupdates vom November 2019
-Willkommen beim Inhaltsupdate für Microsoft 365-Lernpfade. Ab unserem Update vom November 2019 stellen wir vierteljährlich eine aktualisierte Bestandsaufnahme des Lernpfadkatalogs zur Verfügung. Für das Update vom November 2019 wurden dem Lernpfadkatalog die folgenden neuen Inhaltsunterkategorien und Wiedergabelisten hinzugefügt. Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md).    
+Willkommen bei der Microsoft 365 Lernpfad-Inhaltsupdates. Ab unserem Update vom November 2019 stellen wir vierteljährlich eine aktualisierte Bestandsaufnahme des Lernpfadkatalogs zur Verfügung. Für das Update vom November 2019 wurden dem Lernpfadkatalog die folgenden neuen Inhaltsunterkategorien und Wiedergabelisten hinzugefügt. Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md).    
 
 ### <a name="teams"></a>Teams
-Der Unterkategorie Teams wurden mehrere neue Wiedergabelisten hinzugefügt.
+Mehrere neue Wiedergabelisten wurden der unterkategorie Teams hinzugefügt.
 - Arbeiten mit Beiträgen und Nachrichten (3 Objekte)
 - Hochladen und Suchen von Dateien (2 Objekte)
 - Einrichten und Teilnehmen an Liveereignissen (4 Objekte)
 - Verwalten Ihres Aktivitätsfeeds (2 Ressourcen)
-- Teams unterwegs (2 Ressourcen)
+- Teams unterwegs (2 Objekte)
 
 ### <a name="microsoft-365-success-center"></a>Microsoft 365 Success Center
-Wir haben eine Microsoft 365-Lernpfade-Unterkategorie Success Center zur Lernpfaderfahrung hinzugefügt. Das Success Center bietet die folgenden Wiedergabelisten.
+Wir haben der Lernpfaderfahrung eine Microsoft 365 Erfolgscenter-Unterkategorie hinzugefügt. Das Success Center bietet die folgenden Wiedergabelisten.
 - What's New, What Changed (3 asset)
 - Planen Ihrer Lerninhalte (2 Ressourcen)
 - Anpassen von Lernpfaden (8 Ressourcen?)
@@ -153,16 +155,16 @@ Wir haben eine Microsoft 365-Lernpfade-Unterkategorie Success Center zur Lernpfa
 - Messen der Auswirkungen von Lernpfaden (1 Ressource)
 
 ### <a name="outlook"></a>Outlook
-Die folgenden Wiedergabelisten wurden der Outlook-Unterkategorie hinzugefügt. 
-- Outlook mobile: Verwalten Ihres Posteingangs (4 Ressourcen)
-- Outlook mobile: Verwalten Ihrer Zeit (8 Ressourcen)
-- Outlook mobile: Personen und Verbindungen (5 Objekte)
-- Outlook mobile: Suche und Freigabe (4 Objekte)
+Die folgenden Wiedergabelisten wurden der Outlook hinzugefügt. 
+- Outlook Mobile: Verwalten Ihres Posteingangs (4 Objekte)
+- Outlook Mobile: Verwalten Ihrer Zeit (8 Ressourcen)
+- Outlook Mobile: Personen und Verbindungen (5 Objekte)
+- Outlook Mobile: Suche und Freigabe (4 Objekte)
 
-### <a name="onedrive"></a>Microsoft OneDrive-App
-Die folgenden Videoressourcen wurden für OneDrive hinzugefügt. 
-- Einrichten Ihres iPhones oder iPads wurde der Intro to OneDrive-Wiedergabeliste hinzugefügt
-- Aktivieren der OneDrive-Sicherung wurde zur Wiedergabeliste "Dateien mit OneDrive verwalten" hinzugefügt.
+### <a name="onedrive"></a>OneDrive
+Die folgenden Videoressourcen wurden für die OneDrive. 
+- Einrichten der iPhone oder iPad, die dem Intro to OneDrive hinzugefügt wurde
+- Aktivieren OneDrive Sicherung wurde der Dateiverwaltung mit einer OneDrive hinzugefügt
 
 ### <a name="planner"></a>Planner
 Die folgenden Wiedergabelisten und Ressourcen wurden dem Katalog hinzugefügt.  
@@ -171,13 +173,13 @@ Die folgenden Wiedergabelisten und Ressourcen wurden dem Katalog hinzugefügt.
 
 ### <a name="accessibility"></a>Barrierefreiheit
 Die Unterkategorie Barrierefreiheit von Inhalten wurde mit den folgenden Wiedergabelisten hinzugefügt. 
-- Microsoft 365 Accessibility Overview and Resources (3 Assets)
-- Erstellen barrierefreierer E-Mail-Nachrichten in Outlook (3 Ressourcen)
+- Microsoft 365 Barrierefreiheitsübersicht und Ressourcen (3 Ressourcen)
+- Erstellen von barrierefreien E-Mail-Nachrichten in Outlook (3 Ressourcen)
 - Erstellen barrierefreierer Word-Dokumente (8 Objekte)
-- Erstellen barrierefreierer Excel-Arbeitsmappen (3 Objekte)
+- Erstellen von barrierefreien Excel Arbeitsmappen (3 Objekte)
 - Erstellen von barrierefreien Folien in PowerPoint (5 Objekte)
 
-### <a name="onedrive"></a>Microsoft OneDrive-App
+### <a name="onedrive"></a>OneDrive
 HINWEIS: Hier müssen Änderungen hinzugefügt werden.....
 
 ### <a name="sway"></a>Sway

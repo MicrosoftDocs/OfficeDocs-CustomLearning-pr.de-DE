@@ -6,12 +6,14 @@ ms.date: 10/27/2019
 description: Ausblenden und Anzeigen von Wiedergabelisten
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
-ms.openlocfilehash: 9d0169c6b13930ebd66e6994d4782c91142d4a16
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 41881289a040b0775e9a2c6592df1d6801d9fe59
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999681"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310579"
 ---
 # <a name="hide-and-show-learning-pathways-multilingual-content"></a>Ausblenden und Anzeigen mehrsprachiger Inhalte für Lernpfade 
 

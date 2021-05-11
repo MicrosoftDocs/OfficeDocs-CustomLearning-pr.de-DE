@@ -1,5 +1,5 @@
 ---
-autor: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13.04.2021 beschreibung: Lernpfade Featureupdates ms.service: sharepoint-online
+Autor: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13.04.2021 beschreibung: Lernpfade Featureupdates ms.service: sharepoint-online manager: bpardi ms.topic: article
 
 # <a name="learning-pathways-version-40-feature-updates"></a>Featureupdates für Lernpfade, Version 4.0
 Im Folgenden finden Sie Featureupdates für Lernpfade, Version 4.0.  
@@ -25,7 +25,7 @@ Das Web part für Lernpfade ist jetzt als Open Source verfügbar. Weitere Inform
 
 ## <a name="july-2020-version-40-feature-updates"></a>Featureupdates für Version 4.0 vom Juli 2020 
 
-Die folgenden neuen Features wurden microsoft 365-Lernpfaden, Version 4.0, hinzugefügt. 
+Die folgenden neuen Features wurden zu Microsoft 365 Version 4.0 hinzugefügt. 
 
 ### <a name="multilingual-support-for-learning-pathways"></a>Mehrsprachiger Support für Lernpfade 
 Die mehrsprachige Unterstützung für Lernpfade umfasst jetzt Niederländisch. 
@@ -52,18 +52,18 @@ Weitere Informationen finden Sie unter [Sortieren von Unterkategorien und Wieder
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Bildauswahl für benutzerdefinierte Unterkategorien für Lernpfade 
 Lernpfade bieten jetzt eine einfach zu verwendende Bildauswahl für benutzerdefinierte Wiedergabelisten und Unterkategorien.  In früheren Versionen konnten Sie das Bild für eine Wiedergabeliste ändern, jedoch keine Unterkategorie.  
 
-Weitere Informationen finden Sie hier:
+Weitere Informationen finden Sie unter:
 - [Erstellen einer benutzerdefinierten Wiedergabeliste](custom_createnewplaylist.md). 
 - [Erstellen einer Unterkategorie](custom_createnewcat.md)
 
 ## <a name="november-2019-version-30-feature-updates"></a>Featureupdates für Version 3.0 von November 2019
-Basierend auf Kundenfeedback wurden den Microsoft 365-Lernpfaden Version 3.0 die folgenden neuen Features hinzugefügt.
+Basierend auf Kundenfeedback wurden die folgenden neuen Features zu Microsoft 365 Version 3.0 hinzugefügt.
 
 ### <a name="content-updates-and-editorial-calendar"></a>Inhaltsupdates und redaktioneller Kalender
-Eine der Versprechen von Lernpfaden ist der aktuelle Inhalt. Zu diesem Zweck haben wir unser erstes vierteljährliches Inhaltsupdate vom November 2019 mit einer Vielzahl neuer Unterkategorien, Wiedergabelisten und Ressourcen bereitgestellt. Inhaltsupdates werden in unseren Content Update-Artikeln in unserer Wiedergabeliste "Neuigkeiten/Änderungen" kommuniziert. Vierteljährliche Inhaltsupdates für Lernpfade finden Sie hier: Allgemeine Office-Hilfe finden Sie unter [Inhaltsupdates vom November 2019](custom_contentupdates.md).
+Eine der Versprechen von Lernpfaden ist der aktuelle Inhalt. Zu diesem Zweck haben wir unser erstes vierteljährliches Inhaltsupdate vom November 2019 mit einer Vielzahl neuer Unterkategorien, Wiedergabelisten und Ressourcen bereitgestellt. Inhaltsupdates werden in unseren Content Update-Artikeln in unserer Wiedergabeliste "Neuigkeiten/Änderungen" kommuniziert. Vierteljährliche Inhaltsupdates für Lernpfade finden Sie hier: Allgemeine Informationen Office finden Sie unter [Inhaltsupdates vom November 2019](custom_contentupdates.md).
 
 ### <a name="learning-pathways-admin-success-center"></a>Lernpfade Admin Success Center
-Wir haben ein Microsoft 365-Lernpfade Admin Success Center hinzugefügt, um Administratoren und Websitesammlungsbesitzern zu helfen, die Lernpfade am besten zu nutzen. Das Admin Success Center bietet Links zu Planungs- und Einführungsressourcen und bietet Anleitungen zum Planen, Anpassen, Fördern der Einführung und Messen der Auswirkungen von Lernpfaden. Weitere Informationen finden Sie unter [Admin Success Center](custom_successcenter.md).
+Wir haben ein Microsoft 365 Lernpfade Admin Success Center hinzugefügt, um Administratoren und Websitesammlungsbesitzern zu helfen, die Lernpfade am besten zu nutzen. Das Admin Success Center bietet Links zu Planungs- und Einführungsressourcen und bietet Anleitungen zum Planen, Anpassen, Fördern der Einführung und Messen der Auswirkungen von Lernpfaden. Weitere Informationen finden Sie unter [Admin Success Center](custom_successcenter.md).
 
 ## <a name="playlist-navigation"></a>Wiedergabelistennavigation
 Basierend auf Kundenfeedback haben wir die Navigation mit den Schaltflächen Weiter und Zurück offensichtlicher gemacht. Außerdem haben wir ein Inhaltsverzeichnis im Navigationsbereich hinzugefügt, damit Benutzer die vollständige Liste der Elemente in einer Wiedergabeliste sehen und direkt zu einem Objekt in einer Wiedergabeliste navigieren können.
@@ -75,5 +75,5 @@ In einigen Fällen wird das Video in einem Wiedergabelisten-Objekt unterhalb des
 Viele Kunden haben die Notwendigkeit zum Ausdruck gebracht, nur einige einfache Dinge in einer von Microsoft bereitgestellten Wiedergabeliste zu ändern, ohne eine komplett neue Wiedergabeliste erstellen zu müssen. Eine häufige Kundenanforderung besteht beispielsweise in der Entfernung eines Schritts aus der Wiedergabeliste Start mit sechs einfachen Schritten. Jetzt können Sie eine Wiedergabeliste aus einer vorhandenen Wiedergabeliste kopieren, einschließlich einer Wiedergabeliste aus dem Microsoft-Katalog, und diese Wiedergabeliste dann ändern. Beispielsweise können Sie jetzt sechs einfache Schritte kopieren, 3 Schritte löschen und die Wiedergabeliste in 3 einfache Schritte verwandeln. Weitere Informationen finden Sie unter [Copy a Playlist](custom_copyplaylist.md).
 
 ## <a name="multi-content-pack-support"></a>Multi-Content Pack-Unterstützung
-Die für Microsoft 365-Lernpfade konzipierte Unterstützung für Partner und Administratoren mit Erfahrung bei der Verwaltung von Webinhalten ermöglicht es einem Partner oder Administrator, einen benutzerdefinierten Inhaltssatz in Microsoft 365-Lernpfade zu integrieren. Weitere Informationen finden Sie im [Partner guide](custom_partnerguide.md).
+Entwickelt für Microsoft 365 Lernpfade, Partner und Administratoren mit Erfahrung bei der Verwaltung von Webinhalten, ermöglicht die Unterstützung mit mehreren Inhalten einem Partner oder Administrator die Integration eines benutzerdefinierten Inhaltssets in Microsoft 365 Lernpfade. Weitere Informationen finden Sie im [Partner guide](custom_partnerguide.md).
 
