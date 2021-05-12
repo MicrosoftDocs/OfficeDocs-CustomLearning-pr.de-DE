@@ -1,17 +1,18 @@
 ---
 title: Bewährte Methoden für das Championprogramm – Suchen nach Champions
-description: Fördern der Einführung von Office 365 mit bewährten Methoden für das Championprogramm
+description: Fördern Sie die Einführung von Office 365 mithilfe bewährter Methoden des Championprogramms.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: c61cff1b81d08154124ae61904b5e15f3dd8f0f6
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 34870108b82bf79793a014129dbd45f145f214be
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999971"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334609"
 ---
 # <a name="finding-your-champions"></a>Suchen nach Ihren Champions 
 

@@ -1,23 +1,24 @@
 ---
 title: Bewährte Methoden für das Championprogramm – Microsoft 365-Endbenutzer-Einführungshandbuch
-description: Fördern der Einführung von Office 365 mit bewährten Methoden für das Championprogramm
+description: Fördern Sie die Einführung von Office 365 mit unseren bewährten Methoden für das Championprogramm und dem Microsoft 365 End User Adoption Guide.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: f158dece60fef9e91bf16e8594d8b3b3ed2af6e8
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 6e62361e9aa4328e06844747f1bbbcab5cca1596
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999921"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334599"
 ---
 # <a name="microsoft-365-end-user-adoption-guide"></a>Einführungsleitfaden für Microsoft 365-Endbenutzer
 
 ![Microsoft 365-Einführungsleitfaden](media/m365euguide.png)
 
-Weitere Informationen zu diesem Thema finden Sie im [Einführungsleitfaden für Microsoft 365-Endbenutzer](https://aka.ms/adoptionguide). In diesem Leitfaden werden die Schritte zur Förderung der Akzeptanz bei Endbenutzern in den folgenden Hauptbereichen beschrieben:
+Weitere Informationen zu diesem Thema finden Sie im [Microsoft 365 End User Adoption Guide](https://aka.ms/adoptionguide). In diesem Leitfaden werden die Schritte zur Einführung von Endbenutzern in den folgenden Schlüsselbereichen beschrieben:
 
 - Beteiligte
 - Szenarien
