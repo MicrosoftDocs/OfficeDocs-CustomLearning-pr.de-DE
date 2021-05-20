@@ -3,26 +3,140 @@ author: pkrebs
 ms.author: pkrebs
 manager: bpardi
 title: Inhaltsupdates für Lernpfade
-ms.date: 3/30/2020
-audience: Admin
+ms.date: 5/19/2021
 ms.topic: article
 description: Inhaltsupdates für Lernpfade
 ms.service: o365-solutions
-ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+audience: itpro
+ms.openlocfilehash: 84d166c96ac24a04e24fe4a9b88f2942cc7752c8
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000111"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575980"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Inhaltsupdates für Microsoft 365 Learning Pathways
-Lernpfade sind bestrebt, einen vierteljährlichen Inhaltsaktualisierungszyklus einzuhalten. Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). 
+# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Inhaltsupdates für Lernpfade
+Lernpfade sind bestrebt, einen vierteljährlichen Inhaltsaktualisierungszyklus einzuhalten. Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md).  
+
+## <a name="may-2021-content-updates"></a>Inhaltsupdates vom Mai 2021
+Im Folgenden sind die Inhaltsupdates für Mai 2021 aufgeführt.    
+
+### <a name="yammer"></a>Yammer
+Yammer Inhalt wurde aktualisiert.
+
+#### <a name="yammer-quick-start-updated"></a>Yammer Schnellstart (aktualisiert)
+- Anmelden – mit neuem Video aktualisiert
+- Entdecken von Communitys – mit neuem Titel aktualisiert
+- Teilnehmen an der Unterhaltung – aktualisierter Inhalt
+- Zusammenarbeit – eingestellt
+- Einrichten mobiler Apps – keine Änderung
+
+#### <a name="roll-out-a-successful-yammer-network-updated"></a>Rollout eines erfolgreichen Yammer (aktualisiert)
+- Was ist Yammer? – mit neuem Video aktualisiert
+- Planen Ihrer Strategie – aktualisierte Inhalte
+- Personalisieren Yammer Netzwerk – aktualisiert mit neuem Video
+- Identifizieren der richtigen Verwendungsfälle – aktualisiertes, entferntes Video
+- Erstellen einer Community für einen Use Case – aktualisierte, geänderte Gruppe in Community im Titel 
+- Schulen von Benutzern – aktualisiertes, entferntes Video
+- Kontinuierliches Engagement fördern – eingestellt
+- Integrieren Yammer – aktualisierter, geänderter Titel
+
+#### <a name="use-yammer-every-day-updated"></a>Verwenden Yammer täglich (aktualisiert)
+- Was ist Yammer – mit neuem Video aktualisiert
+- Ändern Yammer Profils und Einstellungen – aktualisierter Inhalt
+- Starten einer Unterhaltung – aktualisierter Titel
+- Bearbeiten von Benachrichtigungen und Empfangsansagen – aktualisierter Titel
+- Beitreten und Erstellen von Communitys – aktualisierter Titel
+- Entdecken und Suchen in Yammer - eingestellt
+- Erstellen und Bearbeiten von Dateien – eingestellt
+- Keep it going – aktualisierte Inhalte
+
+### <a name="hybrid-workplace-updated"></a>Hybridarbeitsplatz (aktualisiert)
+Die folgenden neuen Wiedergabelisten wurden der Unterkategorie Hybrid workplace hinzugefügt.
+
+#### <a name="stay-well-new"></a>Bleiben Sie gut (neu)
+- Einführung in das Wohlbefinden am Hybridarbeitsplatz – neue Ressource
+- Pausen einlegen und persönliche Zeit planen – neue Ressource
+- Planen und Respektieren von Grenzen – neue Ressource
+- Festlegen ihres Status in Microsoft Teams - neue Ressource
+- Verwalten von Benachrichtigungen in Teams – neue Ressource
+- Aktivieren des Fokus-Assistenten in Windows – neues Objekt
+
+#### <a name="stay-productive-new"></a>Produktiv bleiben (neu)
+- Persönliche Produktivität am Hybridarbeitsplatz – neue Ressource
+- Teamproduktivität am Hybridarbeitsplatz – neue Ressource
+
+#### <a name="stay-connected-new"></a>Bleiben Sie verbunden (neu)
+- Bleiben am Hybridarbeitsplatz – neue Ressource
+- Starten von Unterhaltungen in Teams – neues Objekt
+- Erstellen eines Kommunikationsvertrags mit Ihrem Team – neue Ressource
+
+### <a name="microsoft-teams-updated"></a>Microsoft Teams (aktualisiert)
+Neue Objekte mit Videos wurden den folgenden Microsoft Teams hinzugefügt. 
+
+#### <a name="collaborate-in-teams-and-channels-updated"></a>Zusammenarbeit in Teams und Kanälen (aktualisiert)
+- Arbeiten mit externen Gästen – neues Objekt mit Video
+
+#### <a name="create-approvals-updated"></a>Erstellen von Genehmigungen (aktualisiert)
+- Erstellen einer E-Sign-Genehmigung – neues Objekt mit Video
+
+### <a name="teams-excel-powerpoint-word-outlook"></a>Teams, Excel, PowerPoint, Word, Outlook
+Die folgenden Objekte verfügen über neue oder aktualisierte Videos.
+
+#### <a name="teams"></a>Teams
+- Verwalten von Besprechungen\Teilnehmen an Teams Besprechung – aktualisiertes Video
+- Verwalten von Besprechungen\Verwalten von Besprechungen – aktualisiertes Video
+- Zusammenarbeit in Teams und Kanälen\Übersicht über Teams und Kanäle – aktualisiertes Video
+- Zusammenarbeit in Teams und Kanälen\Arbeiten mit externen Gästen – neues Video
+- Hochladen und Suchen von Dateien\Hochladen und Freigeben von Dateien – aktualisiertes Video
+- Erstellen von Genehmigungen\Erstellen einer E-Sign-Genehmigungsanforderung – neues Video
+
+#### <a name="excel"></a>Excel
+- Einführung in Excel\Verwenden Excel als Rechner (Subtraktion) – aktualisiertes Video
+- Einführung in Excel\Verwenden Excel als Rechner (multiplizieren) – aktualisiertes Video
+- Einführung in Excel\Verwenden Excel als Rechner (Dividieren) – aktualisiertes Video
+- Einführung in Excel\Verschieben oder Kopieren von Arbeitsblättern oder Arbeitsblattdaten – aktualisiertes Video
+- Einführung in Excel\Automatisches Ausfüllen von Daten in Arbeitsblattzellen – aktualisiertes Video
+- Formatieren\Ausrichten oder Drehen von Text in einer Zelle – neues Video
+- Diagramme\Erstellen eines Diagramms von Anfang bis Ende – aktualisiertes Video
+- Zeilen und Spalten\Ausblenden oder Anzeigen von Zeilen oder Spalten – aktualisiertes Video
+
+#### <a name="powerpoint"></a>PowerPoint
+- Folien und Layouts\Hinzufügen, Neuanordnen, Duplizieren und Löschen von Folien in PowerPoint - aktualisiertes Video
+- Folien und Layouts\Ändern der Seitenausrichtung in PowerPoint zwischen Querformat und Hochformat – aktualisiertes Video
+- Animation, Video und Audio\Hinzufügen oder Löschen von Audio in PowerPoint Präsentation – aktualisiertes Video  
+- Animation, Video und Audio\Einfügen eines Videos von YouTube oder einer anderen Website – neues Video 
+- Text & Tabellen\Hinzufügen eines Hyperlinks zu einer Folie – aktualisiertes Video
+- Bilder & Grafiken\Hinzufügen eines Hintergrundbilds zu Folien – aktualisiertes Video
+- Present slide shows\Start the presentation and see your notes in Presenter view - updated video
+
+##### <a name="word"></a>Word
+- Seiten aus legen\Seitenausrichtung in Querformat oder Hochformat ändern – neues Video
+- Einfügen von Tabellen, Bildern & Wasserzeichen\Lineal anzeigen – neues Video
+- Einfügen von Tabellen, Bildern & Wasserzeichen\Einfügen einer Tabelle – aktualisiertes Video
+- Einfügen von Tabellen, Bildern & Wasserzeichen\Einfügen von Bildern – aktualisiertes Video
+
+#### <a name="outlook"></a>Outlook
+- Calendar\Welcome to your calendar – aktualisiertes Video
+- Kalender\Verwenden von Kalenderkategorien und Erinnerungen – aktualisiertes Video
+- Calendar\Search for calendar items – aktualisiertes Video
+- Kontakte und Aufgaben\Hinzufügen eines Kontakts – aktualisiertes Video
+- Kontakte und Aufgaben\Erstellen einer Kontaktgruppe – aktualisiertes Video
+- Kontakte und Aufgaben\Erstellen von Aufgaben und einer Aufgabenliste – aktualisiertes Video
+- Kontakte und Aufgaben\Importieren von Kontakten – aktualisiertes Video
+- Kontakte und Aufgaben\Kontakte exportieren – aktualisiertes Video
+- Erstellen und Senden von E-Mails\Erstellen einer E-Mail-Signatur – aktualisiertes Video
+- Erstellen und Senden von E-Mails\Willkommen im Posteingang – aktualisiertes Video
+- Erstellen und Senden von E-Mails\Zurückziehen oder Ersetzen einer gesendeten E-Mail – aktualisiertes Video
+- Einrichten und Anpassen\Hinzufügen eines Outlook.com- oder Microsoft 365 - aktualisiertes Video
+- Einrichten und Anpassen\Einrichten von Gmail-Konten – aktualisiertes Video
+- Verwalten von E-Mails\Suchen und Filtern von E-Mails – aktualisiertes Video
 
 ## <a name="march-2021-content-updates"></a>Inhaltsupdates vom März 2021
 Im Folgenden sind die Inhaltsupdates für März 2021 aufgeführt. 
 
 ### <a name="hybrid-workplace"></a>Hybridarbeitsplatz
-Um Organisationen beim Übergang zu einem Hybridarbeitsplatz zu helfen, an dem Mitarbeiter von zu Hause und im Büro arbeiten, haben wir Wiedergabelisten bereitgestellt, um Benutzern zu helfen, effektivere Besprechungen zu führen, inklusive Besprechungsumgebungen zu erstellen, zeitgemäß zusammenzuarbeiten und große Zielgruppen mit Liveereignissen zu erreichen. Die Unterkategorie Hybrid workplace umfasst die folgenden Wiedergabelisten und Ressourcen.
+Um Organisationen beim Übergang zu einem Hybridarbeitsplatz zu helfen, an dem Mitarbeiter von zu Hause und im Büro arbeiten, haben wir Wiedergabelisten bereitgestellt, mit denen Benutzer effektivere Besprechungen ausführen, inklusive Besprechungsumgebungen erstellen, asynchron zusammenarbeiten und große Zielgruppen mit Liveereignissen erreichen können. Die Unterkategorie Hybrid workplace umfasst die folgenden Wiedergabelisten und Ressourcen.
 
 #### <a name="run-effective-meetings"></a>Ausführen effektiver Besprechungen
 - Ausführen effektiver Besprechungen
@@ -44,8 +158,8 @@ Um Organisationen beim Übergang zu einem Hybridarbeitsplatz zu helfen, an dem M
 #### <a name="asynchronous-collaboration-and-co-authoring"></a>Asynchrone Zusammenarbeit und gemeinsame Erstellung
 - Reduzieren oder Ersetzen von Besprechungen durch asynchrone Zusammenarbeit
 - Zusammenarbeit und gemeinsame Erstellung freigegebener Inhalte
-- Bewährte Methoden für die Zusammenarbeit in Microsoft 365
-- Gemeinsam erstellen von Microsoft 365-Dateien
+- Bewährte Methoden für die Zusammenarbeit Microsoft 365
+- Mitautor Microsoft 365 Dateien
 - Dokumentzusammenarbeit und gemeinsame Dokumenterstellung
 - Zusammenarbeit mit SharePoint, Teams und OneDrive
 - Zusammenarbeit in Teams
@@ -58,15 +172,15 @@ Um Organisationen beim Übergang zu einem Hybridarbeitsplatz zu helfen, an dem M
 - Planen und Planen eines Live-Ereignisses in Teams
 - Organisieren eines Live-Even
 
-### <a name="microsoft-teams"></a>Microsoft Teams
-Microsoft Teams wurde mit den folgenden Inhalten aktualisiert.
+### <a name="microsoft-teams"></a>Microsoft Teams
+Microsoft Teams wurde mit dem folgenden Inhalt aktualisiert.
 
 #### <a name="manage-meetings-playlist"></a>Verwalten der Besprechungs-Wiedergabeliste
 Die Besprechungslisten verwalten verfügt über die folgende neue Ressource.
-- Tipps für Teams-Besprechungen
+- Tipps für Teams Besprechungen
 
-#### <a name="teams-on-the-go-playlist"></a>Teams on the go playlist
-Die Wiedergabeliste "Teams unterwegs" wurde mit den folgenden neuen Ressourcen aktualisiert.
+#### <a name="teams-on-the-go-playlist"></a>Teams unterwegs-Wiedergabeliste
+Die Teams unterwegs-Wiedergabeliste wurde mit den folgenden neuen Ressourcen aktualisiert.
 - Starten eines Kanals unterwegs
 - Erstellen eines Kanals unterwegs
 - Verwalten von Benachrichtigungen unterwegs
@@ -80,9 +194,9 @@ Die Teamzeitpläne mit der Wiedergabeliste "Schichten verwalten" wurde mit den f
 - Schichten für Firstline-Mitarbeiter
 
 #### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie, Tasks und Lob
-Die Walkie Talkie-, Aufgaben- und Loblistenliste wurde mit den folgenden Ressourcen hinzugefügt.
+Die Walkie Talkie-, Tasks- und Lob-Wiedergabeliste wurde mit den folgenden Ressourcen hinzugefügt.
 - Walkie Talkie
-- Verwenden der Aufgaben-App in Teams
+- Verwenden der Task-App in Teams
 - Aufgaben für Manager
 - Aufgaben für Firstline-Mitarbeiter
 - Kommunikation und Lob
@@ -99,7 +213,7 @@ Den Lernpfaden wurde eine neue Listenunterkategorie und Wiedergabeliste hinzugef
 #### <a name="get-started-with-lists"></a>Erste Schritte mit Listen
 Die Wiedergabeliste Erste Schritte mit Listen enthält die folgenden neuen Ressourcen.
 - Erstellen einer Liste aus der Listen-App
-- Erstellen einer Liste in einem Teams-Kanal
+- Erstellen einer Liste in einem Teams Kanal
 - Hinzufügen oder Bearbeiten von Listenelementen
 - Erstellen oder Ändern der Ansicht einer Liste
 - Bearbeiten einer Listenansicht
@@ -121,7 +235,7 @@ Die Wiedergabeliste Formular erstellen und Ergebnisse anzeigen wurde mit den fol
 Excel in Lernpfaden wurde mit den folgenden Inhalten aktualisiert.
 
 #### <a name="intro-to-excel"></a>Einführung in Excel
-Die Intro to Excel-Wiedergabeliste verfügt über die folgende neue Ressource.
+Das Intro to Excel-Wiedergabeliste verfügt über die folgende neue Ressource.
 - Erstellen einer Dropdownliste
 
 #### <a name="linked-data-types"></a>Verknüpfte Datentypen
@@ -135,9 +249,9 @@ Der Wiedergabeliste "Formeln und Funktionen" wurden zwei neue Objekte hinzugefü
 - XLOOKUP-Funktion
 - VERGLEICH-Funktion
 
-### <a name="sharepoint"></a>Microsoft Office SharePoint Online
-Alle SharePoint-Wiedergabelisten und -Objekte wurden aktualisiert. Zu den aktualisierten Wiedergabelisten gehören:
-- SharePoint Online Schnellstart
+### <a name="sharepoint"></a>SharePoint
+Alle SharePoint und Ressourcen wurden aktualisiert. Zu den aktualisierten Wiedergabelisten gehören:
+- SharePoint Online-Schnellstart
 - Einführung in SharePoint Online
 - Erstellen von Websites, Beiträgen und Listen
 - Freigeben und Synchronisieren mit SharePoint
@@ -155,31 +269,31 @@ Eine neue Sicherheitsunterkategorie wurde mit Wiedergabelisten und Ressourcen hi
 - Vermeiden von Betrugsversuchen beim Technischen Support
 - Sicherere Arbeit von zu Hause aus
 - Halten Sie Ihren PC auf dem neuesten Stand
-- Bleiben Sie durch Die Sicherheit von Windows geschützt
+- Bleiben Sie durch Windows geschützt
 
 #### <a name="security-at-home-playlist"></a>Wiedergabeliste "Sicherheit zu Hause"
-- Tipps zum Schutz Ihrer Daten
+- Tipps, um Ihre Daten zu schützen
 - Halten Sie Ihren Computer zu Hause sicher
-- Schützen Ihrer Familie online mit Windows Security   
+- Schützen Sie Ihre Familie online mit Windows-Sicherheit   
 
 #### <a name="security-at-work-playlist"></a>Wiedergabeliste "Sicherheit bei der Arbeit"
 - Halten Sie Ihren Computer bei der Arbeit sicher
 - Was ist mehrstufige Authentifizierung?
-- Firewall- und Netzwerkschutz in der Windows-Sicherheit
+- Firewall und Netzwerkschutz in Windows Sicherheit
 - Verhindern von Änderungen an Sicherheitseinstellungen mit Tamper Protection
 
-### <a name="get-started-with-teams-playlist"></a>Wiedergabeliste "Erste Schritte mit Teams"
-Eine neue Wiedergabeliste "Erste Schritte mit Teams" wurde der Unterkategorie "Erste Schritte/erste Tage" hinzugefügt, um Benutzern den Einstieg in Teams zu ermöglichen. Die Wiedergabeliste umfasst:
+### <a name="get-started-with-teams-playlist"></a>Wiedergabeliste "Erste Schritte Teams"
+Der Unterkategorie "Erste Schritte/Erste Tage" wurde eine neue Wiedergabeliste "Erste Schritte mit Teams" hinzugefügt, um Benutzern zu helfen, mit den Teams. Die Wiedergabeliste umfasst:
 - Willkommen bei Microsoft Teams  
 - Einrichten und Ausführen Ihres Teams
 - Arbeiten in Kanälen  
 - Hochladen und Freigeben von Dateien 
 - Starten und Anheften von Chats  
-- Teilnehmen an einer Teams-Besprechung 
+- Teilnehmen an Teams Besprechung 
 - Verwalten von Besprechungen 
  
-### <a name="microsoft-365-basics"></a>Microsoft 365 Basics
-In der Kategorie Produkte wurde die Unterkategorie "Office 365 Basics" auf die Kategorie "Microsoft 365 Basics" aktualisiert. Eingestellte Objekte in der Kategorie "Office 365 Basics" sind weiterhin verfügbar, wenn sie einer benutzerdefinierten Wiedergabeliste hinzugefügt wurden.
+### <a name="microsoft-365-basics"></a>Microsoft 365 Grundlagen
+In der Kategorie Produkte wurde die Unterkategorie "Office 365 Grundlagen" auf die Kategorie "Microsoft 365 Basics" aktualisiert. Eingestellte Objekte in der Kategorie "Office 365 Grundlagen" sind weiterhin verfügbar, wenn sie einer benutzerdefinierten Wiedergabeliste hinzugefügt wurden.
 
 #### <a name="get-started-playlist"></a>Wiedergabeliste "Erste Schritte"
 - Was ist Microsoft 365?
@@ -188,7 +302,7 @@ In der Kategorie Produkte wurde die Unterkategorie "Office 365 Basics" auf die K
 
 #### <a name="create-and-save-playlist"></a>Wiedergabeliste "Erstellen und Speichern"
 - Verwenden der Desktop-Apps
-- Verwenden Office.com Apps
+- Verwenden Office.com-Apps
 - Speichern von Dateien in der Cloud
 - Synchronisieren von Dateien bei Bedarf mit OneDrive
 
@@ -204,19 +318,19 @@ In der Kategorie Produkte wurde die Unterkategorie "Office 365 Basics" auf die K
 - Erstellen und Formatieren eines Beitrages
 - Starten und Anheften von Chats
 - Anrufe
-- Teilnehmen an einer Teams-Besprechung
+- Teilnehmen an Teams Besprechung
 - Tipps für bessere Besprechungen
 
-#### <a name="get-the-most-out-of-windows-playlist"></a>Wiedergabeliste "Das Beste aus Windows heraus"
+#### <a name="get-the-most-out-of-windows-playlist"></a>Wiedergabeliste "Das Beste aus Windows"
 - Suchen nach Dokumenten, Apps und mehr mit der Suche
-- Aktuelle Version von Microsoft Edge
+- Microsoft Edge
 - Microsoft Search in Bing
 
 #### <a name="work-from-anywhere-playlist"></a>Wiedergabeliste "Von überall arbeiten"
-- Mobile #A0
-- Mobile Outlook-App
+- OneDrive mobile App
+- Outlook mobile App
 
-#### <a name="cool-microsoft-365-features-playlist"></a>Wiedergabeliste "Coole Microsoft 365-Features"
+#### <a name="cool-microsoft-365-features-playlist"></a>Wiedergabeliste "Cool Microsoft 365 Features"
 - PowerPoint-Designer
 - Ideen in Excel
 - Editor in Word
@@ -230,19 +344,19 @@ Der Unterkategorie "Produkte\Zugriff" wurde eine "Diagrammlisten erstellen" hinz
 - Erstellen eines Kreisdiagramms
 - Erstellen eines Kombinationsdiagramms
 
-### <a name="teams-updates"></a>Teams-Updates
+### <a name="teams-updates"></a>Teams Updates
 Die Unterkategorie "Product\Microsoft Teams" wurde mit den folgenden Ressourcen aktualisiert. 
 
 #### <a name="manage-meetings-playlist"></a>Wiedergabeliste "Besprechungen verwalten"
-- Teilnehmen an einer Teams-Besprechung
+- Teilnehmen an Teams Besprechung
 #### <a name="work-with-posts-and-messages-playlist"></a>Wiedergabeliste "Arbeiten mit Beiträgen und Nachrichten"
 - Erstellen und Formatieren eines Beitrages
 
 ### <a name="planner"></a>Planner 
 Die folgenden Ressourcen wurden der Wiedergabeliste "Planner verwenden" in "Produkte\Planner" hinzugefügt.
 #### <a name="use-planner-playlist"></a>Verwenden der Planner-Wiedergabeliste
-- To Do vs Planner
-- Sehen Sie sich Ihre Planner Tasks in To Do an
+- To Do im Vergleich zu Planner
+- Sehen Sie sich Ihre Planner Tasks in To Do
 - Verwenden der Aufgaben-App in Teams
 
 ### <a name="word"></a>Word
@@ -258,7 +372,7 @@ Die folgende Ressource wurde in der Wiedergabeliste "Office für das Web: Word f
 - Transkribieren Ihrer Aufnahmen
 
 ### <a name="powerpoint-new-updated"></a>PowerPoint (neu, aktualisiert)
-Die folgenden Ressourcen wurden aktualisiert oder den Products\PowerPoint-Wiedergabelisten hinzugefügt. 
+Die folgenden Ressourcen wurden aktualisiert oder den Wiedergabelisten "Products\PowerPoint" hinzugefügt. 
 
 #### <a name="text--tables-with-powerpoint-playlist"></a>Wiedergabeliste "Text & Tabellen mit PowerPoint"
 - Ändern von handschriftlicher Freihandeingabe in Formen, Text oder Mathematik in PowerPoint (neu)
@@ -266,185 +380,8 @@ Die folgenden Ressourcen wurden aktualisiert oder den Products\PowerPoint-Wieder
 #### <a name="present-slideshows-playlist"></a>Präsentation der Bildschirmpräsentations-Wiedergabeliste
 - Aufzeichnen einer Präsentation (aktualisiert)
 
-### <a name="office-quick-start-guides-updated"></a>Office-Schnellstartanleitungen (aktualisiert)
-Die Office-Schnellstartanleitungen für alle Office-Produkte wurden aktualisiert. 
-
-## <a name="april-2020-content-updates"></a>Inhaltsupdates vom April 2020
- Als Reaktion auf aktuelle Ereignisse bietet das Inhaltsupdate vom April 2020 Lernlisten und Ressourcen, die die Remotearbeit in Ihrer Organisation ermöglichen. Wir haben einen neuen Satz von Remotearbeitslisten hinzugefügt und die Microsoft Teams-Inhalte aktualisiert, insbesondere für Teams-Besprechungen. Außerdem haben wir einen neuen Satz von Office für die Web-Wiedergabelisten hinzugefügt und neue Microsoft Forms-Objekte hinzugefügt. Außerdem haben wir eine Liste der Remotearbeitsressourcen für Administratoren bereitgestellt.  
- 
- Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md). Im Folgenden sind die Inhaltsupdates für Microsoft 365-Lernpfade vom April 2020 aufgeführt. 
-
-### <a name="office-365-was-rebranded-to-microsoft-365"></a>Office 365 wurde in Microsoft 365 umbenannt
-Office 365 wurde in Microsoft 365 umbenannt. Die Namensänderung wird in den Inhalten der Microsoft 365-Lernpfade widerspiegelt. 
-
-### <a name="new-or-updated-playlists"></a>Neue oder aktualisierte Wiedergabelisten
-Die folgenden Wiedergabelisten wurden hinzugefügt oder aktualisiert.  
-
-#### <a name="work-remotely-2-new-playlists11-new-assets"></a>Remotearbeit (2 neue Wiedergabelisten/11 neue Ressourcen)
-Den Lernpfaden mit den folgenden Wiedergabelisten und Ressourcen wurde eine neue Remoteunterkategorie Arbeit hinzugefügt: 
-
-![Remote-Wiedergabeliste für Lernpfade](media/cg-contentupdate-apr2020-01.png)
-
-##### <a name="work-remotely-five-new-assets"></a>Remotearbeit (fünf neue Objekte)
-- Remotearbeit mit Office 365
-- Erste Schritte auf Office.com
-- Kommunizieren oder Treffen
-- Speichern ihrer Arbeitsdateien
-- Fortgeschrittene Alternativen
-##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Bewährte Methoden für die Zusammenarbeit mit Office 365 (6 neue Ressourcen)
-- Erste Schritte
-- Freigeben
-- Mitautor
-- Chat in Dateien
-- Meet
-- Mobilgeräte
-
-### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (neun neue Ressourcen/sechs aktualisierte Ressourcen)
-Es wurden eine Vielzahl von Updates an Teams-Inhalten vorgenommen. 
-#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Zusammenarbeit in Teams und Kanälen (eine neue/eine aktualisierte Ressource)
-- Erstellen und Verwenden privater Kanäle (neu)
-- Ein- oder Ausblenden von Kanälen (aktualisiert)
-#### <a name="start-chats-and-calls-two-newone-updated"></a>Starten von Chats und Anrufen (zwei neu/eins aktualisiert)
-- Starten und Anheften von Chats (neu)
-- Ausblenden von Chats, Löschen von Nachrichten (neu)
-- Anrufe (aktualisiert)
-#### <a name="explore-apps-and-tools-one-new"></a>Erkunden von Apps und Tools (eine neue)
-- Verwenden von Apps (neu)
-#### <a name="work-with-posts-and-messages"></a>Arbeiten mit Beiträgen und Nachrichten
-- Senden einer Nachricht an mehrere Kanäle (neu)
-#### <a name="manage-meetings-three-newfour-updated-assets"></a>Verwalten von Besprechungen (drei neue/vier aktualisierte Ressourcen)
-- Teilnehmen an einer Teams-Besprechung (neu)
-- Erstellen von Sofortbesprechungen mit Meet now (aktualisiert)
-- Treffen in einem Kanal (neu)
-- Verwalten von Besprechungen (neu)
-- Anzeigen des Bildschirms während einer Besprechung (aktualisiert)
-- Anzeigen von PowerPoint-Folien (aktualisiert)
-- Verschieben während einer Teams-Besprechung (aktualisiert)
-#### <a name="work-with-post-and-messages-one-new"></a>Arbeiten mit Beiträgen und Nachrichten (eine neue)
-- Senden einer Nachricht an mehrere Kanäle (neu)
-
-### <a name="office-for-the-web"></a>Office für das Web
-Office für das Web bietet eine Reihe von Wiedergabelisten für Szenarien, in denen Benutzer Office im Web erstellen, freigeben und zusammenarbeiten möchten. Diese Inhaltssammlung ist auch für Organisationen nützlich, die den Wechsel von Google G Suite zu Microsoft 365 unternehmen.
-#### <a name="get-started-five-new-assets"></a>Erste Schritte (fünf neue Ressourcen)
-- Erste Schritte
-- Suchen mit Der Suche
-- Erstellen neuer Dokumente
-- Wieder zur Arbeit
-- Empfohlene Dateien
-#### <a name="outlook-for-the-web"></a>Outlook für das Web
-- Kennenlernen von Outlook für das Web
-- Erstellen einer E-Mail-Antwort
-- Organisieren Ihres Posteingangs
-- Erstellen einer Signatur und automatischen Antwort
-- Planen eines Termins oder einer Besprechung
-- Erstellen eines Kontakts bearbeiten
-- Suchen nach E-Mails, Kontakten und Ereignissen
-#### <a name="word-for-the-web"></a>Word für das Web
-- Kennenlernen von Word für das Web
-- Ändern des Dokumentlayouts
-- Einfügen von Tabellen und Bildern
-- Zusammenarbeit online
-- Coole Dinge in Word für das Web
-#### <a name="excel-for-the-web"></a>Excel für das Web
-- Kennenlernen von Excel für das Web
-- Erstellen von Formeln
-- Einfügen einer PivotTable
-- Einblicke mit Ideen erhalten
-- Zusammenarbeiten
-- Zeit sparen mit Flash Fill
-- Zeichnen eines Bilds mit bedingter Formatierung
-#### <a name="powerpoint-for-the-web"></a>PowerPoint für das Web
-- Kennenlernen von PowerPoint für das Web
-- Einfügen von Bildern, Formen und mehr
-- Animation und Übergänge
-- Erstellen einer Präsentation mit anderen
-- Wenn Sie bereit sind, dies zu präsentieren
-- Entwerfen von Folien
-#### <a name="share-your-documents"></a>Freigeben Ihrer Dokumente
-- Freigeben Ihrer Dokumente
-- Erstellen eines freigabebaren Links
-- Sichern Ihrer Dokumente nur für bestimmte Personen
-- Freigeben für jemanden außerhalb Ihrer Organisation 
-
-### <a name="microsoft-forms"></a>Microsoft Forms 
-Auf Anfrage gibt es auch einige neue Forms-Objekte. 
-#### <a name="forms-four-new-assets"></a>Formulare (vier neue Objekte) 
-- Erstellen eines Formulars 
-- Freigeben eines Formulars 
-- Anzeigen von Ergebnissen eines Formulars 
-- Häufig gestellte Fragen zu Microsoft Forms 
-
-### <a name="resources-for-supporting-your-remote-workforce"></a>Ressourcen zur Unterstützung von Remotemitarbeitern
-Sie können Lernpfade verwenden, um eine Zielseite auf Ihrer Lernpfadwebsite zur Unterstützung von Remotemitarbeitern zu erstellen. Oder Sie können das Web part für Lernpfade zu einer vorhandenen Supportseite auf Ihrer Lernpfadwebsite hinzufügen und das Webteil filtern, um die Remotearbeitslisten zu zeigen. Hier finden Sie eine Liste der besten Ressourcen von Microsoft für die Unterstützung der Remotearbeit in Ihrer Organisation. 
-- [Bereitstellen von Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
-- [Besprechungen und Konferenzen in Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Unterstützen von Remotemitarbeitern mithilfe von Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
-- [Häufig gestellte Fragen: Unterstützung für Ihre Remotemitarbeiter](/microsoftteams/faq-support-remote-workforce)
-- [Die 9 besten Methoden, mit denen microsoft IT Remotearbeit für seine Mitarbeiter ermöglicht](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams Training](/microsoftteams/training-microsoft-teams-landing-page)
-- [Bildungseinrichtungen: Microsoft Education Center](https://education.microsoft.com) 
-- [Bildungseinrichtungen: Erste Schritte mit Remote learning](https://education.microsoft.com/resource/4c0c02c0)
+### <a name="office-quick-start-guides-updated"></a>Office Schnellstartanleitungen (aktualisiert)
+Die Office Schnellstartanleitungen für alle Office wurden aktualisiert. 
 
 Weitere Informationen zum Anpassen von Lernpfaden finden Sie unter [Customize learning pathways](custom_overview.md). 
 
-## <a name="november-2019-content-updates"></a>Inhaltsupdates vom November 2019
-Willkommen beim Inhaltsupdate für Microsoft 365-Lernpfade. Ab unserem Update vom November 2019 stellen wir vierteljährlich eine aktualisierte Bestandsaufnahme des Lernpfadkatalogs zur Verfügung. Für das Update vom November 2019 wurden dem Lernpfadkatalog die folgenden neuen Inhaltsunterkategorien und Wiedergabelisten hinzugefügt. Weitere Informationen zur Anwendung von Inhaltsupdates und zum Verwalten von Inhaltsupdates finden Sie unter [Manage Content Updates](custom_contentupdatesmanage.md).    
-
-### <a name="teams"></a>Teams
-Der Unterkategorie Teams wurden mehrere neue Wiedergabelisten hinzugefügt.
-- Arbeiten mit Beiträgen und Nachrichten (vier Objekte)
-- Hochladen und Suchen von Dateien (zwei Objekte)
-- Einrichten und Teilnehmen an Liveereignissen (vier Objekte)
-- Verwalten Des Aktivitätsfeeds (zwei Ressourcen)
-- Teams unterwegs (zwei Ressourcen)
-
-### <a name="microsoft-365-success-center"></a>Microsoft 365 Success Center
-Wir haben eine Microsoft 365-Lernpfade-Unterkategorie Success Center zur Lernpfaderfahrung hinzugefügt. Das Success Center bietet die folgenden Wiedergabelisten.
-- What's New, What Changed (three assets)
-- Planen der Lerninhalte (zwei Ressourcen)
-- Anpassen von Lernpfaden (acht Ressourcen?)
-- Fördern der Einführung von Lernpfaden (eine Ressource)
-- Messen der Auswirkungen von Lernpfaden (eine Ressource)
-
-### <a name="outlook"></a>Outlook
-Die folgenden Wiedergabelisten wurden der Outlook-Unterkategorie hinzugefügt. 
-- Outlook mobile: Verwalten Ihres Posteingangs (acht Ressourcen)
-- Outlook mobile: Personen und Verbindungen (fünf Objekte)
-- Outlook mobile: Suche und Freigabe (vier Objekte)
-
-### <a name="onedrive"></a>Microsoft OneDrive-App
-Die folgenden Videoressourcen wurden für OneDrive hinzugefügt. 
-- Einrichten Ihres iPhones oder iPads wurde der Intro to OneDrive-Wiedergabeliste hinzugefügt
-- Aktivieren der OneDrive-Sicherung wurde zur Wiedergabeliste "Dateien mit OneDrive verwalten" hinzugefügt.
-
-### <a name="planner"></a>Planner
-Die folgenden Wiedergabelisten und Ressourcen wurden dem Katalog hinzugefügt.  
-- Planner Quick Start (sechs Objekte)
-- Verwenden von Planner (acht Objekte)
-
-### <a name="accessibility"></a>Barrierefreiheit
-Die Unterkategorie Barrierefreiheit von Inhalten wurde mit den folgenden Wiedergabelisten hinzugefügt. 
-- Microsoft 365 Accessibility Overview and Resources (drei Ressourcen)
-- Erstellen barrierefreierer E-Mail-Nachrichten in Outlook (drei Ressourcen)
-- Erstellen barrierefreierer Word-Dokumente (acht Objekte)
-- Erstellen barrierefreierer Excel-Arbeitsmappen (drei Objekte)
-- Erstellen von barrierefreien Folien in PowerPoint (fünf Objekte)
-
-### <a name="sway"></a>Sway
-Die Sway-Unterkategorie von Inhalten wurde mit den folgenden Wiedergabelisten hinzugefügt. 
-- Sway Quick Start (vier Objekte)
-- Freigeben und Zugreifen auf Sway (fünf Objekte)
-- Hinzufügen von Inhalten zu Sway (11 Objekte)
-- Anpassen von Sway (fünf Objekte)
-
-### <a name="access"></a>Zugriff
-- Zugriff auf Schnellstart (vier Ressourcen)
-- Einführung in Access (drei Ressourcen)
-- Erstellen einer Access-Datenbank (zwei Ressourcen)
-- Hinzufügen von Tabellen (zwei Objekte)
-- Verwenden von Beziehungen (fünf Ressourcen)
-- Hinzufügen und Bearbeiten von Daten (zwei Objekte)
-- Verwalten von Daten mit Abfragen (fünf Ressourcen)
-- Erstellen von Formularen (ein Objekt)
-- Erstellen von Berichten (zwei Ressourcen)
-- Schützen von Datenbanken (ein Objekt)
